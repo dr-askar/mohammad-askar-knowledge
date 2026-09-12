@@ -1,16 +1,20 @@
-# Mohammad Askar — Knowledge Hub
+# Mohammad Askar — Ophthalmology & Knowledge
 
-Private-first multilingual personal knowledge website for ophthalmology notes, lectures, research summaries, and professional profile content.
+Multilingual professional profile and ophthalmology knowledge base by Mohammad Askar.
 
-## Current status
+## Features
 
-Initial scaffold. Content remains private until reviewed and explicitly published.
+- Arabic, German, and English interface
+- Professional profile and career timeline
+- Selected publications
+- Filterable ophthalmology knowledge cards
+- Responsive layout and dark mode
+- GitHub issue template for evidence-based feedback
 
-## Content workflow
+## Privacy
 
-1. Add original lecture material to the private source collection.
-2. Review and classify it by ophthalmology topic.
-3. Prepare Arabic, German, and English versions.
-4. Commit reviewed content to this repository.
-5. Publish only after explicit approval.
+Certificate scans, home address, date of birth, nationality, and other sensitive personal documents are intentionally excluded.
 
+## Medical disclaimer
+
+Educational content only. It does not replace individual medical assessment or treatment.
