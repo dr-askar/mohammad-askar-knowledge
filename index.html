@@ -1,67 +1,152 @@
 <!doctype html>
-<html lang="ar" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="الموقع المهني والمعرفي للدكتور محمد عسكر في طب العيون والبحث العلمي.">
-  <title>Mohammad Askar | Ophthalmology Knowledge Hub</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Mohammad Askar — ophthalmologist, retinal and glaucoma specialist, researcher, and multilingual medical knowledge curator." />
+  <meta name="theme-color" content="#092f45" />
+  <title>Mohammad Askar | Ophthalmology & Knowledge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23092f45'/%3E%3Cpath d='M8 32s9-14 24-14 24 14 24 14-9 14-24 14S8 32 8 32Z' fill='none' stroke='%235ed5c5' stroke-width='5'/%3E%3Ccircle cx='32' cy='32' r='8' fill='%23fff'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#home">MA</a>
-    <nav aria-label="Main navigation">
-      <a href="#profile" data-i18n="navProfile">نبذة</a>
-      <a href="#knowledge" data-i18n="navKnowledge">المعرفة</a>
-      <a href="#research" data-i18n="navResearch">الأبحاث</a>
+    <a class="brand" href="#top" aria-label="Home">
+      <span class="brand-mark" aria-hidden="true"><span></span></span>
+      <span>Mohammad Askar</span>
+    </a>
+    <nav class="main-nav" aria-label="Primary navigation">
+      <a href="#profile" data-i18n="navProfile">Profile</a>
+      <a href="#knowledge" data-i18n="navKnowledge">Knowledge</a>
+      <a href="#research" data-i18n="navResearch">Research</a>
     </nav>
-    <label class="language">
-      <span class="sr-only">Language</span>
-      <select id="language-select">
-        <option value="ar">العربية</option>
-        <option value="de">Deutsch</option>
-        <option value="en">English</option>
-      </select>
-    </label>
+    <div class="actions">
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ar">ع</button>
+        <button type="button" data-lang="de">DE</button>
+        <button type="button" class="active" data-lang="en">EN</button>
+      </div>
+      <button class="theme-button" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+    </div>
   </header>
 
-  <main id="home">
-    <section class="hero">
-      <p class="eyebrow" data-i18n="eyebrow">طب العيون · البحث العلمي · التعليم الطبي</p>
-      <h1>Mohammad Askar</h1>
-      <p class="lead" data-i18n="lead">مساحة شخصية منظّمة تجمع الخبرة السريرية، خلاصات المحاضرات، والقراءة النقدية للأدلة في طب العيون.</p>
-      <div class="credentials" aria-label="Qualifications">
-        <span>MD</span><span>PhD</span><span>MRCS Ed</span><span>FICO</span>
+  <main id="top">
+    <section class="hero" id="profile">
+      <div class="hero-copy">
+        <p class="eyebrow" data-i18n="eyebrow">Ophthalmology · Retina · Glaucoma · Research</p>
+        <h1 data-i18n="heroTitle">Clinical experience, scientific curiosity, shared clearly.</h1>
+        <p class="hero-intro" data-i18n="heroIntro">I am an ophthalmologist with international clinical and surgical experience, a focus on retinal and glaucoma care, and research in artificial intelligence for keratoconus diagnostics.</p>
+        <div class="hero-links">
+          <a class="button primary" href="#knowledge" data-i18n="explore">Explore knowledge base</a>
+          <a class="button secondary" href="https://github.com/dr-askar" target="_blank" rel="noreferrer">GitHub ↗</a>
+        </div>
+        <div class="credentials" aria-label="Selected credentials">
+          <span>Facharzt</span><span>PhD</span><span>MSc</span><span>MRCS Ed</span><span>FICO</span>
+        </div>
+      </div>
+      <aside class="identity-card">
+        <img src="https://avatars.githubusercontent.com/u/49014636?v=4" alt="Mohammad Askar" />
+        <div>
+          <strong>Mohammad Askar</strong>
+          <span data-i18n="role">Specialist in Ophthalmology</span>
+        </div>
+        <dl>
+          <div><dt data-i18n="base">Based in</dt><dd>Eisenach, Germany</dd></div>
+          <div><dt data-i18n="focus">Clinical focus</dt><dd data-i18n="focusValue">Retina & glaucoma</dd></div>
+          <div><dt data-i18n="languages">Languages</dt><dd>AR · DE · EN</dd></div>
+        </dl>
+      </aside>
+    </section>
+
+    <section class="section career-section">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n="experienceLabel">Experience</p>
+        <h2 data-i18n="careerTitle">A practice shaped across systems</h2>
+        <p data-i18n="careerIntro">From university training and subspecialty practice in Damascus to specialist care in Germany.</p>
+      </div>
+      <div class="timeline">
+        <article><time>2026—</time><div><h3 data-i18n="careerNow">Specialist in Ophthalmology</h3><p data-i18n="careerNowText">Independent specialist diagnostics and ambulatory ophthalmic care in Eisenach.</p></div></article>
+        <article><time>2022—2026</time><div><h3 data-i18n="careerGermany">Clinical integration in Germany</h3><p data-i18n="careerGermanyText">Medical licensure, ambulatory ophthalmology, and recognition as a German ophthalmology specialist.</p></div></article>
+        <article><time>2014—2021</time><div><h3 data-i18n="careerSyria">Ophthalmologist & surgeon</h3><p data-i18n="careerSyriaText">Retinal and glaucoma practice with surgical activity at Intralasik International Center, Damascus.</p></div></article>
+        <article><time>2009—2013</time><div><h3 data-i18n="careerTraining">University training</h3><p data-i18n="careerTrainingText">Ophthalmology residency at Al-Mouassat University Hospital, Damascus.</p></div></article>
       </div>
     </section>
 
-    <section id="profile" class="panel">
+    <section class="section knowledge-section" id="knowledge">
+      <div class="section-heading wide">
+        <div>
+          <p class="eyebrow" data-i18n="knowledgeLabel">Knowledge base</p>
+          <h2 data-i18n="knowledgeTitle">What I am reading, testing and retaining</h2>
+        </div>
+        <p data-i18n="knowledgeIntro">Structured clinical notes separate study findings from evidence strength and practical meaning. Articles may appear in one language first and be translated progressively.</p>
+      </div>
+      <div class="filter-row" role="group" aria-label="Filter topics">
+        <button class="filter active" data-filter="all" data-i18n="all">All</button>
+        <button class="filter" data-filter="retina" data-i18n="retina">Retina</button>
+        <button class="filter" data-filter="glaucoma" data-i18n="glaucoma">Glaucoma</button>
+        <button class="filter" data-filter="cornea" data-i18n="cornea">Cornea</button>
+        <button class="filter" data-filter="evidence" data-i18n="evidence">Evidence reading</button>
+      </div>
+      <div class="article-grid">
+        <article class="knowledge-card featured" data-topic="retina">
+          <div class="card-meta"><span class="topic retina" data-i18n="retina">Retina</span><span>AR · DE · EN</span></div>
+          <h3 data-i18n="card1Title">Reading activity on OCT in neovascular AMD</h3>
+          <p data-i18n="card1Text">A practical framework for distinguishing fluid, haemorrhage and structural change—and for interpreting activity beyond a single scan.</p>
+          <footer><span data-i18n="evidenceLevel">Evidence lens: guideline + trials</span><span>8 min</span></footer>
+        </article>
+        <article class="knowledge-card" data-topic="glaucoma">
+          <div class="card-meta"><span class="topic glaucoma" data-i18n="glaucoma">Glaucoma</span><span>DE · AR</span></div>
+          <h3 data-i18n="card2Title">When does PACS justify laser iridotomy?</h3>
+          <p data-i18n="card2Text">Risk-based selection, limits of prophylaxis, and the difference between anatomical change and patient-important benefit.</p>
+          <footer><span data-i18n="evidenceLevel2">Evidence lens: RCTs</span><span>6 min</span></footer>
+        </article>
+        <article class="knowledge-card" data-topic="evidence">
+          <div class="card-meta"><span class="topic evidence" data-i18n="evidence">Evidence reading</span><span>AR</span></div>
+          <h3 data-i18n="card3Title">A result is not the same as reliable evidence</h3>
+          <p data-i18n="card3Text">A repeatable checklist for design, bias, effect size, uncertainty, clinical relevance and applicability.</p>
+          <footer><span data-i18n="framework">Critical appraisal framework</span><span>10 min</span></footer>
+        </article>
+        <article class="knowledge-card" data-topic="cornea">
+          <div class="card-meta"><span class="topic cornea" data-i18n="cornea">Cornea</span><span>EN</span></div>
+          <h3 data-i18n="card4Title">AI-supported keratoconus detection</h3>
+          <p data-i18n="card4Text">What classification performance means clinically—and where spectrum bias can quietly inflate it.</p>
+          <footer><span data-i18n="researchNote">Research note</span><span>7 min</span></footer>
+        </article>
+      </div>
+      <p class="empty-state" hidden data-i18n="empty">No notes in this category yet.</p>
+    </section>
+
+    <section class="section research-section" id="research">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n="researchLabel">Research</p>
+        <h2 data-i18n="researchTitle">Selected publications</h2>
+        <p data-i18n="researchIntro">Work spanning keratoconus epidemiology, corneal cross-linking and machine-learning-supported diagnostics.</p>
+      </div>
+      <ol class="publications">
+        <li><span>2023</span><p><strong>Prevalence of Keratoconus and Keratoconus Suspect among Patients Seeking Refractive Surgery in Syria.</strong><br />Middle East African Journal of Ophthalmology.</p></li>
+        <li><span>2022</span><p><strong>Prevalence of Keratoconus in a Population-Based Study in Syria.</strong><br />Journal of Ophthalmology.</p></li>
+        <li><span>2021</span><p><strong>Accelerated versus Standard Corneal Cross-linking for Progressive Keratoconus in Syria.</strong><br />Journal of Ophthalmic & Vision Research.</p></li>
+        <li><span>2020</span><p><strong>Use of a support vector machine classifier to detect keratoconus corneas.</strong><br />Damascus University Journal for Health Sciences.</p></li>
+      </ol>
+    </section>
+
+    <section class="review-note">
       <div>
-        <p class="section-number">01</p>
-        <h2 data-i18n="profileTitle">نبذة مهنية</h2>
+        <p class="eyebrow" data-i18n="reviewLabel">Private preview</p>
+        <h2 data-i18n="reviewTitle">This is the first editorial draft.</h2>
       </div>
-      <p data-i18n="profileText">اختصاصي طب وجراحة العيون بخبرة سريرية وجراحية، واهتمام خاص بأمراض الشبكية والجسم الزجاجي، والذكاء الاصطناعي في تشخيص أمراض القرنية.</p>
-    </section>
-
-    <section id="knowledge" class="section">
-      <p class="section-number">02</p>
-      <h2 data-i18n="knowledgeTitle">مكتبة المعرفة</h2>
-      <div class="grid">
-        <article><span>RETINA</span><h3 data-i18n="retina">الشبكية والجسم الزجاجي</h3><p data-i18n="coming">المحتوى قيد المراجعة والتصنيف.</p></article>
-        <article><span>GLAUCOMA</span><h3 data-i18n="glaucoma">الزَرَق</h3><p data-i18n="coming">المحتوى قيد المراجعة والتصنيف.</p></article>
-        <article><span>CORNEA</span><h3 data-i18n="cornea">القرنية وتصحيح البصر</h3><p data-i18n="coming">المحتوى قيد المراجعة والتصنيف.</p></article>
-        <article><span>CATARACT</span><h3 data-i18n="cataract">الساد وجراحة العدسة</h3><p data-i18n="coming">المحتوى قيد المراجعة والتصنيف.</p></article>
-      </div>
-    </section>
-
-    <section id="research" class="panel">
-      <div><p class="section-number">03</p><h2 data-i18n="researchTitle">الأبحاث والقراءة النقدية</h2></div>
-      <p data-i18n="researchText">ملخصات علمية تفصل بين نتائج الدراسة وقوة الدليل، مع التركيز على الأهمية السريرية وقابلية التطبيق.</p>
+      <p data-i18n="reviewText">Career wording, publication details, and public contact information will be verified before launch. No certificate scans or private address data are published here.</p>
     </section>
   </main>
 
-  <footer><span>© 2026 Mohammad Askar</span><span data-i18n="privateReview">نسخة خاصة للمراجعة</span></footer>
-  <script src="script.js"></script>
+  <footer class="site-footer">
+    <div><strong>Mohammad Askar</strong><span data-i18n="footerRole">Ophthalmology · Research · Medical education</span></div>
+    <div class="footer-links"><a href="mailto:dr.m.askar@gmail.com">Email</a><a href="https://github.com/dr-askar" target="_blank" rel="noreferrer">GitHub</a></div>
+    <p data-i18n="disclaimer">Educational content only. It does not replace individual medical assessment or treatment.</p>
+  </footer>
+  <script src="./assets/app.js"></script>
 </body>
 </html>
-
