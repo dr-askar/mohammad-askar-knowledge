@@ -92,12 +92,19 @@ async function loadLecture(slug){
 function markdownToHtml(markdown){
   const lines=markdown.replace(/\r/g,'').split('\n');let html='';let listType=null;let listItems=[];
   const flush=()=>{if(!listType)return;html+=`<${listType}>${listItems.map(item=>`<li>${inline(item)}</li>`).join('')}</${listType}>`;listType=null;listItems=[]};
-  for(const raw of lines){const line=raw.trim();if(!line){flush();continue}
+  for(let index=0;index<lines.length;index++){const line=lines[index].trim();if(!line){flush();continue}
     const heading=line.match(/^(#{1,4})\s+(.+)$/);if(heading){flush();const level=Math.min(heading[1].length+2,6);html+=`<h${level}>${inline(heading[2])}</h${level}>`;continue}
+    if(line.includes('|')&&index+1<lines.length&&/^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$/.test(lines[index+1])){
+      flush();const header=parseTableRow(line);index++;const alignments=parseTableRow(lines[index]).map(cell=>cell.trim());const rows=[];
+      while(index+1<lines.length&&lines[index+1].trim().includes('|')&&lines[index+1].trim()!==''){index++;rows.push(parseTableRow(lines[index]))}
+      const aligns=alignments.map(cell=>cell.startsWith(':')&&cell.endsWith(':')?'center':cell.endsWith(':')?'right':cell.startsWith(':')?'left':'');
+      html+=`<div class="kb-table-wrap"><table class="kb-table"><thead><tr>${header.map((cell,i)=>`<th${aligns[i]?` style="text-align:${aligns[i]}"`:''}>${inline(cell)}</th>`).join('')}</tr></thead><tbody>${rows.map(row=>`<tr>${header.map((_,i)=>`<td${aligns[i]?` style="text-align:${aligns[i]}"`:''}>${inline(row[i]||'')}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;continue;
+    }
     const bullet=line.match(/^[-*+]\s+(.+)$/);if(bullet){if(listType&&listType!=='ul')flush();listType='ul';listItems.push(bullet[1]);continue}
     const numbered=line.match(/^\d+[.)]\s+(.+)$/);if(numbered){if(listType&&listType!=='ol')flush();listType='ol';listItems.push(numbered[1]);continue}
     flush();html+=`<p>${inline(line)}</p>`;
   }
   flush();return html;
 }
-function inline(value){return esc(value).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>')}
+function parseTableRow(line){const value=line.trim().replace(/^\|/,'').replace(/\|$/,'');return value.split(/\s*\|\s*/).map(cell=>cell.trim())}
+function inline(value){return esc(value).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>').replace(/\$\$(.+?)\$\$/g,'<span class="kb-math">$1</span>')}
