@@ -107,4 +107,5 @@ function markdownToHtml(markdown){
   flush();return html;
 }
 function parseTableRow(line){const value=line.trim().replace(/^\|/,'').replace(/\|$/,'');return value.split(/\s*\|\s*/).map(cell=>cell.trim())}
-function inline(value){return esc(value).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>').replace(/\$\$(.+?)\$\$/g,'<span class="kb-math">$1</span>')}
+function inline(value){return esc(value).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>').replace(/\$\$(.+?)\$\$/g,(_,expr)=>`<span class="kb-math kb-math-display">${formatMath(expr)}</span>`).replace(/\$(?!\$)(.+?)(?<!\$)\$(?!\$)/g,(_,expr)=>`<span class="kb-math">${formatMath(expr)}</span>`)}
+function formatMath(expr){return expr.replace(/\\text\{([^{}]*)\}/g,'$1').replace(/\\times/g,'×').replace(/\\cdot/g,'·').replace(/\\leq/g,'≤').replace(/\\geq/g,'≥').replace(/\\pm/g,'±').replace(/\s+/g,' ').trim()}
