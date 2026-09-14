@@ -1,0 +1,1105 @@
+{
+  "updated": "2026-09-14",
+  "articles": [
+    {
+      "slug": "amd-neovaskulaer",
+      "title": "Altersabhängige Makuladegeneration: Neovaskuläre Form",
+      "category": "retina",
+      "summary": "Diagnose und Behandlung der neovaskulären AMD mit Anti-VEGF-Therapie und OCT-Monitoring.",
+      "takeaway": "Eine rasche Diagnosesicherung und individuell gesteuerte Anti-VEGF-Therapie können Sehfunktion erhalten; Verlauf und Ansprechen variieren.",
+      "professional": {
+        "overview": [
+          "Die neovaskuläre AMD zeichnet sich durch das Wachstum abnormaler Blutgefäße unter der Netzhaut aus.",
+          "Ohne Behandlung führt dies zu schneller und irreversibler Zerstörung der Makula."
+        ],
+        "diagnostics": [
+          "OCT kann intra- oder subretinale Flüssigkeit, Pigmentepithelabhebungen und weitere Aktivitätszeichen zeigen.",
+          "OCT-Angiografie und Fluoreszenzangiografie ergänzen die Einordnung bei unklarer Diagnose oder spezieller Fragestellung.",
+          "Fundusbefund und Bildgebung müssen gemeinsam beurteilt werden; Blutungen können auch ohne ausgeprägte OCT-Flüssigkeit relevant sein."
+        ],
+        "management": [
+          "Zugelassene Anti-VEGF-Präparate werden nach produktspezifischer Initialphase und individuell geplantem Erhaltungsschema eingesetzt.",
+          "Treat-and-extend- oder andere bedarfsgesteuerte Regime passen Intervalle an Aktivität, Funktion und Vorbehandlung an.",
+          "Langfristiger Erfolg hängt wesentlich von kontinuierlicher Kontrolle und ausreichender Behandlung ab."
+        ],
+        "pitfalls": [
+          "Ein trockenes OCT allein beweist keine dauerhafte Inaktivität; Visus, Blutung und Verlauf bleiben wichtig.",
+          "Atrophie und Fibrose können trotz kontrollierter Exsudation die Sehfunktion begrenzen; ein einfacher Kausalzusammenhang mit der Therapie darf nicht behauptet werden."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Bei der feuchten Form der altersbedingten Makuladegeneration wachsen ungewöhnliche Blutgefäße unter der Netzhaut.",
+          "Diese Gefäße sind undicht und können Flüssigkeit oder Blut austreten lassen, wodurch die zentrale Sehschwere schnell beschädigt wird."
+        ],
+        "care": [
+          "Kontroll- und Behandlungstermine entsprechend dem individuell vereinbarten Schema zuverlässig wahrnehmen.",
+          "Verwendung eines Amsler-Gitters zu Hause zur frühzeitigen Erkennung von Sehveränderungen.",
+          "Nicht rauchen und allgemeine Gefäßrisiken ärztlich behandeln lassen."
+        ],
+        "urgent": [
+          "Plötzliche Verzerrung oder Verschwinden des zentralen Sehens erfordert sofortige augenärztliche Vorstellung.",
+          "Neue Schatten oder schwarze Flecken im zentralen Sichtfeld sind Warnzeichen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Wie oft müssen Anti-VEGF-Injektionen bei neovaskulärer AMD anfangs gegeben werden?",
+          "a": "Das Initialschema ist präparate- und befundabhängig. Häufig beginnt die Therapie mit kurzen festen Abständen; anschließend werden Intervalle nach Aktivität angepasst."
+        },
+        {
+          "q": "Welches ist das wichtigste Monitoring-Tool zur Beurteilung des Therapieansprechens bei nAMD?",
+          "a": "Die optische Kohärenztomographie (OCT) ist das wichtigste Tool zur Beurteilung von Flüssigkeit und Struktur."
+        }
+      ],
+      "sourceKeys": [
+        "6cf3beb42edfe089a9b402bc",
+        "7b8ff36c1c84d564c07a87dd",
+        "7125303f147f46310c7667fe"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "diabetische-retinopathie-stadien",
+      "title": "Diabetische Retinopathie: Klassifikation und Stadien",
+      "category": "retina",
+      "summary": "Übersicht über die Stadien der diabetischen Retinopathie von nicht-proliferativ bis proliferativ.",
+      "takeaway": "Regelmäßiges Screening ermöglicht eine Behandlung, bevor vermeidbarer Sehverlust entsteht; Intervalle richten sich nach Diabetesform, Befund und Lebenssituation.",
+      "professional": {
+        "overview": [
+          "Die diabetische Retinopathie entwickelt sich schrittweise durch Schädigung der retinalen Gefäße bei Diabetes mellitus.",
+          "Frühstadien sind oft asymptomatisch, wodurch regelmäßige Screenings essentiell werden."
+        ],
+        "diagnostics": [
+          "Die Stadieneinteilung beruht auf einer qualitätsgesicherten Netzhautbeurteilung beziehungsweise validierter Fotodokumentation.",
+          "OCT ist zentral zur Beurteilung eines diabetischen Makulaödems; OCT-Angiografie kann spezielle Fragestellungen ergänzen.",
+          "Fluoreszenzangiografie oder Weitfeldbildgebung werden eingesetzt, wenn sie eine konkrete diagnostische oder therapeutische Frage beantworten."
+        ],
+        "management": [
+          "Blutzucker-, Blutdruck- und Lipidziele werden individuell internistisch festgelegt; eine sichere systemische Kontrolle senkt das Progressionsrisiko.",
+          "Ein visusrelevantes Makulaödem wird abhängig von Zentrumsbeteiligung, Funktion und Begleitfaktoren behandelt.",
+          "Bei proliferativer Erkrankung kommen panretinale Lasertherapie und intravitreale Therapie infrage; Vitrektomie ist ausgewählten Komplikationen vorbehalten."
+        ],
+        "pitfalls": [
+          "Gute Sehschwere schließt fortschreitende retinopathische Schäden nicht aus.",
+          "Schwangerschaft kann bestehende diabetische Retinopathie beschleunigen - engmaschige Kontrolle erforderlich."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Bei Diabetes kann hoher Blutzucker die feinen Blutgefäße in der Netzhaut schädigen.",
+          "Zuerst treten kleine Ausbeulungen und Ausflüsse auf, später können ungewöhnliche neue Gefäße wachsen."
+        ],
+        "care": [
+          "Augenkontrollen im empfohlenen, individuell festgelegten Intervall wahrnehmen, auch wenn das Sehen gut ist.",
+          "Blutzucker und Blutdruck im Zielbereich halten schützt die Augen langfristig.",
+          "Bei vorbestehendem Diabetes Kontrollen vor oder früh in der Schwangerschaft und danach entsprechend dem Netzhautbefund planen."
+        ],
+        "urgent": [
+          "Plötzlicher Sehverlust, Schatten oder Lichtblitze erfordern augenärztliche Notfallvorstellung.",
+          "Schwangerschaft mit bekanntem Diabetes: Jegliche Sehveränderung muss sofort abgeklärt werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welche systemischen Faktoren beeinflussen das Fortschreiten der diabetischen Retinopathie?",
+          "a": "Vor allem langfristige Blutzuckerkontrolle, Blutdruck, Diabetesdauer und Nierenbeteiligung; Therapieziele müssen individuell und sicher festgelegt werden."
+        },
+        {
+          "q": "Wann ist eine panretinale Photokoagulation bei proliferativer diabetischer Retinopathie indiziert?",
+          "a": "Bei Neovaskularisierung der Papille oder ailleurs, vitreöser Blutung oder hohen Risikomerkmalen gemäß ETDRS-Kriterien."
+        }
+      ],
+      "sourceKeys": [
+        "196e4083a004091f0343281a",
+        "7241358481877828a185bc61",
+        "70e127a145239032ae045404"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "retinale-venenverschluss",
+      "title": "Retinale Venenverschlüsse: Zentrale und branchiforme Formen",
+      "category": "retina",
+      "summary": "Pathophysiologie, Diagnose und Behandlung von zentralen und branchiformen retinalen Venenverschlüssen.",
+      "takeaway": "Bei visusrelevantem Makulaödem kann eine intravitreale Therapie die Sehfunktion verbessern; Ischämie und Neovaskularisation benötigen eigene Verlaufskontrollen.",
+      "professional": {
+        "overview": [
+          "Retinale Venenverschlüsse entstehen durch Thrombose der retinalen Venen, führend zu Blut- und Flüssigkeitsausscheidung.",
+          "Zentrale Venenverschlüsse betreffen die zentrale Retinalvene, während branchiforme Formen nur Astäste betreffen."
+        ],
+        "diagnostics": [
+          "OCT zeigt charakteristisch makuläres Ödem mit intraretinalen Flüssigkeitszysten.",
+          "Fluoreszenzangiografie zeigt verzögerte Füllung und Gefäßleckagen im Spätstadium.",
+          "Gerinnungsstatus sollte bei jungen Patienten oder ungewöhnlichen Lokalisationen abgeklärt werden."
+        ],
+        "management": [
+          "Bei visusrelevantem Makulaödem ist Anti-VEGF häufig die bevorzugte initiale Therapie; Verlauf und Kontraindikationen bestimmen das Schema.",
+          "Kortikosteroid-Implantate sind eine Alternative in ausgewählten Situationen und erfordern Druck- und Linsenkontrollen.",
+          "Laserbehandlung richtet sich nach Verschlussform, Makulabefund und vor allem nach nachgewiesener Neovaskularisation; eine prophylaktische Anwendung ist nicht pauschal angezeigt."
+        ],
+        "pitfalls": [
+          "Scheinbare Verbesserung kann trügerisch sein - langfristiges Monitoring ist notwendig aufgrund von möglichen Spätkomplikationen.",
+          "Ischämische Formen tragen höheres Risiko für neovaskuläre Komplikationen trotz initialem Ansprechen auf Therapie."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Ein Venenthrombose in der Netzhaut führt dazu, dass Blut und Flüssigkeit in das retinale Gewebe austreten.",
+          "Dies verursacht Schwellung und kann das Sehen beeinträchtigen, besonders wenn die Makula betroffen ist."
+        ],
+        "care": [
+          "Blutdruck und Cholesterin sollten gut eingestellt sein, um weiteren Gefäßschaden zu verhindern.",
+          "Regelmäßige Kontrollen helfen, Rückfälle frühzeitig zu erkennen und zu behandeln.",
+          "Bei Diabetes besteht erhöhtes Risiko - eine gute Blutzuckerkontrolle ist wichtig."
+        ],
+        "urgent": [
+          "Plötzlicher, starker Sehverlust oder ein Vorhang-artiges Schattenfeld benötigen sofortige augenärztliche Abklärung.",
+          "Starke Schmerzen begleitet von Sehverlust können auf akuten Glaukomanfall hinweisen und müssen notfallmäßig behandelt werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Wie lange dauert die durchschnittliche Behandlungsdauer mit Anti-VEGF bei makulärem Ödem aufgrund von Venenverschluss?",
+          "a": "Viele Patienten benötigen eine Behandlung über 2 Jahre oder länger, wobei die Intervalle individuell angepasst werden."
+        },
+        {
+          "q": "Welcher Faktor prognostiziert das beste Sehvermöensoutcome nach Behandlung eines Venenverschlusses?",
+          "a": "Die Ausgangssehschwere und das Ausmaß der initialen Ischämie sind die stärksten Prädiktoren für das spätere Sehvermögen."
+        }
+      ],
+      "sourceKeys": [
+        "c22b2953daaef305210fae20",
+        "b055c45f95bbce1a7fb02ca8",
+        "496cd9ed7358990c819ac0c6"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 9
+    },
+    {
+      "slug": "retinopathie-fruehgeborene",
+      "title": "Retinopathie der Frühgeborenen: Screening und Behandlung",
+      "category": "retina",
+      "summary": "Risikofaktoren, Screeningrichtlinien und Behandlungsoptionen der Retinopathie der Frühgeborenen (ROP).",
+      "takeaway": "Frühzeitiges Screening und Behandlung verhindern Erblindung bei risikobehafteten Frühgeborenen.",
+      "professional": {
+        "overview": [
+          "ROP entwickelt sich bei unreifen retinalen Gefäßen bei Frühgeborenen, besonders bei niedrigem Geburtsgewicht und hoher Sauerstoffzufuhr.",
+          "Ohne Behandlung kann es zu irreversibler Netzhautablösung und Erblindung führen."
+        ],
+        "diagnostics": [
+          "Indirekte Ophthalmoskopie durch erfahrene Screener ist der Goldstandard für die Diagnose.",
+          "Screening beginnt ab Woche 32 postkonzeptell oder bei Gewicht <1500g, je nachdem was früher eintritt.",
+          "Die Internationale Klassifikation (ICROP) standardisiert die Befundbeschreibung weltweit."
+        ],
+        "management": [
+          "Laserphotokoagulation der peripheren avaskulären Netzhaut bleibt Standardtherapie bei Typ-1-ROP.",
+          "Anti-VEGF-Injektionen zeigen vielversprechende Ergebnisse, besonders bei Zone-I-Erkrankungen.",
+          "Vitrektomie wird bei fortgeschrittener Zug-ROP mit Traktionskomponente berücksichtigt."
+        ],
+        "pitfalls": [
+          "Nachwachsende Gefäßbildung kann Jahre nach offenbar erfolgter Behandlung auftreten - langfristiges Follow-up notwendig.",
+          "Myopie und Strabismus sind häufige Spätfolgen auch erfolgreich behandelter ROP."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Bei sehr frühen Geburten kann die Netzhaut nicht vollständig ausgebildet sein.",
+          "Sauerstofftherapie und andere Faktoren können dann ungewöhnliche Gefäßbildung in der Netzhaut verursachen."
+        ],
+        "care": [
+          "Regelmäßige Augenkontrollen sind wichtig, auch wenn die ROP erfolgreich behandelt wurde.",
+          "Eltern sollten auf ungewöhnliche Augenbewegungen oder Augenkreuzeln achten und dies dem Arzt melden.",
+          "Brillen oder andere Sehhilfen können notwendig sein, um die bestmögliche visuelle Entwicklung zu unterstützen."
+        ],
+        "urgent": [
+          "Weißer Schimmer in der Pupille (Leukokorie) erfordert sofortige augenärztliche Vorstellung - kann auf Netzhautablösung hindeuten.",
+          "Starkes Zucken der Augen oder ungewöhnliche Augenbewegungen sollten umgehend abgeklärt werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welche Geburtsgewichte und Schwangerschaftswochen definieren das Risikoprofil für Screening auf ROP gemäß aktuellen Leitlinien?",
+          "a": "Alle Frühgeborenen mit Geburtsgewicht unter 1500g oder Schwangerschaftsdauer unter 32 Wochen sollten gescreent werden."
+        },
+        {
+          "q": "Wie oft sollten Kontrolluntersuchungen nach erfolgreicher Laserbehandlung bei ROP erfolgen?",
+          "a": "Initial alle 1-2 Wochen, später abhängig vom Befund, jedoch mindestens bis zum erreichen eines postkonzeptionellen Alters von 50-55 Wochen."
+        }
+      ],
+      "sourceKeys": [
+        "e34192e9b169661700524e12",
+        "53f4034eb98fb840293be7e7",
+        "6a0a0aa21d154ce2104b26ee"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "makula-loch",
+      "title": "Makulaloch: Ätiologie, Diagnose und vitreoretinale Chirurgie",
+      "category": "retina",
+      "summary": "Entwicklung, diagnostische Kriterien und chirurgische Behandlung von idiopathischen Makulalöchern.",
+      "takeaway": "Die Vitrektomie erreicht bei vielen primären Makulalöchern hohe anatomische Verschlussraten; Prognose und Technik hängen besonders von Größe und Dauer ab.",
+      "professional": {
+        "overview": [
+          "Ein Makulaloch entsteht durch Zugkräfte des hinteren Glaskörpers auf die foveale Netzhaut, führend zu einem Defekt im zentralen Sehbereich.",
+          "Idiopathische Formen treten typischerweise beim erhöhten Lebensalter auf, sekundäre Ursachen umfassen Trauma oder hohe Myopie."
+        ],
+        "diagnostics": [
+          "OCT zeigt charakteristisch den Verlust der fovealen Kontur mit sichtbarem Loch in den retinalen Schichten.",
+          "Die Größe wird nach der International Vitreomacular Traction Study (IVTS) Klassifikation kategorisiert.",
+          "Begleiterkrankungen, Linsenstatus und das Partnerauge werden für Beratung und Operationsplanung mitbeurteilt."
+        ],
+        "management": [
+          "Pars-plana-Vitrektomie mit Ablösung der hinteren Glaskörpergrenze, meist ILM-Peeling und Gastamponade ist ein etabliertes Vorgehen.",
+          "Notwendigkeit und Dauer einer Bauchlage werden nach Lochgröße, Tamponade und operativer Technik individuell festgelegt.",
+          "Eine mögliche Kataraktprogression bei phaken Augen gehört in die präoperative Beratung; Zeitpunkt einer Kataraktoperation bleibt individuell."
+        ],
+        "pitfalls": [
+          "Große, chronische, hochmyope oder bereits voroperierte Löcher können eine geringere Verschlusswahrscheinlichkeit haben.",
+          "Übermäßige Tamponadedauer kann zu sekundärem Glaukom führen - Druckkontrolle ist essentiell."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Ein Loch in der Mitte der Netzhaut (Makula) führt dazu, dass das zentrale Sehen verschwommen oder verzerrt wird.",
+          "Das Lesen wird besonders schwierig, da feine Details nicht mehr scharf gesehen werden können."
+        ],
+        "care": [
+          "Eine besondere Kopfposition ist nur so lange und so streng einzuhalten, wie das Operationsteam sie individuell vorgibt.",
+          "Starke Kopfbewegungen oder Flugreisen sollten vermieden werden, solange das Gas im Auge noch vorhanden ist.",
+          "Regelmäßige Kontrollen sichern, dass das Loch geschlossen bleibt und keine Komplikationen auftreten."
+        ],
+        "urgent": [
+          "Starke Schmerzen, zunehmende Rötung oder starkes Sehverschlechtern nach der Operation benötigen umgehende augenärztliche Abklärung.",
+          "Neue Lichtblitze, viele Floater oder ein Gesichtsfeldschatten können auf einen Netzhautriss oder eine Ablösung hinweisen und müssen schnell abgeklärt werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Wie hoch ist die Erfolgsrate der anatomischen Schließung bei idiopathischen Makulalöchern nach Standard-Vitrektomie?",
+          "a": "Bei primären, nicht sehr großen Löchern sind hohe Verschlussraten erreichbar; eine pauschale Prozentzahl ist ohne Größen-, Technik- und Fallbezug irreführend."
+        },
+        {
+          "q": "Welche Positionierung wird nach Makulaloch-Operation mit Gas-Tamponade typischerweise empfohlen?",
+          "a": "Die Empfehlung wird individuell nach Lochgröße, Gastamponade und Operationsverfahren festgelegt; nicht jeder Fall benötigt dieselbe Dauer."
+        }
+      ],
+      "sourceKeys": [
+        "c2c45e14b2a46e6018fbcc17",
+        "e615970d84eabe0ca534333e",
+        "78f30d7e0c3bd5d9e88c973b"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "glaukom-open-angle",
+      "title": "Primäres Offenwinkelglaukom: Pathophysiologie und Behandlung",
+      "category": "glaucoma",
+      "summary": "Übersicht über das primäre Offenwinkelglaukom von Risikofaktoren über Diagnose bis zur medizinischen und chirurgischen Therapie.",
+      "takeaway": "Früherkennung und konsequente Behandlung verhindern irreversiblen Sehnervenschaden.",
+      "professional": {
+        "overview": [
+          "Das primäre Offenwinkelglaukom (POAG) ist eine chronische, progressive Optikusneuropathie mit charakteristischem Verlust von Ganglienzellen und deren Axonen.",
+          "Erhöhter intraokulärer Druck ist der wichtigste modifizierbare Risikofaktor, obwohl auch normotensives Glaukom vorkommt."
+        ],
+        "diagnostics": [
+          "Goldmann-Applanationstonometrie bleibt der Goldstandard für IOP-Messung, ergänzt durch tageszeitabhängige Profilmessungen.",
+          "OCT der Nervenfaserschicht und Ganglienzellen dokumentiert strukturelle Schäden; Struktur und Funktion können zeitlich unterschiedlich auffällig werden.",
+          "Standardisierte Perimetrie (Humphrey 24-2 oder 30-2) dokumentiert den funktionellen Verlust und dessen Progression über Zeit."
+        ],
+        "management": [
+          "Medizinische Therapie beginnt typischerweise mit Prostaglandin-Analoga als erste Linie aufgrund guter Wirksamkeit und einmal täglicher Anwendung.",
+          "Laser-Trabekuloplastik (SLT) zeigt vergleichbare Wirksamkeit zu erstliniger medikamentöser Therapie und kann Therapie-Schritte verzögern oder reduzieren.",
+          "Bei Progression oder nicht erreichtem Zieldruck werden zusätzliche Medikamente, Laser oder ein zur erforderlichen Drucksenkung passendes Operationsverfahren erwogen."
+        ],
+        "pitfalls": [
+          "Normotensives Glaukom erfordert besondere Aufmerksamkeit, da Schäden trotz IOP im statistisch normalen Bereich auftreten können.",
+          "Adhärenz und korrekte Tropftechnik müssen aktiv überprüft werden, bevor eine scheinbar unzureichende Wirkung bewertet wird."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim Offenwinkelglaukom beschädigt der erhöhte Augeninnendruck langsam die Nervenfasern des Sehnerven.",
+          "Dieser Schaden ist zunächst unbemerkt, weil das seitliche Sehen zuerst betroffen ist und das zentrale Sehen lange erhalten bleibt."
+        ],
+        "care": [
+          "Regelmäßige Augenkontrollen sind entscheidend, um den Augeninnendruck und den Sehnervenzustand zu überwachen.",
+          "Die verordneten Augentropfen regelmäßig anwenden und Probleme mit der Anwendung früh ansprechen.",
+          "Körperliche Aktivität ist allgemein sinnvoll; besondere Einschränkungen werden nur bei individueller medizinischer Begründung empfohlen."
+        ],
+        "urgent": [
+          "Plötzliche starke Augenschmerzen, verschwommenes Sehen oder Licht-Halo-Effekte benötigen augenärztliche Notfallabklärung.",
+          "Übelkeit und Erbrechen begleitet von Augenschmerzen können auf akuten Glaukomanfall hinweisen und müssen notfallmäßig behandelt werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welcher Zielwert für den Augeninnendruck wird bei Behandlung des primären Offenwinkelglaukoms meist angestrebt?",
+          "a": "Eine Reduktion des Ausgangswerts um mindestens 20-30% wird als therapeutisches Ziel angesehen, abhängig von Schweregrad und Risikoprofil."
+        },
+        {
+          "q": "Wie oft sollten Kontrolluntersuchungen bei stabil eingestelltem Glaukom erfolgen?",
+          "a": "Bei stabiler Erkrankung sind Kontrollen alle 3-6 Monate üblich, einschließlich IOP-Messung, Sehnervenbewertung und Gesichtsfeldtest."
+        }
+      ],
+      "sourceKeys": [
+        "6a34f376f1a0d859ecb6050f",
+        "1db537661175ace7f88eb461",
+        "f869f0f3619a5ac3b9dcfc09"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-winkelblock",
+      "title": "Akuter Winkelblockglaukom: Notfallerkennung und Behandlung",
+      "category": "glaucoma",
+      "summary": "Pathophysiologie, Risikofaktoren und Notfallmanagement des akuten Winkelblockglaukoms als ophthalmologischer Notfall.",
+      "takeaway": "Sofortige Drucksenkung ist entscheidend, um irreversiblen Sehnervenschaden zu verhindern.",
+      "professional": {
+        "overview": [
+          "Beim akuten Winkelblockglaukom kommt es plötzlich zur Blockade des Kammerwinkels mit schnellem Anstieg des intraokulären Drucks über 40-50 mmHg.",
+          "Dies führt innerhalb von Stunden zu irreversiblen Schäden am Sehnerven, wenn nicht sofort behandelt wird."
+        ],
+        "diagnostics": [
+          "Spaltlampenmikroskopie zeigt typischerweise mittelweit erweiterte, unbewegliche Pupille, Hornhautödem und konjunktivalen Injectus.",
+          "Gonioskopie bestätigt den verschlossenen Kammerwinkel durch Iris-Berührung mit dem Trabekelmaschwerk.",
+          "Tonometrie zeigt charakteristisch stark erhöhten IOP, häufig über 40-50 mmHg beim onset."
+        ],
+        "management": [
+          "Medikamentöse Notfalltherapie umfasst systemisches Acetazolamid, topische Betablocker, Alpha-Agonisten und α2-Agonisten zur schnellen Drucksenkung.",
+          "Laser-Iridotomie (LPI) schafft einen alternativen Kammerwasserabfluss und sollte möglichst unmittelbar nach Einstellung des akuten Anfalls erfolgen.",
+          "Nach erfolgter Notfallbehandlung erfolgt Evaluation für eventuelle chirurgische Intervention bei anhaltendem Kammerwasserabflussproblem."
+        ],
+        "pitfalls": [
+          "Falsche Selbstmedikation mit freien Augentropfen kann die Situation verschlimmern und wertvolle Zeit verzögern.",
+          "Nach dem akuten Ereignis bleibt ein erhöhtes Risiko für erneute Blockaden, necessitierend prophylaktische Iridotomie am zweiten Auge."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim Winkelblockglaukom schließt sich plötzlich der Abflussweg für die Kammerwasserflüssigkeit im Auge.",
+          "Dies führt sehr schnell zu einem starken Druckanstieg im Auge, der innerhalb von Stunden den Sehnerven schädigen kann."
+        ],
+        "care": [
+          "Nach einem akuten Winkelblock sollte das zweite Auge prophylaktisch behandelt werden, da ebenfalls ein hohes Risiko besteht.",
+          "Regelmäßige Kontrollen sichern, dass der Druck langfristig im Zielbereich bleibt und keine weiteren Blockaden auftreten.",
+          "Bestimmte Medikamente wie Antihistaminika oder Antidepressiva können das Risiko erhöhen und sollten mit dem Arzt besprochen werden."
+        ],
+        "urgent": [
+          "Starke Augenschmerzen kombiniert mit verschwommenem Sehen, Licht-Halo-Effekten und Übelkeit erfordern sofortige augenärztliche Vorstellung.",
+          "Das Gefühl eines harten Auges beim Berühren des Augenlids begleitet von Sehstörungen ist ein klassisches Notfallzeichen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Wie schnell muss die Drucksenkung bei akutem Winkelblockglaukom erfolgen, um dauerhafte Schäden zu verhindern?",
+          "a": "Die IOP-Senkung sollte innerhalb der ersten Stunden erfolgen, da bereits nach 2-4 Stunden starkem Druck irreversible Schäden am Sehnerven beginnen können."
+        },
+        {
+          "q": "Welche prophylaktische Maßnahme wird am zweiten Auge nach akutem Winkelblock empfohlen?",
+          "a": "Eine Laser-Iridotomie (LPI) am zweiten Auge wird empfohlen, um zukünftige Blockaden zu verhindern, da dasselbe anatomische Risiko vorliegt."
+        }
+      ],
+      "sourceKeys": [
+        "127febfd91879bc2c8d6fbf2",
+        "78e38367ba1aa24ff364fe10",
+        "af56e43abb64b37e048a2b89"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "glaukom-normaldruck",
+      "title": "Normotensives Glaukom: Diagnose und Behandlung bei normalem Augeninnendruck",
+      "category": "glaucoma",
+      "summary": "Spezialformen des Glaukoms mit Sehnervenschaden trotz statistisch normalem IOP-Wert.",
+      "takeaway": "Bei normotensivem Glaukom stehen nicht nur IOP-Reduktion, sondern auch Blutflussoptimierung im therapeutischen Fokus.",
+      "professional": {
+        "overview": [
+          "Normotensives Glaukom (NTG) zeigt typischen Glaukom-Schaden am Sehnerven bei IOP-Werten, die innerhalb der statistischen Norm liegen.",
+          "Die Pathophysiologie umfasst vermutlich eine Kombination aus mechanischer Empfindlichkeit des Sehnerven und vasculären Faktoren."
+        ],
+        "diagnostics": [
+          "Detaillierte Sehnervenanalyse mittels OCT und Fotodokumentation ist essentiell, da funktionelle Ausfälle erst spät auffallen können.",
+          "24-Stunden-IOP-Profile können nächtliche Druckspitzen aufdecken, die bei Einzelmessungen übersehen werden.",
+          "Atypische Befunde, rasche Progression oder neurologische Symptome erfordern eine gezielte Differenzialdiagnostik statt routinemäßiger Spezialmessungen des okulären Blutflusses."
+        ],
+        "management": [
+          "Ziel ist eine IOP-Reduktion um mindestens 20-30% vom Ausgangswert, obwohl absolute Werte weniger kritisch sind als bei POAG.",
+          "Systemische Blutdrucktherapie darf nicht allein augenärztlich verändert werden; relevante Begleiterkrankungen wie Schlafapnoe werden interdisziplinär abgeklärt und leitliniengerecht behandelt.",
+          "Bei fortschreitendem Schaden trotz medizinischer Therapie werden chirurgische Optionen ähnlich wie beim POAG betrachtet."
+        ],
+        "pitfalls": [
+          "Die Diagnose erfordert Ausschluss anderer Ursachen für Sehnervenschaden wie erniedrigter intrakranieller Druck oder inflammatorische Erkrankungen.",
+          "Progression wird aus mehreren hochwertigen Struktur- und Funktionstests beurteilt; starre Mindestintervalle ersetzen keine risikoadaptierte Kontrolle."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim normotensiven Glaukom zeigt sich Schaden am Sehnerven, obwohl der Augeninnendruck im scheinbar normalen Bereich liegt.",
+          "Dies deutet darauf hin, dass andere Faktoren wie Blutfluss oder strukturelle Empfindlichkeit des Sehnerven eine Rolle spielen."
+        ],
+        "care": [
+          "Regelmäßige Augenkontrollen sind besonders wichtig, da der Schaden unbemerkt fortschreiten kann, bevor Sehausfälle auffallen.",
+          "Ein gesunder Lebensstil mit ausreichender Bewegung und gesunder Ernährung unterstützt die allgemeine Augengesundheit.",
+          "Schlafapnoe sollte bei Verdacht abgeklärt und behandelt werden, da sie den okularen Blutfluss negativ beeinflussen kann."
+        ],
+        "urgent": [
+          "Plötzliche Sehveränderungen kombiniert mit Kopfschmerzen oder anderen neurologischen Symptomen benötigen umgehende Abklärung.",
+          "Während NTG selbst selten akute Notfälle verursacht, können begleitende Erkrankungen schnelles Handeln erfordern."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welche Befunde müssen vor der Diagnose eines normotensiven Glaukoms kritisch geprüft werden?",
+          "a": "Wiederholte Druckmessungen, Hornhautdicke, Kammerwinkel, typische Struktur-Funktions-Korrelation und Differenzialdiagnosen einer nichtglaukomatösen Optikusneuropathie."
+        },
+        {
+          "q": "Wie unterscheidet sich das Behandlungziel beim normotensiven Glaukom vom primären Offenwinkelglaukom?",
+          "a": "Auch beim normotensiven Glaukom ist die Senkung des Augeninnendrucks die einzige etablierte direkt behandelbare glaukombezogene Strategie; Begleiterkrankungen werden unabhängig davon angemessen behandelt."
+        }
+      ],
+      "sourceKeys": [
+        "f7071b5ff31346f5248c5ee5",
+        "1ddd1fe0492678361e9529f9",
+        "7a3793c579762270fa846595"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-kind",
+      "title": "Glaukom beim Kind: Spezialformen und kindgerechte Behandlung",
+      "category": "glaucoma",
+      "summary": "Überblick über angeborenes und infantiles Glaukom sowie Behandlungsansätze im pädiatrischen Alter.",
+      "takeaway": "Frühzeitige Diagnose und Intervention sind entscheidend für die Erhaltung des Sehvermögens im Kindesalter.",
+      "professional": {
+        "overview": [
+          "Pädiatrisches Glaukom umfasst angeborenes (primäres) und sekundäres Glaukom, wobei frühe Erkennung die Prognose erheblich verbessert.",
+          "Aufgrund der Plastizität des jungen Auges kann unbehandeltes Glaukom zu irreversiblen Schäden einschließlich Amblyopie führen."
+        ],
+        "diagnostics": [
+          "Hornhautdurchmesser, Hornhauttrübung, Haab-Linien, Refraktion und Bulbuswachstum werden altersbezogen beurteilt; starre Einzelgrenzwerte reichen nicht aus.",
+          "IOP-Messung erfolgt häufig unter Sedierung oder Narkose aufgrund der Kooperationsschwierigkeiten bei kleinen Kindern.",
+          "Evaluation des Sehnerven erfolgt durch fundoskopische Untersuchung und Druckmessung, angepasst an das kindliche Alter."
+        ],
+        "management": [
+          "Die primäre Therapie ist häufig chirurgisch; bei geeigneter Anatomie stehen kammerwinkelchirurgische Verfahren im Vordergrund, weitere Verfahren richten sich nach Befund und Voroperationen.",
+          "Medikamentöse Therapie unterstützt den postoperativen Verlauf und behandelt allfällige Restpathologie oder rezidivierende Zustände.",
+          "Langzeitkontrolle ist essentiell wegen Risikos für rezidivierende Erkrankung und Anpassung an Wachstumsschübe."
+        ],
+        "pitfalls": [
+          "Die Diagnose kann verzögert sein, da Säuglinge und kleine Kinder typische Beschwerden wie Lichtscheu oder Tränenfluss nicht immer deutlich zeigen.",
+          "Amblyopie entwickelt sich häufig sekundär wegen unklarer Bilderfassung während der kritischen Entwicklungsphase des Sehens."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim Glaukom beim Kind ist der Druck im Auge zu hoch, was die empfindlichen Strukturen im sich entwickelnden Auge schädigen kann.",
+          "Da das Kindesauge noch wächst, kann ein zu hoher Druck zu ungewöhnlicher Augenbildung führen."
+        ],
+        "care": [
+          "Nach einer Operation müssen Eltern besonders auf Anzeichen von Schmerzen, verstärktem Tränenfluss oder Lichtscheu achten.",
+          "Regelmäßige Kontrollen sind wichtig, um den Druck langfristig im Zielbereich zu halten und das Wachstum des Auges zu überwachen.",
+          "Visuelle Förderung durch kindgerechte Übungen unterstützt die bestmögliche Entwicklung trotz früher Augenbelastung."
+        ],
+        "urgent": [
+          "Trübung der Hornhaut, verstärkter Tränenfluss oder Lichtscheu beim Säugling erfordern sofortige augenärztliche Vorstellung.",
+          "Große Augen mit Hornhauttrübung bei Neugeborenen sind Notfallzeichen, die eine schnelle Druckabklärung benötigen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum darf die Diagnose eines kindlichen Glaukoms nicht an einem einzelnen Druckgrenzwert festgemacht werden?",
+          "a": "Messmethode und Narkose beeinflussen den Druck; altersbezogene Hornhaut-, Bulbus-, Papillen- und Progressionsbefunde müssen gemeinsam beurteilt werden."
+        },
+        {
+          "q": "Welches ist das häufigste chirurgische Verfahren bei angeborenem Glaukom und wie funktioniert es?",
+          "a": "Goniotomie schafft eine Öffnung im Kammerwinkel, um den Abfluss des Kammerwassers zu verbessern und den Augeninnendruck zu senken."
+        }
+      ],
+      "sourceKeys": [
+        "1ddd1fe0492678361e9529f9",
+        "f869f0f3619a5ac3b9dcfc09",
+        "1f94d0acd5bb41ddef4f88fc"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "glaukom-pigment",
+      "title": "Pigmentdispersions-Glaukom: Mechanismus und Monitoring",
+      "category": "glaucoma",
+      "summary": "Spezialform des offenen Winkels mit Pigmentfreisetzung aus der Iris und sekundären Trabekulum-Veränderungen.",
+      "takeaway": "Jüngere Patienten mit Myopie tragen erhöhtes Risiko und benötigen spezielle Monitoring-Strategien.",
+      "professional": {
+        "overview": [
+          "Beim Pigmentdispersions-Syndrom kommt es zur mechanischen Abreibung von Pigmentzellen der Irisoberfläche bei Augenbewegungen.",
+          "Das freigesetzte Pigment kann sich im Trabekulum-Maschwerk ablagern und den Abfluss des Kammerwassers behindern."
+        ],
+        "diagnostics": [
+          "Spaltlampenbefunde können eine Krukenberg-Spindel und mittelperiphere radiäre Iris-Transilluminationsdefekte zeigen.",
+          "Gonioskopisch findet sich häufig ein weiter offener, stärker pigmentierter Kammerwinkel.",
+          "Ein Pigmentdispersionssyndrom ist erst dann ein Pigmentglaukom, wenn glaukomatöser Schaden beziehungsweise die entsprechende Erkrankungskonstellation vorliegt."
+        ],
+        "management": [
+          "Bei nachgewiesenem Pigmentglaukom wird der Augeninnendruck nach denselben Grundprinzipien wie bei anderen Offenwinkelglaukomen gesenkt.",
+          "SLT kann bei geeignetem Winkel erwogen werden; wegen starker Pigmentierung sind Druckspitzen zu beachten.",
+          "Eine prophylaktische Laseriridotomie verhindert die Entwicklung eines Pigmentglaukoms nicht nachweislich und ist keine pauschale Standardmaßnahme."
+        ],
+        "pitfalls": [
+          "Die Diagnose kann übersehen werden, da typische Glaukom-Symptome fehlen und jüngeres Alter zunächst Entwarnung suggeriert.",
+          "Ein stark pigmentierter Winkel allein beweist weder Progression noch Therapiebedarf."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim Pigmentdispersions-Glaukom reibt sich die Irisstruktur bei Bewegung an der Linse und löst Farbstoffpartikel aus.",
+          "Diese Partikel können dann den Abflussweg im Auge verstopfen und zu erhöhtem Druck führen."
+        ],
+        "care": [
+          "Regelmäßige Augenkontrollen sind wichtig, um sowohl den Augeninnendruck als auch den Zustand des Abflussystems zu überwachen.",
+          "Behandlung ist erforderlich, wenn Druck und Sehnervenbefund ein relevantes Risiko oder einen Schaden zeigen.",
+          "Eine Brille korrigiert Kurzsichtigkeit, behandelt aber nicht den Pigmentmechanismus."
+        ],
+        "urgent": [
+          "Plötzliche starke Augenschmerzen kombiniert mit verschwommenem Sehen benötigen augenärztliche Notfallabklärung.",
+          "Während Pigmentdispersion eher langsam fortschreitet, können akute Druckspitzen plötzliches Handeln erfordern."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welcher Patientengruppe trägt grundsätzlich ein erhöhtes Risiko für Pigmentdispersions-Syndrom und warum?",
+          "a": "Das Syndrom wird häufiger bei jüngeren bis mittelalten kurzsichtigen Menschen und bei Männern diagnostiziert; daraus folgt ohne glaukomatösen Schaden noch keine Behandlungsindikation."
+        },
+        {
+          "q": "Welche Befunde bilden die klassische klinische Trias des Pigmentdispersionssyndroms?",
+          "a": "Krukenberg-Spindel, mittelperiphere radiäre Iris-Transilluminationsdefekte und ausgeprägte trabekuläre Pigmentierung; die Ausprägung kann variieren."
+        }
+      ],
+      "sourceKeys": [
+        "7a3793c579762270fa846595",
+        "f869f0f3619a5ac3b9dcfc09",
+        "1f94d0acd5bb41ddef4f88fc"
+      ],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "oct-netzhaut-interpretation",
+      "title": "OCT der Netzhaut systematisch interpretieren",
+      "category": "retina",
+      "summary": "Ein reproduzierbarer Ablauf für Bildqualität, Schichtanalyse, Flüssigkeitsräume und klinische Korrelation.",
+      "takeaway": "OCT-Befunde werden erst im Zusammenhang mit Symptomen, Fundusbefund und Verlauf klinisch aussagekräftig.",
+      "professional": {
+        "overview": [
+          "Die optische Kohärenztomografie liefert hochauflösende Querschnittsbilder der Netzhaut, ersetzt aber weder Anamnese noch Fundusuntersuchung.",
+          "Eine feste Leserichtung vermindert das Risiko, Artefakte oder Begleitbefunde zu übersehen."
+        ],
+        "diagnostics": [
+          "Zuerst Identität, untersuchtes Auge, Scanprotokoll, Signalstärke, Zentrierung und Segmentationslinien prüfen.",
+          "Danach vitreomakuläre Grenzfläche, Kontur, einzelne Netzhautschichten, sub- und intraretinale Räume, RPE und Choroidea beurteilen.",
+          "Serienscans und frühere Untersuchungen vergleichen; Dickenkarten nie ohne Prüfung der zugrunde liegenden B-Scans interpretieren."
+        ],
+        "management": [
+          "Intraretinale Zysten, subretinale Flüssigkeit und Pigmentepithelabhebungen beschreiben, ohne aus einem Einzelzeichen automatisch eine Ätiologie abzuleiten.",
+          "Therapieentscheidungen auf multimodale Befunde und den zeitlichen Verlauf stützen.",
+          "Bei widersprüchlichen Befunden Scan wiederholen oder ergänzende Bildgebung erwägen."
+        ],
+        "pitfalls": [
+          "Segmentationsfehler können scheinbare Dickenänderungen erzeugen.",
+          "Abschattung, Spiegelartefakte und schlechte Fixation können Pathologie vortäuschen oder verdecken."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Die OCT ist eine berührungsfreie Aufnahme, die die Netzhaut in sehr dünnen optischen Schichten zeigt.",
+          "Sie hilft, Flüssigkeit, Zug oder Gewebeveränderungen zu erkennen und den Verlauf zu vergleichen."
+        ],
+        "care": [
+          "Die Untersuchung ist meist schmerzfrei und dauert nur wenige Minuten.",
+          "Manchmal werden die Pupillen erweitert; danach kann das Sehen vorübergehend unscharf und blendempfindlich sein.",
+          "Ein auffälliges OCT-Bild wird immer gemeinsam mit weiteren Augenbefunden beurteilt."
+        ],
+        "urgent": [
+          "Plötzlicher Sehverlust, neue starke Verzerrungen oder ein dunkler Vorhang erfordern unabhängig vom OCT eine rasche Untersuchung.",
+          "Bei langsameren Veränderungen richtet sich die Dringlichkeit nach der vermuteten Erkrankung."
+        ]
+      },
+      "questions": [
+        {"q": "Welche Kontrollen stehen am Anfang jeder OCT-Auswertung?", "a": "Richtiges Auge und Patient, Scanprotokoll, Signalqualität, Zentrierung sowie Segmentationsgrenzen müssen zuerst geprüft werden."},
+        {"q": "Warum darf eine Dickenkarte nicht isoliert interpretiert werden?", "a": "Automatische Segmentationsfehler und lokale Artefakte können falsche Dickenwerte erzeugen; deshalb müssen die B-Scans kontrolliert werden."}
+      ],
+      "sourceKeys": ["18dcb8f4bd15c96bb89dfeec", "a7c60d470be7fe657a8f65ae"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "diabetisches-makulaoedem",
+      "title": "Diabetisches Makulaödem: Befund und Therapieprinzipien",
+      "category": "retina",
+      "summary": "Klinische Einordnung makulärer Flüssigkeit bei Diabetes mit funktioneller und morphologischer Verlaufskontrolle.",
+      "takeaway": "Nicht jede Netzhautverdickung verlangt dieselbe Behandlung; Sehfunktion, Makulabeteiligung und Gesamtbefund bestimmen das Vorgehen.",
+      "professional": {
+        "overview": [
+          "Das diabetische Makulaödem entsteht durch Störung der Blut-Retina-Schranke und kann in unterschiedlichen Stadien der diabetischen Retinopathie auftreten.",
+          "Die OCT beschreibt Morphologie und Verlauf, während Visus und klinischer Befund die funktionelle Bedeutung einordnen."
+        ],
+        "diagnostics": [
+          "Bestkorrigierten Visus, Spaltlampenfundus, OCT und bei spezieller Fragestellung Angiografie zusammenführen.",
+          "Zentrumsbeteiligung, intraretinale Flüssigkeit, subretinale Flüssigkeit, harte Exsudate und vitreomakuläre Traktion dokumentieren.",
+          "Systemische Faktoren wie Blutzucker, Blutdruck und Nierenfunktion in die Gesamtbehandlung einbeziehen."
+        ],
+        "management": [
+          "Bei visusrelevantem, zentrumsbeteiligtem Ödem bilden intravitreale Therapien häufig die Grundlage; Präparat und Schema sind individuell festzulegen.",
+          "Laser, Steroide oder chirurgische Optionen kommen abhängig von Morphologie, Vorbehandlung und Begleiterkrankungen infrage.",
+          "Behandlungsintervalle anhand von Funktion, OCT-Verlauf, Risiken und Adhärenz planen."
+        ],
+        "pitfalls": [
+          "OCT-Dicke und Visus korrelieren nicht in jedem Einzelfall eng.",
+          "Eine lokale Augenbehandlung ersetzt nicht die Kontrolle systemischer Risikofaktoren."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Diabetes kann kleine Netzhautgefäße undicht machen. Sammelt sich Flüssigkeit in der Stelle des schärfsten Sehens, spricht man von einem diabetischen Makulaödem.",
+          "Die Veränderung kann zunächst unbemerkt bleiben oder unscharfes und verzerrtes Sehen verursachen."
+        ],
+        "care": [
+          "Regelmäßige Netzhautkontrollen sind auch ohne Beschwerden wichtig.",
+          "Je nach Befund werden Kontrollen, Medikamenteninjektionen ins Auge oder andere Verfahren besprochen.",
+          "Eine gute Einstellung von Blutzucker und Blutdruck unterstützt den Schutz der Netzhaut."
+        ],
+        "urgent": [
+          "Eine neue deutliche Sehverschlechterung sollte kurzfristig augenärztlich abgeklärt werden.",
+          "Ein plötzlicher massiver Sehverlust oder ein dunkler Vorhang ist ein Notfallzeichen."
+        ]
+      },
+      "questions": [
+        {"q": "Welche Befunde bestimmen die Behandlungsentscheidung beim diabetischen Makulaödem?", "a": "Zentrumsbeteiligung, Sehfunktion, OCT-Morphologie, Verlauf, Begleiterkrankungen und systemische Risikofaktoren werden gemeinsam bewertet."},
+        {"q": "Welche wichtige Grenze hat die alleinige OCT-Dickenmessung?", "a": "Netzhautdicke bildet die individuelle Sehfunktion und Krankheitsaktivität nicht vollständig ab und muss am B-Scan sowie klinisch korreliert werden."}
+      ],
+      "sourceKeys": ["70e127a145239032ae045404", "7241358481877828a185bc61", "196e4083a004091f0343281a"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "retinaler-arterienverschluss",
+      "title": "Retinaler Arterienverschluss: ophthalmologischer und vaskulärer Notfall",
+      "category": "retina",
+      "summary": "Erkennung eines akuten arteriellen Netzhautverschlusses und parallele augenärztlich-neurologische Ursachenabklärung.",
+      "takeaway": "Ein plötzliches schmerzloses monokulares Sehdefizit mit Verdacht auf Arterienverschluss verlangt sofortige Notfallabklärung.",
+      "professional": {
+        "overview": [
+          "Retinale Arterienverschlüsse verursachen eine akute Ischämie der inneren Netzhaut und können Ausdruck einer systemischen embolischen oder entzündlichen Erkrankung sein.",
+          "Die zeitkritische Versorgung umfasst Diagnosesicherung und Schlaganfall-orientierte Abklärung."
+        ],
+        "diagnostics": [
+          "Beginn und Verlauf exakt erfragen, Visus, Pupillenreaktion, Gesichtsfeld und Fundus dokumentieren.",
+          "OCT kann eine akute Verdickung und Hyperreflektivität innerer Netzhautschichten zeigen.",
+          "Bei passender Klinik unverzüglich vaskuläre Diagnostik veranlassen und eine Riesenzellarteriitis aktiv ausschließen."
+        ],
+        "management": [
+          "Patienten ohne Verzögerung in einen regional abgestimmten okulären oder neurologischen Notfallpfad überführen.",
+          "Mögliche akute Interventionen hängen von Zeitpunkt, Kontraindikationen und lokalem Protokoll ab; die Evidenz ist nicht für alle Maßnahmen gesichert.",
+          "Sekundärprävention richtet sich nach der ermittelten vaskulären oder entzündlichen Ursache."
+        ],
+        "pitfalls": [
+          "Ein anfangs wenig auffälliger Fundus schließt eine sehr frühe Ischämie nicht aus.",
+          "Zeit darf nicht durch ungesicherte Maßnahmen ohne parallele systemische Abklärung verloren gehen."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Bei einem Netzhautarterienverschluss wird die Blutversorgung eines Auges plötzlich unterbrochen.",
+          "Das kann zugleich ein Warnzeichen für Gefäßerkrankungen sein, die auch Gehirn oder Herz betreffen."
+        ],
+        "care": [
+          "Die Untersuchung erfolgt sofort und umfasst Auge, Kreislauf und mögliche Gefäßursachen.",
+          "Nach der Akutversorgung werden Risikofaktoren und Möglichkeiten zur Vorbeugung weiterer Gefäßereignisse besprochen.",
+          "Die Aussicht auf Sehverbesserung hängt unter anderem von Ort, Ausmaß und Dauer des Verschlusses ab."
+        ],
+        "urgent": [
+          "Plötzlicher schmerzloser Sehverlust auf einem Auge: sofort Notruf oder Notaufnahme, nicht bis zum nächsten Termin warten.",
+          "Kopf- oder Kauschmerz, druckempfindliche Schläfe oder Allgemeinsymptome müssen sofort genannt werden."
+        ]
+      },
+      "questions": [
+        {"q": "Welche systemische Diagnose muss bei älteren Patienten mit retinalem Arterienverschluss gezielt ausgeschlossen werden?", "a": "Eine Riesenzellarteriitis muss anhand von Anamnese, Untersuchung und dringlicher Labordiagnostik beziehungsweise weiterführender Diagnostik ausgeschlossen werden."},
+        {"q": "Warum gehört ein retinaler Arterienverschluss in einen interdisziplinären Notfallpfad?", "a": "Er kann Manifestation einer embolischen oder entzündlichen Systemerkrankung sein und zeigt ein erhöhtes Risiko weiterer vaskulärer Ereignisse an."}
+      ],
+      "sourceKeys": ["c22b2953daaef305210fae20", "b055c45f95bbce1a7fb02ca8"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "rhegmatogene-netzhautabloesung",
+      "title": "Rhegmatogene Netzhautablösung: Erkennung und Operationsprinzipien",
+      "category": "retina",
+      "summary": "Vom Netzhautriss über typische Warnsymptome bis zur zeitgerechten Auswahl des operativen Verfahrens.",
+      "takeaway": "Neue Lichtblitze, zahlreiche Floater oder ein Gesichtsfeldvorhang müssen auf einen Netzhautriss beziehungsweise eine Ablösung untersucht werden.",
+      "professional": {
+        "overview": [
+          "Bei der rhegmatogenen Ablösung gelangt verflüssigter Glaskörper durch einen Netzhautdefekt in den subretinalen Raum.",
+          "Ausdehnung, Makulastatus, Defektlage, Linsenstatus und proliferative Vitreoretinopathie bestimmen Dringlichkeit und Verfahrenswahl."
+        ],
+        "diagnostics": [
+          "Anamnese zu Photopsien, Floatern und Gesichtsfeldausfall sowie Visus und relativen afferenten Pupillendefekt erheben.",
+          "Periphere Netzhaut in Mydriasis vollständig untersuchen; bei fehlendem Einblick Ultraschall einsetzen.",
+          "Makulastatus und relevante Risikofaktoren dokumentieren."
+        ],
+        "management": [
+          "Symptomatische Netzhautrisse ohne Ablösung werden abhängig vom Befund prophylaktisch behandelt.",
+          "Bei Ablösung kommen Pars-plana-Vitrektomie, eindellende Verfahren oder in ausgewählten Situationen pneumatische Retinopexie infrage.",
+          "Zeitpunkt und Technik individuell durch den vitreoretinalen Operateur festlegen."
+        ],
+        "pitfalls": [
+          "Eine zentrale Sehschärfe kann bei noch anliegender Makula trotz ausgedehnter peripherer Ablösung gut sein.",
+          "Fehlender Funduseinblick darf die weitere Diagnostik nicht beenden."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Die Netzhaut kleidet das Auge innen aus. Entsteht ein Riss, kann Flüssigkeit darunter gelangen und sie von ihrer Unterlage ablösen.",
+          "Ohne rechtzeitige Behandlung kann dauerhaft Sehvermögen verloren gehen."
+        ],
+        "care": [
+          "Die Netzhaut wird nach Erweiterung der Pupille gründlich untersucht; manchmal ist Ultraschall nötig.",
+          "Ein Riss kann häufig mit Laser behandelt werden, eine Ablösung erfordert meist eine Operation.",
+          "Das geeignete Verfahren hängt von der individuellen Form der Ablösung ab."
+        ],
+        "urgent": [
+          "Neue Lichtblitze, plötzlich viele schwarze Punkte oder ein Schatten beziehungsweise Vorhang: noch am selben Tag untersuchen lassen.",
+          "Nach Augenoperationen oder Verletzungen neue Symptome besonders ernst nehmen."
+        ]
+      },
+      "questions": [
+        {"q": "Welche vier Befunde beeinflussen die Operationsplanung besonders?", "a": "Unter anderem Lage und Zahl der Defekte, Makulastatus, Linsenstatus sowie Vorliegen und Ausmaß einer proliferativen Vitreoretinopathie."},
+        {"q": "Was ist bei fehlendem Funduseinblick die zentrale Zusatzuntersuchung?", "a": "Die okuläre B-Bild-Sonografie dient dem Nachweis beziehungsweise der Ausdehnungsbeurteilung einer Ablösung."}
+      ],
+      "sourceKeys": ["53f4034eb98fb840293be7e7", "78f30d7e0c3bd5d9e88c973b", "76a8a0ec2775d7ca3f79911f"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "hereditaere-netzhautdystrophien",
+      "title": "Hereditäre Netzhautdystrophien: strukturierte Abklärung",
+      "category": "retina",
+      "summary": "Phänotyp, Familienanamnese, multimodale Diagnostik und genetische Beratung sinnvoll zusammenführen.",
+      "takeaway": "Die Diagnose einer erblichen Netzhauterkrankung verbindet klinischen Phänotyp mit Funktionsdiagnostik und qualitätsgesicherter Genetik.",
+      "professional": {
+        "overview": [
+          "Hereditäre Netzhautdystrophien sind klinisch und genetisch heterogen; ähnliche Symptome können unterschiedliche Ursachen haben.",
+          "Eine präzise Phänotypisierung verbessert Differenzialdiagnose, Beratung und Zugang zu spezialisierten Angeboten."
+        ],
+        "diagnostics": [
+          "Beginn, Nachtsehstörung, Photophobie, Gesichtsfeld, Farbsehen, Medikamente und Drei-Generationen-Familienanamnese erfassen.",
+          "Fundus, OCT, Autofluoreszenz, Gesichtsfeld und je nach Fragestellung ERG kombinieren.",
+          "Genetische Untersuchung mit Aufklärung, Einwilligung und humangenetischer beziehungsweise spezialisierter Beratung verknüpfen."
+        ],
+        "management": [
+          "Behandelbare Differenzialdiagnosen und syndromale Beteiligungen aktiv suchen.",
+          "Hilfsmittel, Rehabilitation, soziale Beratung und Verlaufskontrollen früh anbieten.",
+          "Gen- oder studienspezifische Optionen nur nach molekular bestätigter Diagnose und Zentrumsbeurteilung diskutieren."
+        ],
+        "pitfalls": [
+          "Ein negativer Gentest schließt eine erbliche Ursache nicht sicher aus.",
+          "Unsichere Varianten dürfen nicht ohne klinische Korrelation als Diagnose gewertet werden."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Erbliche Netzhauterkrankungen können Nachtsehen, Gesichtsfeld, Farbsehen oder Sehschärfe beeinträchtigen.",
+          "Verlauf und Vererbung unterscheiden sich stark; deshalb ist eine genaue Spezialdiagnostik wichtig."
+        ],
+        "care": [
+          "Mehrere Untersuchungen zeigen Aufbau und Funktion der Netzhaut.",
+          "Ein Gentest wird nach Aufklärung durchgeführt und gemeinsam mit dem Augenbefund beurteilt.",
+          "Sehhilfen, Beratung und spezialisierte Zentren können auch dann helfen, wenn keine ursächliche Therapie verfügbar ist."
+        ],
+        "urgent": [
+          "Eine plötzlich neue Sehverschlechterung ist nicht typisch für jeden erblichen Verlauf und sollte zeitnah abgeklärt werden.",
+          "Neue neurologische oder andere körperliche Beschwerden sollten wegen möglicher Begleiterkrankungen genannt werden."
+        ]
+      },
+      "questions": [
+        {"q": "Warum reicht ein genetischer Befund allein häufig nicht für die Diagnose?", "a": "Varianten müssen nach Pathogenität, Erbgang und Übereinstimmung mit dem klinischen Phänotyp bewertet werden."},
+        {"q": "Welche Rolle spielt das Ganzfeld-ERG?", "a": "Es objektiviert die globale Stäbchen- und Zapfenfunktion und hilft, Erkrankungsmuster funktionell einzuordnen."}
+      ],
+      "sourceKeys": ["331dd77b5c3aec779ae22417", "0c54fc7725e6bffacc59e62f", "bde8edfb5152c262b8739946"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-diagnostik",
+      "title": "Glaukomdiagnostik: Papille, OCT, Druck und Kammerwinkel",
+      "category": "glaucoma",
+      "summary": "Strukturelle und funktionelle Befunde zu einer belastbaren Diagnose und Ausgangsdokumentation verbinden.",
+      "takeaway": "Glaukom ist eine progressive Optikusneuropathie; ein einzelner Druckwert oder OCT-Ausdruck stellt die Diagnose nicht allein.",
+      "professional": {
+        "overview": [
+          "Die Diagnostik verbindet Risikoprofil, Augeninnendruck, Vorderabschnitt, Kammerwinkel, Papillenmorphologie, Nervenfaserschicht und Funktion.",
+          "Verlauf und Übereinstimmung der Befunde sind oft wichtiger als ein isolierter Grenzwert."
+        ],
+        "diagnostics": [
+          "Applanationstonometrie mit Kenntnis von Tageszeit, Messbedingungen und zentraler Hornhautdicke einordnen.",
+          "Gonioskopie dokumentiert Winkelweite, Pigment, Synechien und sekundäre Zeichen.",
+          "Papillenfoto, OCT und standardautomatische Perimetrie als reproduzierbare Ausgangsbefunde sichern."
+        ],
+        "management": [
+          "Zieldruck aus Schadensstadium, Progressionsgeschwindigkeit, Ausgangsdruck, Lebenserwartung und Risikofaktoren ableiten.",
+          "Kontrollintervalle an Progressionsrisiko und Messqualität anpassen.",
+          "Bei Diskrepanz technische Qualität, Differenzialdiagnosen und Verlauf erneut prüfen."
+        ],
+        "pitfalls": [
+          "Große physiologische Exkavation und kleine gedrängte Papille können die Beurteilung täuschen.",
+          "OCT-Normdatenbanken und Perimetrie benötigen Qualitätskontrolle; rote Felder sind keine Diagnose."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Beim Glaukom werden Fasern des Sehnervs geschädigt. Der Augeninnendruck ist ein wichtiger behandelbarer Risikofaktor, kann aber auch im statistischen Normalbereich liegen.",
+          "Darum werden mehrere Untersuchungen und ihre Veränderungen über die Zeit betrachtet."
+        ],
+        "care": [
+          "Der Augendruck wird gemessen und der Sehnerv fotografiert oder mit OCT untersucht.",
+          "Ein Gesichtsfeldtest prüft, ob Bereiche des Sehens fehlen.",
+          "Regelmäßige Kontrollen sind wichtig, weil frühe Schäden oft keine Beschwerden verursachen."
+        ],
+        "urgent": [
+          "Starke Augenschmerzen, rotes Auge, Übelkeit und plötzlich unscharfes Sehen sind Notfallzeichen.",
+          "Ein schleichendes Glaukom verursacht dagegen meist lange keine akuten Symptome."
+        ]
+      },
+      "questions": [
+        {"q": "Welche Kernbefunde gehören zur glaukomatösen Ausgangsdokumentation?", "a": "Druckmessung, Hornhautdicke, Gonioskopie, Papillenbeurteilung beziehungsweise Foto, OCT und reproduzierbare Perimetrie sowie relevante Risikofaktoren."},
+        {"q": "Warum ist ein einzelner normaler Augeninnendruck kein Ausschlusskriterium?", "a": "Druck schwankt, individuelle Schädigungsschwellen unterscheiden sich und ein Glaukom kann auch bei statistisch normalen Messwerten fortschreiten."}
+      ],
+      "sourceKeys": ["78e38367ba1aa24ff364fe10", "0f4e7f7ea7494bb33b74f3f5", "5bfdac6b76c154509085b56c"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-gesichtsfeld",
+      "title": "Gesichtsfeld beim Glaukom: Qualität vor Progression",
+      "category": "glaucoma",
+      "summary": "Perimetrie zuverlässig beurteilen, typische Defekte erkennen und echte Progression von Schwankung unterscheiden.",
+      "takeaway": "Eine Progressionsaussage braucht plausible, ausreichend zuverlässige und wiederholte Untersuchungen.",
+      "professional": {
+        "overview": [
+          "Die standardautomatische Perimetrie misst die lichtdifferenzielle Empfindlichkeit und ergänzt strukturelle Befunde um die funktionelle Perspektive.",
+          "Lern-, Ermüdungs- und Aufmerksamkeitsfaktoren verursachen relevante Variabilität."
+        ],
+        "diagnostics": [
+          "Prüfstrategie, Refraktion, Pupille und Zuverlässigkeitsindikatoren kontrollieren und Rohdaten auf Plausibilität prüfen.",
+          "Lokalisation und Form eines Defekts mit Sehnerv und OCT korrelieren.",
+          "Ereignis- und Trendanalysen im Kontext mehrerer Untersuchungen und ihrer Qualität bewerten."
+        ],
+        "management": [
+          "Früh im Verlauf genügend Ausgangsuntersuchungen gewinnen, um individuelle Schwankung und Progressionsrate abschätzen zu können.",
+          "Testfrequenz bei hohem Risiko oder Progressionsverdacht erhöhen.",
+          "Therapie nicht aufgrund eines unzuverlässigen Einzeltests eskalieren, bei klinischer Dringlichkeit aber auch nicht unnötig verzögern."
+        ],
+        "pitfalls": [
+          "Fixationsverluste sowie falsch-positive und falsch-negative Antworten haben unterschiedliche Ursachen und dürfen nicht nur nach Grenzwerten bewertet werden.",
+          "Neurologische, retinale und mediale Ursachen können glaukomähnliche Defekte erzeugen."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Der Gesichtsfeldtest prüft, wie empfindlich verschiedene Bereiche Ihres Sehens sind, während Sie einen Punkt fixieren.",
+          "Er ist anstrengend und muss manchmal wiederholt werden, damit Veränderungen sicher beurteilt werden können."
+        ],
+        "care": [
+          "Bringen Sie Ihre Lesebrille mit und fragen Sie nach einer Pause, wenn die Konzentration nachlässt.",
+          "Drücken Sie nur, wenn Sie den Lichtpunkt wahrnehmen; Raten macht den Test weniger zuverlässig.",
+          "Mehrere Tests im Verlauf sind aussagekräftiger als ein einzelnes Ergebnis."
+        ],
+        "urgent": [
+          "Ein plötzlich neuer Gesichtsfeldausfall muss rasch abgeklärt werden und ist nicht automatisch durch ein chronisches Glaukom erklärt.",
+          "Bei langsamem Verlauf gelten die vereinbarten Kontrolltermine."
+        ]
+      },
+      "questions": [
+        {"q": "Was muss vor jeder Progressionsanalyse geprüft werden?", "a": "Testqualität, Lern- und Ermüdungseffekte, Vergleichbarkeit der Strategie sowie anatomische Plausibilität des Defekts."},
+        {"q": "Warum werden Ereignis- und Trendanalyse kombiniert?", "a": "Die Ereignisanalyse erkennt reproduzierbare lokale Verschlechterungen, die Trendanalyse schätzt die Änderungsrate über mehrere Untersuchungen."}
+      ],
+      "sourceKeys": ["5bfdac6b76c154509085b56c", "78e38367ba1aa24ff364fe10"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7
+    },
+    {
+      "slug": "glaukom-medikamentoese-therapie",
+      "title": "Medikamentöse Glaukomtherapie: Zieldruck und Adhärenz",
+      "category": "glaucoma",
+      "summary": "Wirkstoffwahl, lokale und systemische Risiken sowie eine realistische Anwendung gemeinsam planen.",
+      "takeaway": "Die beste Drucksenkung nützt wenig, wenn Anwendung, Verträglichkeit und Verlaufskontrolle nicht zusammenpassen.",
+      "professional": {
+        "overview": [
+          "Die Auswahl drucksenkender Medikamente richtet sich nach erforderlicher Senkung, Glaukomform, Kontraindikationen, Augenoberfläche und Patientenpräferenz.",
+          "Wirksamkeit wird am individuellen Zieldruck und vor allem an stabiler Struktur und Funktion beurteilt."
+        ],
+        "diagnostics": [
+          "Ausgangsdruck, Tagesprofil bei Bedarf, Erkrankungsstadium, Progression und Begleiterkrankungen dokumentieren.",
+          "Asthma, Bradykardie, Schwangerschaft, Uveitisrisiko, Augenoberfläche und frühere Unverträglichkeit berücksichtigen.",
+          "Tropftechnik, tatsächliche Einnahme und mögliche Konservierungsmittelbelastung aktiv erfragen."
+        ],
+        "management": [
+          "Therapie mit einem geeigneten Wirkstoff oder einer begründeten Kombination beginnen und Wirkung nach angemessener Zeit kontrollieren.",
+          "Bei unzureichender Wirkung zuerst Anwendung und Adhärenz prüfen, dann Wechsel, Kombination, Laser oder Operation erwägen.",
+          "Systemische Resorption durch korrekten Lidschluss beziehungsweise Tränenwegsokklusion reduzieren."
+        ],
+        "pitfalls": [
+          "Mehr Tropfen bedeuten nicht automatisch bessere reale Kontrolle; komplexe Pläne können Adhärenz verschlechtern.",
+          "Kontraindikationen und Wechselwirkungen lokaler Betablocker werden leicht unterschätzt."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Glaukomtropfen senken den Augeninnendruck und sollen weitere Schäden am Sehnerv verhindern.",
+          "Bereits verlorenes Gesichtsfeld wird dadurch normalerweise nicht wiederhergestellt."
+        ],
+        "care": [
+          "Tropfen regelmäßig und genau nach Plan anwenden; Änderungen mit der Augenärztin oder dem Augenarzt abstimmen.",
+          "Nach dem Tropfen das Auge schließen und den inneren Augenwinkel sanft drücken.",
+          "Rötung, Atemprobleme, Kreislaufbeschwerden oder starke Reizung mitteilen."
+        ],
+        "urgent": [
+          "Atemnot, Ohnmacht oder eine schwere allergische Reaktion benötigen sofortige Hilfe.",
+          "Ein ausgelassener einzelner Tropfen ist meist kein Notfall; nicht ohne Anweisung doppelt dosieren."
+        ]
+      },
+      "questions": [
+        {"q": "Welche Faktoren bestimmen die Wahl des ersten drucksenkenden Medikaments?", "a": "Erforderliche Drucksenkung, Glaukomform und Stadium, Kontraindikationen, Nebenwirkungen, Augenoberfläche, Anwendung und Patientenpräferenz."},
+        {"q": "Was ist vor einer Therapieeskalation wegen scheinbarer Wirkungslosigkeit zu prüfen?", "a": "Messbedingungen, Tropftechnik, Adhärenz, Verträglichkeit und der tatsächlich erreichte Druck im Verhältnis zum individuellen Ziel."}
+      ],
+      "sourceKeys": ["f869f0f3619a5ac3b9dcfc09", "6a34f376f1a0d859ecb6050f", "1db537661175ace7f88eb461"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-lasertherapie",
+      "title": "Lasertherapie beim Glaukom: SLT, Iridotomie und Zyklophotokoagulation",
+      "category": "glaucoma",
+      "summary": "Laserverfahren nach Mechanismus, Indikation, erwartbarem Nutzen und Risiken unterscheiden.",
+      "takeaway": "Der Name Lasertherapie umfasst unterschiedliche Verfahren; die Anatomie und das Therapieziel entscheiden über die Auswahl.",
+      "professional": {
+        "overview": [
+          "Selektive Lasertrabekuloplastik, periphere Laseriridotomie und zyklodestruktive Verfahren greifen an verschiedenen Strukturen an.",
+          "Sie sind weder austauschbar noch für jede Glaukomform geeignet."
+        ],
+        "diagnostics": [
+          "Vor SLT Kammerwinkel, Pigmentierung, Ausgangsdruck und bisherige Therapie dokumentieren.",
+          "Vor Iridotomie Mechanismus der Winkelverengung gonioskopisch einordnen und alternative Ursachen bedenken.",
+          "Vor zyklodestruktiven Verfahren Visuspotenzial, Schmerz, Entzündungsrisiko und bisherige Operationen bewerten."
+        ],
+        "management": [
+          "SLT kann bei geeigneten Offenwinkelglaukomen als initiale oder ergänzende drucksenkende Option eingesetzt werden.",
+          "Laseriridotomie beseitigt einen Pupillarblock, behandelt aber nicht automatisch jede verbleibende Winkelverengung oder chronische Druckerhöhung.",
+          "Nach jedem Verfahren Druck, Entzündung, Wirkung und mögliche Komplikationen kontrollieren."
+        ],
+        "pitfalls": [
+          "Eine anatomisch offene Iridotomie garantiert keinen dauerhaft offenen Kammerwinkel.",
+          "Wirkung und Dauer der SLT variieren; eine spätere zusätzliche Therapie kann erforderlich sein."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Je nach Glaukomform kann Laser den Abfluss verbessern, eine kleine Öffnung in der Iris schaffen oder die Flüssigkeitsproduktion reduzieren.",
+          "Das passende Verfahren wird nach Untersuchung des Kammerwinkels und des Sehnervs ausgewählt."
+        ],
+        "care": [
+          "Die meisten Eingriffe erfolgen ambulant mit betäubenden Augentropfen.",
+          "Kontrolltermine prüfen Druck, Entzündung und Behandlungserfolg.",
+          "Bestehende Tropfen nur nach ausdrücklicher Anweisung ändern."
+        ],
+        "urgent": [
+          "Starke Schmerzen, deutliche Sehverschlechterung, zunehmende Rötung oder Übelkeit nach dem Eingriff sofort melden.",
+          "Leichte vorübergehende Reizung kann vorkommen, sollte aber nicht deutlich zunehmen."
+        ]
+      },
+      "questions": [
+        {"q": "Welchen Mechanismus behandelt eine periphere Laseriridotomie primär?", "a": "Sie schafft einen Druckausgleich zwischen Hinter- und Vorderkammer und hebt damit einen Pupillarblock auf."},
+        {"q": "Welche Voraussetzung ist vor SLT besonders zu dokumentieren?", "a": "Ein ausreichend einsehbarer, für die Behandlung geeigneter Kammerwinkel einschließlich seiner Pigmentierung."}
+      ],
+      "sourceKeys": ["7a3793c579762270fa846595", "127febfd91879bc2c8d6fbf2", "0f4e7f7ea7494bb33b74f3f5"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8
+    },
+    {
+      "slug": "glaukom-chirurgie",
+      "title": "Glaukomchirurgie: Trabekulektomie, Drainageimplantate und MIGS",
+      "category": "glaucoma",
+      "summary": "Operationswahl nach benötigter Drucksenkung, Ausgangssituation, Risikoprofil und Nachsorgebedarf.",
+      "takeaway": "Je niedriger der erforderliche Zieldruck und je fortgeschrittener der Schaden, desto wichtiger wird die Abwägung zwischen Wirksamkeit und Operationsrisiko.",
+      "professional": {
+        "overview": [
+          "Glaukomoperationen verbessern den Abfluss oder vermindern die Kammerwasserproduktion, unterscheiden sich aber deutlich in erreichbarer Drucksenkung und Komplikationsprofil.",
+          "Die Indikation beruht auf Progression oder unzureichender Zielerreichung trotz geeigneter konservativer Maßnahmen."
+        ],
+        "diagnostics": [
+          "Glaukomform, Stadium, Progressionsrate, Zieldruck, Bindehautstatus, Linsenstatus und frühere Eingriffe erfassen.",
+          "Adhärenz und verträgliche medikamentöse beziehungsweise Laseroptionen vor der Operationsentscheidung einordnen.",
+          "Nachsorgemöglichkeiten und individuelle Risikofaktoren gemeinsam planen."
+        ],
+        "management": [
+          "Trabekulektomie und Drainageimplantate können eine starke Drucksenkung erreichen, benötigen aber intensive Nachsorge.",
+          "MIGS-Verfahren haben je nach Technik häufig ein günstigeres Sicherheitsprofil, erreichen aber nicht in jeder Situation sehr niedrige Zieldrücke.",
+          "Postoperativ Druck, Vorderkammer, Filterkissen beziehungsweise Implantat, Entzündung und Infektionszeichen eng kontrollieren."
+        ],
+        "pitfalls": [
+          "Der Sammelbegriff MIGS umfasst unterschiedliche Eingriffe mit verschiedenen Zielstrukturen und Evidenzlagen.",
+          "Frühe Hypotonie, Druckanstieg, flache Vorderkammer und späte Infektion verlangen jeweils unterschiedliche Reaktionen."
+        ]
+      },
+      "patient": {
+        "explanation": [
+          "Eine Glaukomoperation soll den Augeninnendruck stärker oder zuverlässiger senken, wenn Tropfen und Laser nicht ausreichen oder ungeeignet sind.",
+          "Sie kann vorhandene Sehnervschäden nicht rückgängig machen, soll aber weiteres Fortschreiten bremsen."
+        ],
+        "care": [
+          "Das Operationsverfahren wird nach benötigter Drucksenkung und persönlichem Risiko ausgewählt.",
+          "Nach der Operation sind häufige Kontrollen und eine genaue Anwendung der verordneten Tropfen entscheidend.",
+          "Reiben, schweres Heben und Wasser am Auge werden für die empfohlene Zeit vermieden."
+        ],
+        "urgent": [
+          "Starke Schmerzen, zunehmende Rötung, eitriges Sekret oder rasche Sehverschlechterung sofort melden.",
+          "Auch viele Monate oder Jahre später kann ein operiertes Auge bei Entzündungszeichen dringend kontrolliert werden müssen."
+        ]
+      },
+      "questions": [
+        {"q": "Welche Faktoren bestimmen die Wahl zwischen filtrierender Chirurgie, Drainageimplantat und MIGS?", "a": "Benötigte Drucksenkung, Stadium und Progression, Glaukomform, Bindehaut und Voroperationen, Linsenstatus, Komplikationsrisiko und Nachsorgefähigkeit."},
+        {"q": "Warum ist die postoperative Nachsorge Teil der eigentlichen Glaukomoperation?", "a": "Wundheilung, Druckdynamik und frühe Komplikationen beeinflussen den langfristigen Erfolg und erfordern oft zeitnahe Interventionen."}
+      ],
+      "sourceKeys": ["f7071b5ff31346f5248c5ee5", "1f94d0acd5bb41ddef4f88fc", "a3b644a3a9321431c6549558"],
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 9
+    }
+  ]
+}

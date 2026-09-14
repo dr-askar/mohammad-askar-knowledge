@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-09-14",
+  "mode": "preview",
+  "articles": [
+    {
+      "slug": "amd-neovaskulaer",
+      "title": "Altersabhängige Makuladegeneration: Neovaskuläre Form",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Diagnose und Behandlung der neovaskulären AMD mit Anti-VEGF-Therapie und OCT-Monitoring.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./amd-neovaskulaer/"
+    },
+    {
+      "slug": "diabetische-retinopathie-stadien",
+      "title": "Diabetische Retinopathie: Klassifikation und Stadien",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Übersicht über die Stadien der diabetischen Retinopathie von nicht-proliferativ bis proliferativ.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 3,
+      "url": "./diabetische-retinopathie-stadien/"
+    },
+    {
+      "slug": "retinale-venenverschluss",
+      "title": "Retinale Venenverschlüsse: Zentrale und branchiforme Formen",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Pathophysiologie, Diagnose und Behandlung von zentralen und branchiformen retinalen Venenverschlüssen.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 9,
+      "sourceCount": 3,
+      "url": "./retinale-venenverschluss/"
+    },
+    {
+      "slug": "retinopathie-fruehgeborene",
+      "title": "Retinopathie der Frühgeborenen: Screening und Behandlung",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Risikofaktoren, Screeningrichtlinien und Behandlungsoptionen der Retinopathie der Frühgeborenen (ROP).",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./retinopathie-fruehgeborene/"
+    },
+    {
+      "slug": "makula-loch",
+      "title": "Makulaloch: Ätiologie, Diagnose und vitreoretinale Chirurgie",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Entwicklung, diagnostische Kriterien und chirurgische Behandlung von idiopathischen Makulalöchern.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 3,
+      "url": "./makula-loch/"
+    },
+    {
+      "slug": "glaukom-open-angle",
+      "title": "Primäres Offenwinkelglaukom: Pathophysiologie und Behandlung",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Übersicht über das primäre Offenwinkelglaukom von Risikofaktoren über Diagnose bis zur medizinischen und chirurgischen Therapie.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./glaukom-open-angle/"
+    },
+    {
+      "slug": "glaukom-winkelblock",
+      "title": "Akuter Winkelblockglaukom: Notfallerkennung und Behandlung",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Pathophysiologie, Risikofaktoren und Notfallmanagement des akuten Winkelblockglaukoms als ophthalmologischer Notfall.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 3,
+      "url": "./glaukom-winkelblock/"
+    },
+    {
+      "slug": "glaukom-normaldruck",
+      "title": "Normotensives Glaukom: Diagnose und Behandlung bei normalem Augeninnendruck",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Spezialformen des Glaukoms mit Sehnervenschaden trotz statistisch normalem IOP-Wert.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./glaukom-normaldruck/"
+    },
+    {
+      "slug": "glaukom-kind",
+      "title": "Glaukom beim Kind: Spezialformen und kindgerechte Behandlung",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Überblick über angeborenes und infantiles Glaukom sowie Behandlungsansätze im pädiatrischen Alter.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 3,
+      "url": "./glaukom-kind/"
+    },
+    {
+      "slug": "glaukom-pigment",
+      "title": "Pigmentdispersions-Glaukom: Mechanismus und Monitoring",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Spezialform des offenen Winkels mit Pigmentfreisetzung aus der Iris und sekundären Trabekulum-Veränderungen.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 3,
+      "url": "./glaukom-pigment/"
+    },
+    {
+      "slug": "oct-netzhaut-interpretation",
+      "title": "OCT der Netzhaut systematisch interpretieren",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Ein reproduzierbarer Ablauf für Bildqualität, Schichtanalyse, Flüssigkeitsräume und klinische Korrelation.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 2,
+      "url": "./oct-netzhaut-interpretation/"
+    },
+    {
+      "slug": "diabetisches-makulaoedem",
+      "title": "Diabetisches Makulaödem: Befund und Therapieprinzipien",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Klinische Einordnung makulärer Flüssigkeit bei Diabetes mit funktioneller und morphologischer Verlaufskontrolle.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./diabetisches-makulaoedem/"
+    },
+    {
+      "slug": "retinaler-arterienverschluss",
+      "title": "Retinaler Arterienverschluss: ophthalmologischer und vaskulärer Notfall",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Erkennung eines akuten arteriellen Netzhautverschlusses und parallele augenärztlich-neurologische Ursachenabklärung.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 2,
+      "url": "./retinaler-arterienverschluss/"
+    },
+    {
+      "slug": "rhegmatogene-netzhautabloesung",
+      "title": "Rhegmatogene Netzhautablösung: Erkennung und Operationsprinzipien",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Vom Netzhautriss über typische Warnsymptome bis zur zeitgerechten Auswahl des operativen Verfahrens.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./rhegmatogene-netzhautabloesung/"
+    },
+    {
+      "slug": "hereditaere-netzhautdystrophien",
+      "title": "Hereditäre Netzhautdystrophien: strukturierte Abklärung",
+      "category": "retina",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Phänotyp, Familienanamnese, multimodale Diagnostik und genetische Beratung sinnvoll zusammenführen.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./hereditaere-netzhautdystrophien/"
+    },
+    {
+      "slug": "glaukom-diagnostik",
+      "title": "Glaukomdiagnostik: Papille, OCT, Druck und Kammerwinkel",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Strukturelle und funktionelle Befunde zu einer belastbaren Diagnose und Ausgangsdokumentation verbinden.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./glaukom-diagnostik/"
+    },
+    {
+      "slug": "glaukom-gesichtsfeld",
+      "title": "Gesichtsfeld beim Glaukom: Qualität vor Progression",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Perimetrie zuverlässig beurteilen, typische Defekte erkennen und echte Progression von Schwankung unterscheiden.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 7,
+      "sourceCount": 2,
+      "url": "./glaukom-gesichtsfeld/"
+    },
+    {
+      "slug": "glaukom-medikamentoese-therapie",
+      "title": "Medikamentöse Glaukomtherapie: Zieldruck und Adhärenz",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Wirkstoffwahl, lokale und systemische Risiken sowie eine realistische Anwendung gemeinsam planen.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./glaukom-medikamentoese-therapie/"
+    },
+    {
+      "slug": "glaukom-lasertherapie",
+      "title": "Lasertherapie beim Glaukom: SLT, Iridotomie und Zyklophotokoagulation",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Laserverfahren nach Mechanismus, Indikation, erwartbarem Nutzen und Risiken unterscheiden.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 8,
+      "sourceCount": 3,
+      "url": "./glaukom-lasertherapie/"
+    },
+    {
+      "slug": "glaukom-chirurgie",
+      "title": "Glaukomchirurgie: Trabekulektomie, Drainageimplantate und MIGS",
+      "category": "glaucoma",
+      "language": "de",
+      "audiences": [
+        "professional",
+        "patient"
+      ],
+      "summary": "Operationswahl nach benötigter Drucksenkung, Ausgangssituation, Risikoprofil und Nachsorgebedarf.",
+      "status": "medical-review",
+      "lastReviewed": "2026-09-14",
+      "readingMinutes": 9,
+      "sourceCount": 3,
+      "url": "./glaukom-chirurgie/"
+    }
+  ]
+}
