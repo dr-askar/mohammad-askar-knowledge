@@ -93,7 +93,7 @@ function markdownToHtml(markdown){
   const lines=markdown.replace(/\r/g,'').split('\n');let html='';let listType=null;let listItems=[];
   const flush=()=>{if(!listType)return;html+=`<${listType}>${listItems.map(item=>`<li>${inline(item)}</li>`).join('')}</${listType}>`;listType=null;listItems=[]};
   for(let index=0;index<lines.length;index++){const line=lines[index].trim();if(!line){flush();continue}
-    const heading=line.match(/^(#{1,4})\s+(.+)$/);if(heading){flush();const level=Math.min(heading[1].length+2,6);html+=`<h${level}>${inline(heading[2])}</h${level}>`;continue}
+    const heading=line.match(/^(#{1,4})\s+(.+)$/);if(heading){flush();const level=Math.min(heading[1].length+2,6);const headingText=heading[2].replace(/[*_]/g,'').toLocaleLowerCase('de');const headingClass=headingText.includes('red flag')||headingText.includes('achtung')?' kb-heading-redflag':headingText.includes('zusammenfassung')||headingText.includes('summary')||headingText.includes('merksatz')||headingText.includes('take-home')?' kb-heading-summary':'';html+=`<h${level} class="${headingClass.trim()}">${inline(heading[2])}</h${level}>`;continue}
     if(line.includes('|')&&index+1<lines.length&&/^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$/.test(lines[index+1])){
       flush();const header=parseTableRow(line);index++;const alignments=parseTableRow(lines[index]).map(cell=>cell.trim());const rows=[];
       while(index+1<lines.length&&lines[index+1].trim().includes('|')&&lines[index+1].trim()!==''){index++;rows.push(parseTableRow(lines[index]))}
