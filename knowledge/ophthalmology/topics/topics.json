@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:50:54.539Z",
+  "generatedAt": "2026-09-15T18:53:14.969Z",
   "status": "medical-review",
   "topics": [
     {
@@ -509,6 +509,19 @@
         "de"
       ],
       "url": "./leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufun-e4732b7/"
+    },
+    {
+      "id": "glaukom-adharenz-und-therapievereinfachung",
+      "title": "Offenwinkelglaukom: Adhärenz, Nebenwirkungen und Therapievereinfachung",
+      "category": "glaucoma",
+      "status": "medical-review",
+      "summary": "Beim primären Offenwinkelglaukom hängt der langfristige Erfolg nicht nur von der gewählten Substanz, sondern auch von der tatsächlichen Anwendung ab. Viele Patientinnen und Patienten verlieren durch komplexe Dosierschemata, okuläre Nebenwirkungen und fehlendes Krankheitsverständnis an Adhärenz. Vereinfachte, konservierungsmittelfreie und gemeinsam geplante Therapien können die Behandlung verbessern.",
+      "wordCount": 810,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./glaukom-adharenz-und-therapievereinfachung/"
     },
     {
       "id": "prufungsleitfaden-risikofaktoren-und-fruherkennung-des-offenwinkelglau-11bab12",
@@ -2515,33 +2528,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-0f2c1f7",
-      "title": "تقرير موجز: تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية",
-      "category": "glaucoma",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md"
       ],
       "missingFields": [
         "bodyDe",

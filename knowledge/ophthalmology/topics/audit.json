@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:50:54.539Z",
+  "generatedAt": "2026-09-15T18:53:14.969Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 134,
-  "pendingRedactionCount": 44,
+  "publicGroupCount": 135,
+  "pendingRedactionCount": 43,
   "excludedCount": 1,
   "reports": [
     {
@@ -809,7 +809,7 @@
     {
       "path": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md",
       "notebook": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية",
-      "groupId": "-0f2c1f7",
+      "groupId": "glaukom-adharenz-und-therapievereinfachung",
       "status": "used"
     },
     {

@@ -3908,17 +3908,6 @@
       }
     },
     {
-      "id": "-0f2c1f7",
-      "titleDe": "تقرير موجز: تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية",
-      "category": "glaucoma",
-      "status": "medical-review",
-      "primary": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
       "id": "-f472761",
       "titleDe": "دراسة تحليلية شاملة: تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية",
       "category": "glaucoma",
@@ -8878,6 +8867,74 @@
         ],
         "urgent": [
           "Bei Lichtscheu, starkem Tränenfluss, trüber Hornhaut, großen Augen, Schmerzen oder plötzlicher Sehverschlechterung sofort augenärztliche Hilfe suchen."
+        ]
+      }
+    },
+    {
+      "id": "glaukom-adharenz-und-therapievereinfachung",
+      "titleDe": "Offenwinkelglaukom: Adhärenz, Nebenwirkungen und Therapievereinfachung",
+      "category": "glaucoma",
+      "status": "medical-review",
+      "primary": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Offenwinkelglaukom: Adhärenz, Nebenwirkungen und Therapievereinfachung\n\n## Zusammenfassung\n\nBeim primären Offenwinkelglaukom hängt der langfristige Erfolg nicht nur von der gewählten Substanz, sondern auch von der tatsächlichen Anwendung ab. Viele Patientinnen und Patienten verlieren durch komplexe Dosierschemata, okuläre Nebenwirkungen und fehlendes Krankheitsverständnis an Adhärenz. Vereinfachte, konservierungsmittelfreie und gemeinsam geplante Therapien können die Behandlung verbessern.\n\n## Lernziele\n\n- Die wichtigsten Ursachen mangelnder Adhärenz beim Offenwinkelglaukom erklären.\n- Den Einfluss von Tropfenzahl, Konservierungsmitteln und Augenoberfläche beurteilen.\n- Praktische Strategien zur Vereinfachung und Unterstützung der Anwendung planen.\n\n## Fachärztlicher Überblick\n\nDas primäre Offenwinkelglaukom ist chronisch und häufig lange symptomarm. Eine Drucksenkung schützt jedoch nur dann, wenn Medikamente korrekt und dauerhaft angewendet werden. In Studien nimmt die Adhärenz mit steigender täglicher Tropfenfrequenz ab.\n\nTypische Barrieren sind Vergessen, Zweifel an der Wirksamkeit, fehlendes Verständnis des schleichenden Sehverlusts, motorische Einschränkungen und ein komplizierter Plan mit mehreren Flaschen. Adhärenz sollte deshalb offen und ohne Vorwurf besprochen werden.\n\n## Diagnostik\n\n- Bei jeder Verlaufskontrolle sollten Anwendungstechnik, tatsächliche Einnahme, Nebenwirkungen, Kosten und der Umgang mit vergessenen Dosen erfragt werden.\n- Brennen, Juckreiz, Tränenfluss, Fremdkörpergefühl und intermittierendes Verschwommensehen können auf eine okuläre Oberflächenerkrankung hinweisen. Konservierungsmittel können diese Beschwerden verstärken.\n- Die Adhärenzbeurteilung darf nicht allein aus dem gemessenen Augeninnendruck abgeleitet werden; Druckschwankungen, Tageszeit und Therapiepause müssen berücksichtigt werden.\n\n## Differenzialdiagnosen\n\n- Eine scheinbare Therapieresistenz kann durch falsche Tropftechnik, kurze Kontaktzeit, fehlende Nachfüllungen oder eine nicht erkannte Steroidexposition verursacht sein.\n- Bei Beschwerden sind trockene Augen, Blepharitis, allergische Konjunktivitis und eine medikamentenbedingte Oberfläche zu unterscheiden.\n\n## Therapieprinzipien\n\n- Der Therapieplan sollte auf möglichst wenige tägliche Anwendungen reduziert werden. Fixkombinationen können die Zahl der Flaschen und Konservierungsmittelkontakte verringern.\n- Bei langfristiger Unverträglichkeit sind konservierungsmittelfreie Präparate oder ein interventioneller Ansatz zu erwägen. Die Entscheidung richtet sich nach Zieldruck, Progression, Risikoprofil und Patientenpräferenz.\n- Tropfhilfen, Erinnerungen per Smartphone oder SMS, schriftliche Pläne und eine Demonstration der Tropftechnik sind besonders bei älteren oder motorisch eingeschränkten Menschen hilfreich.\n- Lebensstilberatung kann die Therapie unterstützen, ersetzt aber weder Druckkontrolle noch die verordnete Behandlung. Änderungen sollten gemeinsam vereinbart und beim nächsten Termin überprüft werden.\n\n## Red Flags\n\n- Rascher Druckanstieg, neue Gesichtsfeldausfälle oder deutliche Progression trotz vermeintlicher Therapie erfordern eine zeitnahe fachärztliche Reevaluation.\n- Starke Schmerzen, ausgeprägte Rötung oder eine akute Sehverschlechterung dürfen nicht als normale Tropfennebenwirkung abgetan werden.",
+      "summaryDe": "Beim primären Offenwinkelglaukom hängt der langfristige Erfolg nicht nur von der gewählten Substanz, sondern auch von der tatsächlichen Anwendung ab. Viele Patientinnen und Patienten verlieren durch komplexe Dosierschemata, okuläre Nebenwirkungen und fehlendes Krankheitsverständnis an Adhärenz. Vereinfachte, konservierungsmittelfreie und gemeinsam geplante Therapien können die Behandlung verbessern.",
+      "learningObjectives": [
+        "Die wichtigsten Ursachen mangelnder Adhärenz beim Offenwinkelglaukom erklären.",
+        "Den Einfluss von Tropfenzahl, Konservierungsmitteln und Augenoberfläche beurteilen.",
+        "Praktische Strategien zur Vereinfachung und Unterstützung der Anwendung planen."
+      ],
+      "professional": {
+        "overview": [
+          "Das primäre Offenwinkelglaukom ist chronisch und häufig lange symptomarm. Eine Drucksenkung schützt jedoch nur dann, wenn Medikamente korrekt und dauerhaft angewendet werden. In Studien nimmt die Adhärenz mit steigender täglicher Tropfenfrequenz ab.",
+          "Typische Barrieren sind Vergessen, Zweifel an der Wirksamkeit, fehlendes Verständnis des schleichenden Sehverlusts, motorische Einschränkungen und ein komplizierter Plan mit mehreren Flaschen. Adhärenz sollte deshalb offen und ohne Vorwurf besprochen werden."
+        ],
+        "diagnostics": [
+          "Bei jeder Verlaufskontrolle sollten Anwendungstechnik, tatsächliche Einnahme, Nebenwirkungen, Kosten und der Umgang mit vergessenen Dosen erfragt werden.",
+          "Brennen, Juckreiz, Tränenfluss, Fremdkörpergefühl und intermittierendes Verschwommensehen können auf eine okuläre Oberflächenerkrankung hinweisen. Konservierungsmittel können diese Beschwerden verstärken.",
+          "Die Adhärenzbeurteilung darf nicht allein aus dem gemessenen Augeninnendruck abgeleitet werden; Druckschwankungen, Tageszeit und Therapiepause müssen berücksichtigt werden."
+        ],
+        "differentials": [
+          "Eine scheinbare Therapieresistenz kann durch falsche Tropftechnik, kurze Kontaktzeit, fehlende Nachfüllungen oder eine nicht erkannte Steroidexposition verursacht sein.",
+          "Bei Beschwerden sind trockene Augen, Blepharitis, allergische Konjunktivitis und eine medikamentenbedingte Oberfläche zu unterscheiden."
+        ],
+        "therapy": [
+          "Der Therapieplan sollte auf möglichst wenige tägliche Anwendungen reduziert werden. Fixkombinationen können die Zahl der Flaschen und Konservierungsmittelkontakte verringern.",
+          "Bei langfristiger Unverträglichkeit sind konservierungsmittelfreie Präparate oder ein interventioneller Ansatz zu erwägen. Die Entscheidung richtet sich nach Zieldruck, Progression, Risikoprofil und Patientenpräferenz.",
+          "Tropfhilfen, Erinnerungen per Smartphone oder SMS, schriftliche Pläne und eine Demonstration der Tropftechnik sind besonders bei älteren oder motorisch eingeschränkten Menschen hilfreich.",
+          "Lebensstilberatung kann die Therapie unterstützen, ersetzt aber weder Druckkontrolle noch die verordnete Behandlung. Änderungen sollten gemeinsam vereinbart und beim nächsten Termin überprüft werden."
+        ],
+        "redFlags": [
+          "Rascher Druckanstieg, neue Gesichtsfeldausfälle oder deutliche Progression trotz vermeintlicher Therapie erfordern eine zeitnahe fachärztliche Reevaluation.",
+          "Starke Schmerzen, ausgeprägte Rötung oder eine akute Sehverschlechterung dürfen nicht als normale Tropfennebenwirkung abgetan werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum sinkt die Adhärenz bei mehreren täglichen Anwendungen?",
+          "a": "Jede zusätzliche Anwendung erhöht die organisatorische Belastung, die Wahrscheinlichkeit des Vergessens und die kumulative Nebenwirkungs- und Konservierungsmittelbelastung."
+        },
+        {
+          "q": "Welche Maßnahmen vereinfachen die Therapie?",
+          "a": "Fixkombinationen, konservierungsmittelfreie Präparate, Tropfhilfen, Erinnerungen und eine überprüfte Anwendungstechnik können die Umsetzung verbessern."
+        },
+        {
+          "q": "Wie sollte mangelnde Adhärenz besprochen werden?",
+          "a": "Nicht vorwurfsvoll, sondern als gemeinsame Problemanalyse: Was wird tatsächlich angewendet, welche Hindernisse bestehen, und welcher Plan ist realistisch?"
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Glaukom kann das Sehen langsam schädigen, ohne dass man es früh bemerkt. Tropfen helfen nur, wenn sie regelmäßig und richtig angewendet werden."
+        ],
+        "care": [
+          "Wir können gemeinsam einen einfacheren Tropfplan, Erinnerungen oder eine Tropfhilfe auswählen. Bei Brennen oder trockenen Augen sollte die Behandlung überprüft und nicht eigenständig abgesetzt werden."
+        ],
+        "urgent": [
+          "Bei starken Schmerzen, rotem Auge, plötzlicher Sehverschlechterung oder neuen Gesichtsfeldausfällen sofort ärztliche Hilfe suchen."
         ]
       }
     },
