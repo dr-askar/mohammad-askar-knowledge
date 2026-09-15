@@ -1,10 +1,10 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:24:19.550Z",
+  "generatedAt": "2026-09-15T20:17:29.746Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 144,
+  "publicGroupCount": 145,
   "pendingRedactionCount": 0,
   "excludedCount": 1,
   "reports": [
@@ -59,14 +59,14 @@
     {
       "path": "🎓 التهاب العنبة/Studio/012_Uveitis Intermedia_ Eine Umfassende Analyse.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-anterior-intermedia",
-      "status": "merged"
+      "groupId": "uveitis-intermedia",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/014_Leitfaden zur Uveitis anterior_ Beurteilung, Management und Nachsorge.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-anterior-intermedia",
-      "status": "merged"
+      "groupId": "uveitis-anterior",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/015_Leitfaden zur Uveitis_ Diagnose, Bildgebung und Behandlungsstrategien.md",
@@ -77,8 +77,8 @@
     {
       "path": "🎓 التهاب العنبة/Studio/018_Behandlungsrichtlinien und der Step-Ladder-Ansatz bei Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-anterior-intermedia",
-      "status": "used"
+      "groupId": "uveitis-anterior",
+      "status": "merged"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/021_Bildgebende Verfahren in der Uveitis_ Ein umfassender Studienleitfaden.md",

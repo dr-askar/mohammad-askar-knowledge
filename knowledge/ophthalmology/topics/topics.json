@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:24:19.550Z",
+  "generatedAt": "2026-09-15T20:17:29.746Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1921,18 +1921,30 @@
       "url": "./uveitis-paediatrisch-masquerade/"
     },
     {
-      "id": "uveitis-anterior-intermedia",
-      "title": "Uveitis anterior und intermedia: Muster, Komplikationen und Versorgung",
+      "id": "uveitis-anterior",
+      "title": "Uveitis anterior: Befunde, SUN-Grading und Therapie",
       "category": "uveitis",
       "status": "medical-review",
-      "summary": "Anteriore und intermediäre Uveitis unterscheiden sich in ihrem Entzündungsschwerpunkt, können aber gemeinsam auftreten und ähnliche Komplikationen verursachen. Bei der anterioren Form stehen Vorderkammerzellen, Keratopräzipitate, Schmerzen, Rötung und Photophobie im Vordergrund; die intermediäre Form zeigt vor allem Glaskörperentzündung, Floater und häufig ein Makulaödem. Entscheidend sind eine präzise Verlaufsbeschreibung, die Suche nach infektiösen oder systemischen Hinweisen sowie die gleichzeitige Kontrolle von Entzündung und Folgeproblemen. Therapieentscheidungen richten sich nicht nur nach dem Zellgrad, sondern nach Sehfunktion, beidseitigem Befall, Rezidiven, Komplikationen und der benötigten Steroidmenge.",
-      "wordCount": 1935,
-      "reportCount": 3,
+      "summary": "Dieses Dokument bietet eine umfassende Analyse der Uveitis anterior, basierend auf einer detaillierten Vorlesung. Die Uveitis anterior, definiert als eine primäre Entzündung der vorderen Augenkammer und der Iris gemäß den SUN-Kriterien von 2005, wird anhand ihres zeitlichen Verlaufs (akut, chronisch, rezidivierend) und ihrer pathologischen Merkmale (granulomatös vs. nicht-granulomatös) klassifiziert. Die diagnostische Beurteilung stützt sich auf die sorgfältige Untersuchung charakteristischer Befunde wie Endothelpräzipitate (KP), Irisknötchen und Irisatrophie. Zu den Hauptursachen zählen autoimmune Erkrankungen wie die HLA-B27-assoziierten Sp",
+      "wordCount": 6272,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de",
-        "ar"
+        "de"
       ],
-      "url": "./uveitis-anterior-intermedia/"
+      "url": "./uveitis-anterior/"
+    },
+    {
+      "id": "uveitis-intermedia",
+      "title": "Uveitis intermedia: Pars planitis, Diagnostik und stufenweise Therapie",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument bietet eine detaillierte Synthese der Kernkonzepte, der Ätiologie, der diagnostischen Ansätze und der Behandlungsstrategien für Uveitis Intermedia, basierend auf einer Fachvorlesung von Dr. Samir Hussein. Die Uveitis Intermedia, eine Entzündung, die primär die Pars plana und den Glaskörperraum betrifft, stellt eine diagnostische Herausforderung dar, da ihre Symptome oft subtil sind, was zu Verzögerungen in der Diagnose und zur Entwicklung von Komplikationen führt.",
+      "wordCount": 5023,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./uveitis-intermedia/"
     },
     {
       "id": "uveitis-grundlagen-diagnostik-bildgebung",
