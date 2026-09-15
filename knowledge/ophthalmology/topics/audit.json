@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:17:39.801Z",
+  "generatedAt": "2026-09-15T19:24:19.550Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 143,
-  "pendingRedactionCount": 35,
+  "publicGroupCount": 144,
+  "pendingRedactionCount": 0,
   "excludedCount": 1,
   "reports": [
     {
@@ -119,8 +119,8 @@
     {
       "path": "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md",
       "notebook": "🎓 تحديث DOG 2025_ حالة الفن",
-      "groupId": "dog-2025-amd-eb38a91",
-      "status": "used"
+      "groupId": "zur-altersbedingten-makuladegeneration-amd-fur-die-facharztprufung-a477b2a",
+      "status": "merged"
     },
     {
       "path": "👁️ Glaukom/Studio/001_Strategisches Glaukom-Management in der Facharztprüfung_ Evidenzbasierte Algorithmen, MIGS und postoperative Komplikationen.md",
@@ -383,8 +383,8 @@
     {
       "path": "👁️ Netzhaut/Studio/027_دليل الدراسة الشامل_ اعتلالات الجسم الزجاجي وانفصال الشبكية.md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "-ca3a648",
-      "status": "used"
+      "groupId": "management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klin-8fee993",
+      "status": "merged"
     },
     {
       "path": "👁️ Netzhaut/Studio/028_Umfassender Studienleitfaden_ Glaskörperanomalien und Netzhautablösung.md",
@@ -599,8 +599,8 @@
     {
       "path": "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/003_موجز إحاطة_ اعتلال اللطخة الناجم عن حفرة العصب البصري.md",
       "notebook": "👁️ اعتلال اللطخة وحفرة العصب البصري",
-      "groupId": "-97b1b5e",
-      "status": "used"
+      "groupId": "optic-pit-makulopathie-2dcc2c9",
+      "status": "merged"
     },
     {
       "path": "👁️ الأجفانkanski/Studio/001_Briefing-Dokument_ Klinische Erkenntnisse zur Augenlid-Ophthalmologie basierend auf der _Kanski made easy_-Reihe.md",
@@ -653,20 +653,20 @@
     {
       "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/005_مذكرة إحاطة_ أدوية طويلة المفعول لأمراض الشبكية النضحية.md",
       "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
-      "groupId": "-ceefea7",
-      "status": "used"
+      "groupId": "langwirksame-anti-vegf-therapie-netzhaut",
+      "status": "merged"
     },
     {
       "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/008_مقارنة بين عوامل Anti-VEGF الشائعة.md",
       "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
-      "groupId": "anti-vegf-8acd43c",
-      "status": "used"
+      "groupId": "langwirksame-anti-vegf-therapie-netzhaut",
+      "status": "merged"
     },
     {
       "path": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/003_التظاهرات العينية للأمراض الجهازية_ موجز محاضرة الدكتور أحمد الدباغ.md",
       "notebook": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ",
-      "groupId": "-de43e47",
-      "status": "used"
+      "groupId": "ophthalmologische-manifestationen-systemischer-erkrankungen-ein-briefi-3c5a49e",
+      "status": "merged"
     },
     {
       "path": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/004_Ophthalmologische Manifestationen systemischer Erkrankungen_ Ein Briefing.md",
@@ -689,32 +689,32 @@
     {
       "path": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/003_ثورة في طب الشبكية_ المؤشرات الحيوية والتصوير في الوذمة البقعية السكرية وانسداد الوريد الشبكي.md",
       "notebook": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي",
-      "groupId": "-00bb231",
-      "status": "used"
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "merged"
     },
     {
       "path": "👁️ العلاج المضاد للالتهاب للعين الجافة/Studio/003_الموجز الطبي_ السيكلوسبورين أ (CsA) كعلاج طويل الأمد لمرض جفاف العين.md",
       "notebook": "👁️ العلاج المضاد للالتهاب للعين الجافة",
-      "groupId": "csa-0ad33d1",
-      "status": "used"
+      "groupId": "glaukom-konservierungsmittel-augenoberflaeche",
+      "status": "merged"
     },
     {
       "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md",
       "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
-      "groupId": "-3230d98",
-      "status": "used"
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "merged"
     },
     {
       "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md",
       "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
-      "groupId": "-e6a4479",
-      "status": "used"
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "merged"
     },
     {
       "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/003_Briefing Document_ Pathophysiology and Advanced Management of Diabetic Macular Edema.md",
       "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
-      "groupId": "briefing-document-pathophysiology-and-advanced-management-of-diabetic--ca4c442",
-      "status": "used"
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "merged"
     },
     {
       "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/004_Diabetes und das Auge_ Ein Briefing zu Pathophysiologie, Therapie und Management des Diabetischen Makulaödems.md",
@@ -725,14 +725,14 @@
     {
       "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/007_إدارة مخاطر ارتفاع ضغط العين (IOD) بعد العلاج بالكورتيكوستيرويدات داخل الجسم الزجاجي للوذمة البقعية السكرية (DMÖ)_ موجز سريري.md",
       "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
-      "groupId": "iod-2441c59",
-      "status": "used"
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "merged"
     },
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/001_النتائج الوظيفية في حالات الجلوكوما لدى الأطفال_ تحليل شامل.md",
       "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
-      "groupId": "-60f06b2",
-      "status": "used"
+      "groupId": "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-81d3e63",
+      "status": "merged"
     },
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/002_Funktionelles Outcome bei kindlichen Glaukomerkrankungen_ Eine Synthese der Evidenz.md",
@@ -743,8 +743,8 @@
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/003_موجز إحاطة_ النتائج الوظيفية في حالات الجلوكوما لدى الأطفال.md",
       "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
-      "groupId": "-cfa0844",
-      "status": "used"
+      "groupId": "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-81d3e63",
+      "status": "merged"
     },
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/006_Briefing-Dokument_ Therapie des kindlichen Glaukoms.md",
@@ -755,8 +755,8 @@
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md",
       "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
-      "groupId": "-5fd79e9",
-      "status": "used"
+      "groupId": "therapie-des-kindlichen-glaukoms-5efb764",
+      "status": "merged"
     },
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/009_Briefing-Dokument_ Herausforderungen in der Diagnostik kindlicher Glaukomerkrankungen.md",
@@ -779,8 +779,8 @@
     {
       "path": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال/Studio/002_موجز إحاطة_ رؤى حديثة في طب عيون الأطفال.md",
       "notebook": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال",
-      "groupId": "-47dc23a",
-      "status": "used"
+      "groupId": "leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufun-e4732b7",
+      "status": "merged"
     },
     {
       "path": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/001_Briefing-Dokument_ Komplexe Katarakte und anspruchsvolle IOL-Implantation.md",
@@ -791,8 +791,8 @@
     {
       "path": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/002_موجز إحاطة_ زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia).md",
       "notebook": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
-      "groupId": "aphakia-70ff02c",
-      "status": "used"
+      "groupId": "facharzt-repetitorium-kataraktchirurgie-bei-diabetes-mellitus-und-nach-c947f1c",
+      "status": "merged"
     },
     {
       "path": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md",
@@ -803,8 +803,8 @@
     {
       "path": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md",
       "notebook": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة",
-      "groupId": "-9a6a2fa",
-      "status": "used"
+      "groupId": "neuroophthalmologische-notfaelle-papillenoedem-anisokorie",
+      "status": "merged"
     },
     {
       "path": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md",
@@ -815,8 +815,8 @@
     {
       "path": "👁️ مبادئ تفسير فحص OCT/Studio/002_موجز إحاطة_ مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT).md",
       "notebook": "👁️ مبادئ تفسير فحص OCT",
-      "groupId": "oct-9b6220c",
-      "status": "used"
+      "groupId": "oct-interpretation-2f81e72",
+      "status": "merged"
     },
     {
       "path": "👁️ مبادئ تفسير فحص OCT/Studio/003_Briefing-Dokument_ Prinzipien der OCT-Interpretation.md",
@@ -935,14 +935,14 @@
     {
       "path": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/002_Treatment Strategies for Macular Edema_ An Update on Theory and Practice.md",
       "notebook": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء",
-      "groupId": "treatment-strategies-for-macular-edema-an-update-on-theory-and-practic-2be216f",
-      "status": "used"
+      "groupId": "briefing-therapie-und-praxis-bei-makulaodem-ein-update-5db5fd5",
+      "status": "merged"
     },
     {
       "path": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md",
       "notebook": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء",
-      "groupId": "-56f051d",
-      "status": "used"
+      "groupId": "briefing-therapie-und-praxis-bei-makulaodem-ein-update-5db5fd5",
+      "status": "merged"
     },
     {
       "path": "📽️ Hornhaut/Studio/001_Akademischer Studienführer_ Konjunktivalschwenklappen (Conjunctival Flaps).md",
@@ -965,14 +965,14 @@
     {
       "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/003_مستجدات علاج الجلوكوما 2025_ رؤى من دراسات حديثة.md",
       "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
-      "groupId": "2025-cd29723",
-      "status": "used"
+      "groupId": "glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien-3e3e0e5",
+      "status": "merged"
     },
     {
       "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/004_رؤى حديثة في أبحاث الجلوكوما الانتقالية_ من المختبر إلى العيادة.md",
       "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
-      "groupId": "-f1596f0",
-      "status": "used"
+      "groupId": "translationale-glaukomforschung-perspektiven-herausforderungen-und-zuk-ade908a",
+      "status": "merged"
     },
     {
       "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/005_Briefing_ Aktuelle Entwicklungen in der Glaukomdiagnostik – Update 2025.md",
@@ -983,8 +983,8 @@
     {
       "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/006_تحديثات تشخيص الجلوكوما لعام 2025_ رؤى متعمقة وتحليلات.md",
       "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
-      "groupId": "2025-fec3519",
-      "status": "used"
+      "groupId": "briefing-aktuelle-entwicklungen-in-der-glaukomdiagnostik-update-2025-33ea69d",
+      "status": "merged"
     },
     {
       "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/003_ملخص إحاطة_ رضوض القسم الخلفي من العين (Posterior Segment Trauma).md",
@@ -1001,8 +1001,8 @@
     {
       "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/005_موجز إحاطة_ تدبير رضوض الجزء الأمامي من العين.md",
       "notebook": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين",
-      "groupId": "-563cad6",
-      "status": "used"
+      "groupId": "ophthalmologisches-trauma-89c95dd",
+      "status": "merged"
     },
     {
       "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/006_Briefing-Dokument_ Management von Traumata des vorderen Augenabschnitts.md",
@@ -1025,8 +1025,8 @@
     {
       "path": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md",
       "notebook": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية",
-      "groupId": "-33054df",
-      "status": "used"
+      "groupId": "neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik",
+      "status": "merged"
     },
     {
       "path": "🧑‍⚕️ أمراض العصبية/Studio/001_Briefing-Dokument_ Kopfschmerzen, Augenschmerzen und systemische Erkrankungen.md",
@@ -1097,14 +1097,14 @@
     {
       "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/001_ملخص إحاطة_ تسهيل رعاية المرضى المصابين بالضمور البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md",
       "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
-      "groupId": "namd-e729247",
-      "status": "used"
+      "groupId": "patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc",
+      "status": "merged"
     },
     {
       "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/002_Briefing Document_ Enhancing nAMD Patient Care Through Extended Treatment Intervals.md",
       "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
-      "groupId": "briefing-document-enhancing-namd-patient-care-through-extended-treatme-67ba4e9",
-      "status": "used"
+      "groupId": "patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc",
+      "status": "merged"
     },
     {
       "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/003_Briefing-Dokument_ Patientenversorgung bei nAMD im klinischen Alltag erleichtern.md",
@@ -1115,20 +1115,20 @@
     {
       "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/004_تسهيل رعاية مرضى التنكس البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md",
       "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
-      "groupId": "namd-2717590",
-      "status": "used"
+      "groupId": "patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc",
+      "status": "merged"
     },
     {
       "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/007_تقرير علمي_ منظور طب النظم في فهم الاستجابات المتباينة لعلاج التنكس البقعي الرطب المرتبط بالعمر (nAMD).md",
       "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
-      "groupId": "-b086f20",
-      "status": "used"
+      "groupId": "patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc",
+      "status": "merged"
     },
     {
       "path": "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة/Studio/001_ملخص شامل_ منهجية المراجعات المنهجية والتحليلات التلوية.md",
       "notebook": "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة",
-      "groupId": "-a1bdb35",
-      "status": "used"
+      "groupId": "systematische-abklaerung-sehverlust-rapd",
+      "status": "merged"
     },
     {
       "path": "🧠 Cataract/Studio/001_Umfassender Studienleitfaden_ Prävention und Management von Komplikationen in der Phakoemulsifikation.md",
@@ -1206,8 +1206,8 @@
     {
       "path": "🧠 Ocular Emergency/Studio/003_موجز إحاطة_ التشريح العصبي العيني وتقنيات التصوير.md",
       "notebook": "🧠 Ocular Emergency",
-      "groupId": "-8d3ad88",
-      "status": "used"
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
+      "status": "merged"
     },
     {
       "path": "🧠 Ocular Emergency/Studio/004_Briefing-Dokument_ Neuro-ophthalmologische Anatomie und Bildgebung.md",
@@ -1218,8 +1218,8 @@
     {
       "path": "🧠 Ocular Emergency/Studio/005_ملخص تشريح وتصوير المسار البصري في طب العيون العصبي.md",
       "notebook": "🧠 Ocular Emergency",
-      "groupId": "-9b7535a",
-      "status": "used"
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
+      "status": "merged"
     },
     {
       "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/001_Briefing-Dokument_ Neuro-Ophthalmologische Anatomie und Bildgebung.md",
@@ -1236,8 +1236,8 @@
     {
       "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md",
       "notebook": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية",
-      "groupId": "-70e1993",
-      "status": "used"
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
+      "status": "merged"
     },
     {
       "path": "🩺 مراجعات وفحوصات طبية عينية/Studio/003_Briefing-Dokument_ Klinische Kommunikation und Praxismanagement in der Augenheilkunde.md",

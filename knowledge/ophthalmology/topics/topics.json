@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:17:39.801Z",
+  "generatedAt": "2026-09-15T19:24:19.550Z",
   "status": "medical-review",
   "topics": [
     {
@@ -22,9 +22,10 @@
       "status": "medical-review",
       "summary": "Guten Tag, meine Damen und Herren. In der Facharztprüfung ist die Kataraktchirurgie beim Diabetiker ein absolutes Kernthema, an dem ich gerne die klinische Reife der Kandidaten prüfe. Hier trennt sich die Spreu vom Weizen: Ich erwarte von Ihnen, dass Sie diesen Patienten nicht als Routinefall, sondern als systemischen",
       "wordCount": 1684,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./facharzt-repetitorium-kataraktchirurgie-bei-diabetes-mellitus-und-nach-c947f1c/"
     },
@@ -50,7 +51,8 @@
       "wordCount": 2372,
       "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./komplexe-katarakt-und-sekundaer-iol-f1e9972/"
     },
@@ -89,7 +91,8 @@
       "wordCount": 2473,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./padiatrische-katarakte-aa96f04/"
     },
@@ -107,13 +110,26 @@
       "url": "./umfassender-studienleitfaden-kataraktchirurgie-bei-komplexen-hornhaute-9344864/"
     },
     {
+      "id": "akademischer-studienfuhrer-konjunktivalschwenklappen-conjunctival-flap-4581f24",
+      "title": "Akademischer Studienführer: Konjunktivalschwenklappen (Conjunctival Flaps)",
+      "category": "cornea-ocular-surface",
+      "status": "medical-review",
+      "summary": "In der modernen ophthalmologischen Chirurgie stellt die Rekonstruktion der Augenoberfläche eine der anspruchsvollsten Aufgaben dar. Die Anwendung von Konjunktivalschwenklappen (international fachsprachlich: Conjunctival Flaps ) ist hierbei ein essenzielles Verfahren, das insbesondere bei therapierefraktären Hornhautulz",
+      "wordCount": 1450,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./akademischer-studienfuhrer-konjunktivalschwenklappen-conjunctival-flap-4581f24/"
+    },
+    {
       "id": "ophthalmologisches-trauma-89c95dd",
       "title": "Management von Traumata des vorderen Augenabschnitts",
       "category": "emergency-trauma",
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einer Expertenvorlesung von Dr. Ammar Miri, einem beratenden Augenarzt und Chirurgen mit umfassender Erfahrung in der ophthalmologischen Notfallmedizin, zusammen. Die Präsentation konzentriert sich auf das Management von Traumata des vorderen Augenabschnitts und verw",
       "wordCount": 3651,
-      "reportCount": 4,
+      "reportCount": 5,
       "sourceLanguages": [
         "de",
         "ar"
@@ -129,7 +145,8 @@
       "wordCount": 2500,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-ophthalmologischer-konsultationen-4cad893/"
     },
@@ -142,7 +159,8 @@
       "wordCount": 3506,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./einblicke-in-die-padiatrische-ophthalmochirurgie-808fd82/"
     },
@@ -168,7 +186,8 @@
       "wordCount": 1785,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinische-kommunikation-und-praxismanagement-in-der-augenheilkunde-07e0daa/"
     },
@@ -194,7 +213,8 @@
       "wordCount": 2688,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./leitfaden-fur-die-augenarztliche-sprechstunde-kommunikation-und-klinis-481f8de/"
     },
@@ -205,9 +225,10 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Fachvortrag von Dr. Ahmed Al-Dabbagh, einem beratenden Augenarzt am Kingston Hospital in London, zusammen. Der Vortrag beleuchtet die vielfältigen Zusammenhänge zwischen systemischen Erkrankungen und ihren Manifestationen am Auge und unterstreicht die Devise „D",
       "wordCount": 2573,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./ophthalmologische-manifestationen-systemischer-erkrankungen-ein-briefi-3c5a49e/"
     },
@@ -218,9 +239,11 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Herausforderungen und Lösungsansätze in der Therapie der neovaskulären altersbedingten Makuladegeneration (nAMD) zusammen. Die Behandlung ist durch eine hohe Last für Patienten und das Gesundheitssystem gekennzeichnet, verschärft durch den demografischen Wandel – eine steigende Patie",
       "wordCount": 2407,
-      "reportCount": 1,
+      "reportCount": 5,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar",
+        "en"
       ],
       "url": "./patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc/"
     },
@@ -231,9 +254,10 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Prinzipien und methodischen Ansätze zur Interpretation der Optischen Kohärenztomographie (OCT) zusammen, basierend auf einer detaillierten Analyse des bereitgestellten Lehrmaterials. Der Kern der OCT-Interpretation liegt in einem systematischen, schichtweisen Vorgehen, das über eine",
       "wordCount": 2036,
-      "reportCount": 3,
+      "reportCount": 4,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./oct-interpretation-2f81e72/"
     },
@@ -246,7 +270,8 @@
       "wordCount": 1590,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./tumoren-des-vorderen-augenabschnitts-fur-die-facharztprufung-2654689/"
     },
@@ -400,9 +425,10 @@
       "status": "medical-review",
       "summary": "Dieses Briefing fasst die zentralen Erkenntnisse eines Fachvortrags von Christian Mardin über den neuesten Stand der Glaukomdiagnostik zusammen. Der Vortrag gliedert sich entlang der drei diagnostischen Säulen – Augeninnendruck, Perimetrie und Morphologie – und stellt pro Säule drei aktuelle wissenschaftliche Arbeiten",
       "wordCount": 2829,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./briefing-aktuelle-entwicklungen-in-der-glaukomdiagnostik-update-2025-33ea69d/"
     },
@@ -439,9 +465,10 @@
       "status": "medical-review",
       "summary": "Dieses Briefing-Dokument fasst die zentralen Erkenntnisse zum funktionellen Outcome von Kindern mit Glaukomerkrankungen nach operativer Therapie zusammen. Die Analyse verschiedener Studien und aktueller klinischer Daten offenbart eine signifikante Diskrepanz zwischen dem chirurgischen Erfolg, der oft in der Drucksenkun",
       "wordCount": 1861,
-      "reportCount": 1,
+      "reportCount": 3,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-81d3e63/"
     },
@@ -452,9 +479,10 @@
       "status": "medical-review",
       "summary": "Dieses Briefing-Dokument fasst die Kernaussagen aus sieben ausgewählten wissenschaftlichen Studien zur Glaukomtherapie zusammen, die zwischen Juni 2024 und Juni 2025 veröffentlicht wurden. Die Analyse, basierend auf einer Präsentation von Dr. Thomas Klink, gliedert sich in die drei Haupttherapiebereiche: medikamentöse",
       "wordCount": 2885,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien-3e3e0e5/"
     },
@@ -465,9 +493,10 @@
       "status": "medical-review",
       "summary": "Bei einer jahrzehntelangen Glaukomtherapie ist die Gesundheit der Augenoberfläche ein wesentlicher Teil des Behandlungserfolgs. Vor allem Benzalkoniumchlorid kann Tränenfilm, Epithel, Nerven und Bindehaut schädigen, Beschwerden verstärken und dadurch Adhärenz sowie spätere filtrierende Operationen beeinträchtigen. Konservierungsmittelfreie Strategien sollten früh geprüft werden.",
       "wordCount": 818,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./glaukom-konservierungsmittel-augenoberflaeche/"
     },
@@ -480,7 +509,8 @@
       "wordCount": 2364,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./herausforderungen-in-der-diagnostik-kindlicher-glaukomerkrankungen-f93e140/"
     },
@@ -493,7 +523,8 @@
       "wordCount": 1004,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./kindliches-glaukom-diagnostische-herausforderungen/"
     },
@@ -517,9 +548,10 @@
       "status": "medical-review",
       "summary": "Die frühzeitige Diagnose des pädiatrischen Glaukoms ist klinisch imperativ, da die langfristige Visusprognose unmittelbar von der Zeitspanne zwischen Erstmanifestation und chirurgischer Intervention abhängt. Im Gegensatz zum Glaukom des Erwachsenen steht beim Kind die strukturelle Dehnbarkeit des noch unreifen Augapfel",
       "wordCount": 2450,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufun-e4732b7/"
     },
@@ -532,7 +564,8 @@
       "wordCount": 810,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./glaukom-adharenz-und-therapievereinfachung/"
     },
@@ -595,9 +628,10 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Erkenntnisse zur Therapie des kongenitalen Glaukoms zusammen. Die Erkrankung ist selten, mit geschätzten Inzidenzen von 1:10.000 bis 1:30.000, wobei die tatsächliche Rate vermutlich geringer ist, was auf Diagnose-Schwierigkeiten hindeutet. Die Behandlung ist fast ausnahmslos operativ",
       "wordCount": 1997,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./therapie-des-kindlichen-glaukoms-5efb764/"
     },
@@ -608,9 +642,10 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Vortrag von Esther M. Hoffmann über die Translation von Grundlagenforschung in die klinische Praxis bei der Behandlung des Glaukoms zusammen. Das Glaukom, eine multifaktorielle neurodegenerative Erkrankung, stellt die Medizin vor Herausforderungen, da die Stand",
       "wordCount": 2049,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./translationale-glaukomforschung-perspektiven-herausforderungen-und-zuk-ade908a/"
     },
@@ -766,7 +801,8 @@
       "wordCount": 2888,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-des-nystagmus-und-unwillkurlicher-augenbewegungen-ff9f2cd/"
     },
@@ -779,7 +815,8 @@
       "wordCount": 3866,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-des-strabismus-bei-erwachsenen-neurologische-und-mechanische-u-125f340/"
     },
@@ -793,7 +830,8 @@
       "reportCount": 2,
       "sourceLanguages": [
         "de",
-        "en"
+        "en",
+        "ar"
       ],
       "url": "./abklaerung-sehverlust-bb74727/"
     },
@@ -806,7 +844,8 @@
       "wordCount": 2137,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./dysfunktionen-des-chiasma-opticum-und-der-retrochiasmatischen-sehbahn-a1ec3b8/"
     },
@@ -819,7 +858,8 @@
       "wordCount": 2790,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./ein-briefing-dokument-zum-transienten-visusverlust-tvl-1c5f9b4/"
     },
@@ -832,7 +872,8 @@
       "wordCount": 2649,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./funktionelle-sehstorungen-in-der-neuro-ophthalmologie-e897a92/"
     },
@@ -845,7 +886,8 @@
       "wordCount": 2884,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinische-ansatze-bei-optikusneuropathien-7089e7b/"
     },
@@ -858,7 +900,8 @@
       "wordCount": 1956,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinischer-ansatz-bei-sauglingen-mit-sehschwache-und-nystagmus-a691394/"
     },
@@ -871,7 +914,8 @@
       "wordCount": 2432,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./kopfschmerzen-augenschmerzen-und-systemische-erkrankungen-1ae611a/"
     },
@@ -884,7 +928,8 @@
       "wordCount": 3073,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./mechanischer-strabismus-73ce31a/"
     },
@@ -895,9 +940,10 @@
       "status": "medical-review",
       "summary": "Gesichtsfelduntersuchungen lokalisieren Läsionen entlang der Sehbahn; VEP und ERG liefern objektive Funktionsdaten. Eine zuverlässige Interpretation setzt korrekte Refraktion, stabile Testbedingungen, die Beurteilung der Testgüte und die anatomische Zuordnung des Defektmusters voraus.",
       "wordCount": 1038,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik/"
     },
@@ -910,7 +956,8 @@
       "wordCount": 2451,
       "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./neuroophthalmologische-anatomie-und-bildgebung-d2384c4/"
     },
@@ -921,9 +968,10 @@
       "status": "medical-review",
       "summary": "Die neuro-ophthalmologische Diagnostik verbindet die genaue Lokalisation entlang der Sehbahn mit OCT, MRT und CT. Ein Verständnis der Faseranordnung erklärt typische Gesichtsfeldausfälle und verhindert, dass Papillen-, Makula- oder Bildgebungsbefunde isoliert interpretiert werden.",
       "wordCount": 1065,
-      "reportCount": 1,
+      "reportCount": 4,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./neuroophthalmologische-anatomie-und-bildgebung-deutsch/"
     },
@@ -934,9 +982,10 @@
       "status": "medical-review",
       "summary": "Akute neuro-ophthalmologische Befunde können lebens- oder sehbedrohlich sein. Papillenödem, atypische Optikusneuritis, pupillenbeteiligte Okulomotoriusparese und ein schmerzhaftes Horner-Syndrom verlangen eine priorisierte Untersuchung und häufig sofortige Gefäß- oder Hirnbildgebung.",
       "wordCount": 956,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./neuroophthalmologische-notfaelle-papillenoedem-anisokorie/"
     },
@@ -949,7 +998,8 @@
       "wordCount": 3176,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./neurologischer-strabismus-52fd750/"
     },
@@ -962,7 +1012,8 @@
       "wordCount": 836,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./oct-neuroophthalmologie-rnfl-gcipl/"
     },
@@ -973,9 +1024,10 @@
       "status": "medical-review",
       "summary": "Eine strukturierte neuro-ophthalmologische Abklärung beginnt mit einer präzisen Anamnese und fünf Kernprüfungen: Sehschärfe, Farbsehen, Pupillen, Sehnerv und Gesichtsfeld. Besonders der RAPD und die Konfrontationsprüfung helfen, organische Läsionen, Chiasmapathologie und funktionellen Sehverlust früh zu unterscheiden.",
       "wordCount": 911,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./systematische-abklaerung-sehverlust-rapd/"
     },
@@ -988,7 +1040,8 @@
       "wordCount": 2019,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./storungen-der-hoheren-visuellen-funktionen-16d24bf/"
     },
@@ -1001,7 +1054,8 @@
       "wordCount": 2948,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./visuelle-felduntersuchungen-und-elektrodiagnostische-tests-in-der-neur-b2a80e9/"
     },
@@ -1014,7 +1068,8 @@
       "wordCount": 2149,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-der-augenlid-pathologien-d170657/"
     },
@@ -1027,7 +1082,8 @@
       "wordCount": 2285,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-der-ophthalmologischen-vorlesung-kanski-made-easy-lid-1-aa8cb8d/"
     },
@@ -1040,7 +1096,8 @@
       "wordCount": 2836,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./analyse-von-augenlidlasionen-basierend-auf-der-kanski-lehrmethode-38f89ba/"
     },
@@ -1092,7 +1149,8 @@
       "wordCount": 2311,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinische-bewertung-und-management-von-lidfehlstellungen-0ee1e11/"
     },
@@ -1105,7 +1163,8 @@
       "wordCount": 2280,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinische-einblicke-in-augenlidtumoren-und-deren-management-2e105ed/"
     },
@@ -1118,7 +1177,8 @@
       "wordCount": 3000,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./klinische-erkenntnisse-zur-augenlid-ophthalmologie-basierend-auf-der-k-5c99458/"
     },
@@ -1248,7 +1308,8 @@
       "wordCount": 2244,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./biomarker-und-kunstliche-intelligenz-in-der-retinalen-bildgebung-6def049/"
     },
@@ -1259,9 +1320,10 @@
       "status": "medical-review",
       "summary": "Dieses Briefing fasst die zentralen Erkenntnisse zur medikamentösen Therapie des Diabetischen Makulaödems (DMÖ) und des Makulaödems infolge retinaler Venenverschlüsse (RVV) zusammen. Die intravitreale Therapie mit Anti-VEGF-Inhibitoren ist bei fovealer Beteiligung der Behandlungsstandard und entscheidend für den Erhalt",
       "wordCount": 2793,
-      "reportCount": 1,
+      "reportCount": 3,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./briefing-therapie-und-praxis-bei-makulaodem-ein-update-5db5fd5/"
     },
@@ -1272,9 +1334,10 @@
       "status": "medical-review",
       "summary": "Diabetes und das Auge: Ein Briefing zu Pathophysiologie, Therapie und Management des Diabetischen Makulaödems",
       "wordCount": 2502,
-      "reportCount": 1,
+      "reportCount": 6,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8/"
     },
@@ -1300,7 +1363,8 @@
       "wordCount": 2327,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./erkenntnisse-aus-der-neuro-ophthalmologie-zu-relevanten-netzhauterkran-f4fe2a9/"
     },
@@ -1352,7 +1416,8 @@
       "wordCount": 2467,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./langer-wirksame-medikamente-bei-exsudativen-netzhauterkrankungen-eine--5672960/"
     },
@@ -1363,9 +1428,10 @@
       "status": "medical-review",
       "summary": "Langwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.",
       "wordCount": 884,
-      "reportCount": 1,
+      "reportCount": 3,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./langwirksame-anti-vegf-therapie-netzhaut/"
     },
@@ -1376,9 +1442,10 @@
       "status": "medical-review",
       "summary": "Management der vitreoretinalen Grenzfläche und Netzhautabhebungen: Klinische Standards und Prüfungswissen",
       "wordCount": 2090,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klin-8fee993/"
     },
@@ -1402,9 +1469,10 @@
       "status": "medical-review",
       "summary": "Dieses Dokument fasst die wichtigsten Erkenntnisse aus einem Fachvortrag über die Optic-Pit-Makulopathie zusammen, einer seltenen Erkrankung, die vorwiegend bei jüngeren Erwachsenen (20-50 Jahre) auftritt und typischerweise einseitig ist. Die Pathophysiologie ist durch eine Ansammlung von intra- oder subretinaler Flüss",
       "wordCount": 2967,
-      "reportCount": 4,
+      "reportCount": 5,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./optic-pit-makulopathie-2dcc2c9/"
     },
@@ -1417,7 +1485,8 @@
       "wordCount": 896,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./retinale-biomarker-und-ki-bildgebung/"
     },
@@ -1480,9 +1549,10 @@
       "status": "medical-review",
       "summary": "1. Executive Summary: Kernkonzepte der AMD\nDie Altersbedingte Makuladegeneration (AMD) ist nicht nur das „tägliche Brot“ in der retinalen Spezialsprechstunde – sie stellt etwa ein Drittel der gesamten Patientenlast dar –, sondern sie ist auch der Dreh- und Angelpunkt der Facharztprüfung. Als Prüfungsvorsitzender betone",
       "wordCount": 2072,
-      "reportCount": 1,
+      "reportCount": 2,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./zur-altersbedingten-makuladegeneration-amd-fur-die-facharztprufung-a477b2a/"
     },
@@ -1651,7 +1721,8 @@
       "wordCount": 2221,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./umfassender-studienleitfaden-padiatrische-intraokulare-tumoren-retinob-dc543d2/"
     },
@@ -1677,7 +1748,8 @@
       "wordCount": 3064,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./angeborene-anomalien-des-sehnervs-e8f018e/"
     },
@@ -1690,7 +1762,8 @@
       "wordCount": 1834,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./briefing-monofixationssyndrom-und-mikrotropie-eine-vergleichende-analy-002f941/"
     },
@@ -1703,7 +1776,8 @@
       "wordCount": 2453,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./chirurgie-der-au-eren-augenmuskeln-41f823b/"
     },
@@ -1716,7 +1790,8 @@
       "wordCount": 2101,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./exodeviation-au-enschielen-1e7bf42/"
     },
@@ -1729,7 +1804,8 @@
       "wordCount": 3218,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./grundlagen-des-strabismus-d09d538/"
     },
@@ -1742,7 +1818,8 @@
       "wordCount": 2147,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./kernkonzepte-und-management-der-amblyopie-8080151/"
     },
@@ -1755,7 +1832,8 @@
       "wordCount": 1168,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./kinderstrabismus-untersuchung-und-therapie/"
     },
@@ -1768,7 +1846,8 @@
       "wordCount": 2331,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./okulare-manifestationen-systemischer-erkrankungen-836d3b6/"
     },
@@ -1781,7 +1860,8 @@
       "wordCount": 2573,
       "reportCount": 1,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./padiatrische-esotropie-62ddd23/"
     },
@@ -1794,7 +1874,8 @@
       "wordCount": 1876,
       "reportCount": 4,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./uveitis-infektioes-notfaelle-endophthalmitis/"
     },
@@ -1820,7 +1901,8 @@
       "wordCount": 1841,
       "reportCount": 3,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./uveitis-posterior-nichtinfektioes/"
     },
@@ -1833,7 +1915,8 @@
       "wordCount": 1968,
       "reportCount": 5,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./uveitis-paediatrisch-masquerade/"
     },
@@ -1846,7 +1929,8 @@
       "wordCount": 1935,
       "reportCount": 3,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./uveitis-anterior-intermedia/"
     },
@@ -1859,956 +1943,11 @@
       "wordCount": 2185,
       "reportCount": 7,
       "sourceLanguages": [
-        "de"
+        "de",
+        "ar"
       ],
       "url": "./uveitis-grundlagen-diagnostik-bildgebung/"
     }
   ],
-  "pendingRedaction": [
-    {
-      "id": "akademischer-studienfuhrer-konjunktivalschwenklappen-conjunctival-flap-4581f24",
-      "title": "Akademischer Studienführer: Konjunktivalschwenklappen (Conjunctival Flaps)",
-      "category": "cornea-ocular-surface",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "de"
-      ],
-      "sourceReports": [
-        "📽️ Hornhaut/Studio/001_Akademischer Studienführer_ Konjunktivalschwenklappen (Conjunctival Flaps).md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "csa-0ad33d1",
-      "title": "الموجز الطبي: السيكلوسبورين أ (CsA) كعلاج طويل الأمد لمرض جفاف العين",
-      "category": "cornea-ocular-surface",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ العلاج المضاد للالتهاب للعين الجافة/Studio/003_الموجز الطبي_ السيكلوسبورين أ (CsA) كعلاج طويل الأمد لمرض جفاف العين.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-563cad6",
-      "title": "موجز إحاطة: تدبير رضوض الجزء الأمامي من العين",
-      "category": "emergency-trauma",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/005_موجز إحاطة_ تدبير رضوض الجزء الأمامي من العين.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "briefing-document-enhancing-namd-patient-care-through-extended-treatme-67ba4e9",
-      "title": "Briefing Document: Enhancing nAMD Patient Care Through Extended Treatment Intervals",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/002_Briefing Document_ Enhancing nAMD Patient Care Through Extended Treatment Intervals.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "briefing-document-pathophysiology-and-advanced-management-of-diabetic--ca4c442",
-      "title": "Briefing Document: Pathophysiology and Advanced Management of Diabetic Macular Edema",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/003_Briefing Document_ Pathophysiology and Advanced Management of Diabetic Macular Edema.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "treatment-strategies-for-macular-edema-an-update-on-theory-and-practic-2be216f",
-      "title": "Treatment Strategies for Macular Edema: An Update on Theory and Practice",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/002_Treatment Strategies for Macular Edema_ An Update on Theory and Practice.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "iod-2441c59",
-      "title": "إدارة مخاطر ارتفاع ضغط العين (IOD) بعد العلاج بالكورتيكوستيرويدات داخل الجسم الزجاجي للوذمة البقعية السكرية (DMÖ): موجز سريري",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/007_إدارة مخاطر ارتفاع ضغط العين (IOD) بعد العلاج بالكورتيكوستيرويدات داخل الجسم الزجاجي للوذمة البقعية السكرية (DMÖ)_ موجز سريري.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-de43e47",
-      "title": "التظاهرات العينية للأمراض الجهازية: موجز محاضرة الدكتور أحمد الدباغ",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/003_التظاهرات العينية للأمراض الجهازية_ موجز محاضرة الدكتور أحمد الدباغ.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-60f06b2",
-      "title": "النتائج الوظيفية في حالات الجلوكوما لدى الأطفال: تحليل شامل",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/001_النتائج الوظيفية في حالات الجلوكوما لدى الأطفال_ تحليل شامل.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "2025-fec3519",
-      "title": "تحديثات تشخيص الجلوكوما لعام 2025: رؤى متعمقة وتحليلات",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/006_تحديثات تشخيص الجلوكوما لعام 2025_ رؤى متعمقة وتحليلات.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "namd-2717590",
-      "title": "تسهيل رعاية مرضى التنكس البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/004_تسهيل رعاية مرضى التنكس البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-b086f20",
-      "title": "تقرير علمي: منظور طب النظم في فهم الاستجابات المتباينة لعلاج التنكس البقعي الرطب المرتبط بالعمر (nAMD)",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/007_تقرير علمي_ منظور طب النظم في فهم الاستجابات المتباينة لعلاج التنكس البقعي الرطب المرتبط بالعمر (nAMD).md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-00bb231",
-      "title": "ثورة في طب الشبكية: المؤشرات الحيوية والتصوير في الوذمة البقعية السكرية وانسداد الوريد الشبكي",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/003_ثورة في طب الشبكية_ المؤشرات الحيوية والتصوير في الوذمة البقعية السكرية وانسداد الوريد الشبكي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-ca3a648",
-      "title": "دليل الدراسة الشامل: اعتلالات الجسم الزجاجي وانفصال الشبكية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ Netzhaut/Studio/027_دليل الدراسة الشامل_ اعتلالات الجسم الزجاجي وانفصال الشبكية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-f1596f0",
-      "title": "رؤى حديثة في أبحاث الجلوكوما الانتقالية: من المختبر إلى العيادة",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/004_رؤى حديثة في أبحاث الجلوكوما الانتقالية_ من المختبر إلى العيادة.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-ceefea7",
-      "title": "مذكرة إحاطة: أدوية طويلة المفعول لأمراض الشبكية النضحية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/005_مذكرة إحاطة_ أدوية طويلة المفعول لأمراض الشبكية النضحية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "2025-cd29723",
-      "title": "مستجدات علاج الجلوكوما 2025: رؤى من دراسات حديثة",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/003_مستجدات علاج الجلوكوما 2025_ رؤى من دراسات حديثة.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "anti-vegf-8acd43c",
-      "title": "مقارنة بين عوامل Anti-VEGF الشائعة",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/008_مقارنة بين عوامل Anti-VEGF الشائعة.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "namd-e729247",
-      "title": "ملخص إحاطة: تسهيل رعاية المرضى المصابين بالضمور البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/001_ملخص إحاطة_ تسهيل رعاية المرضى المصابين بالضمور البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-a1bdb35",
-      "title": "ملخص شامل: منهجية المراجعات المنهجية والتحليلات التلوية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة/Studio/001_ملخص شامل_ منهجية المراجعات المنهجية والتحليلات التلوية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-cfa0844",
-      "title": "موجز إحاطة: النتائج الوظيفية في حالات الجلوكوما لدى الأطفال",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/003_موجز إحاطة_ النتائج الوظيفية في حالات الجلوكوما لدى الأطفال.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-47dc23a",
-      "title": "موجز إحاطة: رؤى حديثة في طب عيون الأطفال",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال/Studio/002_موجز إحاطة_ رؤى حديثة في طب عيون الأطفال.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-5fd79e9",
-      "title": "موجز إحاطة: رؤى حول علاج الجلوكوما الخلقية لدى الأطفال",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-e6a4479",
-      "title": "موجز إحاطة: رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "aphakia-70ff02c",
-      "title": "موجز إحاطة: زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia)",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/002_موجز إحاطة_ زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia).md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "oct-9b6220c",
-      "title": "موجز إحاطة: مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT)",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ مبادئ تفسير فحص OCT/Studio/002_موجز إحاطة_ مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT).md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-3230d98",
-      "title": "موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية: رؤى جديدة واستراتيجيات علاجية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "dog-2025-amd-eb38a91",
-      "title": "وثيقة إحاطة: تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD)",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-56f051d",
-      "title": "وثيقة إحاطة: رؤى حديثة حول علاج الوذمة البقعية",
-      "category": "general-exam",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-33054df",
-      "title": "تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-70e1993",
-      "title": "ملخص إحاطة: تشريح وتصوير طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-9b7535a",
-      "title": "ملخص تشريح وتصوير المسار البصري في طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧠 Ocular Emergency/Studio/005_ملخص تشريح وتصوير المسار البصري في طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-97b1b5e",
-      "title": "موجز إحاطة: اعتلال اللطخة الناجم عن حفرة العصب البصري",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/003_موجز إحاطة_ اعتلال اللطخة الناجم عن حفرة العصب البصري.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-8d3ad88",
-      "title": "موجز إحاطة: التشريح العصبي العيني وتقنيات التصوير",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧠 Ocular Emergency/Studio/003_موجز إحاطة_ التشريح العصبي العيني وتقنيات التصوير.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-9a6a2fa",
-      "title": "موجز إحاطة: حالات طارئة في طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    }
-  ]
+  "pendingRedaction": []
 }

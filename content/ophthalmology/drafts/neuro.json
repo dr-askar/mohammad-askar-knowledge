@@ -3,7 +3,7 @@
     {
       "id": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
       "titleDe": "Neuro-Ophthalmologische Anatomie und Bildgebung",
-      "sourceReports": ["🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md"],
+      "sourceReports": ["🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md", "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md", "🧠 Ocular Emergency/Studio/005_ملخص تشريح وتصوير المسار البصري في طب العيون العصبي.md", "🧠 Ocular Emergency/Studio/003_موجز إحاطة_ التشريح العصبي العيني وتقنيات التصوير.md"],
       "summaryDe": "Die neuro-ophthalmologische Diagnostik verbindet die genaue Lokalisation entlang der Sehbahn mit OCT, MRT und CT. Ein Verständnis der Faseranordnung erklärt typische Gesichtsfeldausfälle und verhindert, dass Papillen-, Makula- oder Bildgebungsbefunde isoliert interpretiert werden.",
       "learningObjectives": ["Die Abschnitte der Sehbahn und typische Läsionsmuster zuordnen.","OCT von RNFL und Ganglienzellschicht in der Neuro-Ophthalmologie einordnen.","Indikationen und typische Befunde von MRT und CT unterscheiden.","Dringliche Befunde wie Papillenödem, Chiasmakompression und Optikusneuritis erkennen."],
       "professional": {
@@ -19,7 +19,7 @@
     {
       "id": "neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik",
       "titleDe": "Neuro-Ophthalmologie: Gesichtsfeld und elektrophysiologische Diagnostik",
-      "sourceReports": ["🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md"],
+      "sourceReports": ["🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md", "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md"],
       "summaryDe": "Gesichtsfelduntersuchungen lokalisieren Läsionen entlang der Sehbahn; VEP und ERG liefern objektive Funktionsdaten. Eine zuverlässige Interpretation setzt korrekte Refraktion, stabile Testbedingungen, die Beurteilung der Testgüte und die anatomische Zuordnung des Defektmusters voraus.",
       "learningObjectives": ["Konfrontations-, kinetische und automatisierte Perimetrie unterscheiden.","Reliabilitätsindizes und globale Gesichtsfeldparameter beurteilen.","Typische Defektmuster der Sehbahn lokalisieren.","VEP und ERG nach Fragestellung und Wellenparametern auswählen."],
       "professional": {
@@ -67,7 +67,7 @@
     {
       "id": "neuroophthalmologische-notfaelle-papillenoedem-anisokorie",
       "titleDe": "Neuro-Ophthalmologische Notfälle: Papillenödem, Optikusneuritis und Anisokorie",
-      "sourceReports": ["👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md"],
+      "sourceReports": ["👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md", "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md"],
       "summaryDe": "Akute neuro-ophthalmologische Befunde können lebens- oder sehbedrohlich sein. Papillenödem, atypische Optikusneuritis, pupillenbeteiligte Okulomotoriusparese und ein schmerzhaftes Horner-Syndrom verlangen eine priorisierte Untersuchung und häufig sofortige Gefäß- oder Hirnbildgebung.",
       "learningObjectives": ["Papillenödem, hypertensive Krise und Pseudopapillenödem unterscheiden.","Typische und atypische Optikusneuritis erkennen.","Anisokorie nach Licht- und Dunkelreaktion einordnen.","Bei drittem Hirnnerven und schmerzhaftem Horner-Syndrom die richtige Bildgebung veranlassen."],
       "professional": {
