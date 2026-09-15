@@ -4828,17 +4828,6 @@
       }
     },
     {
-      "id": "oct-90eebf7",
-      "titleDe": "الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "medical-review",
-      "primary": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
       "id": "-33054df",
       "titleDe": "تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي",
       "category": "neuro-ophthalmology",
@@ -8744,149 +8733,6 @@
       }
     },
     {
-      "id": "retinale-biomarker-und-ki-bildgebung",
-      "titleDe": "Retinale Biomarker und künstliche Intelligenz in der Bildgebung",
-      "category": "retina",
-      "status": "medical-review",
-      "primary": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md",
-      "merged": [],
-      "sourceLanguages": [
-        "de"
-      ],
-      "bodyDe": "# Retinale Biomarker und künstliche Intelligenz in der Bildgebung\n\n## Zusammenfassung\n\nBei diabetischem Makulaödem und Makulaödem nach retinalem Venenverschluss verbinden OCT-Biomarker, Entzündungsmechanismen und künstliche Intelligenz die Diagnostik mit einer stärker individualisierten Verlaufskontrolle. KI kann Flüssigkeit segmentieren und quantifizieren, ersetzt aber nicht die klinische Entscheidung.\n\n## Lernziele\n\n- Diagnostische, prognostische und prädiktive Biomarker unterscheiden.\n- IRF, HRF und DRIL im OCT klinisch einordnen.\n- Potenzial und Grenzen von KI-Systemen in der Retinologie beurteilen.\n- Die ärztliche Verantwortung bei algorithmischen Befunden erklären.\n\n## Fachärztlicher Überblick\n\nDiabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen zentrale Mechanismen: Ischämie, Hypoxie, Zytokinaktivierung, Leukozytenmigration und Störung der Blut-Retina-Schranke. VEGF ist wichtig, aber nicht der einzige Entzündungsmediator.\n\nEin Biomarker kann diagnostisch, verlaufsbezogen, prognostisch oder prädiktiv sein. Diese Unterscheidung verhindert, dass ein OCT-Merkmal vorschnell als sichere Therapieanweisung verstanden wird.\n\n## Diagnostik\n\n- Die zentrale Netzhautdicke und intraretinale Flüssigkeit (IRF) dienen der Diagnose und Verlaufskontrolle. Große oder chronische Zysten können mit äußeren Netzhautschäden und schlechterer Sehprognose verbunden sein.\n- Hyperreflektive Foci (HRF) sind kleine punktförmige OCT-Läsionen und können aktivierte Mikroglia oder Makrophagen widerspiegeln. Viele HRF sprechen für eine entzündliche Komponente, sind aber nicht allein beweisend.\n- DRIL bezeichnet den Verlust der klaren Grenzen innerer Netzhautschichten. Das Ausmaß korreliert häufig mit der Sehfunktion und ist ein prognostischer Marker.\n- Biochemische Marker wie IL-6, IL-8, MCP-1 und VEGF im Kammerwasser oder Glaskörper sind wissenschaftlich relevant, werden aber nicht routinemäßig für jede Therapieentscheidung bestimmt.\n\n## Differenzialdiagnosen\n\n- OCT-Flüssigkeit muss von Artefakten, degenerativen Hohlräumen, vitreoretinaler Traktion und anderen Makulopathien unterschieden werden.\n- Ein Algorithmus kann Segmentierungsfehler produzieren, besonders bei Blutungen, Narben, hoher Myopie oder ungewöhnlicher Anatomie.\n- Bildaktivität und Sehfunktion können auseinanderfallen; Symptome, Sehschärfe, Fundus und Verlauf bleiben entscheidend.\n\n## Therapieprinzipien\n\n- Anti-VEGF bleibt bei vielen Formen des Makulaödems ein zentraler Ansatz. Bei ausgeprägter Entzündung, HRF oder persistierender Strukturstörung kann eine steroidbasierte Option erwogen werden, unter Berücksichtigung von Druck- und Kataraktrisiko.\n- KI-Systeme können Flüssigkeitskompartimente segmentieren, Volumen berechnen, Aktivität markieren und Verlaufskurven unterstützen. Die Anwendung muss für Gerät, Population und Indikation validiert sein.\n- Die ärztliche Aufgabe umfasst die Prüfung des Rohbilds, die Einordnung in den klinischen Kontext, die Diskussion mit dem Patienten und die finale Therapieentscheidung.\n- Bei Home-OCT oder Telemonitoring müssen Warnschwellen, Datenqualität, Datenschutz und ein klarer Eskalationsweg festgelegt werden.\n\n## Red Flags\n\n- Rasche Sehverschlechterung, neue Blutung, akute Metamorphopsien oder ein deutlicher Flüssigkeitszuwachs erfordern zeitnahe retinologische Kontrolle.\n- Ein KI-Bericht ohne überprüfbares Originalbild darf keine alleinige Therapieentscheidung auslösen.\n- Bei Diskrepanz zwischen Algorithmus und klinischem Befund ist die ärztliche Untersuchung maßgeblich.",
-      "summaryDe": "Bei diabetischem Makulaödem und Makulaödem nach retinalem Venenverschluss verbinden OCT-Biomarker, Entzündungsmechanismen und künstliche Intelligenz die Diagnostik mit einer stärker individualisierten Verlaufskontrolle. KI kann Flüssigkeit segmentieren und quantifizieren, ersetzt aber nicht die klinische Entscheidung.",
-      "learningObjectives": [
-        "Diagnostische, prognostische und prädiktive Biomarker unterscheiden.",
-        "IRF, HRF und DRIL im OCT klinisch einordnen.",
-        "Potenzial und Grenzen von KI-Systemen in der Retinologie beurteilen.",
-        "Die ärztliche Verantwortung bei algorithmischen Befunden erklären."
-      ],
-      "professional": {
-        "overview": [
-          "Diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen zentrale Mechanismen: Ischämie, Hypoxie, Zytokinaktivierung, Leukozytenmigration und Störung der Blut-Retina-Schranke. VEGF ist wichtig, aber nicht der einzige Entzündungsmediator.",
-          "Ein Biomarker kann diagnostisch, verlaufsbezogen, prognostisch oder prädiktiv sein. Diese Unterscheidung verhindert, dass ein OCT-Merkmal vorschnell als sichere Therapieanweisung verstanden wird."
-        ],
-        "diagnostics": [
-          "Die zentrale Netzhautdicke und intraretinale Flüssigkeit (IRF) dienen der Diagnose und Verlaufskontrolle. Große oder chronische Zysten können mit äußeren Netzhautschäden und schlechterer Sehprognose verbunden sein.",
-          "Hyperreflektive Foci (HRF) sind kleine punktförmige OCT-Läsionen und können aktivierte Mikroglia oder Makrophagen widerspiegeln. Viele HRF sprechen für eine entzündliche Komponente, sind aber nicht allein beweisend.",
-          "DRIL bezeichnet den Verlust der klaren Grenzen innerer Netzhautschichten. Das Ausmaß korreliert häufig mit der Sehfunktion und ist ein prognostischer Marker.",
-          "Biochemische Marker wie IL-6, IL-8, MCP-1 und VEGF im Kammerwasser oder Glaskörper sind wissenschaftlich relevant, werden aber nicht routinemäßig für jede Therapieentscheidung bestimmt."
-        ],
-        "differentials": [
-          "OCT-Flüssigkeit muss von Artefakten, degenerativen Hohlräumen, vitreoretinaler Traktion und anderen Makulopathien unterschieden werden.",
-          "Ein Algorithmus kann Segmentierungsfehler produzieren, besonders bei Blutungen, Narben, hoher Myopie oder ungewöhnlicher Anatomie.",
-          "Bildaktivität und Sehfunktion können auseinanderfallen; Symptome, Sehschärfe, Fundus und Verlauf bleiben entscheidend."
-        ],
-        "therapy": [
-          "Anti-VEGF bleibt bei vielen Formen des Makulaödems ein zentraler Ansatz. Bei ausgeprägter Entzündung, HRF oder persistierender Strukturstörung kann eine steroidbasierte Option erwogen werden, unter Berücksichtigung von Druck- und Kataraktrisiko.",
-          "KI-Systeme können Flüssigkeitskompartimente segmentieren, Volumen berechnen, Aktivität markieren und Verlaufskurven unterstützen. Die Anwendung muss für Gerät, Population und Indikation validiert sein.",
-          "Die ärztliche Aufgabe umfasst die Prüfung des Rohbilds, die Einordnung in den klinischen Kontext, die Diskussion mit dem Patienten und die finale Therapieentscheidung.",
-          "Bei Home-OCT oder Telemonitoring müssen Warnschwellen, Datenqualität, Datenschutz und ein klarer Eskalationsweg festgelegt werden."
-        ],
-        "redFlags": [
-          "Rasche Sehverschlechterung, neue Blutung, akute Metamorphopsien oder ein deutlicher Flüssigkeitszuwachs erfordern zeitnahe retinologische Kontrolle.",
-          "Ein KI-Bericht ohne überprüfbares Originalbild darf keine alleinige Therapieentscheidung auslösen.",
-          "Bei Diskrepanz zwischen Algorithmus und klinischem Befund ist die ärztliche Untersuchung maßgeblich."
-        ]
-      },
-      "questions": [
-        {
-          "q": "Was ist der Unterschied zwischen prognostischem und prädiktivem Biomarker?",
-          "a": "Ein prognostischer Marker beschreibt den erwartbaren Krankheitsverlauf unabhängig von einer bestimmten Therapie; ein prädiktiver Marker deutet auf die Wahrscheinlichkeit eines Ansprechens auf eine konkrete Therapie hin."
-        },
-        {
-          "q": "Welche OCT-Merkmale sind bei Makulaödem besonders wichtig?",
-          "a": "Zentrale Netzhautdicke, intraretinale Flüssigkeit, hyperreflektive Foci und DRIL liefern komplementäre Informationen zu Aktivität, Entzündung und Prognose."
-        },
-        {
-          "q": "Warum ersetzt KI nicht die Ophthalmologin oder den Ophthalmologen?",
-          "a": "Algorithmen sind abhängig von Bildqualität, Gerät und Trainingsdaten. Die finale Bewertung muss Symptome, Befund, Verlauf, Risiken und Patientenpräferenzen integrieren."
-        }
-      ],
-      "patient": {
-        "explanation": [
-          "OCT-Bilder zeigen Flüssigkeit und Strukturveränderungen in der Netzhaut. Computerprogramme können solche Veränderungen markieren, aber die Ärztin oder der Arzt entscheidet, was sie für Ihre Behandlung bedeuten."
-        ],
-        "care": [
-          "Regelmäßige Kontrollen, gute Diabetes- und Blutdruckeinstellung sowie die Meldung neuer Verzerrungen oder Sehverschlechterungen bleiben wichtig."
-        ],
-        "urgent": [
-          "Bei plötzlichem Sehverlust, neuen dunklen Flecken, starken Verzerrungen oder einem raschen Befundwechsel kurzfristig eine Augenarztpraxis oder Notfallambulanz kontaktieren."
-        ]
-      }
-    },
-    {
-      "id": "langwirksame-anti-vegf-therapie-netzhaut",
-      "titleDe": "Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen",
-      "category": "retina",
-      "status": "medical-review",
-      "primary": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
-      "merged": [],
-      "sourceLanguages": [
-        "de"
-      ],
-      "bodyDe": "# Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen\n\n## Zusammenfassung\n\nLangwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.\n\n## Lernziele\n\n- Den klinischen Bedarf für längere Injektionsintervalle erklären.\n- Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.\n- Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.\n- Treat-and-Extend als langfristige Strategie mit dem Patienten planen.\n\n## Fachärztlicher Überblick\n\nnAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.\n\nEin längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden.\n\n## Diagnostik\n\n- Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.\n- PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.\n- Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation.\n\n## Differenzialdiagnosen\n\n- Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.\n- Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.\n- Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen.\n\n## Therapieprinzipien\n\n- Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.\n- Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.\n- Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.\n- Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen.\n\n## Red Flags\n\n- Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.\n- Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.\n- Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen.",
-      "summaryDe": "Langwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.",
-      "learningObjectives": [
-        "Den klinischen Bedarf für längere Injektionsintervalle erklären.",
-        "Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.",
-        "Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.",
-        "Treat-and-Extend als langfristige Strategie mit dem Patienten planen."
-      ],
-      "professional": {
-        "overview": [
-          "nAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.",
-          "Ein längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden."
-        ],
-        "diagnostics": [
-          "Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.",
-          "PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.",
-          "Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation."
-        ],
-        "differentials": [
-          "Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.",
-          "Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.",
-          "Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen."
-        ],
-        "therapy": [
-          "Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.",
-          "Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.",
-          "Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.",
-          "Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen."
-        ],
-        "redFlags": [
-          "Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.",
-          "Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.",
-          "Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen."
-        ]
-      },
-      "questions": [
-        {
-          "q": "Was zeigte die PULSAR-Studie?",
-          "a": "Aflibercept 8 mg alle 12 oder 16 Wochen erreichte bei nAMD vergleichbare Visusgewinne wie 2 mg alle 8 Wochen und reduzierte die Injektionszahl."
-        },
-        {
-          "q": "Welche Rolle spielt Treat-and-Extend?",
-          "a": "Das Intervall wird proaktiv nach OCT, Visus und Aktivität angepasst. Es soll die Kontrolle erhalten und gleichzeitig unnötig häufige Injektionen vermeiden."
-        },
-        {
-          "q": "Warum reichen längere Intervalle allein nicht aus?",
-          "a": "Reaktivierung, Blutungen und Nebenwirkungen können auch bei langwirksamer Therapie auftreten; regelmäßige Kontrollen und klare Warnzeichen bleiben notwendig."
-        }
-      ],
-      "patient": {
-        "explanation": [
-          "Anti-VEGF-Spritzen bremsen krankhafte Gefäßleckage in der Netzhaut. Neuere Präparate oder höhere Dosen können bei geeigneten Patienten größere Abstände zwischen den Behandlungen ermöglichen."
-        ],
-        "care": [
-          "Die Abstände werden anhand von OCT und Sehfunktion individuell festgelegt. Bitte halten Sie Kontrollen ein und melden Sie neue Verzerrungen oder Sehverschlechterungen."
-        ],
-        "urgent": [
-          "Nach einer Injektion sind Schmerzen, starke Rötung, Lichtscheu oder rasche Sehverschlechterung ein Notfall. Auch neue Verzerrungen oder ein dunkler Fleck sollten schnell gemeldet werden."
-        ]
-      }
-    },
-    {
       "id": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
       "titleDe": "Neuro-Ophthalmologische Anatomie und Bildgebung",
       "category": "neuro-ophthalmology",
@@ -9029,6 +8875,220 @@
         ],
         "urgent": [
           "Bei plötzlich fehlenden Gesichtsfeldbereichen, Doppelbildern, Sprach- oder Kraftstörungen, starkem Kopfschmerz oder raschem Sehverlust sofort den Notruf oder eine Notfallambulanz kontaktieren."
+        ]
+      }
+    },
+    {
+      "id": "oct-neuroophthalmologie-rnfl-gcipl",
+      "titleDe": "OCT in der Neuro-Ophthalmologie: RNFL, GCIPL und Läsionslokalisation",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "primary": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# OCT in der Neuro-Ophthalmologie: RNFL, GCIPL und Läsionslokalisation\n\n## Zusammenfassung\n\nOCT quantifiziert RNFL und GCIPL und verbindet strukturelle Veränderungen mit Gesichtsfeld und Sehfunktion. Es unterstützt die Verlaufskontrolle bei Optikusneuritis und NAION, die Unterscheidung von Papillenödem und Pseudopapillenödem sowie die frühe Lokalisation chiasmaler und retrochiasmaler Läsionen.\n\n## Lernziele\n\n- RNFL und GCIPL als Strukturmarker erklären.\n- OCT-Befunde bei Optikusneuritis, NAION und Papillenödem einordnen.\n- GCIPL-Muster mit Chiasma- und Tractusläsionen verknüpfen.\n- OCT-Befunde mit Gesichtsfeld und MRT integrieren.\n\n## Fachärztlicher Überblick\n\nOCT ist schnell, nicht invasiv und erlaubt wiederholbare Messungen von RNFL und GCIPL. Bei neuro-ophthalmologischen Erkrankungen ist nicht nur der absolute Wert, sondern die zeitliche Veränderung und die Übereinstimmung mit Funktion und Anatomie relevant.\n\nNach einer Optikusneuritis kann die RNFL zunächst normal oder geschwollen erscheinen und in den folgenden Monaten ausdünnen. GCIPL-Verlust korreliert häufig enger mit der Sehfunktion als die RNFL allein.\n\n## Diagnostik\n\n- Bei NAION sollte die segmentale Ausdünnung von RNFL und GCIPL dem entsprechenden Gesichtsfelddefekt gegenübergestellt werden. Die Struktur-Funktions-Korrelation erhöht die diagnostische Sicherheit.\n- Beim echten Papillenödem können RNFL-Verdickung, Vorwölbung von RPE/Bruch-Membran und Flüssigkeitsräume auftreten. Optikusdrusen zeigen dagegen hyperreflektive, oft scharf begrenzte Strukturen; B-Scan und Autofluoreszenz können ergänzen.\n- Binasale GCIPL-Ausdünnung kann zu bitemporaler Hemianopsie bei Chiasmakompression passen. Ein solches Muster kann vor einem eindeutig auffälligen Gesichtsfeld auftreten und sollte eine geeignete MRT-Abklärung auslösen.\n- Bei retrochiasmalen Läsionen können asymmetrische nasale und temporale GCIPL-Muster eine homonyme Hemianopsie und bandförmige Optikusatrophie erklären. Der zeitliche Verlauf hängt vom Ort der Läsion und retrogradem axonalem Untergang ab.\n\n## Differenzialdiagnosen\n\n- Papillenödem, Optikusdrusen und PHOMS können sich im OCT überschneiden und müssen im klinischen Kontext beurteilt werden.\n- Segmentierungsfehler, hohe Myopie, Papillenanomalien und schlechte Bildqualität können scheinbare RNFL- oder GCIPL-Verluste erzeugen.\n- Ein abnormer OCT-Wert ohne passenden Funktionsbefund ist kein alleiniger Beweis für eine neuro-ophthalmologische Erkrankung.\n\n## Therapieprinzipien\n\n- OCT dient der Diagnose und Verlaufskontrolle; die Behandlung richtet sich nach der Ursache, etwa Entzündung, Ischämie, Drucksteigerung oder Kompression.\n- Bei Verdacht auf Chiasmaläsion müssen OCT, Gesichtsfeld, Pupillenbefund und MRT zeitnah zusammengeführt werden.\n- Verlaufsmessungen sollten am selben Gerät, mit vergleichbarer Signalqualität und standardisiertem Scanprotokoll erfolgen.\n\n## Red Flags\n\n- Neue GCIPL-Asymmetrie mit bitemporalem oder homonymem Gesichtsfelddefekt erfordert dringliche Bildgebung.\n- Papillenödem mit Kopfschmerz, Übelkeit oder transienten Visusstörungen muss als möglicher erhöhter intrakranieller Druck abgeklärt werden.\n- Rasche einseitige RNFL-/GCIPL-Veränderung mit Visusverlust oder RAPD erfordert zeitnahe neuro-ophthalmologische Untersuchung.",
+      "summaryDe": "OCT quantifiziert RNFL und GCIPL und verbindet strukturelle Veränderungen mit Gesichtsfeld und Sehfunktion. Es unterstützt die Verlaufskontrolle bei Optikusneuritis und NAION, die Unterscheidung von Papillenödem und Pseudopapillenödem sowie die frühe Lokalisation chiasmaler und retrochiasmaler Läsionen.",
+      "learningObjectives": [
+        "RNFL und GCIPL als Strukturmarker erklären.",
+        "OCT-Befunde bei Optikusneuritis, NAION und Papillenödem einordnen.",
+        "GCIPL-Muster mit Chiasma- und Tractusläsionen verknüpfen.",
+        "OCT-Befunde mit Gesichtsfeld und MRT integrieren."
+      ],
+      "professional": {
+        "overview": [
+          "OCT ist schnell, nicht invasiv und erlaubt wiederholbare Messungen von RNFL und GCIPL. Bei neuro-ophthalmologischen Erkrankungen ist nicht nur der absolute Wert, sondern die zeitliche Veränderung und die Übereinstimmung mit Funktion und Anatomie relevant.",
+          "Nach einer Optikusneuritis kann die RNFL zunächst normal oder geschwollen erscheinen und in den folgenden Monaten ausdünnen. GCIPL-Verlust korreliert häufig enger mit der Sehfunktion als die RNFL allein."
+        ],
+        "diagnostics": [
+          "Bei NAION sollte die segmentale Ausdünnung von RNFL und GCIPL dem entsprechenden Gesichtsfelddefekt gegenübergestellt werden. Die Struktur-Funktions-Korrelation erhöht die diagnostische Sicherheit.",
+          "Beim echten Papillenödem können RNFL-Verdickung, Vorwölbung von RPE/Bruch-Membran und Flüssigkeitsräume auftreten. Optikusdrusen zeigen dagegen hyperreflektive, oft scharf begrenzte Strukturen; B-Scan und Autofluoreszenz können ergänzen.",
+          "Binasale GCIPL-Ausdünnung kann zu bitemporaler Hemianopsie bei Chiasmakompression passen. Ein solches Muster kann vor einem eindeutig auffälligen Gesichtsfeld auftreten und sollte eine geeignete MRT-Abklärung auslösen.",
+          "Bei retrochiasmalen Läsionen können asymmetrische nasale und temporale GCIPL-Muster eine homonyme Hemianopsie und bandförmige Optikusatrophie erklären. Der zeitliche Verlauf hängt vom Ort der Läsion und retrogradem axonalem Untergang ab."
+        ],
+        "differentials": [
+          "Papillenödem, Optikusdrusen und PHOMS können sich im OCT überschneiden und müssen im klinischen Kontext beurteilt werden.",
+          "Segmentierungsfehler, hohe Myopie, Papillenanomalien und schlechte Bildqualität können scheinbare RNFL- oder GCIPL-Verluste erzeugen.",
+          "Ein abnormer OCT-Wert ohne passenden Funktionsbefund ist kein alleiniger Beweis für eine neuro-ophthalmologische Erkrankung."
+        ],
+        "therapy": [
+          "OCT dient der Diagnose und Verlaufskontrolle; die Behandlung richtet sich nach der Ursache, etwa Entzündung, Ischämie, Drucksteigerung oder Kompression.",
+          "Bei Verdacht auf Chiasmaläsion müssen OCT, Gesichtsfeld, Pupillenbefund und MRT zeitnah zusammengeführt werden.",
+          "Verlaufsmessungen sollten am selben Gerät, mit vergleichbarer Signalqualität und standardisiertem Scanprotokoll erfolgen."
+        ],
+        "redFlags": [
+          "Neue GCIPL-Asymmetrie mit bitemporalem oder homonymem Gesichtsfelddefekt erfordert dringliche Bildgebung.",
+          "Papillenödem mit Kopfschmerz, Übelkeit oder transienten Visusstörungen muss als möglicher erhöhter intrakranieller Druck abgeklärt werden.",
+          "Rasche einseitige RNFL-/GCIPL-Veränderung mit Visusverlust oder RAPD erfordert zeitnahe neuro-ophthalmologische Untersuchung."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum ist GCIPL bei Chiasmaläsionen hilfreich?",
+          "a": "Nasenbetonte GCIPL-Ausdünnung kann den Verlust kreuzender Fasern abbilden und eine Chiasmakompression früh vermuten lassen, manchmal vor deutlichen Gesichtsfelddefekten."
+        },
+        {
+          "q": "Wie unterscheidet OCT Papillenödem und Optikusdrusen?",
+          "a": "Muster von RNFL-Verdickung, RPE-/Bruch-Membran-Vorwölbung und hyperreflektiven Drusenstrukturen werden zusammen mit Klinik, Autofluoreszenz und gegebenenfalls B-Scan bewertet."
+        },
+        {
+          "q": "Warum reicht OCT allein nicht aus?",
+          "a": "OCT ist ein Strukturtest. Diagnose und Therapie erfordern die Korrelation mit Sehschärfe, Pupillenreaktion, Gesichtsfeld, Verlauf und Bildgebung."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "OCT fotografiert die feinen Nervenschichten der Netzhaut. Veränderungen können Hinweise auf eine Erkrankung des Sehnervs oder der Sehbahn geben, auch wenn das Gesichtsfeld noch unauffällig ist."
+        ],
+        "care": [
+          "Für Verlaufskontrollen sind vergleichbare Untersuchungen wichtig. Ein einzelner Messwert muss immer mit Symptomen und anderen Untersuchungen besprochen werden."
+        ],
+        "urgent": [
+          "Bei raschem Sehverlust, neuen Gesichtsfeldausfällen, starken Kopfschmerzen oder Doppelbildern sofort ärztliche Hilfe suchen."
+        ]
+      }
+    },
+    {
+      "id": "retinale-biomarker-und-ki-bildgebung",
+      "titleDe": "Retinale Biomarker und künstliche Intelligenz in der Bildgebung",
+      "category": "retina",
+      "status": "medical-review",
+      "primary": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Retinale Biomarker und künstliche Intelligenz in der Bildgebung\n\n## Zusammenfassung\n\nBei diabetischem Makulaödem und Makulaödem nach retinalem Venenverschluss verbinden OCT-Biomarker, Entzündungsmechanismen und künstliche Intelligenz die Diagnostik mit einer stärker individualisierten Verlaufskontrolle. KI kann Flüssigkeit segmentieren und quantifizieren, ersetzt aber nicht die klinische Entscheidung.\n\n## Lernziele\n\n- Diagnostische, prognostische und prädiktive Biomarker unterscheiden.\n- IRF, HRF und DRIL im OCT klinisch einordnen.\n- Potenzial und Grenzen von KI-Systemen in der Retinologie beurteilen.\n- Die ärztliche Verantwortung bei algorithmischen Befunden erklären.\n\n## Fachärztlicher Überblick\n\nDiabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen zentrale Mechanismen: Ischämie, Hypoxie, Zytokinaktivierung, Leukozytenmigration und Störung der Blut-Retina-Schranke. VEGF ist wichtig, aber nicht der einzige Entzündungsmediator.\n\nEin Biomarker kann diagnostisch, verlaufsbezogen, prognostisch oder prädiktiv sein. Diese Unterscheidung verhindert, dass ein OCT-Merkmal vorschnell als sichere Therapieanweisung verstanden wird.\n\n## Diagnostik\n\n- Die zentrale Netzhautdicke und intraretinale Flüssigkeit (IRF) dienen der Diagnose und Verlaufskontrolle. Große oder chronische Zysten können mit äußeren Netzhautschäden und schlechterer Sehprognose verbunden sein.\n- Hyperreflektive Foci (HRF) sind kleine punktförmige OCT-Läsionen und können aktivierte Mikroglia oder Makrophagen widerspiegeln. Viele HRF sprechen für eine entzündliche Komponente, sind aber nicht allein beweisend.\n- DRIL bezeichnet den Verlust der klaren Grenzen innerer Netzhautschichten. Das Ausmaß korreliert häufig mit der Sehfunktion und ist ein prognostischer Marker.\n- Biochemische Marker wie IL-6, IL-8, MCP-1 und VEGF im Kammerwasser oder Glaskörper sind wissenschaftlich relevant, werden aber nicht routinemäßig für jede Therapieentscheidung bestimmt.\n\n## Differenzialdiagnosen\n\n- OCT-Flüssigkeit muss von Artefakten, degenerativen Hohlräumen, vitreoretinaler Traktion und anderen Makulopathien unterschieden werden.\n- Ein Algorithmus kann Segmentierungsfehler produzieren, besonders bei Blutungen, Narben, hoher Myopie oder ungewöhnlicher Anatomie.\n- Bildaktivität und Sehfunktion können auseinanderfallen; Symptome, Sehschärfe, Fundus und Verlauf bleiben entscheidend.\n\n## Therapieprinzipien\n\n- Anti-VEGF bleibt bei vielen Formen des Makulaödems ein zentraler Ansatz. Bei ausgeprägter Entzündung, HRF oder persistierender Strukturstörung kann eine steroidbasierte Option erwogen werden, unter Berücksichtigung von Druck- und Kataraktrisiko.\n- KI-Systeme können Flüssigkeitskompartimente segmentieren, Volumen berechnen, Aktivität markieren und Verlaufskurven unterstützen. Die Anwendung muss für Gerät, Population und Indikation validiert sein.\n- Die ärztliche Aufgabe umfasst die Prüfung des Rohbilds, die Einordnung in den klinischen Kontext, die Diskussion mit dem Patienten und die finale Therapieentscheidung.\n- Bei Home-OCT oder Telemonitoring müssen Warnschwellen, Datenqualität, Datenschutz und ein klarer Eskalationsweg festgelegt werden.\n\n## Red Flags\n\n- Rasche Sehverschlechterung, neue Blutung, akute Metamorphopsien oder ein deutlicher Flüssigkeitszuwachs erfordern zeitnahe retinologische Kontrolle.\n- Ein KI-Bericht ohne überprüfbares Originalbild darf keine alleinige Therapieentscheidung auslösen.\n- Bei Diskrepanz zwischen Algorithmus und klinischem Befund ist die ärztliche Untersuchung maßgeblich.",
+      "summaryDe": "Bei diabetischem Makulaödem und Makulaödem nach retinalem Venenverschluss verbinden OCT-Biomarker, Entzündungsmechanismen und künstliche Intelligenz die Diagnostik mit einer stärker individualisierten Verlaufskontrolle. KI kann Flüssigkeit segmentieren und quantifizieren, ersetzt aber nicht die klinische Entscheidung.",
+      "learningObjectives": [
+        "Diagnostische, prognostische und prädiktive Biomarker unterscheiden.",
+        "IRF, HRF und DRIL im OCT klinisch einordnen.",
+        "Potenzial und Grenzen von KI-Systemen in der Retinologie beurteilen.",
+        "Die ärztliche Verantwortung bei algorithmischen Befunden erklären."
+      ],
+      "professional": {
+        "overview": [
+          "Diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen zentrale Mechanismen: Ischämie, Hypoxie, Zytokinaktivierung, Leukozytenmigration und Störung der Blut-Retina-Schranke. VEGF ist wichtig, aber nicht der einzige Entzündungsmediator.",
+          "Ein Biomarker kann diagnostisch, verlaufsbezogen, prognostisch oder prädiktiv sein. Diese Unterscheidung verhindert, dass ein OCT-Merkmal vorschnell als sichere Therapieanweisung verstanden wird."
+        ],
+        "diagnostics": [
+          "Die zentrale Netzhautdicke und intraretinale Flüssigkeit (IRF) dienen der Diagnose und Verlaufskontrolle. Große oder chronische Zysten können mit äußeren Netzhautschäden und schlechterer Sehprognose verbunden sein.",
+          "Hyperreflektive Foci (HRF) sind kleine punktförmige OCT-Läsionen und können aktivierte Mikroglia oder Makrophagen widerspiegeln. Viele HRF sprechen für eine entzündliche Komponente, sind aber nicht allein beweisend.",
+          "DRIL bezeichnet den Verlust der klaren Grenzen innerer Netzhautschichten. Das Ausmaß korreliert häufig mit der Sehfunktion und ist ein prognostischer Marker.",
+          "Biochemische Marker wie IL-6, IL-8, MCP-1 und VEGF im Kammerwasser oder Glaskörper sind wissenschaftlich relevant, werden aber nicht routinemäßig für jede Therapieentscheidung bestimmt."
+        ],
+        "differentials": [
+          "OCT-Flüssigkeit muss von Artefakten, degenerativen Hohlräumen, vitreoretinaler Traktion und anderen Makulopathien unterschieden werden.",
+          "Ein Algorithmus kann Segmentierungsfehler produzieren, besonders bei Blutungen, Narben, hoher Myopie oder ungewöhnlicher Anatomie.",
+          "Bildaktivität und Sehfunktion können auseinanderfallen; Symptome, Sehschärfe, Fundus und Verlauf bleiben entscheidend."
+        ],
+        "therapy": [
+          "Anti-VEGF bleibt bei vielen Formen des Makulaödems ein zentraler Ansatz. Bei ausgeprägter Entzündung, HRF oder persistierender Strukturstörung kann eine steroidbasierte Option erwogen werden, unter Berücksichtigung von Druck- und Kataraktrisiko.",
+          "KI-Systeme können Flüssigkeitskompartimente segmentieren, Volumen berechnen, Aktivität markieren und Verlaufskurven unterstützen. Die Anwendung muss für Gerät, Population und Indikation validiert sein.",
+          "Die ärztliche Aufgabe umfasst die Prüfung des Rohbilds, die Einordnung in den klinischen Kontext, die Diskussion mit dem Patienten und die finale Therapieentscheidung.",
+          "Bei Home-OCT oder Telemonitoring müssen Warnschwellen, Datenqualität, Datenschutz und ein klarer Eskalationsweg festgelegt werden."
+        ],
+        "redFlags": [
+          "Rasche Sehverschlechterung, neue Blutung, akute Metamorphopsien oder ein deutlicher Flüssigkeitszuwachs erfordern zeitnahe retinologische Kontrolle.",
+          "Ein KI-Bericht ohne überprüfbares Originalbild darf keine alleinige Therapieentscheidung auslösen.",
+          "Bei Diskrepanz zwischen Algorithmus und klinischem Befund ist die ärztliche Untersuchung maßgeblich."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Was ist der Unterschied zwischen prognostischem und prädiktivem Biomarker?",
+          "a": "Ein prognostischer Marker beschreibt den erwartbaren Krankheitsverlauf unabhängig von einer bestimmten Therapie; ein prädiktiver Marker deutet auf die Wahrscheinlichkeit eines Ansprechens auf eine konkrete Therapie hin."
+        },
+        {
+          "q": "Welche OCT-Merkmale sind bei Makulaödem besonders wichtig?",
+          "a": "Zentrale Netzhautdicke, intraretinale Flüssigkeit, hyperreflektive Foci und DRIL liefern komplementäre Informationen zu Aktivität, Entzündung und Prognose."
+        },
+        {
+          "q": "Warum ersetzt KI nicht die Ophthalmologin oder den Ophthalmologen?",
+          "a": "Algorithmen sind abhängig von Bildqualität, Gerät und Trainingsdaten. Die finale Bewertung muss Symptome, Befund, Verlauf, Risiken und Patientenpräferenzen integrieren."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "OCT-Bilder zeigen Flüssigkeit und Strukturveränderungen in der Netzhaut. Computerprogramme können solche Veränderungen markieren, aber die Ärztin oder der Arzt entscheidet, was sie für Ihre Behandlung bedeuten."
+        ],
+        "care": [
+          "Regelmäßige Kontrollen, gute Diabetes- und Blutdruckeinstellung sowie die Meldung neuer Verzerrungen oder Sehverschlechterungen bleiben wichtig."
+        ],
+        "urgent": [
+          "Bei plötzlichem Sehverlust, neuen dunklen Flecken, starken Verzerrungen oder einem raschen Befundwechsel kurzfristig eine Augenarztpraxis oder Notfallambulanz kontaktieren."
+        ]
+      }
+    },
+    {
+      "id": "langwirksame-anti-vegf-therapie-netzhaut",
+      "titleDe": "Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen",
+      "category": "retina",
+      "status": "medical-review",
+      "primary": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen\n\n## Zusammenfassung\n\nLangwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.\n\n## Lernziele\n\n- Den klinischen Bedarf für längere Injektionsintervalle erklären.\n- Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.\n- Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.\n- Treat-and-Extend als langfristige Strategie mit dem Patienten planen.\n\n## Fachärztlicher Überblick\n\nnAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.\n\nEin längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden.\n\n## Diagnostik\n\n- Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.\n- PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.\n- Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation.\n\n## Differenzialdiagnosen\n\n- Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.\n- Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.\n- Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen.\n\n## Therapieprinzipien\n\n- Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.\n- Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.\n- Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.\n- Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen.\n\n## Red Flags\n\n- Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.\n- Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.\n- Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen.",
+      "summaryDe": "Langwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.",
+      "learningObjectives": [
+        "Den klinischen Bedarf für längere Injektionsintervalle erklären.",
+        "Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.",
+        "Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.",
+        "Treat-and-Extend als langfristige Strategie mit dem Patienten planen."
+      ],
+      "professional": {
+        "overview": [
+          "nAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.",
+          "Ein längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden."
+        ],
+        "diagnostics": [
+          "Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.",
+          "PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.",
+          "Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation."
+        ],
+        "differentials": [
+          "Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.",
+          "Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.",
+          "Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen."
+        ],
+        "therapy": [
+          "Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.",
+          "Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.",
+          "Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.",
+          "Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen."
+        ],
+        "redFlags": [
+          "Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.",
+          "Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.",
+          "Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Was zeigte die PULSAR-Studie?",
+          "a": "Aflibercept 8 mg alle 12 oder 16 Wochen erreichte bei nAMD vergleichbare Visusgewinne wie 2 mg alle 8 Wochen und reduzierte die Injektionszahl."
+        },
+        {
+          "q": "Welche Rolle spielt Treat-and-Extend?",
+          "a": "Das Intervall wird proaktiv nach OCT, Visus und Aktivität angepasst. Es soll die Kontrolle erhalten und gleichzeitig unnötig häufige Injektionen vermeiden."
+        },
+        {
+          "q": "Warum reichen längere Intervalle allein nicht aus?",
+          "a": "Reaktivierung, Blutungen und Nebenwirkungen können auch bei langwirksamer Therapie auftreten; regelmäßige Kontrollen und klare Warnzeichen bleiben notwendig."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Anti-VEGF-Spritzen bremsen krankhafte Gefäßleckage in der Netzhaut. Neuere Präparate oder höhere Dosen können bei geeigneten Patienten größere Abstände zwischen den Behandlungen ermöglichen."
+        ],
+        "care": [
+          "Die Abstände werden anhand von OCT und Sehfunktion individuell festgelegt. Bitte halten Sie Kontrollen ein und melden Sie neue Verzerrungen oder Sehverschlechterungen."
+        ],
+        "urgent": [
+          "Nach einer Injektion sind Schmerzen, starke Rötung, Lichtscheu oder rasche Sehverschlechterung ein Notfall. Auch neue Verzerrungen oder ein dunkler Fleck sollten schnell gemeldet werden."
         ]
       }
     },

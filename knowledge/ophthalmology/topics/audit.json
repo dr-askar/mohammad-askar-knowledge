@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:12:42.920Z",
+  "generatedAt": "2026-09-15T19:14:13.821Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 140,
-  "pendingRedactionCount": 38,
+  "publicGroupCount": 141,
+  "pendingRedactionCount": 37,
   "excludedCount": 1,
   "reports": [
     {
@@ -1230,7 +1230,7 @@
     {
       "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md",
       "notebook": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية",
-      "groupId": "oct-90eebf7",
+      "groupId": "oct-neuroophthalmologie-rnfl-gcipl",
       "status": "used"
     },
     {

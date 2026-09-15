@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:12:42.920Z",
+  "generatedAt": "2026-09-15T19:14:13.821Z",
   "status": "medical-review",
   "topics": [
     {
@@ -939,6 +939,19 @@
         "de"
       ],
       "url": "./neurologischer-strabismus-52fd750/"
+    },
+    {
+      "id": "oct-neuroophthalmologie-rnfl-gcipl",
+      "title": "OCT in der Neuro-Ophthalmologie: RNFL, GCIPL und Läsionslokalisation",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "OCT quantifiziert RNFL und GCIPL und verbindet strukturelle Veränderungen mit Gesichtsfeld und Sehfunktion. Es unterstützt die Verlaufskontrolle bei Optikusneuritis und NAION, die Unterscheidung von Papillenödem und Pseudopapillenödem sowie die frühe Lokalisation chiasmaler und retrochiasmaler Läsionen.",
+      "wordCount": 836,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./oct-neuroophthalmologie-rnfl-gcipl/"
     },
     {
       "id": "storungen-der-hoheren-visuellen-funktionen-16d24bf",
@@ -2593,33 +2606,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "oct-90eebf7",
-      "title": "الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md"
       ],
       "missingFields": [
         "bodyDe",
