@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:55:01.876Z",
+  "generatedAt": "2026-09-15T19:03:38.763Z",
   "status": "medical-review",
   "topics": [
     {
@@ -900,6 +900,19 @@
         "de"
       ],
       "url": "./neuroophthalmologische-anatomie-und-bildgebung-d2384c4/"
+    },
+    {
+      "id": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
+      "title": "Neuro-Ophthalmologische Anatomie und Bildgebung",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "Die neuro-ophthalmologische Diagnostik verbindet die genaue Lokalisation entlang der Sehbahn mit OCT, MRT und CT. Ein Verständnis der Faseranordnung erklärt typische Gesichtsfeldausfälle und verhindert, dass Papillen-, Makula- oder Bildgebungsbefunde isoliert interpretiert werden.",
+      "wordCount": 1065,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./neuroophthalmologische-anatomie-und-bildgebung-deutsch/"
     },
     {
       "id": "neurologischer-strabismus-52fd750",
@@ -2541,33 +2554,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "neuro-ophthalmic-anatomy-and-imaging-a-comprehensive-briefing-c70671f",
-      "title": "Neuro-Ophthalmic Anatomy and Imaging: A Comprehensive Briefing",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md"
       ],
       "missingFields": [
         "bodyDe",

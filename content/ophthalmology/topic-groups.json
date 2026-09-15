@@ -4576,17 +4576,6 @@
       }
     },
     {
-      "id": "neuro-ophthalmic-anatomy-and-imaging-a-comprehensive-briefing-c70671f",
-      "titleDe": "Neuro-Ophthalmic Anatomy and Imaging: A Comprehensive Briefing",
-      "category": "neuro-ophthalmology",
-      "status": "medical-review",
-      "primary": "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md",
-      "merged": [],
-      "sourceLanguages": [
-        "en"
-      ]
-    },
-    {
       "id": "neuroophthalmologische-anatomie-und-bildgebung-d2384c4",
       "titleDe": "Neuro-Ophthalmologische Anatomie und Bildgebung",
       "category": "neuro-ophthalmology",
@@ -8784,6 +8773,79 @@
         ],
         "urgent": [
           "Bei plötzlicher Sehverschlechterung, starken Schmerzen, Lichtblitzen, neuem Gesichtsfeldausfall oder Trauma rasch medizinische Hilfe suchen."
+        ]
+      }
+    },
+    {
+      "id": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
+      "titleDe": "Neuro-Ophthalmologische Anatomie und Bildgebung",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "primary": "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Neuro-Ophthalmologische Anatomie und Bildgebung\n\n## Zusammenfassung\n\nDie neuro-ophthalmologische Diagnostik verbindet die genaue Lokalisation entlang der Sehbahn mit OCT, MRT und CT. Ein Verständnis der Faseranordnung erklärt typische Gesichtsfeldausfälle und verhindert, dass Papillen-, Makula- oder Bildgebungsbefunde isoliert interpretiert werden.\n\n## Lernziele\n\n- Die Abschnitte der Sehbahn und typische Läsionsmuster zuordnen.\n- OCT von RNFL und Ganglienzellschicht in der Neuro-Ophthalmologie einordnen.\n- Indikationen und typische Befunde von MRT und CT unterscheiden.\n- Dringliche Befunde wie Papillenödem, Chiasmakompression und Optikusneuritis erkennen.\n\n## Fachärztlicher Überblick\n\nDie Sehbahn reicht von den retinalen Ganglienzellen über den Sehnerv, das Chiasma opticum, den Tractus opticus und das Corpus geniculatum laterale über die Radiatio optica bis zum visuellen Kortex. Die retinotope Organisation bleibt erhalten; deshalb kann ein Gesichtsfelddefekt die Läsion anatomisch lokalisieren.\n\nIm Sehnerv verlaufen papilläre, makuläre und periphere Fasern in charakteristischer Anordnung. Eine Läsion vor dem Chiasma verursacht typischerweise monokularen Visusverlust und einen relativen afferenten Pupillendefekt. Im Chiasma kreuzen die nasalen Fasern; eine zentrale Kompression, etwa durch ein Hypophysenadenom, kann eine bitemporale Hemianopsie verursachen.\n\nHinter dem Chiasma führen Läsionen zu kontralateralen homonymen Defekten. Temporale Läsionen mit Beteiligung der Meyerschen Schleife verursachen eine obere Quadrantenanopsie („pie in the sky“), parietale Läsionen eher eine untere Quadrantenanopsie.\n\n## Diagnostik\n\n- OCT quantifiziert die retinale Nervenfaserschicht (RNFL) und die makuläre Ganglienzell-Innerplexiformschicht (mGCIPL). Es kann axonalen Verlust bei Optikusneuritis, chronischer Kompression oder Papillenerkrankungen objektivieren.\n- Bei Verdacht auf idiopathische intrakranielle Hypertension hilft OCT bei der Dokumentation eines Papillenödems und seiner Rückbildung; der Befund muss mit Klinik, Gesichtsfeld und Bildgebung korreliert werden.\n- MRT mit geeigneten Orbitasequenzen ist bei Optikusneuritis, Chiasmakompression, Tumorverdacht und entzündlichen oder infiltrativen Erkrankungen bevorzugt. Eine Kontrastmittelanreicherung des Sehnervs unterstützt eine Optikusneuritis, ist aber nicht allein beweisend.\n- CT ist schnell und hilfreich bei Trauma, knöchernen Veränderungen, Verkalkungen und akuten Notfallsituationen. Für Weichteile, Sehnerv und Chiasma ist MRT meist überlegen.\n- Die Gesichtsfeldprüfung ergänzt die Strukturdiagnostik. Ein scheinbar normales Gesichtsfeld schließt frühen axonalen Verlust nicht aus; umgekehrt müssen OCT-Abweichungen auf Artefakte, hohe Myopie und anatomische Varianten geprüft werden.\n\n## Differenzialdiagnosen\n\n- Papillenödem durch erhöhten intrakraniellen Druck ist von einer Stauungspapille durch andere Ursachen und einer Pseudopapillenschwellung abzugrenzen.\n- Bei Sehnervenschwellung kommen Optikusneuritis, anteriore ischämische Optikusneuropathie, infiltrative Erkrankung, Kompression und Drusen in Betracht.\n- Ein Gesichtsfelddefekt kann durch unzuverlässige Mitarbeit, okuläre Medienopazitäten oder retinale Erkrankungen vorgetäuscht werden.\n\n## Therapieprinzipien\n\n- Die Therapie richtet sich nach der Ursache und nicht nach dem Bildgebungsbefund allein. Chiasmale Kompression, akute vaskuläre Ereignisse, entzündliche Optikusneuropathie und erhöhter intrakranieller Druck erfordern unterschiedliche fachübergreifende Behandlung.\n- Verlaufs-OCT und Gesichtsfeld sollten möglichst mit demselben Gerät und standardisierten Parametern erfolgen. Trendanalysen sind aussagekräftiger als einzelne Farbklassifikationen.\n- Bei neuen neurologischen Symptomen, raschem Visusverlust oder typischen chiasmalen Defekten ist die Bildgebung zeitnah zu organisieren und die neurologische beziehungsweise neurochirurgische Mitbeurteilung einzuleiten.\n\n## Red Flags\n\n- Akuter monokularer Visusverlust mit RAPD, neuer Gesichtsfeldausfall oder rasch zunehmende Papillenschwellung erfordern dringliche Abklärung.\n- Bitemporale Defekte, hormonelle Symptome oder Kopfschmerzen mit Gesichtsfeldausfall sprechen für eine mögliche Chiasmakompression.\n- Papillenödem mit Kopfschmerz, Übelkeit oder transienten Visusstörungen muss als möglicher erhöhter intrakranieller Druck behandelt werden, bis das Gegenteil bewiesen ist.",
+      "summaryDe": "Die neuro-ophthalmologische Diagnostik verbindet die genaue Lokalisation entlang der Sehbahn mit OCT, MRT und CT. Ein Verständnis der Faseranordnung erklärt typische Gesichtsfeldausfälle und verhindert, dass Papillen-, Makula- oder Bildgebungsbefunde isoliert interpretiert werden.",
+      "learningObjectives": [
+        "Die Abschnitte der Sehbahn und typische Läsionsmuster zuordnen.",
+        "OCT von RNFL und Ganglienzellschicht in der Neuro-Ophthalmologie einordnen.",
+        "Indikationen und typische Befunde von MRT und CT unterscheiden.",
+        "Dringliche Befunde wie Papillenödem, Chiasmakompression und Optikusneuritis erkennen."
+      ],
+      "professional": {
+        "overview": [
+          "Die Sehbahn reicht von den retinalen Ganglienzellen über den Sehnerv, das Chiasma opticum, den Tractus opticus und das Corpus geniculatum laterale über die Radiatio optica bis zum visuellen Kortex. Die retinotope Organisation bleibt erhalten; deshalb kann ein Gesichtsfelddefekt die Läsion anatomisch lokalisieren.",
+          "Im Sehnerv verlaufen papilläre, makuläre und periphere Fasern in charakteristischer Anordnung. Eine Läsion vor dem Chiasma verursacht typischerweise monokularen Visusverlust und einen relativen afferenten Pupillendefekt. Im Chiasma kreuzen die nasalen Fasern; eine zentrale Kompression, etwa durch ein Hypophysenadenom, kann eine bitemporale Hemianopsie verursachen.",
+          "Hinter dem Chiasma führen Läsionen zu kontralateralen homonymen Defekten. Temporale Läsionen mit Beteiligung der Meyerschen Schleife verursachen eine obere Quadrantenanopsie („pie in the sky“), parietale Läsionen eher eine untere Quadrantenanopsie."
+        ],
+        "diagnostics": [
+          "OCT quantifiziert die retinale Nervenfaserschicht (RNFL) und die makuläre Ganglienzell-Innerplexiformschicht (mGCIPL). Es kann axonalen Verlust bei Optikusneuritis, chronischer Kompression oder Papillenerkrankungen objektivieren.",
+          "Bei Verdacht auf idiopathische intrakranielle Hypertension hilft OCT bei der Dokumentation eines Papillenödems und seiner Rückbildung; der Befund muss mit Klinik, Gesichtsfeld und Bildgebung korreliert werden.",
+          "MRT mit geeigneten Orbitasequenzen ist bei Optikusneuritis, Chiasmakompression, Tumorverdacht und entzündlichen oder infiltrativen Erkrankungen bevorzugt. Eine Kontrastmittelanreicherung des Sehnervs unterstützt eine Optikusneuritis, ist aber nicht allein beweisend.",
+          "CT ist schnell und hilfreich bei Trauma, knöchernen Veränderungen, Verkalkungen und akuten Notfallsituationen. Für Weichteile, Sehnerv und Chiasma ist MRT meist überlegen.",
+          "Die Gesichtsfeldprüfung ergänzt die Strukturdiagnostik. Ein scheinbar normales Gesichtsfeld schließt frühen axonalen Verlust nicht aus; umgekehrt müssen OCT-Abweichungen auf Artefakte, hohe Myopie und anatomische Varianten geprüft werden."
+        ],
+        "differentials": [
+          "Papillenödem durch erhöhten intrakraniellen Druck ist von einer Stauungspapille durch andere Ursachen und einer Pseudopapillenschwellung abzugrenzen.",
+          "Bei Sehnervenschwellung kommen Optikusneuritis, anteriore ischämische Optikusneuropathie, infiltrative Erkrankung, Kompression und Drusen in Betracht.",
+          "Ein Gesichtsfelddefekt kann durch unzuverlässige Mitarbeit, okuläre Medienopazitäten oder retinale Erkrankungen vorgetäuscht werden."
+        ],
+        "therapy": [
+          "Die Therapie richtet sich nach der Ursache und nicht nach dem Bildgebungsbefund allein. Chiasmale Kompression, akute vaskuläre Ereignisse, entzündliche Optikusneuropathie und erhöhter intrakranieller Druck erfordern unterschiedliche fachübergreifende Behandlung.",
+          "Verlaufs-OCT und Gesichtsfeld sollten möglichst mit demselben Gerät und standardisierten Parametern erfolgen. Trendanalysen sind aussagekräftiger als einzelne Farbklassifikationen.",
+          "Bei neuen neurologischen Symptomen, raschem Visusverlust oder typischen chiasmalen Defekten ist die Bildgebung zeitnah zu organisieren und die neurologische beziehungsweise neurochirurgische Mitbeurteilung einzuleiten."
+        ],
+        "redFlags": [
+          "Akuter monokularer Visusverlust mit RAPD, neuer Gesichtsfeldausfall oder rasch zunehmende Papillenschwellung erfordern dringliche Abklärung.",
+          "Bitemporale Defekte, hormonelle Symptome oder Kopfschmerzen mit Gesichtsfeldausfall sprechen für eine mögliche Chiasmakompression.",
+          "Papillenödem mit Kopfschmerz, Übelkeit oder transienten Visusstörungen muss als möglicher erhöhter intrakranieller Druck behandelt werden, bis das Gegenteil bewiesen ist."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welcher Gesichtsfeldausfall ist für eine zentrale Chiasmaläsion typisch?",
+          "a": "Eine bitemporale Hemianopsie durch Schädigung der kreuzenden nasalen retinalen Fasern."
+        },
+        {
+          "q": "Welche Rolle hat OCT in der Neuro-Ophthalmologie?",
+          "a": "OCT misst RNFL und mGCIPL, dokumentiert axonalen Verlust und unterstützt die Verlaufskontrolle; es ersetzt jedoch weder Gesichtsfeld noch klinische Lokalisation."
+        },
+        {
+          "q": "Wann ist MRT gegenüber CT zu bevorzugen?",
+          "a": "Bei Sehnerv-, Chiasma-, Orbitabeteiligung und Weichteilpathologie ist MRT meist überlegen; CT ist besonders nützlich bei Trauma, Knochen und akuten Notfallsituationen."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Die Sehbahn verbindet Netzhaut und Gehirn. Je nachdem, an welcher Stelle sie betroffen ist, können unterschiedliche Bereiche des Gesichtsfeldes ausfallen."
+        ],
+        "care": [
+          "OCT, Gesichtsfeld und MRT beantworten verschiedene Fragen und werden gemeinsam beurteilt. Verlaufskontrollen mit denselben Geräten erleichtern den Vergleich."
+        ],
+        "urgent": [
+          "Bei plötzlichem Sehverlust, neuen Gesichtsfeldausfällen, starken Kopfschmerzen, Doppelbildern oder Übelkeit sofort medizinische Hilfe suchen."
         ]
       }
     },

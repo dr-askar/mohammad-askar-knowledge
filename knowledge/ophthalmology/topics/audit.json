@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:55:01.876Z",
+  "generatedAt": "2026-09-15T19:03:38.763Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 136,
-  "pendingRedactionCount": 42,
+  "publicGroupCount": 137,
+  "pendingRedactionCount": 41,
   "excludedCount": 1,
   "reports": [
     {
@@ -1200,7 +1200,7 @@
     {
       "path": "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md",
       "notebook": "🧠 Ocular Emergency",
-      "groupId": "neuro-ophthalmic-anatomy-and-imaging-a-comprehensive-briefing-c70671f",
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-deutsch",
       "status": "used"
     },
     {
