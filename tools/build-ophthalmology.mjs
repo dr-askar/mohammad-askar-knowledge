@@ -4,10 +4,13 @@ import {join,resolve} from 'node:path';
 
 const root=resolve(import.meta.dirname,'..');
 const contentFile=join(root,'content/ophthalmology/articles.json');
+const curatedFile=join(root,'knowledge/ophthalmology/topics/topics.json');
 const outDir=join(root,'knowledge/ophthalmology');
 const exportRoot=process.env.NOTEBOOK_EXPORT_DIR||join(homedir(),'Desktop/Notbook_ask');
 const publish=process.argv.includes('--publish');
 const data=JSON.parse(await readFile(contentFile,'utf8'));
+let curatedTopics=[];
+try{curatedTopics=JSON.parse(await readFile(curatedFile,'utf8')).topics||[]}catch{curatedTopics=[]}
 const sourceFiles=[
   join(exportRoot,'Ophthalmologie/👁️ Netzhaut/Quellen/manifest.json'),
   join(exportRoot,'Ophthalmologie/👁️ Glaukom/Quellen/manifest.json')
@@ -44,7 +47,7 @@ for(const article of data.articles){
 await mkdir(outDir,{recursive:true});
 for(const article of data.articles)await rm(join(outDir,article.slug),{recursive:true,force:true});
 for(const article of articles)await renderArticle(article);
-await writeFile(join(outDir,'index.html'),renderIndex(articles));
+await writeFile(join(outDir,'index.html'),renderIndex(articles,curatedTopics));
 await writeFile(join(outDir,'articles.json'),JSON.stringify({generatedAt:data.updated,mode:publish?'publish':'preview',articles:articles.map(publicRecord)},null,2)+'\n');
 console.log(`Built ${articles.length} ophthalmology articles (${publish?'publish':'preview'} mode).`);
 
@@ -54,15 +57,19 @@ function list(items){return `<ul>${items.map(item=>`<li>${esc(item)}</li>`).join
 function pageStart(title,description,depth='.'){
   return `<!doctype html><html lang="de" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="${esc(description)}"><meta name="robots" content="${publish?'index,follow':'noindex,nofollow'}"><title>${esc(title)} | Mohammad Askar</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="${depth}/assets/library.css"><link rel="stylesheet" href="${depth}/assets/lecture.css"></head><body><div class="kb-shell"><nav class="kb-nav" aria-label="Navigation"><a href="${depth}/index.html">← Augenheilkunde-Wissen</a><div class="kb-nav-links"><a href="${depth}/../../index.html#knowledge">Hauptseite</a><a href="${depth}/index.html">Alle Kapitel</a></div></nav>`
 }
-function renderIndex(items){
-  const cards=items.map(article=>`<a class="kb-card" data-category="${article.category}" href="./${article.slug}/"><span class="kb-badge">${article.category==='retina'?'Netzhaut':'Glaukom'}</span><h2>${esc(article.title)}</h2><p>${esc(article.summary)}</p><footer><span>${article.readingMinutes} Min.</span><span class="kb-status">${statusLabel(article.status)}</span></footer></a>`).join('\n');
+function renderIndex(items,topics){
+  const allCategories=[...new Set([...items.map(item=>item.category),...topics.map(topic=>topic.category)])];
+  const cards=[...items.map(article=>({kind:'article',category:article.category,title:article.title,summary:article.summary,status:article.status,minutes:article.readingMinutes,url:`./${article.slug}/`})),...topics.map(topic=>({kind:'topic',category:topic.category,title:topic.title,summary:topic.summary,status:topic.status,minutes:Math.max(1,Math.ceil(topic.wordCount/250)),url:`./topics/${topic.id}/`}))].map(item=>`<a class="kb-card" data-category="${esc(item.category)}" href="${esc(item.url)}"><span class="kb-badge">${categoryLabel(item.category)}</span><h2>${esc(item.title)}</h2><p>${esc(item.summary)}</p><footer><span>${item.minutes} Min.</span><span class="kb-status">${statusLabel(item.status)}</span></footer></a>`).join('\n');
   const modeLabel=publish?'Redigiertes Lernkompendium':'Lernkompendium · lokale Prüffassung';
   const notice=publish?'<div class="kb-warning"><strong>Medizinischer Hinweis:</strong> Die Inhalte dienen der Fortbildung und allgemeinen Information. Sie ersetzen keine individuelle ärztliche Beratung.</div>':'<div class="kb-warning"><strong>Noch nicht veröffentlicht:</strong> Alle Kapitel befinden sich in der medizinischen Prüfung. Die Inhalte ersetzen keine individuelle ärztliche Beratung.</div>';
   const footer=publish?`${items.length} medizinisch freigegebene Kapitel`:`${items.length} Kapitel · medizinische Prüfung ausstehend`;
-  return `${pageStart('Augenheilkunde-Wissen','Redigiertes Lernkompendium für die Facharztprüfung und verständliche Patienteninformationen.')}
-<header class="kb-hero"><p class="kb-eyebrow">${modeLabel}</p><h1>Augenheilkunde-Wissen</h1><p>Neu redigierte, thematisch konsolidierte Lernkapitel aus der persönlichen Facharztprüfung-Sammlung. Jedes Kapitel trennt Fachwissen und Patienteninformation und nennt die tatsächlich verwendeten Quellen.</p>${notice}</header>
-<main><div class="kb-archive-link"><a href="./topics/">→ Bereinigte Bibliothek aller Fachgebiete öffnen</a></div><div class="kb-controls"><label><span class="kb-eyebrow">Kapitel durchsuchen</span><input class="kb-search" type="search" placeholder="z. B. OCT, Winkelblock, AMD" aria-label="Kapitel durchsuchen"></label><div class="kb-filters" aria-label="Fachgebiet filtern"><button class="kb-filter" data-filter="all" aria-pressed="true">Alle</button><button class="kb-filter" data-filter="retina" aria-pressed="false">Netzhaut</button><button class="kb-filter" data-filter="glaucoma" aria-pressed="false">Glaukom</button></div></div><section class="kb-grid" aria-label="Lernkapitel">${cards}</section><p class="kb-empty" hidden>Keine passenden Kapitel gefunden.</p></main><footer class="kb-footer">Redaktionsstand ${esc(data.updated)} · ${footer}</footer></div><script src="./assets/library.js"></script></body></html>`;
+  const filters=allCategories.map(category=>`<button class="kb-filter" data-filter="${esc(category)}" aria-pressed="false">${categoryLabel(category)}</button>`).join('');
+  const total=items.length+topics.length;
+  return `${pageStart('Augenheilkunde-Wissen','Gemeinsame Wissensbibliothek für Netzhaut, Glaukom und alle weiteren ophthalmologischen Fachgebiete.')}
+<header class="kb-hero"><p class="kb-eyebrow">${modeLabel}</p><h1>Augenheilkunde-Wissen</h1><p>Eine gemeinsame Wissensbibliothek: Netzhaut, Glaukom, Uveitis, Katarakt, Neuro-Ophthalmologie, Lid- und Orbitachirurgie, Strabologie und Notfallmedizin stehen jetzt zusammen in einer Navigation. Jedes Kapitel trennt Fachwissen und Patienteninformation und nennt die verwendeten Quellen.</p>${notice}</header>
+<main><div class="kb-controls"><label><span class="kb-eyebrow">Alle Themen durchsuchen</span><input class="kb-search" type="search" placeholder="z. B. OCT, Winkelblock, Uveitis, Lid" aria-label="Alle Themen durchsuchen"></label><div class="kb-filters" aria-label="Fachgebiet filtern"><button class="kb-filter" data-filter="all" aria-pressed="true">Alle</button>${filters}</div></div><section class="kb-grid" aria-label="Alle ophthalmologischen Lernkapitel">${cards}</section><p class="kb-empty" hidden>Keine passenden Themen gefunden.</p></main><footer class="kb-footer">Redaktionsstand ${esc(data.updated)} · ${total} gemeinsame Themen · medizinische Prüfung ausstehend</footer></div><script src="./assets/library.js"></script></body></html>`;
 }
+function categoryLabel(category){return {retina:'Netzhaut',glaucoma:'Glaukom','uveitis':'Uveitis','cataract-iol':'Katarakt & IOL','neuro-ophthalmology':'Neuro-Ophthalmologie','oculoplastics-orbit':'Lider & Orbit','strabismus-pediatric':'Strabologie & Pädiatrie','emergency-trauma':'Notfälle & Trauma','cornea-ocular-surface':'Hornhaut & Augenoberfläche','general-exam':'Allgemeine Augenheilkunde'}[category]||category}
 async function renderArticle(article){
   const dir=join(outDir,article.slug);await mkdir(dir,{recursive:true});
   const bibliography=article.sourceKeys.map(key=>sources.get(key));
