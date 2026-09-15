@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:14:13.821Z",
+  "generatedAt": "2026-09-15T19:15:37.236Z",
   "status": "medical-review",
   "topics": [
     {
@@ -952,6 +952,19 @@
         "de"
       ],
       "url": "./oct-neuroophthalmologie-rnfl-gcipl/"
+    },
+    {
+      "id": "systematische-abklaerung-sehverlust-rapd",
+      "title": "Sehverlust systematisch abklären: Anamnese, RAPD und Gesichtsfeld",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "Eine strukturierte neuro-ophthalmologische Abklärung beginnt mit einer präzisen Anamnese und fünf Kernprüfungen: Sehschärfe, Farbsehen, Pupillen, Sehnerv und Gesichtsfeld. Besonders der RAPD und die Konfrontationsprüfung helfen, organische Läsionen, Chiasmapathologie und funktionellen Sehverlust früh zu unterscheiden.",
+      "wordCount": 911,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./systematische-abklaerung-sehverlust-rapd/"
     },
     {
       "id": "storungen-der-hoheren-visuellen-funktionen-16d24bf",
@@ -2633,33 +2646,6 @@
       ],
       "sourceReports": [
         "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-3580634",
-      "title": "تقييم مريض فقدان البصر: رؤى أساسية من محاضرة الدكتورة هيا رزوق",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/003_تقييم مريض فقدان البصر_ رؤى أساسية من محاضرة الدكتورة هيا رزوق.md"
       ],
       "missingFields": [
         "bodyDe",

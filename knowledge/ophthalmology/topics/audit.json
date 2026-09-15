@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:14:13.821Z",
+  "generatedAt": "2026-09-15T19:15:37.236Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 141,
-  "pendingRedactionCount": 37,
+  "publicGroupCount": 142,
+  "pendingRedactionCount": 36,
   "excludedCount": 1,
   "reports": [
     {
@@ -1272,7 +1272,7 @@
     {
       "path": "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/003_تقييم مريض فقدان البصر_ رؤى أساسية من محاضرة الدكتورة هيا رزوق.md",
       "notebook": "🚗 تقييم فقدان البصر وطب العيون العصبي",
-      "groupId": "-3580634",
+      "groupId": "systematische-abklaerung-sehverlust-rapd",
       "status": "used"
     }
   ]
