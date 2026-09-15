@@ -6167,17 +6167,6 @@
       }
     },
     {
-      "id": "briefing-on-longer-acting-medications-for-exudative-retinal-diseases-0aa10bc",
-      "titleDe": "Briefing on Longer-Acting Medications for Exudative Retinal Diseases",
-      "category": "retina",
-      "status": "medical-review",
-      "primary": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
-      "merged": [],
-      "sourceLanguages": [
-        "en"
-      ]
-    },
-    {
       "id": "briefing-therapie-und-praxis-bei-makulaodem-ein-update-5db5fd5",
       "titleDe": "Briefing: Therapie und Praxis bei Makulaödem – Ein Update",
       "category": "retina",
@@ -8823,6 +8812,77 @@
         ],
         "urgent": [
           "Bei plötzlichem Sehverlust, neuen dunklen Flecken, starken Verzerrungen oder einem raschen Befundwechsel kurzfristig eine Augenarztpraxis oder Notfallambulanz kontaktieren."
+        ]
+      }
+    },
+    {
+      "id": "langwirksame-anti-vegf-therapie-netzhaut",
+      "titleDe": "Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen",
+      "category": "retina",
+      "status": "medical-review",
+      "primary": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen\n\n## Zusammenfassung\n\nLangwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.\n\n## Lernziele\n\n- Den klinischen Bedarf für längere Injektionsintervalle erklären.\n- Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.\n- Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.\n- Treat-and-Extend als langfristige Strategie mit dem Patienten planen.\n\n## Fachärztlicher Überblick\n\nnAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.\n\nEin längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden.\n\n## Diagnostik\n\n- Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.\n- PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.\n- Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation.\n\n## Differenzialdiagnosen\n\n- Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.\n- Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.\n- Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen.\n\n## Therapieprinzipien\n\n- Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.\n- Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.\n- Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.\n- Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen.\n\n## Red Flags\n\n- Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.\n- Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.\n- Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen.",
+      "summaryDe": "Langwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.",
+      "learningObjectives": [
+        "Den klinischen Bedarf für längere Injektionsintervalle erklären.",
+        "Die pharmakologische Logik höherer Aflibercept-Dosen verstehen.",
+        "Die wichtigsten PULSAR-Ergebnisse und ihre Grenzen einordnen.",
+        "Treat-and-Extend als langfristige Strategie mit dem Patienten planen."
+      ],
+      "professional": {
+        "overview": [
+          "nAMD, diabetisches Makulaödem und Makulaödem bei retinalem Venenverschluss teilen VEGF-vermittelte Gefäßleckage, Entzündung und Neovaskularisation. Die intravitreale Anti-VEGF-Therapie ist wirksam, aber die regelmäßigen Injektionen belasten Patienten, Angehörige und Versorgungssysteme.",
+          "Ein längeres Intervall kann Adhärenz und Lebensqualität verbessern, darf aber nicht mit einer unkontrollierten Therapiepause verwechselt werden. Proaktive Treat-and-Extend-Schemata bleiben an OCT, Sehfunktion und Krankheitsaktivität gebunden."
+        ],
+        "diagnostics": [
+          "Nach der initialen Ladephase werden Flüssigkeit, zentrale Netzhautdicke, Blutungen, Sehschärfe und Nebenwirkungen beurteilt. Ein rasches „trockenes“ Makulabild kann ein Hinweis sein, dass längere Intervalle erreichbar sind.",
+          "PULSAR verglich Aflibercept 8 mg alle 12 oder 16 Wochen mit 2 mg alle 8 Wochen bei therapienaiver nAMD. Die Visusgewinne waren bis Woche 96 nicht unterlegen.",
+          "Die 8-mg-Arme zeigten nach der Ladephase häufiger eine trockene Retina und benötigten im Studienverlauf weniger Injektionen. Studienergebnisse gelten nicht automatisch für jede Indikation, jedes Auge oder jede Versorgungssituation."
+        ],
+        "differentials": [
+          "Persistierende Flüssigkeit kann aktive Erkrankung, degenerative Hohlräume, Traktion oder Segmentierungsartefakt bedeuten.",
+          "Ein gutes Anfangsergebnis schließt spätere Reaktivierung nicht aus; bei längeren Intervallen ist die Nachsorge entscheidend.",
+          "Systemische Risiken, intraokulare Entzündung, Druckanstieg und Endophthalmitis bleiben unabhängig von der Dosis zu überwachen."
+        ],
+        "therapy": [
+          "Die Wahl zwischen 2 mg, 8 mg oder einem anderen Anti-VEGF richtet sich nach zugelassener Indikation, Krankheitsaktivität, Sicherheitsprofil, Verfügbarkeit und Patientenpräferenz.",
+          "Bei erfolgreicher Behandlung kann das Intervall schrittweise verlängert werden. Bei neuer Flüssigkeit oder Visusverlust wird es verkürzt; die Entscheidung sollte nachvollziehbar dokumentiert werden.",
+          "Eine höhere Dosis bedeutet nicht, dass Kontrollen entfallen. Aufklärung über Symptome, Terminzuverlässigkeit und realistische Ziele ist Teil der Therapie.",
+          "Die Daten aus PULSAR unterstützen eine individualisierte Intervallplanung, ersetzen aber keine Prüfung aktueller Zulassungen, Leitlinien und Erstattungsbedingungen."
+        ],
+        "redFlags": [
+          "Neue Metamorphopsien, rascher Visusverlust, frische Blutung oder deutliche Flüssigkeitszunahme erfordern eine zeitnahe Kontrolle.",
+          "Starke Schmerzen, ausgeprägte Rötung oder Lichtscheu nach Injektion können auf eine Endophthalmitis hinweisen und sind ein Notfall.",
+          "Eine eigenständige Verlängerung oder Auslassung von Injektionen ohne Rücksprache kann zu irreversibler Visusverschlechterung führen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Was zeigte die PULSAR-Studie?",
+          "a": "Aflibercept 8 mg alle 12 oder 16 Wochen erreichte bei nAMD vergleichbare Visusgewinne wie 2 mg alle 8 Wochen und reduzierte die Injektionszahl."
+        },
+        {
+          "q": "Welche Rolle spielt Treat-and-Extend?",
+          "a": "Das Intervall wird proaktiv nach OCT, Visus und Aktivität angepasst. Es soll die Kontrolle erhalten und gleichzeitig unnötig häufige Injektionen vermeiden."
+        },
+        {
+          "q": "Warum reichen längere Intervalle allein nicht aus?",
+          "a": "Reaktivierung, Blutungen und Nebenwirkungen können auch bei langwirksamer Therapie auftreten; regelmäßige Kontrollen und klare Warnzeichen bleiben notwendig."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Anti-VEGF-Spritzen bremsen krankhafte Gefäßleckage in der Netzhaut. Neuere Präparate oder höhere Dosen können bei geeigneten Patienten größere Abstände zwischen den Behandlungen ermöglichen."
+        ],
+        "care": [
+          "Die Abstände werden anhand von OCT und Sehfunktion individuell festgelegt. Bitte halten Sie Kontrollen ein und melden Sie neue Verzerrungen oder Sehverschlechterungen."
+        ],
+        "urgent": [
+          "Nach einer Injektion sind Schmerzen, starke Rötung, Lichtscheu oder rasche Sehverschlechterung ein Notfall. Auch neue Verzerrungen oder ein dunkler Fleck sollten schnell gemeldet werden."
         ]
       }
     },

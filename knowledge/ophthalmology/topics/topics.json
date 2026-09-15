@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:06:41.131Z",
+  "generatedAt": "2026-09-15T19:12:42.920Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1316,6 +1316,19 @@
         "de"
       ],
       "url": "./langer-wirksame-medikamente-bei-exsudativen-netzhauterkrankungen-eine--5672960/"
+    },
+    {
+      "id": "langwirksame-anti-vegf-therapie-netzhaut",
+      "title": "Langwirksame Anti-VEGF-Therapie bei exsudativen Netzhauterkrankungen",
+      "category": "retina",
+      "status": "medical-review",
+      "summary": "Langwirksame Anti-VEGF-Strategien sollen die hohe Behandlungslast bei nAMD, diabetischem Makulaödem und retinalen Venenverschlüssen reduzieren. Hoch dosiertes Aflibercept 8 mg erreichte in PULSAR vergleichbare Visusgewinne wie 2 mg alle acht Wochen, bei längeren Intervallen und weniger Injektionen.",
+      "wordCount": 884,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./langwirksame-anti-vegf-therapie-netzhaut/"
     },
     {
       "id": "management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klin-8fee993",
@@ -2823,33 +2836,6 @@
       ],
       "sourceReports": [
         "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "briefing-on-longer-acting-medications-for-exudative-retinal-diseases-0aa10bc",
-      "title": "Briefing on Longer-Acting Medications for Exudative Retinal Diseases",
-      "category": "retina",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md"
       ],
       "missingFields": [
         "bodyDe",

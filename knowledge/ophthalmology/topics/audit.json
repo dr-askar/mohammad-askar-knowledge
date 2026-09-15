@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:06:41.131Z",
+  "generatedAt": "2026-09-15T19:12:42.920Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 139,
-  "pendingRedactionCount": 39,
+  "publicGroupCount": 140,
+  "pendingRedactionCount": 38,
   "excludedCount": 1,
   "reports": [
     {
@@ -641,7 +641,7 @@
     {
       "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
       "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
-      "groupId": "briefing-on-longer-acting-medications-for-exudative-retinal-diseases-0aa10bc",
+      "groupId": "langwirksame-anti-vegf-therapie-netzhaut",
       "status": "used"
     },
     {
