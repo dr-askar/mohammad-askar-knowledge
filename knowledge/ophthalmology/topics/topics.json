@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:17:29.746Z",
+  "generatedAt": "2026-09-15T20:22:41.297Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1866,100 +1866,311 @@
       "url": "./padiatrische-esotropie-62ddd23/"
     },
     {
-      "id": "uveitis-infektioes-notfaelle-endophthalmitis",
-      "title": "Infektiöse Uveitis, retinale Nekrose und Endophthalmitis",
+      "id": "behandlungsrichtlinien-und-der-step-ladder-ansatz-bei-uveitis",
+      "title": "Behandlungsrichtlinien und der Step-Ladder-Ansatz bei Uveitis",
       "category": "uveitis",
       "status": "medical-review",
-      "summary": "Infektiöse intraokulare Entzündungen sind zeitkritisch, weil eine verzögerte erregerspezifische Behandlung zu irreversiblem Funktionsverlust führen kann. Toxoplasmose, Tuberkulose, Syphilis und virale Retinitiden besitzen überlappende, aber klinisch nutzbare Muster. Akute retinale Nekrose, progressive äußere retinale Nekrose, CMV-Retinitis und Endophthalmitis verlangen eine besonders schnelle Einordnung von Immunstatus, Operations- oder Injektionsanamnese, Läsionsverteilung und Progression. Diagnostische Proben sind wichtig, dürfen eine notwendige Akuttherapie jedoch nicht unangemessen verzögern. Kortikosteroide oder andere Immunsuppression werden erst im Kontext einer ausreichend behandelten beziehungsweise plausibel ausgeschlossenen Infektion geplant.",
-      "wordCount": 1876,
-      "reportCount": 4,
-      "sourceLanguages": [
-        "de",
-        "ar"
-      ],
-      "url": "./uveitis-infektioes-notfaelle-endophthalmitis/"
-    },
-    {
-      "id": "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten-ca1ddb2",
-      "title": "Katarakt-Chirurgie bei Uveitis-Patienten",
-      "category": "uveitis",
-      "status": "medical-review",
-      "summary": "Die Kataraktchirurgie bei Uveitis-Patienten ist kein Routineeingriff, sondern eine operative Hochrisiko-Situation, die in der Facharztprüfung oft als \"Prüfstein\" für klinische Reife dient. Als Prüfungsvorsitzender achte ich hier weniger auf die operative Geschwindigkeit, sondern auf das strategische Komplikationsmanage",
-      "wordCount": 1561,
+      "summary": "Dieses Dokument fasst die Kernkonzepte der Behandlung von nicht-infektiöser, autoimmuner Uveitis zusammen, basierend auf einem Vortrag von Dr. Rola Hamam, einer außerordentlichen Professorin für Augenheilkunde an der Amerikanischen Universität Beirut und Expertin für Uveitis. Die zentrale Behandlungsphilosophie ist der Step-Ladder-Ansatz (Stufenleiter-Ansatz), eine gestufte Eskalationsstrategie. Die Behandlung beginnt typischerweise mit Kortikosteroiden , der ersten Stufe, um die Entzündung schnell zu kontrollieren. Die zweite Stufe umfasst nichtsteroidale Antirheumatika (NSAR) , die hauptsächlich als unterstützende Therapie eingesetzt werden",
+      "wordCount": 3875,
       "reportCount": 1,
       "sourceLanguages": [
         "de"
       ],
-      "url": "./facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten-ca1ddb2/"
+      "url": "./behandlungsrichtlinien-und-der-step-ladder-ansatz-bei-uveitis/"
     },
     {
-      "id": "uveitis-posterior-nichtinfektioes",
-      "title": "Nichtinfektiöse posteriore Uveitis und choroidale Entzündungsmuster",
+      "id": "briefing-dokument-analyse-der-posterioren-uveitis-morbus-behcet-vkh-syndrom-und-sarkoidose",
+      "title": "Briefing-Dokument: Analyse der Posterioren Uveitis – Morbus Behçet, VKH-Syndrom und Sarkoidose",
       "category": "uveitis",
       "status": "medical-review",
-      "summary": "Posteriore Uveitis umfasst entzündliche Erkrankungen von Netzhaut, Aderhaut, retinalen Gefäßen und Sehnerv. Der historische Sammelbegriff „White-Dot-Syndrome“ beschreibt ein Erscheinungsbild, aber keine einheitliche Pathophysiologie. Die Berichte empfehlen deshalb eine anatomie- und bildgebungsbasierte Einordnung choroidaler und chorioretinaler Muster. Morbus Behçet, Vogt-Koyanagi-Harada-Syndrom und Sarkoidose verdeutlichen, wie okuläre Befunde und systemischer Kontext zusammengeführt werden. Vor immunsuppressiver Therapie müssen infektiöse Ursachen plausibel ausgeschlossen werden. Multimodale Bildgebung dient nicht nur der Diagnose, sondern zeigt Aktivität, Verteilung und bleibenden Schaden.",
-      "wordCount": 1841,
-      "reportCount": 3,
+      "summary": "Briefing-Dokument: Analyse der Posterioren Uveitis – Morbus Behçet, VKH-Syndrom und Sarkoidose",
+      "wordCount": 5376,
+      "reportCount": 1,
       "sourceLanguages": [
-        "de",
-        "ar"
+        "de"
       ],
-      "url": "./uveitis-posterior-nichtinfektioes/"
+      "url": "./briefing-dokument-analyse-der-posterioren-uveitis-morbus-behcet-vkh-syndrom-und-sarkoidose/"
     },
     {
-      "id": "uveitis-paediatrisch-masquerade",
-      "title": "Pädiatrische Uveitis und Masquerade-Syndrome",
+      "id": "briefing-dokument-eine-einfuhrung-in-die-uveitis",
+      "title": "Briefing-Dokument: Eine Einführung in die Uveitis",
       "category": "uveitis",
       "status": "medical-review",
-      "summary": "Uveitis im Kindesalter kann lange symptomarm verlaufen und dennoch Katarakt, Glaukom, Bandkeratopathie, Synechien, Makulaödem oder Amblyopie verursachen. Die Untersuchung berücksichtigt Alter, Entwicklungsstand, systemische Erkrankungen und die Zuverlässigkeit funktioneller Angaben. Besonders bedeutsam ist die JIA-assoziierte Uveitis, aber auch granulomatöse Erkrankungen, TINU, Infektionen und seltene Ursachen gehören in die differenzierte Abklärung. Atypische Befunde können eine Entzündung vortäuschen. Leukämische Infiltration und primäres vitreoretinales Lymphom verdeutlichen das Prinzip der Masquerade: Fehlendes dauerhaftes Therapieansprechen, ungewöhnliche Infiltrate und neurologische oder systemische Hinweise müssen zu erneuter Diagnostik führen.",
-      "wordCount": 1968,
-      "reportCount": 5,
+      "summary": "Dieses Dokument fasst die wichtigsten Erkenntnisse aus einem Einführungsvortrag über Uveitis von Dr. Al-Baraa Al-Qubaisi zusammen. Der zentrale Standpunkt ist, dass Uveitis, obwohl oft als komplex und einschüchternd empfunden, ein sehr lohnendes und beherrschbares Fachgebiet ist. Ophthalmologen sind aufgrund ihrer einzigartigen Fähigkeit zur direkten visuellen Untersuchung der Krankheitszeichen im Auge besser für die Diagnose und Behandlung von Uveitis-Patienten geeignet als andere Fachärzte wie Rheumatologen oder Immunologen.",
+      "wordCount": 2675,
+      "reportCount": 1,
       "sourceLanguages": [
-        "de",
-        "ar"
+        "de"
       ],
-      "url": "./uveitis-paediatrisch-masquerade/"
+      "url": "./briefing-dokument-eine-einfuhrung-in-die-uveitis/"
     },
     {
-      "id": "uveitis-anterior",
-      "title": "Uveitis anterior: Befunde, SUN-Grading und Therapie",
+      "id": "briefing-dokument-evaluierung-und-abklarung-von-uveitis",
+      "title": "Briefing-Dokument: Evaluierung und Abklärung von Uveitis",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus dem Vortrag von Dr. Hassan Al-Dhibi über die Evaluierung und Abklärung von Uveitis zusammen. Uveitis wird nicht als isolierte Augenerkrankung, sondern als komplexes medizinisches Problem dargestellt, das oft die Manifestation einer systemischen Erkrankung ist. Der diagnostische Prozess erfordert einen methodischen Ansatz, der der Inneren Medizin ähnelt und auf drei Säulen beruht: einer äußerst detaillierten Anamnese , einer systematischen ophthalmologischen Untersuchung und gezielten, hypothesengestützten weiterführenden Untersuchungen . Eine genaue Charakterisierung des Uveitis-Typs durch",
+      "wordCount": 4492,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-evaluierung-und-abklarung-von-uveitis/"
+    },
+    {
+      "id": "briefing-dokument-evaluierung-und-abklarung-von-uveitis-2",
+      "title": "Briefing-Dokument: Evaluierung und Abklärung von Uveitis",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Fachvortrag von Dr. Hassan Al-Dhibi, einem führenden Experten für Uveitis und Netzhauterkrankungen, zusammen. Die Diagnose von Uveitis wird als hochkomplexer Prozess dargestellt, der eher der Inneren Medizin als der klassischen Ophthalmologie ähnelt und selten eine schnelle Diagnose beim Erstkontakt ermöglicht.",
+      "wordCount": 2921,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-evaluierung-und-abklarung-von-uveitis-2/"
+    },
+    {
+      "id": "briefing-dokument-evaluierung-und-untersuchung-von-uveitis",
+      "title": "Briefing-Dokument: Evaluierung und Untersuchung von Uveitis",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Fachvortrag von Dr. Hassan Al-Dhibi über die Evaluierung und das Management von Uveitis zusammen. Die Diagnose von Uveitis wird als ein komplexer Prozess dargestellt, der eher der Inneren Medizin als der reinen Augenheilkunde gleicht, da sie häufig mit systemischen Erkrankungen verbunden ist. Eine sorgfältige und umfassende Anamnese ist der entscheidende Grundpfeiler für eine korrekte Diagnose und Behandlungsstrategie. Eine präzise Beschreibung der klinischen Befunde, kombiniert mit gezielten Untersuchungen wie dem HLA-B27-Test oder Tuberkulosetests, ist unerlässlich, um Fehldiagnosen",
+      "wordCount": 3414,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-evaluierung-und-untersuchung-von-uveitis/"
+    },
+    {
+      "id": "briefing-dokument-klinisch-pathologische-analyse-der-nicht-infektiosen-chorioiditis-und-die-dekonstruktion-der-white-dot-syndrome",
+      "title": "Briefing-Dokument: Klinisch-pathologische Analyse der nicht-infektiösen Chorioiditis und die Dekonstruktion der „White Dot Syndrome“",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Briefing-Dokument: Klinisch-pathologische Analyse der nicht-infektiösen Chorioiditis und die Dekonstruktion der „White Dot Syndrome“",
+      "wordCount": 4242,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-klinisch-pathologische-analyse-der-nicht-infektiosen-chorioiditis-und-die-dekonstruktion-der-white-dot-syndrome/"
+    },
+    {
+      "id": "briefing-dokument-padiatrische-uveitis-klinische-einblicke-und-fallstudien",
+      "title": "Briefing-Dokument: Pädiatrische Uveitis - Klinische Einblicke und Fallstudien",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Briefing-Dokument: Pädiatrische Uveitis - Klinische Einblicke und Fallstudien",
+      "wordCount": 4468,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-padiatrische-uveitis-klinische-einblicke-und-fallstudien/"
+    },
+    {
+      "id": "briefing-dokument-padiatrische-uveitis-analyse-und-fallstudien",
+      "title": "Briefing-Dokument: Pädiatrische Uveitis – Analyse und Fallstudien",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Fachvortrag von Dr. Anas Anjari, einem führenden Experten für pädiatrische Ophthalmologie, über die Diagnose und das Management von Uveitis bei Kindern zusammen. Die pädiatrische Uveitis ist eine ernste Erkrankung, die oft asymptomatisch („still“) verläuft und ohne frühzeitige Erkennung zu schwerem und dauerhaftem Sehverlust führen kann. Ein systematischer Ansatz, der eine sorgfältige Anamnese, eine präzise klinische Untersuchung und eine multidisziplinäre Zusammenarbeit umfasst, ist für eine erfolgreiche Behandlung unerlässlich.",
+      "wordCount": 4039,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-padiatrische-uveitis-analyse-und-fallstudien/"
+    },
+    {
+      "id": "briefing-dokument-padiatrische-uveitis-diagnose-management-und-multidisziplinare-ansatze",
+      "title": "Briefing-Dokument: Pädiatrische Uveitis – Diagnose, Management und multidisziplinäre Ansätze",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Briefing-Dokument: Pädiatrische Uveitis – Diagnose, Management und multidisziplinäre Ansätze",
+      "wordCount": 4268,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-padiatrische-uveitis-diagnose-management-und-multidisziplinare-ansatze/"
+    },
+    {
+      "id": "briefing-dokument-posteriore-uveitis-vaskulitis-endophthalmitis",
+      "title": "Briefing-Dokument: Posteriore Uveitis – Vaskulitis & Endophthalmitis",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Themen einer Fachvorlesung über posteriore Uveitis zusammen, mit besonderem Fokus auf retinale Vaskulitis und Endophthalmitis .",
+      "wordCount": 4945,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-posteriore-uveitis-vaskulitis-endophthalmitis/"
+    },
+    {
+      "id": "briefing-dokument-primares-intraokulares-lymphom-klinische-einblicke-und-fallstudien",
+      "title": "Briefing-Dokument: Primäres intraokulares Lymphom – Klinische Einblicke und Fallstudien",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Briefing-Dokument: Primäres intraokulares Lymphom – Klinische Einblicke und Fallstudien",
+      "wordCount": 3857,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-dokument-primares-intraokulares-lymphom-klinische-einblicke-und-fallstudien/"
+    },
+    {
+      "id": "kompendium-der-dog-leitlinien-uveitis-und-endophthalmitis-fur-die-facharztprufung",
+      "title": "Kompendium der DOG-Leitlinien: Uveitis und Endophthalmitis für die Facharztprüfung",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Kompendium der DOG-Leitlinien: Uveitis und Endophthalmitis für die Facharztprüfung",
+      "wordCount": 3536,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./kompendium-der-dog-leitlinien-uveitis-und-endophthalmitis-fur-die-facharztprufung/"
+    },
+    {
+      "id": "leitfaden-zur-uveitis-anterior-beurteilung-management-und-nachsorge",
+      "title": "Leitfaden zur Uveitis anterior: Beurteilung, Management und Nachsorge",
       "category": "uveitis",
       "status": "medical-review",
       "summary": "Dieses Dokument bietet eine umfassende Analyse der Uveitis anterior, basierend auf einer detaillierten Vorlesung. Die Uveitis anterior, definiert als eine primäre Entzündung der vorderen Augenkammer und der Iris gemäß den SUN-Kriterien von 2005, wird anhand ihres zeitlichen Verlaufs (akut, chronisch, rezidivierend) und ihrer pathologischen Merkmale (granulomatös vs. nicht-granulomatös) klassifiziert. Die diagnostische Beurteilung stützt sich auf die sorgfältige Untersuchung charakteristischer Befunde wie Endothelpräzipitate (KP), Irisknötchen und Irisatrophie. Zu den Hauptursachen zählen autoimmune Erkrankungen wie die HLA-B27-assoziierten Sp",
-      "wordCount": 6272,
-      "reportCount": 2,
-      "sourceLanguages": [
-        "de"
-      ],
-      "url": "./uveitis-anterior/"
-    },
-    {
-      "id": "uveitis-intermedia",
-      "title": "Uveitis intermedia: Pars planitis, Diagnostik und stufenweise Therapie",
-      "category": "uveitis",
-      "status": "medical-review",
-      "summary": "Dieses Dokument bietet eine detaillierte Synthese der Kernkonzepte, der Ätiologie, der diagnostischen Ansätze und der Behandlungsstrategien für Uveitis Intermedia, basierend auf einer Fachvorlesung von Dr. Samir Hussein. Die Uveitis Intermedia, eine Entzündung, die primär die Pars plana und den Glaskörperraum betrifft, stellt eine diagnostische Herausforderung dar, da ihre Symptome oft subtil sind, was zu Verzögerungen in der Diagnose und zur Entwicklung von Komplikationen führt.",
-      "wordCount": 5023,
+      "wordCount": 6020,
       "reportCount": 1,
       "sourceLanguages": [
         "de"
       ],
-      "url": "./uveitis-intermedia/"
+      "url": "./leitfaden-zur-uveitis-anterior-beurteilung-management-und-nachsorge/"
     },
     {
-      "id": "uveitis-grundlagen-diagnostik-bildgebung",
-      "title": "Uveitis: Grundlagen, strukturierte Diagnostik und Bildgebung",
+      "id": "leitfaden-zur-uveitis-diagnose-bildgebung-und-behandlungsstrategien",
+      "title": "Leitfaden zur Uveitis: Diagnose, Bildgebung und Behandlungsstrategien",
       "category": "uveitis",
       "status": "medical-review",
-      "summary": "Uveitis ist keine einzelne Diagnose, sondern ein klinisches Entzündungssyndrom mit infektiösen, immunvermittelten, traumatischen und neoplastischen Ursachen. Eine belastbare Einordnung entsteht aus anatomischer Lokalisation, zeitlichem Verlauf, Entzündungsmuster, Lateralisierung und Begleitbefunden. Die Diagnostik soll hypothesengeleitet erfolgen: sorgfältige Anamnese und vollständige Untersuchung kommen vor Labor und Bildgebung. OCT, Fluoreszenzangiographie, Indozyaningrün-Angiographie, Autofluoreszenz, Fotodokumentation und Ultraschall beantworten unterschiedliche Fragen und ersetzen einander nicht. Das Ziel ist, behandelbare Infektionen und bedrohliche Maskeraden früh zu erkennen, unnötige Breitbandtests zu vermeiden und Aktivität sowie strukturelle Schäden reproduzierbar zu dokumentieren.",
-      "wordCount": 2185,
-      "reportCount": 7,
+      "summary": "Dieser Leitfaden synthetisiert umfassende Informationen zur Uveitis, einer Entzündung der Uvea, basierend auf Expertenvorträgen. Der Kern der Uveitis-Diagnostik liegt in der sorgfältigen anatomischen und ätiologischen Klassifikation . Die anatomische Einteilung nach den SUN-Kriterien in anteriore, intermediäre, posteriore und Panuveitis ist fundamental, da sie die klinische Präsentation und die symptomatische Ausprägung bestimmt. Ätiologisch wird zwischen infektiösen, nicht-infektiösen (immunvermittelten), Masquerade-Syndromen und idiopathischen Formen unterschieden. Die diagnostische Trias besteht aus einer detaillierten Anamnese , einer grü",
+      "wordCount": 6143,
+      "reportCount": 1,
       "sourceLanguages": [
-        "de",
-        "ar"
+        "de"
       ],
-      "url": "./uveitis-grundlagen-diagnostik-bildgebung/"
+      "url": "./leitfaden-zur-uveitis-diagnose-bildgebung-und-behandlungsstrategien/"
+    },
+    {
+      "id": "lernleitfaden-zur-uveitis-eine-umfassende-synthese",
+      "title": "Lernleitfaden zur Uveitis: Eine umfassende Synthese",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument bietet eine erschöpfende Analyse eines Einführungsvortrags zur Uveitis, gehalten von Dr. Baraa Al-Qubaisi im Rahmen der Syrian Ophthalmologists Initiative. Der Vortrag positioniert die Uveitis als ein komplexes, aber beherrschbares Fachgebiet, das oft fälschlicherweise als einschüchternd empfunden wird. Der Kern der Argumentation ist, dass Augenärzte aufgrund ihrer Fähigkeit zur direkten Beobachtung klinischer Zeichen die am besten qualifizierten Spezialisten für die Diagnose und Behandlung von Uveitis sind – ein Vorteil gegenüber anderen Fachrichtungen, die sich stärker auf Laborergebnisse und Anamnese verlassen müssen. Es wi",
+      "wordCount": 4954,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./lernleitfaden-zur-uveitis-eine-umfassende-synthese/"
+    },
+    {
+      "id": "studienfuhrer-notfalle-in-der-uveitis-eine-synthese-der-vorlesung-von-dr-hassan-al-dhibi",
+      "title": "Studienführer: Notfälle in der Uveitis – Eine Synthese der Vorlesung von Dr. Hassan Al-Dhibi",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Studienführer: Notfälle in der Uveitis – Eine Synthese der Vorlesung von Dr. Hassan Al-Dhibi",
+      "wordCount": 4596,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./studienfuhrer-notfalle-in-der-uveitis-eine-synthese-der-vorlesung-von-dr-hassan-al-dhibi/"
+    },
+    {
+      "id": "studienleitfaden-infektiose-uveitis",
+      "title": "Studienleitfaden: Infektiöse Uveitis",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Die infektiöse Uveitis stellt, insbesondere im Nahen Osten, eine wesentliche und häufige Krankheitsentität dar. Die diagnostische Annäherung an diese Erkrankungen ist eine primär klinische Disziplin, die auf einer sorgfältigen Untersuchung und der Interpretation der klinischen Zeichen beruht. Eine fundierte klinische Verdachtsdiagnose ist der entscheidende erste Schritt, der alle weiteren diagnostischen und therapeutischen Maßnahmen leitet.",
+      "wordCount": 4887,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./studienleitfaden-infektiose-uveitis/"
+    },
+    {
+      "id": "umfassender-studienleitfaden-padiatrische-uveitis-und-uveitis-maskeraden-syndrome",
+      "title": "Umfassender Studienleitfaden: Pädiatrische Uveitis und Uveitis-Maskeraden-Syndrome",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Umfassender Studienleitfaden: Pädiatrische Uveitis und Uveitis-Maskeraden-Syndrome",
+      "wordCount": 6368,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./umfassender-studienleitfaden-padiatrische-uveitis-und-uveitis-maskeraden-syndrome/"
+    },
+    {
+      "id": "uveitis-intermedia-eine-umfassende-analyse",
+      "title": "Uveitis Intermedia: Eine Umfassende Analyse",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "Dieses Dokument bietet eine detaillierte Synthese der Kernkonzepte, der Ätiologie, der diagnostischen Ansätze und der Behandlungsstrategien für Uveitis Intermedia, basierend auf einer Fachvorlesung von Dr. Samir Hussein. Die Uveitis Intermedia, eine Entzündung, die primär die Pars plana und den Glaskörperraum betrifft, stellt eine diagnostische Herausforderung dar, da ihre Symptome oft subtil sind, was zu Verzögerungen in der Diagnose und zur Entwicklung von Komplikationen führt.",
+      "wordCount": 5210,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./uveitis-intermedia-eine-umfassende-analyse/"
+    },
+    {
+      "id": "white-dot-syndrome-und-der-moderne-ansatz-zur-posterioren-uveitis-ein-umfassender-leitfaden",
+      "title": "White-Dot-Syndrome und der moderne Ansatz zur posterioren Uveitis: Ein umfassender Leitfaden",
+      "category": "uveitis",
+      "status": "medical-review",
+      "summary": "White-Dot-Syndrome und der moderne Ansatz zur posterioren Uveitis: Ein umfassender Leitfaden",
+      "wordCount": 5154,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./white-dot-syndrome-und-der-moderne-ansatz-zur-posterioren-uveitis-ein-umfassender-leitfaden/"
     }
   ],
-  "pendingRedaction": []
+  "pendingRedaction": [
+    {
+      "id": "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten",
+      "title": "Facharzt-Prüfungsleitfaden: Katarakt-Chirurgie bei Uveitis-Patienten",
+      "category": "uveitis",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "🧠 Cataract/Studio/005_Facharzt-Prüfungsleitfaden_ Katarakt-Chirurgie bei Uveitis-Patienten.md"
+      ],
+      "missingFields": [
+        "professional.differentials"
+      ]
+    },
+    {
+      "id": "bildgebende-verfahren-in-der-uveitis-ein-umfassender-studienleitfaden",
+      "title": "Bildgebende Verfahren in der Uveitis: Ein umfassender Studienleitfaden",
+      "category": "uveitis",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/021_Bildgebende Verfahren in der Uveitis_ Ein umfassender Studienleitfaden.md"
+      ],
+      "missingFields": [
+        "professional.differentials"
+      ]
+    }
+  ]
 }

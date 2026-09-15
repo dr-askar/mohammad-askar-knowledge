@@ -1,120 +1,120 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T20:17:29.746Z",
+  "generatedAt": "2026-09-15T20:22:41.297Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 145,
-  "pendingRedactionCount": 0,
+  "publicGroupCount": 159,
+  "pendingRedactionCount": 2,
   "excludedCount": 1,
   "reports": [
     {
       "path": "⚕️ التهابات العنبة عند الأطفال_ حالات سريرية ومناقشة التشخيص/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis - Klinische Einblicke und Fallstudien.md",
       "notebook": "⚕️ التهابات العنبة عند الأطفال_ حالات سريرية ومناقشة التشخيص",
-      "groupId": "uveitis-paediatrisch-masquerade",
-      "status": "merged"
+      "groupId": "briefing-dokument-padiatrische-uveitis-klinische-einblicke-und-fallstudien",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/002_Studienführer_ Notfälle in der Uveitis – Eine Synthese der Vorlesung von Dr. Hassan Al-Dhibi.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
-      "status": "merged"
+      "groupId": "studienfuhrer-notfalle-in-der-uveitis-eine-synthese-der-vorlesung-von-dr-hassan-al-dhibi",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/003_Umfassender Studienleitfaden_ Pädiatrische Uveitis und Uveitis-Maskeraden-Syndrome.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-paediatrisch-masquerade",
-      "status": "merged"
+      "groupId": "umfassender-studienleitfaden-padiatrische-uveitis-und-uveitis-maskeraden-syndrome",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/004_Studienleitfaden_ Infektiöse Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "groupId": "studienleitfaden-infektiose-uveitis",
       "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/005_Briefing-Dokument_ Klinisch-pathologische Analyse der nicht-infektiösen Chorioiditis und die Dekonstruktion der „White Dot Syndrome“.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-posterior-nichtinfektioes",
+      "groupId": "briefing-dokument-klinisch-pathologische-analyse-der-nicht-infektiosen-chorioiditis-und-die-dekonstruktion-der-white-dot-syndrome",
       "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/006_White-Dot-Syndrome und der moderne Ansatz zur posterioren Uveitis_ Ein umfassender Leitfaden.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-posterior-nichtinfektioes",
-      "status": "merged"
+      "groupId": "white-dot-syndrome-und-der-moderne-ansatz-zur-posterioren-uveitis-ein-umfassender-leitfaden",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/007_Briefing-Dokument_ Posteriore Uveitis – Vaskulitis & Endophthalmitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
-      "status": "merged"
+      "groupId": "briefing-dokument-posteriore-uveitis-vaskulitis-endophthalmitis",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/011_Briefing-Dokument_ Analyse der Posterioren Uveitis – Morbus Behçet, VKH-Syndrom und Sarkoidose.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-posterior-nichtinfektioes",
-      "status": "merged"
+      "groupId": "briefing-dokument-analyse-der-posterioren-uveitis-morbus-behcet-vkh-syndrom-und-sarkoidose",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/012_Uveitis Intermedia_ Eine Umfassende Analyse.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-intermedia",
+      "groupId": "uveitis-intermedia-eine-umfassende-analyse",
       "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/014_Leitfaden zur Uveitis anterior_ Beurteilung, Management und Nachsorge.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-anterior",
+      "groupId": "leitfaden-zur-uveitis-anterior-beurteilung-management-und-nachsorge",
       "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/015_Leitfaden zur Uveitis_ Diagnose, Bildgebung und Behandlungsstrategien.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "leitfaden-zur-uveitis-diagnose-bildgebung-und-behandlungsstrategien",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/018_Behandlungsrichtlinien und der Step-Ladder-Ansatz bei Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-anterior",
-      "status": "merged"
+      "groupId": "behandlungsrichtlinien-und-der-step-ladder-ansatz-bei-uveitis",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/021_Bildgebende Verfahren in der Uveitis_ Ein umfassender Studienleitfaden.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "groupId": "bildgebende-verfahren-in-der-uveitis-ein-umfassender-studienleitfaden",
       "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/023_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "briefing-dokument-evaluierung-und-abklarung-von-uveitis",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/024_Lernleitfaden zur Uveitis_ Eine umfassende Synthese.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "lernleitfaden-zur-uveitis-eine-umfassende-synthese",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/026_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "briefing-dokument-evaluierung-und-abklarung-von-uveitis-2",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/027_Briefing-Dokument_ Evaluierung und Untersuchung von Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "briefing-dokument-evaluierung-und-untersuchung-von-uveitis",
+      "status": "used"
     },
     {
       "path": "🎓 التهاب العنبة/Studio/028_Briefing-Dokument_ Eine Einführung in die Uveitis.md",
       "notebook": "🎓 التهاب العنبة",
-      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
-      "status": "merged"
+      "groupId": "briefing-dokument-eine-einfuhrung-in-die-uveitis",
+      "status": "used"
     },
     {
       "path": "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md",
@@ -239,8 +239,8 @@
     {
       "path": "👁️ Netzhaut/Studio/003_Kompendium der DOG-Leitlinien_ Uveitis und Endophthalmitis für die Facharztprüfung.md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
-      "status": "merged"
+      "groupId": "kompendium-der-dog-leitlinien-uveitis-und-endophthalmitis-fur-die-facharztprufung",
+      "status": "used"
     },
     {
       "path": "👁️ Netzhaut/Studio/004_Intensiv-Leitfaden_ OCT-Interpretation in der medizinischen Netzhautdiagnostik – Facharztprüfungsvorbereitung.md",
@@ -827,7 +827,7 @@
     {
       "path": "👁️ متفرقات/Studio/001_Briefing-Dokument_ Primäres intraokulares Lymphom – Klinische Einblicke und Fallstudien.md",
       "notebook": "👁️ متفرقات",
-      "groupId": "uveitis-paediatrisch-masquerade",
+      "groupId": "briefing-dokument-primares-intraokulares-lymphom-klinische-einblicke-und-fallstudien",
       "status": "used"
     },
     {
@@ -851,8 +851,8 @@
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis – Diagnose, Management und multidisziplinäre Ansätze.md",
       "notebook": "👨‍🏫 الحول و توابعه",
-      "groupId": "uveitis-paediatrisch-masquerade",
-      "status": "merged"
+      "groupId": "briefing-dokument-padiatrische-uveitis-diagnose-management-und-multidisziplinare-ansatze",
+      "status": "used"
     },
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/002_Briefing_ Monofixationssyndrom und Mikrotropie – Eine vergleichende Analyse.md",
@@ -905,8 +905,8 @@
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/010_Briefing-Dokument_ Pädiatrische Uveitis – Analyse und Fallstudien.md",
       "notebook": "👨‍🏫 الحول و توابعه",
-      "groupId": "uveitis-paediatrisch-masquerade",
-      "status": "merged"
+      "groupId": "briefing-dokument-padiatrische-uveitis-analyse-und-fallstudien",
+      "status": "used"
     },
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/012_Briefing-Dokument_ Okuläre Manifestationen systemischer Erkrankungen.md",
@@ -1157,7 +1157,7 @@
     {
       "path": "🧠 Cataract/Studio/005_Facharzt-Prüfungsleitfaden_ Katarakt-Chirurgie bei Uveitis-Patienten.md",
       "notebook": "🧠 Cataract",
-      "groupId": "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten-ca1ddb2",
+      "groupId": "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten",
       "status": "used"
     },
     {
