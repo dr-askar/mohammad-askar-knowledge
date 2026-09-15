@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:15:37.236Z",
+  "generatedAt": "2026-09-15T19:17:39.801Z",
   "status": "medical-review",
   "topics": [
     {
@@ -926,6 +926,19 @@
         "de"
       ],
       "url": "./neuroophthalmologische-anatomie-und-bildgebung-deutsch/"
+    },
+    {
+      "id": "neuroophthalmologische-notfaelle-papillenoedem-anisokorie",
+      "title": "Neuro-Ophthalmologische Notfälle: Papillenödem, Optikusneuritis und Anisokorie",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "Akute neuro-ophthalmologische Befunde können lebens- oder sehbedrohlich sein. Papillenödem, atypische Optikusneuritis, pupillenbeteiligte Okulomotoriusparese und ein schmerzhaftes Horner-Syndrom verlangen eine priorisierte Untersuchung und häufig sofortige Gefäß- oder Hirnbildgebung.",
+      "wordCount": 956,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./neuroophthalmologische-notfaelle-papillenoedem-anisokorie/"
     },
     {
       "id": "neurologischer-strabismus-52fd750",
@@ -2673,33 +2686,6 @@
       ],
       "sourceReports": [
         "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-61c3712",
-      "title": "ملخص إحاطة: طوارئ طب العيون العصبي - الجزء الثاني",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md"
       ],
       "missingFields": [
         "bodyDe",

@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:15:37.236Z",
+  "generatedAt": "2026-09-15T19:17:39.801Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 142,
-  "pendingRedactionCount": 36,
+  "publicGroupCount": 143,
+  "pendingRedactionCount": 35,
   "excludedCount": 1,
   "reports": [
     {
@@ -797,7 +797,7 @@
     {
       "path": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md",
       "notebook": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة",
-      "groupId": "-61c3712",
+      "groupId": "neuroophthalmologische-notfaelle-papillenoedem-anisokorie",
       "status": "used"
     },
     {

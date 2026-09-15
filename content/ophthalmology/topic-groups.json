@@ -4850,17 +4850,6 @@
       ]
     },
     {
-      "id": "-61c3712",
-      "titleDe": "ملخص إحاطة: طوارئ طب العيون العصبي - الجزء الثاني",
-      "category": "neuro-ophthalmology",
-      "status": "medical-review",
-      "primary": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
       "id": "-9b7535a",
       "titleDe": "ملخص تشريح وتصوير المسار البصري في طب العيون العصبي",
       "category": "neuro-ophthalmology",
@@ -9005,6 +8994,79 @@
         ],
         "urgent": [
           "Plötzlicher Sehverlust, neue Gesichtsfeldausfälle, starke Kopfschmerzen, Sprach- oder Kraftstörungen sowie eine schmerzhafte Sehverschlechterung müssen sofort abgeklärt werden."
+        ]
+      }
+    },
+    {
+      "id": "neuroophthalmologische-notfaelle-papillenoedem-anisokorie",
+      "titleDe": "Neuro-Ophthalmologische Notfälle: Papillenödem, Optikusneuritis und Anisokorie",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "primary": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md",
+      "merged": [],
+      "sourceLanguages": [
+        "de"
+      ],
+      "bodyDe": "# Neuro-Ophthalmologische Notfälle: Papillenödem, Optikusneuritis und Anisokorie\n\n## Zusammenfassung\n\nAkute neuro-ophthalmologische Befunde können lebens- oder sehbedrohlich sein. Papillenödem, atypische Optikusneuritis, pupillenbeteiligte Okulomotoriusparese und ein schmerzhaftes Horner-Syndrom verlangen eine priorisierte Untersuchung und häufig sofortige Gefäß- oder Hirnbildgebung.\n\n## Lernziele\n\n- Papillenödem, hypertensive Krise und Pseudopapillenödem unterscheiden.\n- Typische und atypische Optikusneuritis erkennen.\n- Anisokorie nach Licht- und Dunkelreaktion einordnen.\n- Bei drittem Hirnnerven und schmerzhaftem Horner-Syndrom die richtige Bildgebung veranlassen.\n\n## Fachärztlicher Überblick\n\nIn der Notaufnahme werden korrigierte Sehschärfe, Farbsehen, Helligkeits- und Kontrastempfinden, Pupillenreaktionen, RAPD, Sehnerv und Konfrontationsgesichtsfeld systematisch geprüft. Ein RAPD ist bei asymmetrischer retinaler oder optischer Schädigung besonders richtungsweisend.\n\nBeidseitige Papillenschwellung ist ein Befund, keine Diagnose. Zuerst müssen gefährliche Ursachen wie maligne Hypertonie, erhöhter intrakranieller Druck, venöse Sinusthrombose und raumfordernde Läsion ausgeschlossen werden.\n\n## Diagnostik\n\n- Bei Verdacht auf idiopathische intrakranielle Hypertension gehören OCT, Gesichtsfeld, MRT/MRV oder CT/CTV und nach Ausschluss einer Masse eine Liquordruckmessung zur Abklärung.\n- Typische Optikusneuritis ist meist einseitig, schmerzhaft bei Augenbewegung und bessert sich innerhalb von Wochen. MRT von Gehirn und Orbita kann die Diagnose unterstützen und MS-Risiko einordnen.\n- Atypische Merkmale sind bilateraler Befall, fehlender Schmerz, sehr schwerer Visusverlust, fehlende Besserung nach 4–6 Wochen, Alter über 50 Jahre, starke Papillenschwellung oder Blutungen. Anti-MOG- und Aquaporin-4-Antikörper sowie systemische Diagnostik sind dann zu erwägen.\n- Bei Anisokorie wird geprüft, ob die Differenz im Licht oder im Dunkeln größer ist. Eine im Dunkeln größere Anisokorie spricht für eine sympathische Störung wie Horner; eine im Licht größere Anisokorie für eine parasympathische Störung, etwa Okulomotoriusparese, Adie-Pupille oder Medikamente.\n- Eine pupillenbeteiligte Okulomotoriusparese mit Ptosis und Down-and-out-Stellung ist bis zum Ausschluss eines Aneurysmas ein neurologischer Notfall und benötigt sofort CTA oder MRA. Ein akutes schmerzhaftes Horner-Syndrom verlangt eine Gefäßbildgebung des Kopfes und Halses zum Ausschluss einer Karotisdissektion.\n\n## Differenzialdiagnosen\n\n- Pseudopapillenödem durch Optikusdrusen kann bei normaler Sehfunktion und stabiler Verlaufskontrolle vorliegen.\n- Maligne Hypertonie zeigt neben Papillenschwellung häufig Cotton-Wool-Herde, Blutungen und systemische Symptome; der Blutdruck muss sofort gemessen werden.\n- Funktioneller Sehverlust ist eine Ausschlussdiagnose. Ein fehlender RAPD bei behaupteter vollständiger einseitiger Blindheit ist ein wichtiger objektiver Hinweis, darf aber nicht zu einer vorschnellen Abwertung führen.\n\n## Therapieprinzipien\n\n- Die Behandlung richtet sich nach der Ursache und der Dringlichkeit: Blutdrucknotfall, intrakranieller Druck, Aneurysma, Dissektion und atypische Entzündung erfordern unterschiedliche interdisziplinäre Pfade.\n- Bei IIH sind Gewichtsreduktion und geeignete medikamentöse Drucksenkung zentrale Bausteine; gefährdete Sehfunktion benötigt eine dringliche Spezialbehandlung.\n- Die Dokumentation von Pupillen, Gesichtsfeld und Sehnerv ermöglicht sichere Verlaufskontrollen und verhindert, dass gefährliche Veränderungen übersehen werden.\n\n## Red Flags\n\n- Papillenödem mit Kopfschmerz, Übelkeit, Erbrechen, transienten Sehstörungen oder pulsierendem Tinnitus ist dringlich.\n- Pupillenbeteiligte Okulomotoriusparese sofort angiografisch abklären.\n- Akutes schmerzhaftes Horner-Syndrom sofort auf Karotisdissektion untersuchen.\n- Plötzlicher Visus- oder Gesichtsfeldverlust mit neurologischen Ausfällen als Notfall behandeln.",
+      "summaryDe": "Akute neuro-ophthalmologische Befunde können lebens- oder sehbedrohlich sein. Papillenödem, atypische Optikusneuritis, pupillenbeteiligte Okulomotoriusparese und ein schmerzhaftes Horner-Syndrom verlangen eine priorisierte Untersuchung und häufig sofortige Gefäß- oder Hirnbildgebung.",
+      "learningObjectives": [
+        "Papillenödem, hypertensive Krise und Pseudopapillenödem unterscheiden.",
+        "Typische und atypische Optikusneuritis erkennen.",
+        "Anisokorie nach Licht- und Dunkelreaktion einordnen.",
+        "Bei drittem Hirnnerven und schmerzhaftem Horner-Syndrom die richtige Bildgebung veranlassen."
+      ],
+      "professional": {
+        "overview": [
+          "In der Notaufnahme werden korrigierte Sehschärfe, Farbsehen, Helligkeits- und Kontrastempfinden, Pupillenreaktionen, RAPD, Sehnerv und Konfrontationsgesichtsfeld systematisch geprüft. Ein RAPD ist bei asymmetrischer retinaler oder optischer Schädigung besonders richtungsweisend.",
+          "Beidseitige Papillenschwellung ist ein Befund, keine Diagnose. Zuerst müssen gefährliche Ursachen wie maligne Hypertonie, erhöhter intrakranieller Druck, venöse Sinusthrombose und raumfordernde Läsion ausgeschlossen werden."
+        ],
+        "diagnostics": [
+          "Bei Verdacht auf idiopathische intrakranielle Hypertension gehören OCT, Gesichtsfeld, MRT/MRV oder CT/CTV und nach Ausschluss einer Masse eine Liquordruckmessung zur Abklärung.",
+          "Typische Optikusneuritis ist meist einseitig, schmerzhaft bei Augenbewegung und bessert sich innerhalb von Wochen. MRT von Gehirn und Orbita kann die Diagnose unterstützen und MS-Risiko einordnen.",
+          "Atypische Merkmale sind bilateraler Befall, fehlender Schmerz, sehr schwerer Visusverlust, fehlende Besserung nach 4–6 Wochen, Alter über 50 Jahre, starke Papillenschwellung oder Blutungen. Anti-MOG- und Aquaporin-4-Antikörper sowie systemische Diagnostik sind dann zu erwägen.",
+          "Bei Anisokorie wird geprüft, ob die Differenz im Licht oder im Dunkeln größer ist. Eine im Dunkeln größere Anisokorie spricht für eine sympathische Störung wie Horner; eine im Licht größere Anisokorie für eine parasympathische Störung, etwa Okulomotoriusparese, Adie-Pupille oder Medikamente.",
+          "Eine pupillenbeteiligte Okulomotoriusparese mit Ptosis und Down-and-out-Stellung ist bis zum Ausschluss eines Aneurysmas ein neurologischer Notfall und benötigt sofort CTA oder MRA. Ein akutes schmerzhaftes Horner-Syndrom verlangt eine Gefäßbildgebung des Kopfes und Halses zum Ausschluss einer Karotisdissektion."
+        ],
+        "differentials": [
+          "Pseudopapillenödem durch Optikusdrusen kann bei normaler Sehfunktion und stabiler Verlaufskontrolle vorliegen.",
+          "Maligne Hypertonie zeigt neben Papillenschwellung häufig Cotton-Wool-Herde, Blutungen und systemische Symptome; der Blutdruck muss sofort gemessen werden.",
+          "Funktioneller Sehverlust ist eine Ausschlussdiagnose. Ein fehlender RAPD bei behaupteter vollständiger einseitiger Blindheit ist ein wichtiger objektiver Hinweis, darf aber nicht zu einer vorschnellen Abwertung führen."
+        ],
+        "therapy": [
+          "Die Behandlung richtet sich nach der Ursache und der Dringlichkeit: Blutdrucknotfall, intrakranieller Druck, Aneurysma, Dissektion und atypische Entzündung erfordern unterschiedliche interdisziplinäre Pfade.",
+          "Bei IIH sind Gewichtsreduktion und geeignete medikamentöse Drucksenkung zentrale Bausteine; gefährdete Sehfunktion benötigt eine dringliche Spezialbehandlung.",
+          "Die Dokumentation von Pupillen, Gesichtsfeld und Sehnerv ermöglicht sichere Verlaufskontrollen und verhindert, dass gefährliche Veränderungen übersehen werden."
+        ],
+        "redFlags": [
+          "Papillenödem mit Kopfschmerz, Übelkeit, Erbrechen, transienten Sehstörungen oder pulsierendem Tinnitus ist dringlich.",
+          "Pupillenbeteiligte Okulomotoriusparese sofort angiografisch abklären.",
+          "Akutes schmerzhaftes Horner-Syndrom sofort auf Karotisdissektion untersuchen.",
+          "Plötzlicher Visus- oder Gesichtsfeldverlust mit neurologischen Ausfällen als Notfall behandeln."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Was ist bei einer pupillenbeteiligten Okulomotoriusparese zu tun?",
+          "a": "Sofortige Gefäßbildgebung mit CTA oder MRA zum Ausschluss eines komprimierenden Aneurysmas."
+        },
+        {
+          "q": "Welche Anisokorie spricht für Horner?",
+          "a": "Eine im Dunkeln größere Anisokorie, weil die betroffene Pupille nicht ausreichend dilatiert."
+        },
+        {
+          "q": "Welche Merkmale machen eine Optikusneuritis atypisch?",
+          "a": "Bilateraler Befall, fehlender Schmerz, sehr schwerer oder persistierender Visusverlust, fehlende Erholung, höheres Alter sowie starke Schwellung oder Blutungen."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Bestimmte Veränderungen an Pupillen, Sehnerv und Gesichtsfeld können auf Erkrankungen im Gehirn oder an Gefäßen hinweisen. Deshalb werden solche Befunde in der Notaufnahme systematisch und schnell untersucht."
+        ],
+        "care": [
+          "Bringen Sie Informationen zu Kopfschmerzen, Blutdruck, Medikamenten, neuen neurologischen Symptomen und dem zeitlichen Beginn der Sehänderung mit."
+        ],
+        "urgent": [
+          "Bei plötzlichem Sehverlust, neuer Doppelbildlichkeit, ungleichen Pupillen, starken Kopfschmerzen, Nacken- oder Gesichtsschmerzen sofort den Notruf oder eine Notfallambulanz kontaktieren."
         ]
       }
     },
