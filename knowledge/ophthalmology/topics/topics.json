@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:40:51.145Z",
+  "generatedAt": "2026-09-15T18:44:08.318Z",
   "status": "medical-review",
   "topics": [
     {
@@ -303,17 +303,43 @@
       "url": "./umfassender-prufungsleitfaden-seltene-vaskulare-retinopathien-strahlen-cfb9253/"
     },
     {
-      "id": "retinopathie-der-fruehgeborenen-db93534",
+      "id": "umfassender-studienleitfaden-zur-fruhgeborenenretinopathie-rop-629e256",
       "title": "Umfassender Studienleitfaden zur Frühgeborenenretinopathie (ROP)",
       "category": "general-exam",
       "status": "medical-review",
       "summary": "Die Frühgeborenenretinopathie (ROP) ist eine Störung der retinalen Gefäßentwicklung, die ausschließlich bei Frühgeborenen auftritt. Ihre Pathogenese ist ein zweiphasiger Prozess, der durch die postnatale relative Hyperoxie initiiert wird, welche die physiologische Gefäßentwicklung hemmt. Darauf folgt eine Phase relativ",
       "wordCount": 4258,
-      "reportCount": 8,
+      "reportCount": 1,
       "sourceLanguages": [
         "de"
       ],
-      "url": "./retinopathie-der-fruehgeborenen-db93534/"
+      "url": "./umfassender-studienleitfaden-zur-fruhgeborenenretinopathie-rop-629e256/"
+    },
+    {
+      "id": "umfassender-studienleitfaden-elektrophysiologie-erg-eog-und-psychophys-735d777",
+      "title": "Umfassender Studienleitfaden: Elektrophysiologie (ERG, EOG) und psychophysikalische Tests in der Augenheilkunde",
+      "category": "general-exam",
+      "status": "medical-review",
+      "summary": "Umfassender Studienleitfaden: Elektrophysiologie (ERG, EOG) und psychophysikalische Tests in der Augenheilkunde",
+      "wordCount": 1589,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./umfassender-studienleitfaden-elektrophysiologie-erg-eog-und-psychophys-735d777/"
+    },
+    {
+      "id": "umfassender-studienleitfaden-fruhgeborenenretinopathie-rop-und-familia-90a3640",
+      "title": "Umfassender Studienleitfaden: Frühgeborenenretinopathie (ROP) und Familiäre exsudative Vitreoretinopathie (FEVR)",
+      "category": "general-exam",
+      "status": "medical-review",
+      "summary": "Umfassender Studienleitfaden: Frühgeborenenretinopathie (ROP) und Familiäre exsudative Vitreoretinopathie (FEVR)",
+      "wordCount": 1992,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./umfassender-studienleitfaden-fruhgeborenenretinopathie-rop-und-familia-90a3640/"
     },
     {
       "id": "umfassender-studienleitfaden-pravention-und-management-von-komplikatio-6fe72b3",
@@ -615,6 +641,19 @@
       "url": "./umfassender-studienleitfaden-primares-und-sekundares-winkelblockglauko-0eec48d/"
     },
     {
+      "id": "umfassender-studienleitfaden-retinopathie-bei-fruhgeborenen-rop-und-ri-9af0ca9",
+      "title": "Umfassender Studienleitfaden: Retinopathie bei Frühgeborenen (ROP) und Risikofaktoren des Offenwinkelglaukoms auf Basis der deutschen S2-Leitlinien",
+      "category": "glaucoma",
+      "status": "medical-review",
+      "summary": "Umfassender Studienleitfaden: Retinopathie bei Frühgeborenen (ROP) und Risikofaktoren des Offenwinkelglaukoms auf Basis der deutschen S2-Leitlinien",
+      "wordCount": 2378,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./umfassender-studienleitfaden-retinopathie-bei-fruhgeborenen-rop-und-ri-9af0ca9/"
+    },
+    {
       "id": "umfassender-studienleitfaden-risikofaktoren-und-screening-des-offenwin-181a5c2",
       "title": "Umfassender Studienleitfaden: Risikofaktoren und Screening des Offenwinkelglaukoms (WBO-Prüfungsvorbereitung)",
       "category": "glaucoma",
@@ -705,6 +744,19 @@
         "de"
       ],
       "url": "./funktionelle-sehstorungen-in-der-neuro-ophthalmologie-e897a92/"
+    },
+    {
+      "id": "klinische-ansatze-bei-optikusneuropathien-7089e7b",
+      "title": "Klinische Ansätze bei Optikusneuropathien",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Themen einer Fachvorlesung über Optikusneuropathien zusammen, gehalten von Dr. Haya Razzouk, einer beratenden Neuro-Ophthalmologin. Der Kern der Präsentation liegt auf einem strukturierten, systematischen Ansatz zur Diagnose und Behandlung akuter und subakuter Optikusneuropathien. Di",
+      "wordCount": 2884,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./klinische-ansatze-bei-optikusneuropathien-7089e7b/"
     },
     {
       "id": "klinischer-ansatz-bei-sauglingen-mit-sehschwache-und-nystagmus-a691394",
@@ -1331,6 +1383,19 @@
       "url": "./umfassender-studienleitfaden-glaskorperanomalien-und-netzhautablosung-69d635a/"
     },
     {
+      "id": "umfassender-studienleitfaden-hereditare-netzhaut-und-aderhautdystrophi-83a3576",
+      "title": "Umfassender Studienleitfaden: Hereditäre Netzhaut- und Aderhautdystrophien (IRD) für die Facharztprüfung",
+      "category": "retina",
+      "status": "medical-review",
+      "summary": "Umfassender Studienleitfaden: Hereditäre Netzhaut- und Aderhautdystrophien (IRD) für die Facharztprüfung",
+      "wordCount": 2031,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./umfassender-studienleitfaden-hereditare-netzhaut-und-aderhautdystrophi-83a3576/"
+    },
+    {
       "id": "umfassender-studienleitfaden-morbus-coats-maculare-teleangiektasien-un-99e535b",
       "title": "Umfassender Studienleitfaden: Morbus Coats, Maculäre Teleangiektasien und Phakomatosen",
       "category": "retina",
@@ -1381,6 +1446,19 @@
         "de"
       ],
       "url": "./angeborene-anomalien-des-sehnervs-e8f018e/"
+    },
+    {
+      "id": "briefing-monofixationssyndrom-und-mikrotropie-eine-vergleichende-analy-002f941",
+      "title": "Briefing: Monofixationssyndrom und Mikrotropie – Eine vergleichende Analyse",
+      "category": "strabismus-pediatric",
+      "status": "medical-review",
+      "summary": "Dieses Briefing analysiert die wesentlichen Merkmale, Unterschiede und Zusammenhänge zwischen dem Monofixationssyndrom (MFS) und der Mikrotropie. Die zentrale Erkenntnis ist, dass es sich um eng verwandte, aber nicht identische Konzepte handelt. Das Monofixationssyndrom ist ein sensorisches Syndrom, das durch ein zentr",
+      "wordCount": 1834,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./briefing-monofixationssyndrom-und-mikrotropie-eine-vergleichende-analy-002f941/"
     },
     {
       "id": "chirurgie-der-au-eren-augenmuskeln-41f823b",
@@ -1459,6 +1537,19 @@
         "de"
       ],
       "url": "./okulare-manifestationen-systemischer-erkrankungen-836d3b6/"
+    },
+    {
+      "id": "padiatrische-esotropie-62ddd23",
+      "title": "Pädiatrische Esotropie",
+      "category": "strabismus-pediatric",
+      "status": "medical-review",
+      "summary": "Dieses Dokument fasst die zentralen Erkenntnisse aus einem Fachvortrag von Dr. Anas Anjari, einem beratenden Kinderophthalmologen und Strabologen, über die pädiatrische Esotropie (Innenschielen) zusammen. Der Vortrag betont einen fallbasierten Ansatz, um die Diagnose und das Management der verschiedenen Formen des Inne",
+      "wordCount": 2573,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./padiatrische-esotropie-62ddd23/"
     },
     {
       "id": "uveitis-infektioes-notfaelle-endophthalmitis",

@@ -1,10 +1,10 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:40:51.145Z",
+  "generatedAt": "2026-09-15T18:44:08.318Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 118,
+  "publicGroupCount": 125,
   "pendingRedactionCount": 53,
   "excludedCount": 1,
   "reports": [
@@ -311,8 +311,8 @@
     {
       "path": "👁️ Netzhaut/Studio/015_Umfassender Studienleitfaden_ Frühgeborenenretinopathie (ROP) und Familiäre exsudative Vitreoretinopathie (FEVR).md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "umfassender-studienleitfaden-fruhgeborenenretinopathie-rop-und-familia-90a3640",
+      "status": "used"
     },
     {
       "path": "👁️ Netzhaut/Studio/016_Umfassender Lernleitfaden_ Vitreoretinale Chirurgie und Lasertherapie für die Facharztprüfung.md",
@@ -359,8 +359,8 @@
     {
       "path": "👁️ Netzhaut/Studio/023_Umfassender Studienleitfaden_ Hereditäre Netzhaut- und Aderhautdystrophien (IRD) für die Facharztprüfung.md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "umfassender-studienleitfaden-hereditare-netzhaut-und-aderhautdystrophi-83a3576",
+      "status": "used"
     },
     {
       "path": "👁️ Netzhaut/Studio/024_Kompendium der retinalen Diagnostik_ Grundlagen, klinische Korrelationen und Prüfungswissen.md",
@@ -371,8 +371,8 @@
     {
       "path": "👁️ Netzhaut/Studio/025_Umfassender Studienleitfaden_ Elektrophysiologie (ERG, EOG) und psychophysikalische Tests in der Augenheilkunde.md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "umfassender-studienleitfaden-elektrophysiologie-erg-eog-und-psychophys-735d777",
+      "status": "used"
     },
     {
       "path": "👁️ Netzhaut/Studio/026_Fachspezifischer Leitfaden zur Diabetischen Retinopathie_ Vorbereitung auf die Facharztprüfung Augenheilkunde.md",
@@ -467,13 +467,13 @@
     {
       "path": "👁️ Netzhaut/Studio/041_Umfassender Studienleitfaden_ Retinopathie bei Frühgeborenen (ROP) und Risikofaktoren des Offenwinkelglaukoms auf Basis der deutschen S2-Lei.md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "umfassender-studienleitfaden-retinopathie-bei-fruhgeborenen-rop-und-ri-9af0ca9",
+      "status": "used"
     },
     {
       "path": "👁️ Netzhaut/Studio/042_Umfassender Studienleitfaden zur Frühgeborenenretinopathie (ROP).md",
       "notebook": "👁️ Netzhaut",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "groupId": "umfassender-studienleitfaden-zur-fruhgeborenenretinopathie-rop-629e256",
       "status": "used"
     },
     {
@@ -857,8 +857,8 @@
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/002_Briefing_ Monofixationssyndrom und Mikrotropie – Eine vergleichende Analyse.md",
       "notebook": "👨‍🏫 الحول و توابعه",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "briefing-monofixationssyndrom-und-mikrotropie-eine-vergleichende-analy-002f941",
+      "status": "used"
     },
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md",
@@ -875,8 +875,8 @@
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/005_Briefing-Dokument_ Pädiatrische Esotropie.md",
       "notebook": "👨‍🏫 الحول و توابعه",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "padiatrische-esotropie-62ddd23",
+      "status": "used"
     },
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/006_Briefing-Dokument_ Grundlagen des Strabismus.md",
@@ -1067,8 +1067,8 @@
     {
       "path": "🧑‍⚕️ أمراض العصبية/Studio/007_Briefing-Dokument_ Klinische Ansätze bei Optikusneuropathien.md",
       "notebook": "🧑‍⚕️ أمراض العصبية",
-      "groupId": "retinopathie-der-fruehgeborenen-db93534",
-      "status": "merged"
+      "groupId": "klinische-ansatze-bei-optikusneuropathien-7089e7b",
+      "status": "used"
     },
     {
       "path": "🧑‍⚕️ أمراض العصبية/Studio/008_Briefing-Dokument_ Störungen der Höheren Visuellen Funktionen.md",
