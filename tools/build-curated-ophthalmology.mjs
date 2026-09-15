@@ -45,16 +45,27 @@ async function listEligibleReports(root){
   const notebooks=(await readdir(root,{withFileTypes:true})).filter(entry=>entry.isDirectory()).sort((a,b)=>a.name.localeCompare(b.name));
   const reports=[];
   for(const notebook of notebooks){
-    const studio=join(root,notebook.name,'Studio');let entries=[];
+    const studio=join(root,notebook.name,'Studio');let entries=[];const youtubeReferences=await loadYoutubeReferences(join(root,notebook.name));
     try{entries=await readdir(studio,{withFileTypes:true})}catch(error){if(error.code==='ENOENT')continue;throw error}
     for(const entry of entries.filter(entry=>entry.isFile()&&entry.name.toLowerCase().endsWith('.md')).sort((a,b)=>a.name.localeCompare(b.name))){
       const absolute=join(studio,entry.name);
       let metadata={};
       try{metadata=JSON.parse(await readFile(absolute.replace(/\.md$/i,'.metadata.json'),'utf8'))}catch{}
-      reports.push({absolute,relative:toPosix(relative(root,absolute)),notebook:notebook.name,file:entry.name,notebookId:metadata.notebook_id||'',artifactId:metadata.artifact_id||''});
+      reports.push({absolute,relative:toPosix(relative(root,absolute)),notebook:notebook.name,file:entry.name,notebookId:metadata.notebook_id||'',artifactId:metadata.artifact_id||'',youtubeUrl:findYoutubeUrl(entry.name,youtubeReferences),youtubeSearchUrl:`https://www.youtube.com/results?search_query=${encodeURIComponent(entry.name.replace(/\.md$/i,'').replace(/^\d+[_ -]*/,''))}`});
     }
   }
   return reports;
+}
+async function loadYoutubeReferences(notebookRoot){
+  const dir=join(notebookRoot,'Quellen','Verweise');let entries=[];try{entries=await readdir(dir,{withFileTypes:true})}catch{return []}
+  const refs=[];for(const entry of entries.filter(e=>e.isFile()&&e.name.endsWith('.md'))){const text=await readFile(join(dir,entry.name),'utf8');const match=text.match(/https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?[^\s)]+|youtu\.be\/[^\s)]+)/i);if(match)refs.push({name:entry.name,text,url:match[0]})}return refs;
+}
+function findYoutubeUrl(reportName,refs){
+  if(!refs.length)return '';
+  const tokens=value=>new Set(String(value).normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g,'').split(/[^\p{L}\p{N}]+/u).filter(x=>x.length>3&& !/^\d+$/.test(x)));
+  const wanted=tokens(reportName);let best=null,bestScore=0;
+  for(const ref of refs){const have=tokens(ref.name+' '+ref.text.slice(0,500));let score=0;for(const token of wanted)if(have.has(token))score++;if(score>bestScore){bestScore=score;best=ref}}
+  return bestScore>=2?best.url:'';
 }
 
 function validateMapping(value,eligibleReports){
@@ -150,7 +161,7 @@ function renderIndex(items){
 function renderArticle(group,record,reports,body){
   const list=items=>`<ul>${items.map(item=>`<li>${inline(item)}</li>`).join('')}</ul>`;
   const paragraphs=items=>items.map(item=>`<p>${inline(item)}</p>`).join('');
-  const sources=reports.map(report=>{const link=report.notebookId?`<a href="https://notebooklm.google.com/notebook/${encodeURIComponent(report.notebookId)}" target="_blank" rel="noopener">NotebookLM-Quelle öffnen</a>`:'Lokale Studio-Quelle';return `<li>${esc(basename(report.file,'.md'))}<br><small>${esc(report.notebook)} · ${link}</small></li>`}).join('');
+  const sources=reports.map(report=>{const link=report.youtubeUrl?`<a href="${esc(report.youtubeUrl)}" target="_blank" rel="noopener">YouTube-Vorlesung öffnen</a>`:`<a href="${esc(report.youtubeSearchUrl)}" target="_blank" rel="noopener">YouTube-Suche öffnen</a>`;return `<li>${esc(basename(report.file,'.md'))}<br><small>${esc(report.notebook)} · ${link}</small></li>`}).join('');
   const professional=`<section class="kb-view" id="panel-facharzt" data-view="facharzt" role="tabpanel" aria-labelledby="tab-facharzt"><h2>Lernziele</h2>${list(group.learningObjectives)}<h2>Ausführliche Vorlesung</h2><article class="kb-lecture">${body}</article><h2>Prüfungsorientierter Überblick</h2>${paragraphs(group.professional.overview)}<h2>Diagnostik</h2>${list(group.professional.diagnostics)}<h2>Differenzialdiagnosen</h2>${list(group.professional.differentials)}<h2>Therapieprinzipien</h2>${list(group.professional.therapy)}<section class="kb-pitfalls"><h2>Red Flags</h2>${list(group.professional.redFlags)}</section><h2>Prüfungsfragen</h2>${group.questions.map((item,index)=>`<details class="kb-question"><summary>${index+1}. ${esc(item.q)}</summary><p>${inline(item.a)}</p></details>`).join('')}</section>`;
   const patient=`<section class="kb-view" id="panel-patienten" data-view="patienten" role="tabpanel" aria-labelledby="tab-patienten" hidden><h2>Was bedeutet das?</h2>${paragraphs(group.patient.explanation)}<h2>Untersuchung und Behandlung</h2>${list(group.patient.care)}<h2>Wann sollte man rasch handeln?</h2>${list(group.patient.urgent)}<div class="kb-warning">Diese Information ersetzt keine persönliche Untersuchung oder Therapieempfehlung.</div></section>`;
   return `${pageStart(group.titleDe,record.summary,'../../assets')}<nav class="kb-nav"><a href="../index.html">← Kuratierte Themen</a><div class="kb-nav-links"><a href="../../index.html">Alle Kapitel</a><a href="../../../index.html#knowledge">Hauptseite</a></div></nav><main class="kb-article"><p class="kb-eyebrow">${esc(group.category)} · Lernentwurf</p><h1>${esc(group.titleDe)}</h1><p class="kb-lead">${esc(record.summary)}</p><div class="kb-meta"><span class="kb-badge">Deutsch</span><span class="kb-badge">${record.wordCount} Wörter</span><span class="kb-badge kb-status">Medizinische Prüfung</span></div><div class="kb-warning"><strong>Redaktioneller Entwurf:</strong> Das Kapitel ist noch nicht medizinisch freigegeben.</div><div class="kb-tabs" role="tablist"><button class="kb-view-button" id="tab-facharzt" data-view="facharzt" role="tab" aria-controls="panel-facharzt" aria-selected="true">Facharztprüfung</button><button class="kb-view-button" id="tab-patienten" data-view="patienten" role="tab" aria-controls="panel-patienten" aria-selected="false" tabindex="-1">Für Patienten</button></div>${professional}${patient}<section class="kb-sources"><h2>Quellen</h2><ol>${sources}</ol></section></main><footer class="kb-footer">Educational content only · keine individuelle medizinische Beratung</footer></div><script src="../../assets/library.js"></script></body></html>`;
