@@ -99,7 +99,7 @@ async function loadLecture(slug){
 function markdownToHtml(markdown){
   const lines=markdown.replace(/\r/g,'').split('\n');let html='';let listType=null;let listItems=[];
   const flush=()=>{if(!listType)return;html+=`<${listType}>${listItems.map(item=>`<li>${inline(item)}</li>`).join('')}</${listType}>`;listType=null;listItems=[]};
-  for(let index=0;index<lines.length;index++){const line=lines[index].trim();if(!line){flush();continue}
+  for(let index=0;index<lines.length;index++){const line=lines[index].trim();if(!line){flush();continue}if(/^---+$/.test(line)){flush();html+='<hr>';continue}
     const heading=line.match(/^(#{1,4})\s+(.+)$/);if(heading){flush();const level=Math.min(heading[1].length+2,6);const headingText=heading[2].replace(/[*_]/g,'').toLocaleLowerCase('de');const headingClass=headingText.includes('red flag')||headingText.includes('achtung')?' kb-heading-redflag':headingText.includes('zusammenfassung')||headingText.includes('summary')||headingText.includes('merksatz')||headingText.includes('take-home')?' kb-heading-summary':'';html+=`<h${level} class="${headingClass.trim()}">${inline(heading[2])}</h${level}>`;continue}
     if(line.includes('|')&&index+1<lines.length&&/^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$/.test(lines[index+1])){
       flush();const header=parseTableRow(line);index++;const alignments=parseTableRow(lines[index]).map(cell=>cell.trim());const rows=[];
@@ -107,6 +107,7 @@ function markdownToHtml(markdown){
       const aligns=alignments.map(cell=>cell.startsWith(':')&&cell.endsWith(':')?'center':cell.endsWith(':')?'right':cell.startsWith(':')?'left':'');
       html+=`<div class="kb-table-wrap"><table class="kb-table"><thead><tr>${header.map((cell,i)=>`<th${aligns[i]?` style="text-align:${aligns[i]}"`:''}>${inline(cell)}</th>`).join('')}</tr></thead><tbody>${rows.map(row=>`<tr>${header.map((_,i)=>`<td${aligns[i]?` style="text-align:${aligns[i]}"`:''}>${inline(row[i]||'')}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;continue;
     }
+    const quote=line.match(/^>\s*(.+)$/);if(quote){flush();const content=quote[1].replace(/^#{1,5}\s+/,'');const lower=content.toLocaleLowerCase('de');const className=/red flag|warn|achtung|notfall|alarm/.test(lower)?'kb-warning':'kb-takeaway';html+=`<aside class="${className}">${/^red flag|warn|achtung|notfall|alarm/.test(lower)?`<strong>${inline(content)}</strong>`:inline(content)}</aside>`;continue}
     const bullet=line.match(/^[-*+]\s+(.+)$/);if(bullet){if(listType&&listType!=='ul')flush();listType='ul';listItems.push(bullet[1]);continue}
     const numbered=line.match(/^\d+[.)]\s+(.+)$/);if(numbered){if(listType&&listType!=='ol')flush();listType='ol';listItems.push(numbered[1]);continue}
     flush();html+=`<p>${inline(line)}</p>`;
