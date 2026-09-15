@@ -138,7 +138,7 @@ function markdownToHtml(markdown){
   }
   flush();return html;
 }
-function pageStart(title,description,assetPrefix){return `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="${esc(description)}"><meta name="robots" content="noindex,nofollow"><title>${esc(title)} | Mohammad Askar</title><link rel="stylesheet" href="${assetPrefix}/library.css"><link rel="stylesheet" href="${assetPrefix}/lecture.css"></head><body><div class="kb-shell">`}
+function pageStart(title,description,assetPrefix){return `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="${esc(description)}"><meta name="robots" content="noindex,nofollow"><title>${esc(title)} | Mohammad Askar</title><link rel="stylesheet" href="${assetPrefix}/library.css?v=20260915"><link rel="stylesheet" href="${assetPrefix}/lecture.css"></head><body><div class="kb-shell">`}
 function renderIndex(items){
   const categories=[...new Set(items.map(item=>item.category))].sort((a,b)=>a.localeCompare(b,'de'));
   const filters=categories.map(category=>`<button class="kb-filter" data-filter="${esc(category)}" aria-pressed="false">${esc(category)}</button>`).join('');
