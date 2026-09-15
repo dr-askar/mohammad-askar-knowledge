@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:53:14.969Z",
+  "generatedAt": "2026-09-15T18:55:01.876Z",
   "status": "medical-review",
   "topics": [
     {
@@ -457,6 +457,19 @@
         "de"
       ],
       "url": "./glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien-3e3e0e5/"
+    },
+    {
+      "id": "glaukom-konservierungsmittel-augenoberflaeche",
+      "title": "Glaukomtherapie: Konservierungsmittel, Augenoberfläche und Operationsrisiko",
+      "category": "glaucoma",
+      "status": "medical-review",
+      "summary": "Bei einer jahrzehntelangen Glaukomtherapie ist die Gesundheit der Augenoberfläche ein wesentlicher Teil des Behandlungserfolgs. Vor allem Benzalkoniumchlorid kann Tränenfilm, Epithel, Nerven und Bindehaut schädigen, Beschwerden verstärken und dadurch Adhärenz sowie spätere filtrierende Operationen beeinträchtigen. Konservierungsmittelfreie Strategien sollten früh geprüft werden.",
+      "wordCount": 818,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./glaukom-konservierungsmittel-augenoberflaeche/"
     },
     {
       "id": "herausforderungen-in-der-diagnostik-kindlicher-glaukomerkrankungen-f93e140",
@@ -2528,33 +2541,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-f472761",
-      "title": "دراسة تحليلية شاملة: تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية",
-      "category": "glaucoma",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ Glaukom/Studio/021_دراسة تحليلية شاملة_ تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية.md"
       ],
       "missingFields": [
         "bodyDe",

@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:53:14.969Z",
+  "generatedAt": "2026-09-15T18:55:01.876Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 135,
-  "pendingRedactionCount": 43,
+  "publicGroupCount": 136,
+  "pendingRedactionCount": 42,
   "excludedCount": 1,
   "reports": [
     {
@@ -227,7 +227,7 @@
     {
       "path": "👁️ Glaukom/Studio/021_دراسة تحليلية شاملة_ تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية.md",
       "notebook": "👁️ Glaukom",
-      "groupId": "-f472761",
+      "groupId": "glaukom-konservierungsmittel-augenoberflaeche",
       "status": "used"
     },
     {
