@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:05:04.614Z",
+  "generatedAt": "2026-09-15T19:06:41.131Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1355,6 +1355,19 @@
         "de"
       ],
       "url": "./optic-pit-makulopathie-2dcc2c9/"
+    },
+    {
+      "id": "retinale-biomarker-und-ki-bildgebung",
+      "title": "Retinale Biomarker und künstliche Intelligenz in der Bildgebung",
+      "category": "retina",
+      "status": "medical-review",
+      "summary": "Bei diabetischem Makulaödem und Makulaödem nach retinalem Venenverschluss verbinden OCT-Biomarker, Entzündungsmechanismen und künstliche Intelligenz die Diagnostik mit einer stärker individualisierten Verlaufskontrolle. KI kann Flüssigkeit segmentieren und quantifizieren, ersetzt aber nicht die klinische Entscheidung.",
+      "wordCount": 896,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./retinale-biomarker-und-ki-bildgebung/"
     },
     {
       "id": "retinale-gefa-erkrankungen-77c269c",
@@ -2837,33 +2850,6 @@
       ],
       "sourceReports": [
         "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "retinal-revolution-biomarkers-and-artificial-intelligence-in-ophthalmi-bec8452",
-      "title": "Retinal Revolution: Biomarkers and Artificial Intelligence in Ophthalmic Imaging",
-      "category": "retina",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md"
       ],
       "missingFields": [
         "bodyDe",

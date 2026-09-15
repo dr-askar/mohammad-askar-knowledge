@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:05:04.614Z",
+  "generatedAt": "2026-09-15T19:06:41.131Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 138,
-  "pendingRedactionCount": 40,
+  "publicGroupCount": 139,
+  "pendingRedactionCount": 39,
   "excludedCount": 1,
   "reports": [
     {
@@ -683,7 +683,7 @@
     {
       "path": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md",
       "notebook": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي",
-      "groupId": "retinal-revolution-biomarkers-and-artificial-intelligence-in-ophthalmi-bec8452",
+      "groupId": "retinale-biomarker-und-ki-bildgebung",
       "status": "used"
     },
     {
