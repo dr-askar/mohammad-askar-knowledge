@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:47:59.594Z",
+  "generatedAt": "2026-09-15T18:50:54.539Z",
   "status": "medical-review",
   "topics": [
     {
@@ -470,6 +470,19 @@
         "de"
       ],
       "url": "./herausforderungen-in-der-diagnostik-kindlicher-glaukomerkrankungen-f93e140/"
+    },
+    {
+      "id": "kindliches-glaukom-diagnostische-herausforderungen",
+      "title": "Kindliches Glaukom: diagnostische Herausforderungen und sichere Abklärung",
+      "category": "glaucoma",
+      "status": "medical-review",
+      "summary": "Die Glaukomdiagnostik bei Kindern verbindet medizinische, psychologische und technische Herausforderungen. Besonders bei kleinen Kindern sind Untersuchungen unter Narkose, eine standardisierte Druckmessung und die Verlaufskontrolle mit denselben Geräten entscheidend. Viele Überweisungen wegen Glaukomverdachts bestätigen sich nicht; deshalb muss die Abklärung strukturiert und in spezialisierten Zentren erfolgen.",
+      "wordCount": 1004,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./kindliches-glaukom-diagnostische-herausforderungen/"
     },
     {
       "id": "glaukom-und-augenoberflaeche-16f3285",
@@ -2502,33 +2515,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-4a6b83f",
-      "title": "تحديات تشخيص الجلوكوما (المياه الزرقاء) لدى الأطفال",
-      "category": "glaucoma",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/010_تحديات تشخيص الجلوكوما (المياه الزرقاء) لدى الأطفال.md"
       ],
       "missingFields": [
         "bodyDe",

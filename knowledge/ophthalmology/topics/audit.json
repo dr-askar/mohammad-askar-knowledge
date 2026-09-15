@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:47:59.594Z",
+  "generatedAt": "2026-09-15T18:50:54.539Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 133,
-  "pendingRedactionCount": 45,
+  "publicGroupCount": 134,
+  "pendingRedactionCount": 44,
   "excludedCount": 1,
   "reports": [
     {
@@ -767,7 +767,7 @@
     {
       "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/010_تحديات تشخيص الجلوكوما (المياه الزرقاء) لدى الأطفال.md",
       "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
-      "groupId": "-4a6b83f",
+      "groupId": "kindliches-glaukom-diagnostische-herausforderungen",
       "status": "used"
     },
     {
