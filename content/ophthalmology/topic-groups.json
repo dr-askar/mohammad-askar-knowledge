@@ -1974,6 +1974,28 @@
       ]
     },
     {
+      "id": "-5fd79e9",
+      "titleDe": "موجز إحاطة: رؤى حول علاج الجلوكوما الخلقية لدى الأطفال",
+      "category": "general-exam",
+      "status": "medical-review",
+      "primary": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md",
+      "merged": [],
+      "sourceLanguages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "-e6a4479",
+      "titleDe": "موجز إحاطة: رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها",
+      "category": "general-exam",
+      "status": "medical-review",
+      "primary": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md",
+      "merged": [],
+      "sourceLanguages": [
+        "ar"
+      ]
+    },
+    {
       "id": "aphakia-70ff02c",
       "titleDe": "موجز إحاطة: زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia)",
       "category": "general-exam",
@@ -1990,6 +2012,39 @@
       "category": "general-exam",
       "status": "medical-review",
       "primary": "👁️ مبادئ تفسير فحص OCT/Studio/002_موجز إحاطة_ مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT).md",
+      "merged": [],
+      "sourceLanguages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "-3230d98",
+      "titleDe": "موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية: رؤى جديدة واستراتيجيات علاجية",
+      "category": "general-exam",
+      "status": "medical-review",
+      "primary": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md",
+      "merged": [],
+      "sourceLanguages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "dog-2025-amd-eb38a91",
+      "titleDe": "وثيقة إحاطة: تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD)",
+      "category": "general-exam",
+      "status": "medical-review",
+      "primary": "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md",
+      "merged": [],
+      "sourceLanguages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "-56f051d",
+      "titleDe": "وثيقة إحاطة: رؤى حديثة حول علاج الوذمة البقعية",
+      "category": "general-exam",
+      "status": "medical-review",
+      "primary": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md",
       "merged": [],
       "sourceLanguages": [
         "ar"
@@ -7818,61 +7873,6 @@
       "category": "strabismus-pediatric",
       "status": "medical-review",
       "primary": "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
-      "id": "-5fd79e9",
-      "titleDe": "موجز إحاطة: رؤى حول علاج الجلوكوما الخلقية لدى الأطفال",
-      "category": "strabismus-pediatric",
-      "status": "medical-review",
-      "primary": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
-      "id": "-e6a4479",
-      "titleDe": "موجز إحاطة: رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها",
-      "category": "strabismus-pediatric",
-      "status": "medical-review",
-      "primary": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
-      "id": "-3230d98",
-      "titleDe": "موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية: رؤى جديدة واستراتيجيات علاجية",
-      "category": "strabismus-pediatric",
-      "status": "medical-review",
-      "primary": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
-      "id": "dog-2025-amd-eb38a91",
-      "titleDe": "وثيقة إحاطة: تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD)",
-      "category": "strabismus-pediatric",
-      "status": "medical-review",
-      "primary": "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md",
-      "merged": [],
-      "sourceLanguages": [
-        "ar"
-      ]
-    },
-    {
-      "id": "-56f051d",
-      "titleDe": "وثيقة إحاطة: رؤى حديثة حول علاج الوذمة البقعية",
-      "category": "strabismus-pediatric",
-      "status": "medical-review",
-      "primary": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md",
       "merged": [],
       "sourceLanguages": [
         "ar"

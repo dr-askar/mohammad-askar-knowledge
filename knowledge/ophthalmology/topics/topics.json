@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:12:00.898Z",
+  "generatedAt": "2026-09-15T18:27:29.435Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1533,6 +1533,12 @@
       "category": "cataract-iol",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "🧠 Cataract/Studio/002_Studienleitfaden_ Management komplexer Kataraktchirurgie und Sekundärlinsenimplantation bei fehlendem Kapselsupport.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1554,6 +1560,12 @@
       "category": "cornea-ocular-surface",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "📽️ Hornhaut/Studio/001_Akademischer Studienführer_ Konjunktivalschwenklappen (Conjunctival Flaps).md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1575,6 +1587,12 @@
       "category": "cornea-ocular-surface",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ العلاج المضاد للالتهاب للعين الجافة/Studio/003_الموجز الطبي_ السيكلوسبورين أ (CsA) كعلاج طويل الأمد لمرض جفاف العين.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1596,6 +1614,12 @@
       "category": "emergency-trauma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/005_موجز إحاطة_ تدبير رضوض الجزء الأمامي من العين.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1617,6 +1641,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/002_Briefing Document_ Enhancing nAMD Patient Care Through Extended Treatment Intervals.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1638,6 +1668,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/003_Briefing Document_ Pathophysiology and Advanced Management of Diabetic Macular Edema.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1659,6 +1695,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/002_Treatment Strategies for Macular Edema_ An Update on Theory and Practice.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1680,6 +1722,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ أورام القسم الأمامي للعين_ التشخيص والمقاربة السريرية الأكاديمية/Studio/002_Umfassender Leitfaden_ Tumoren des vorderen Augenabschnitts für die Facharztprüfung.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1701,6 +1749,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/007_إدارة مخاطر ارتفاع ضغط العين (IOD) بعد العلاج بالكورتيكوستيرويدات داخل الجسم الزجاجي للوذمة البقعية السكرية (DMÖ)_ موجز سريري.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1722,6 +1776,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/003_التظاهرات العينية للأمراض الجهازية_ موجز محاضرة الدكتور أحمد الدباغ.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1743,6 +1803,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/001_النتائج الوظيفية في حالات الجلوكوما لدى الأطفال_ تحليل شامل.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1764,6 +1830,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/006_تحديثات تشخيص الجلوكوما لعام 2025_ رؤى متعمقة وتحليلات.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1785,6 +1857,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/004_تسهيل رعاية مرضى التنكس البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1806,6 +1884,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/007_تقرير علمي_ منظور طب النظم في فهم الاستجابات المتباينة لعلاج التنكس البقعي الرطب المرتبط بالعمر (nAMD).md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1827,6 +1911,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/003_ثورة في طب الشبكية_ المؤشرات الحيوية والتصوير في الوذمة البقعية السكرية وانسداد الوريد الشبكي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1848,6 +1938,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ Netzhaut/Studio/027_دليل الدراسة الشامل_ اعتلالات الجسم الزجاجي وانفصال الشبكية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1869,6 +1965,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/004_رؤى حديثة في أبحاث الجلوكوما الانتقالية_ من المختبر إلى العيادة.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1890,6 +1992,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/005_مذكرة إحاطة_ أدوية طويلة المفعول لأمراض الشبكية النضحية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1911,6 +2019,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/003_مستجدات علاج الجلوكوما 2025_ رؤى من دراسات حديثة.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1932,6 +2046,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/008_مقارنة بين عوامل Anti-VEGF الشائعة.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1953,6 +2073,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/001_ملخص إحاطة_ تسهيل رعاية المرضى المصابين بالضمور البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1974,6 +2100,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة/Studio/001_ملخص شامل_ منهجية المراجعات المنهجية والتحليلات التلوية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -1995,6 +2127,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/003_موجز إحاطة_ النتائج الوظيفية في حالات الجلوكوما لدى الأطفال.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2016,6 +2154,66 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال/Studio/002_موجز إحاطة_ رؤى حديثة في طب عيون الأطفال.md"
+      ],
+      "missingFields": [
+        "bodyDe",
+        "summaryDe",
+        "learningObjectives",
+        "questions",
+        "professional.overview",
+        "professional.diagnostics",
+        "professional.differentials",
+        "professional.therapy",
+        "professional.redFlags",
+        "patient.explanation",
+        "patient.care",
+        "patient.urgent"
+      ]
+    },
+    {
+      "id": "-5fd79e9",
+      "title": "موجز إحاطة: رؤى حول علاج الجلوكوما الخلقية لدى الأطفال",
+      "category": "general-exam",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md"
+      ],
+      "missingFields": [
+        "bodyDe",
+        "summaryDe",
+        "learningObjectives",
+        "questions",
+        "professional.overview",
+        "professional.diagnostics",
+        "professional.differentials",
+        "professional.therapy",
+        "professional.redFlags",
+        "patient.explanation",
+        "patient.care",
+        "patient.urgent"
+      ]
+    },
+    {
+      "id": "-e6a4479",
+      "title": "موجز إحاطة: رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها",
+      "category": "general-exam",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2037,6 +2235,12 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/002_موجز إحاطة_ زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia).md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2058,6 +2262,93 @@
       "category": "general-exam",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ مبادئ تفسير فحص OCT/Studio/002_موجز إحاطة_ مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT).md"
+      ],
+      "missingFields": [
+        "bodyDe",
+        "summaryDe",
+        "learningObjectives",
+        "questions",
+        "professional.overview",
+        "professional.diagnostics",
+        "professional.differentials",
+        "professional.therapy",
+        "professional.redFlags",
+        "patient.explanation",
+        "patient.care",
+        "patient.urgent"
+      ]
+    },
+    {
+      "id": "-3230d98",
+      "title": "موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية: رؤى جديدة واستراتيجيات علاجية",
+      "category": "general-exam",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md"
+      ],
+      "missingFields": [
+        "bodyDe",
+        "summaryDe",
+        "learningObjectives",
+        "questions",
+        "professional.overview",
+        "professional.diagnostics",
+        "professional.differentials",
+        "professional.therapy",
+        "professional.redFlags",
+        "patient.explanation",
+        "patient.care",
+        "patient.urgent"
+      ]
+    },
+    {
+      "id": "dog-2025-amd-eb38a91",
+      "title": "وثيقة إحاطة: تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD)",
+      "category": "general-exam",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md"
+      ],
+      "missingFields": [
+        "bodyDe",
+        "summaryDe",
+        "learningObjectives",
+        "questions",
+        "professional.overview",
+        "professional.diagnostics",
+        "professional.differentials",
+        "professional.therapy",
+        "professional.redFlags",
+        "patient.explanation",
+        "patient.care",
+        "patient.urgent"
+      ]
+    },
+    {
+      "id": "-56f051d",
+      "title": "وثيقة إحاطة: رؤى حديثة حول علاج الوذمة البقعية",
+      "category": "general-exam",
+      "status": "pending-redaction",
+      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2079,6 +2370,12 @@
       "category": "glaucoma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Glaukom/Studio/010_Umfassender Leitfaden zur Glaukomchirurgie_ MIGS, MIBS und deutsche klinische Standards.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2100,6 +2397,12 @@
       "category": "glaucoma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Glaukom/Studio/015_Umfassender Prüfungsleitfaden_ Glaukom-Notfälle und klinisches Management.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2121,6 +2424,12 @@
       "category": "glaucoma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/010_تحديات تشخيص الجلوكوما (المياه الزرقاء) لدى الأطفال.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2142,6 +2451,12 @@
       "category": "glaucoma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2163,6 +2478,12 @@
       "category": "glaucoma",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ Glaukom/Studio/021_دراسة تحليلية شاملة_ تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2184,6 +2505,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2205,6 +2532,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2226,6 +2559,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2247,6 +2586,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2268,6 +2613,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/003_تقييم مريض فقدان البصر_ رؤى أساسية من محاضرة الدكتورة هيا رزوق.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2289,6 +2640,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2310,6 +2667,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2331,6 +2694,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧠 Ocular Emergency/Studio/005_ملخص تشريح وتصوير المسار البصري في طب العيون العصبي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2352,6 +2721,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/003_موجز إحاطة_ اعتلال اللطخة الناجم عن حفرة العصب البصري.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2373,6 +2748,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "🧠 Ocular Emergency/Studio/003_موجز إحاطة_ التشريح العصبي العيني وتقنيات التصوير.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2394,6 +2775,12 @@
       "category": "neuro-ophthalmology",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2415,6 +2802,12 @@
       "category": "oculoplastics-orbit",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Oculoplastik/Studio/002_Umfassender Lernleitfaden_ Okulofaziale Chirurgie und Lidpathologien.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2436,6 +2829,12 @@
       "category": "retina",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2457,6 +2856,12 @@
       "category": "retina",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Netzhaut/Studio/011_Facharzt-Repetitorium_ Hereditäre Netzhauterkrankungen (IRD).md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2478,6 +2883,12 @@
       "category": "retina",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "en"
+      ],
+      "sourceReports": [
+        "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2499,6 +2910,12 @@
       "category": "retina",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Netzhaut/Studio/019_Umfassender Leitfaden zur okulären Onkologie_ Retinoblastom, uveales Melanom und Differentialdiagnosen.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2520,6 +2937,12 @@
       "category": "retina",
       "status": "pending-redaction",
       "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "sourceReports": [
+        "👁️ Netzhaut/Studio/034_Umfassender Studienleitfaden_ Morbus Coats, Makuläre Telangiektasien und Phakomatosen.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",
@@ -2541,111 +2964,12 @@
       "category": "strabismus-pediatric",
       "status": "pending-redaction",
       "reportCount": 1,
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-5fd79e9",
-      "title": "موجز إحاطة: رؤى حول علاج الجلوكوما الخلقية لدى الأطفال",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-e6a4479",
-      "title": "موجز إحاطة: رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-3230d98",
-      "title": "موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية: رؤى جديدة واستراتيجيات علاجية",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "dog-2025-amd-eb38a91",
-      "title": "وثيقة إحاطة: تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD)",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-56f051d",
-      "title": "وثيقة إحاطة: رؤى حديثة حول علاج الوذمة البقعية",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
+      "sourceLanguages": [
+        "ar"
+      ],
+      "sourceReports": [
+        "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md"
+      ],
       "missingFields": [
         "bodyDe",
         "summaryDe",

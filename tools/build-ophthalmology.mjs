@@ -9,8 +9,8 @@ const outDir=join(root,'knowledge/ophthalmology');
 const exportRoot=process.env.NOTEBOOK_EXPORT_DIR||join(homedir(),'Desktop/Notbook_ask');
 const publish=process.argv.includes('--publish');
 const data=JSON.parse(await readFile(contentFile,'utf8'));
-let curatedTopics=[];
-try{curatedTopics=JSON.parse(await readFile(curatedFile,'utf8')).topics||[]}catch{curatedTopics=[]}
+let curatedTopics=[];let pendingTopics=0;
+try{const curated=JSON.parse(await readFile(curatedFile,'utf8'));curatedTopics=curated.topics||[];pendingTopics=(curated.pendingRedaction||[]).length}catch{curatedTopics=[]}
 const sourceFiles=[
   join(exportRoot,'Ophthalmologie/👁️ Netzhaut/Quellen/manifest.json'),
   join(exportRoot,'Ophthalmologie/👁️ Glaukom/Quellen/manifest.json')
@@ -62,7 +62,7 @@ function renderIndex(items,topics){
   const cards=[...items.map(article=>({kind:'article',category:article.category,title:article.title,summary:article.summary,status:article.status,minutes:article.readingMinutes,url:`./${article.slug}/`})),...topics.map(topic=>({kind:'topic',category:topic.category,title:topic.title,summary:topic.summary,status:topic.status,minutes:Math.max(1,Math.ceil(topic.wordCount/250)),url:`./topics/${topic.id}/`}))].map(item=>`<a class="kb-card" data-category="${esc(item.category)}" href="${esc(item.url)}"><span class="kb-badge">${categoryLabel(item.category)}</span><h2>${esc(item.title)}</h2><p>${esc(item.summary)}</p><footer><span>${item.minutes} Min.</span><span class="kb-status">${statusLabel(item.status)}</span></footer></a>`).join('\n');
   const modeLabel=publish?'Redigiertes Lernkompendium':'Lernkompendium · lokale Prüffassung';
   const notice=publish?'<div class="kb-warning"><strong>Medizinischer Hinweis:</strong> Die Inhalte dienen der Fortbildung und allgemeinen Information. Sie ersetzen keine individuelle ärztliche Beratung.</div>':'<div class="kb-warning"><strong>Noch nicht veröffentlicht:</strong> Alle Kapitel befinden sich in der medizinischen Prüfung. Die Inhalte ersetzen keine individuelle ärztliche Beratung.</div>';
-  const footer=publish?`${items.length} medizinisch freigegebene Kapitel`:`${items.length} Kapitel · medizinische Prüfung ausstehend`;
+  const footer=publish?`${items.length} medizinisch freigegebene Kapitel`:`${items.length} Kapitel · ${pendingTopics} Quellen zur deutschen Aufbereitung · medizinische Prüfung ausstehend`;
   const filters=allCategories.map(category=>`<button class="kb-filter" data-filter="${esc(category)}" aria-pressed="false">${categoryLabel(category)}</button>`).join('');
   const total=items.length+topics.length;
   return `${pageStart('Augenheilkunde-Wissen','Gemeinsame Wissensbibliothek für Netzhaut, Glaukom und alle weiteren ophthalmologischen Fachgebiete.')}

@@ -19,7 +19,7 @@ for(const group of mapping.groups){
   const reports=[group.primary,...group.merged].map(ref=>eligibleByPath.get(normalizeRef(ref)));
   const missingFields=missingAuthoredFields(group);
   if(missingFields.length){
-    pendingRedaction.push({id:group.id,title:group.titleDe,category:group.category,status:'pending-redaction',reportCount:reports.length,missingFields});
+    pendingRedaction.push({id:group.id,title:group.titleDe,category:group.category,status:'pending-redaction',reportCount:reports.length,sourceLanguages:group.sourceLanguages,sourceReports:[group.primary,...group.merged],missingFields});
     continue;
   }
   const summary=group.summaryDe.trim();
