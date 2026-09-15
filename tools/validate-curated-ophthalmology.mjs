@@ -28,7 +28,7 @@ for(const topic of topics.topics){
   const file=join(outDir,topic.id,'index.html');
   try{
     const html=await readFile(file,'utf8');
-    for(const required of ['noindex,nofollow','Medizinische Prüfung','Facharztprüfung','Für Patienten','Differenzialdiagnosen','Prüfungsfragen','Quellen','kb-lecture'])if(!html.includes(required))errors.push(`${topic.id}: ${required} fehlt`);
+    for(const required of ['noindex,nofollow','Medizinische Prüfung','Facharztprüfung','Für Patienten','Differenzialdiagnosen','Prüfungsfragen','Originalquellen','kb-lecture'])if(!html.includes(required))errors.push(`${topic.id}: ${required} fehlt`);
     if(/Text wird gescannt|Details werden untersucht|Antwort wird ausgegeben/.test(html))errors.push(`${topic.id}: Ladeplatzhalter gefunden`);
     const text=html.replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&[a-z#0-9]+;/gi,' ');
     const words=(text.match(/[\p{L}\p{N}]+(?:[’'-][\p{L}\p{N}]+)*/gu)||[]).length;
