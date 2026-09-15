@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:03:38.763Z",
+  "generatedAt": "2026-09-15T19:05:04.614Z",
   "status": "medical-review",
   "topics": [
     {
@@ -887,6 +887,19 @@
         "de"
       ],
       "url": "./mechanischer-strabismus-73ce31a/"
+    },
+    {
+      "id": "neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik",
+      "title": "Neuro-Ophthalmologie: Gesichtsfeld und elektrophysiologische Diagnostik",
+      "category": "neuro-ophthalmology",
+      "status": "medical-review",
+      "summary": "Gesichtsfelduntersuchungen lokalisieren Läsionen entlang der Sehbahn; VEP und ERG liefern objektive Funktionsdaten. Eine zuverlässige Interpretation setzt korrekte Refraktion, stabile Testbedingungen, die Beurteilung der Testgüte und die anatomische Zuordnung des Defektmusters voraus.",
+      "wordCount": 1038,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik/"
     },
     {
       "id": "neuroophthalmologische-anatomie-und-bildgebung-d2384c4",
@@ -2554,33 +2567,6 @@
       ],
       "sourceReports": [
         "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "visual-field-analysis-and-electrodiagnostic-testing-in-neuro-ophthalmo-1697fe6",
-      "title": "Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology",
-      "category": "neuro-ophthalmology",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "en"
-      ],
-      "sourceReports": [
-        "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md"
       ],
       "missingFields": [
         "bodyDe",

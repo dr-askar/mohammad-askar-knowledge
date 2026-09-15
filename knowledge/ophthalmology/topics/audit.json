@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T19:03:38.763Z",
+  "generatedAt": "2026-09-15T19:05:04.614Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 137,
-  "pendingRedactionCount": 41,
+  "publicGroupCount": 138,
+  "pendingRedactionCount": 40,
   "excludedCount": 1,
   "reports": [
     {
@@ -1013,7 +1013,7 @@
     {
       "path": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md",
       "notebook": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية",
-      "groupId": "visual-field-analysis-and-electrodiagnostic-testing-in-neuro-ophthalmo-1697fe6",
+      "groupId": "neuroophthalmologie-gesichtsfeld-und-elektrodiagnostik",
       "status": "used"
     },
     {
