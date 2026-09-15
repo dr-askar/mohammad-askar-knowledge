@@ -1,0 +1,404 @@
+{
+  "version": 1,
+  "status": "medical-review",
+  "chapters": [
+    {
+      "id": "uveitis-grundlagen-diagnostik-bildgebung",
+      "titleDe": "Uveitis: Grundlagen, strukturierte Diagnostik und Bildgebung",
+      "summaryDe": "Uveitis ist keine einzelne Diagnose, sondern ein klinisches Entzündungssyndrom mit infektiösen, immunvermittelten, traumatischen und neoplastischen Ursachen. Eine belastbare Einordnung entsteht aus anatomischer Lokalisation, zeitlichem Verlauf, Entzündungsmuster, Lateralisierung und Begleitbefunden. Die Diagnostik soll hypothesengeleitet erfolgen: sorgfältige Anamnese und vollständige Untersuchung kommen vor Labor und Bildgebung. OCT, Fluoreszenzangiographie, Indozyaningrün-Angiographie, Autofluoreszenz, Fotodokumentation und Ultraschall beantworten unterschiedliche Fragen und ersetzen einander nicht. Das Ziel ist, behandelbare Infektionen und bedrohliche Maskeraden früh zu erkennen, unnötige Breitbandtests zu vermeiden und Aktivität sowie strukturelle Schäden reproduzierbar zu dokumentieren.",
+      "learningObjectives": [
+        "Uveitis nach anatomischer Lokalisation, Verlauf, Lateralisierung und morphologischem Muster beschreiben.",
+        "Aus Anamnese und Untersuchung eine begründete Arbeitsdiagnose und gezielte Teststrategie ableiten.",
+        "Die wichtigsten Bildgebungsverfahren nach ihrer klinischen Fragestellung auswählen und interpretieren.",
+        "Entzündungsaktivität, Komplikationen und Therapieansprechen nachvollziehbar dokumentieren.",
+        "Warnzeichen für Infektion, posterioren Befall und ein mögliches Masquerade-Syndrom erkennen."
+      ],
+      "professional": {
+        "overview": [
+          "Der Begriff Uveitis beschreibt eine intraokulare Entzündung, deren Schwerpunkt anterior, intermediär, posterior oder in allen Abschnitten liegen kann. Diese anatomische Einteilung ist klinisch nützlich, weil Beschwerden, Untersuchungsbefunde, Komplikationen und geeignete Bildgebung davon abhängen. Zusätzlich werden Beginn, Dauer und Verlauf erfasst: plötzlich oder schleichend, begrenzt oder persistierend, einmalig, rezidivierend oder chronisch. Die Angabe unilateral, bilateral oder alternierend sowie granulomatös oder nicht granulomatös verdichtet das Muster, beweist aber allein keine Ätiologie.",
+          "Die klinische Arbeit beginnt mit der Frage, ob tatsächlich eine Entzündung vorliegt und welcher Augenabschnitt die Aktivität trägt. Vorderkammerzellen, Tyndall-Phänomen, Keratopräzipitate, Synechien, Glaskörperzellen, retinale Gefäßleckage, chorioretinale Läsionen oder Papillenbeteiligung werden getrennt beschrieben. Aktivität und bereits entstandener Schaden dürfen nicht vermischt werden: Ein Makulaödem kann fortbestehen, obwohl die zelluläre Entzündung abnimmt; umgekehrt kann eine relativ ruhige Vorderkammer einen aktiven posterioren Prozess nicht ausschließen.",
+          "Eine genaue Ausgangsdokumentation ist Teil der Diagnostik. Sie umfasst bestkorrigierten Visus, Augeninnendruck, Spaltlampenbefund, standardisierte Graduierung von Zellen und Trübung, Pupillenreaktion sowie einen dilatierten Fundusbefund. Zeichnungen oder standardisierte Fotografie erleichtern den Vergleich. Bei jeder Verlaufskontrolle sollte klar sein, ob Entzündungszeichen, strukturelle Komplikationen oder beides beobachtet werden. Das verhindert, dass eine Therapie allein nach subjektiven Beschwerden oder einem einzelnen Messwert gesteuert wird.",
+          "Der diagnostische Ansatz ist gezielt statt wahllos. Alter, Immunstatus, Medikamente, Operationen, Trauma, Tier- und Reiseexposition, Infektionsrisiken, Gelenk-, Haut-, Atemwegs-, neurologische und gastrointestinale Symptome verändern die Vortestwahrscheinlichkeit. Frühere Episoden, deren Lateralisierung und das Ansprechen auf Therapie gehören ebenso zur Anamnese. Ein breites unspezifisches Laborpanel erzeugt Zufallsbefunde; sinnvoller sind Tests, die eine konkrete Differenzialdiagnose bestätigen, ausschließen oder das Management tatsächlich verändern können."
+        ],
+        "diagnostics": [
+          "Die Spaltlampenuntersuchung charakterisiert Keratopräzipitate, Vorderkammerzellen, Fibrin, Hypopyon, Irisveränderungen und hintere Synechien. Der Augeninnendruck kann durch Entzündung, Trabekulitis, Synechien, Steroidantwort oder Therapie beeinflusst sein und muss im Verlauf mitbeurteilt werden. Nach Pupillenerweiterung werden Glaskörper, Netzhaut, Gefäße, Makula, Aderhaut und Papille systematisch untersucht. Bei eingeschränktem Einblick ist Ultraschall entscheidend, ersetzt aber nicht die spätere Funduskontrolle.",
+          "Die OCT ist besonders geeignet, Makulaödem, subretinale Flüssigkeit, Veränderungen retinaler Schichten, epiretinale Membran und traktive Komponenten zu dokumentieren. Serienaufnahmen sollten hinsichtlich Scanlage und Qualität vergleichbar sein. Ein anatomisch trockener Befund bedeutet nicht automatisch vollständige Entzündungskontrolle. Umgekehrt muss eine geringe Dickenänderung im Kontext von Visus, Aktivitätszeichen und Messvariabilität bewertet werden.",
+          "Die Fluoreszenzangiographie zeigt vor allem retinale Gefäßleckage, Okklusion, Ischämie, Makulaleckage und Papillenhyperfluoreszenz. Die Indozyaningrün-Angiographie ergänzt die Beurteilung der Aderhaut und kann choroidale Herde sichtbar machen, die ophthalmoskopisch oder fluoreszenzangiographisch weniger deutlich sind. Fundus-Autofluoreszenz bildet Veränderungen des retinalen Pigmentepithels indirekt ab und eignet sich zur räumlichen Verlaufskontrolle, ist aber nicht krankheitsspezifisch.",
+          "Labor- und Systemdiagnostik folgen dem Muster. Je nach Befund kommen beispielsweise serologische Infektionsdiagnostik, Tuberkuloseabklärung, Entzündungsparameter, HLA-bezogene Tests, Thoraxdiagnostik oder rheumatologische und neurologische Mitbeurteilung infrage. Kein Einzeltest ersetzt die klinische Einordnung. Positive Ergebnisse müssen zur Exposition, zum Phänotyp und zur lokalen Epidemiologie passen; negative Ergebnisse schließen eine Erkrankung nicht in jeder Situation sicher aus.",
+          "Bei atypischem, schwerem, therapieresistentem oder immunsupprimiertem Verlauf kann eine Probengewinnung aus Vorderkammer oder Glaskörper notwendig werden. PCR, mikrobiologische Verfahren und zytologische beziehungsweise molekulare Untersuchungen werden nach Verdacht gewählt. Zeitpunkt, Probenmenge und vorausgegangene Therapie beeinflussen die Aussagekraft. Solche Entscheidungen gehören in erfahrene Hände und sollen die dringliche Behandlung bei einem klinischen Notfall nicht unnötig verzögern."
+        ],
+        "differentials": [
+          "Nichtinfektiöse immunvermittelte Uveitis kann idiopathisch bleiben oder mit systemischen Erkrankungen assoziiert sein. Das klinische Muster lenkt die Suche, beispielsweise wiederkehrende akute anteriore Entzündung, bilaterale granulomatöse Entzündung oder retinale Vaskulitis. Systemische Symptome erhöhen die Wahrscheinlichkeit einer Assoziation, ihr Fehlen schließt sie jedoch nicht grundsätzlich aus.",
+          "Infektiöse Ursachen müssen vor einer Eskalation immunsuppressiver Therapie bedacht werden. Toxoplasmose, virale Retinitiden, Syphilis und Tuberkulose können unterschiedliche Abschnitte betreffen und nicht selten nichtinfektiöse Erkrankungen imitieren. Immunstatus, Läsionsmorphologie, Geschwindigkeit der Progression und Exposition sind zentrale Hinweise.",
+          "Masquerade-Syndrome umfassen neoplastische und andere nicht primär entzündliche Erkrankungen. Verdächtig sind ein atypisches Alter, ungewöhnliche Infiltrate, ausgeprägte Glaskörpertrübung bei wenig typischen Entzündungszeichen, neurologische Begleitsymptome oder fehlendes beziehungsweise nur vorübergehendes Ansprechen auf Kortikosteroide. Auch degenerative, vaskuläre und postoperative Zustände können einzelne Uveitiszeichen nachahmen."
+        ],
+        "therapy": [
+          "Die Therapie richtet sich nach Ursache, Lokalisation, Aktivität und drohendem Funktionsverlust. Vor einer intensiven Immunsuppression muss eine relevante Infektion ausreichend berücksichtigt sein. Bei nichtinfektiöser Erkrankung werden lokale, periokulare, intraokulare oder systemische antientzündliche Strategien nach Befallsmuster gewählt. Begleitkomplikationen wie Makulaödem, Druckanstieg, Synechien, Katarakt oder epiretinale Membran benötigen eine eigene Beurteilung.",
+          "Verlaufskontrollen werden vor Therapiebeginn geplant: Welche klinischen Zeichen, Bildgebungsparameter und funktionellen Messwerte zeigen Erfolg oder Versagen? Dosisänderungen sollen nachvollziehbar dokumentiert werden. Interdisziplinäre Zusammenarbeit ist besonders bei systemischer Erkrankung, notwendiger Immunsuppression, Schwangerschaft, Infektionsverdacht oder neurologischen Befunden wichtig. Medikamentenwahl und Dosierung sind nicht Gegenstand dieses Entwurfs und müssen individuell fachärztlich festgelegt werden."
+        ],
+        "redFlags": [
+          "Rasche Visusminderung, neue Gesichtsfeldausfälle, retinale Nekrose, Papillenschwellung oder dichte Glaskörpertrübung erfordern eine dringliche posteriore Abklärung.",
+          "Hypopyon, starke Schmerzen, deutliche Rötung und rasche Verschlechterung nach Operation oder Injektion sind bis zum Beweis des Gegenteils als möglicher infektiöser Notfall zu behandeln.",
+          "Atypischer Verlauf, neurologische Symptome oder fehlendes dauerhaftes Steroidansprechen müssen an ein Masquerade-Syndrom einschließlich intraokularem Lymphom denken lassen."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Welche fünf Angaben machen aus der Bezeichnung Uveitis eine klinisch brauchbare Beschreibung?",
+          "a": "Anatomische Lokalisation, zeitlicher Verlauf, Lateralisierung, morphologisches Entzündungsmuster und aktuelle Aktivität beziehungsweise strukturelle Komplikationen. Diese Beschreibung grenzt Differenzialdiagnosen besser ein als ein unspezifischer Entzündungsbegriff."
+        },
+        {
+          "q": "Warum soll die Zusatzdiagnostik hypothesengeleitet sein?",
+          "a": "Weil die Aussagekraft eines Tests von der Vortestwahrscheinlichkeit abhängt. Ungezielte Panels erzeugen Zufallsbefunde, während ein aus Anamnese und Phänotyp abgeleiteter Test eine konkrete diagnostische oder therapeutische Entscheidung unterstützen kann."
+        },
+        {
+          "q": "Welche komplementären Informationen liefern OCT, Fluoreszenzangiographie und ICGA?",
+          "a": "OCT zeigt vor allem Schichtstruktur und Flüssigkeit, die Fluoreszenzangiographie retinale Perfusion und Leckage, die ICGA choroidale Zirkulation und Herde. Die Verfahren beantworten unterschiedliche Fragen und werden nach vermuteter Lokalisation kombiniert."
+        },
+        {
+          "q": "Wann muss eine diagnostische Probe erwogen werden?",
+          "a": "Bei schwerem, atypischem oder rasch progredientem Verlauf, bei Immunsuppression, bei Verdacht auf infektiöse Retinitis oder Masquerade sowie bei unzureichendem Ansprechen trotz plausibler Therapie. Auswahl und Zeitpunkt hängen von der konkreten Situation ab."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Uveitis bedeutet, dass sich Strukturen im Inneren des Auges entzündet haben. Je nachdem, ob der vordere oder hintere Teil betroffen ist, können Rötung und Schmerzen, Lichtempfindlichkeit, schwarze Punkte, Schleier oder eine Sehverschlechterung auftreten. Manche Formen verursachen anfangs nur wenige Beschwerden.",
+          "Die Ursache lässt sich nicht immer mit einem einzelnen Bluttest finden. Ihre Augenärztin oder Ihr Augenarzt kombiniert Gespräch, Augenuntersuchung und gezielte Zusatztests. Bilder wie OCT oder Angiographie zeigen unterschiedliche Schichten und Gefäße und helfen, Veränderungen über die Zeit zu vergleichen."
+        ],
+        "care": [
+          "Nehmen Sie verordnete Tropfen oder Tabletten genau nach Plan und ändern Sie sie nicht eigenständig. Besonders kortisonhaltige Präparate dürfen je nach Anwendung nicht plötzlich abgesetzt werden. Halten Sie Kontrollen auch dann ein, wenn sich das Auge bereits besser anfühlt.",
+          "Bringen Sie eine aktuelle Medikamentenliste sowie Informationen zu früheren Entzündungen und systemischen Erkrankungen mit. Melden Sie neue Nebenwirkungen, Infekte oder eine Schwangerschaft frühzeitig, weil dies die Untersuchung und Therapieplanung beeinflussen kann."
+        ],
+        "urgent": [
+          "Suchen Sie noch am selben Tag augenärztliche Hilfe bei rasch schlechterem Sehen, neuen Schatten oder Gesichtsfeldausfällen, starken Schmerzen, ausgeprägter Rötung oder Lichtempfindlichkeit.",
+          "Nach einer Augenoperation oder Injektion sind zunehmender Schmerz und abnehmendes Sehen Warnzeichen. Warten Sie damit nicht bis zum nächsten routinemäßigen Termin."
+        ]
+      },
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/015_Leitfaden zur Uveitis_ Diagnose, Bildgebung und Behandlungsstrategien.md",
+        "🎓 التهاب العنبة/Studio/021_Bildgebende Verfahren in der Uveitis_ Ein umfassender Studienleitfaden.md",
+        "🎓 التهاب العنبة/Studio/023_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
+        "🎓 التهاب العنبة/Studio/024_Lernleitfaden zur Uveitis_ Eine umfassende Synthese.md",
+        "🎓 التهاب العنبة/Studio/026_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
+        "🎓 التهاب العنبة/Studio/027_Briefing-Dokument_ Evaluierung und Untersuchung von Uveitis.md",
+        "🎓 التهاب العنبة/Studio/028_Briefing-Dokument_ Eine Einführung in die Uveitis.md"
+      ]
+    },
+    {
+      "id": "uveitis-anterior-intermedia",
+      "titleDe": "Uveitis anterior und intermedia: Muster, Komplikationen und Versorgung",
+      "summaryDe": "Anteriore und intermediäre Uveitis unterscheiden sich in ihrem Entzündungsschwerpunkt, können aber gemeinsam auftreten und ähnliche Komplikationen verursachen. Bei der anterioren Form stehen Vorderkammerzellen, Keratopräzipitate, Schmerzen, Rötung und Photophobie im Vordergrund; die intermediäre Form zeigt vor allem Glaskörperentzündung, Floater und häufig ein Makulaödem. Entscheidend sind eine präzise Verlaufsbeschreibung, die Suche nach infektiösen oder systemischen Hinweisen sowie die gleichzeitige Kontrolle von Entzündung und Folgeproblemen. Therapieentscheidungen richten sich nicht nur nach dem Zellgrad, sondern nach Sehfunktion, beidseitigem Befall, Rezidiven, Komplikationen und der benötigten Steroidmenge.",
+      "learningObjectives": [
+        "Typische Befunde der anterioren und intermediären Uveitis klinisch voneinander abgrenzen.",
+        "Akute, rezidivierende und chronische Verläufe mit ihren häufigen Komplikationen erkennen.",
+        "Keratopräzipitate, Synechien, Augeninnendruck und Glaskörperbefund systematisch beurteilen.",
+        "Eine ursachenbezogene Differenzialdiagnose einschließlich Infektion und Systemassoziation formulieren.",
+        "Therapieziele und Eskalationsgründe ohne starres, vom Einzelfall losgelöstes Schema erklären."
+      ],
+      "professional": {
+        "overview": [
+          "Bei der Uveitis anterior liegt der klinische Entzündungsschwerpunkt in Iris und Vorderkammer. Akute Episoden können mit tiefem Augenschmerz, ziliarer Injektion, Photophobie und verschwommenem Sehen beginnen. Chronische Formen, besonders im Kindesalter, können dagegen relativ symptomarm sein. Die Spaltlampe zeigt Zellen und Eiweißtrübung; Keratopräzipitate, Irisatrophie, Fibrin, Hypopyon und Synechien liefern zusätzliche Musterhinweise, sind jedoch selten allein beweisend.",
+          "Uveitis intermedia bezeichnet eine Entzündung mit Schwerpunkt im Glaskörper und an der peripheren Netzhaut beziehungsweise Pars plana. Betroffene berichten häufig über Floater und unscharfes Sehen, während Schmerzen und starke Rötung fehlen können. Klinisch finden sich Glaskörperzellen und -trübung, periphere Gefäßveränderungen sowie gegebenenfalls entzündliche Ablagerungen. Der Begriff Pars planitis wird für einen ausgewählten idiopathischen Phänotyp verwendet und sollte nicht automatisch jede intermediäre Uveitis ersetzen.",
+          "Komplikationen bestimmen wesentlich die Prognose. Bei anteriorer Entzündung drohen hintere Synechien, unregelmäßige Pupille, sekundärer Druckanstieg oder Hypotonie, Bandkeratopathie und Katarakt. Bei intermediärer Erkrankung sind zystoides Makulaödem, epiretinale Membran, Glaskörpertrübungen und periphere Neovaskularisation relevant. Eine erfolgreiche Behandlung verlangt deshalb zwei parallele Fragen: Ist die Entzündung kontrolliert, und ist eine behandelbare strukturelle Ursache der Sehverschlechterung verblieben?",
+          "Die zeitliche Dynamik verändert die diagnostische Gewichtung. Eine einmalige, unilateral akute anteriore Episode wird anders abgeklärt als eine bilaterale chronische Entzündung oder wiederkehrende intermediäre Aktivität. Vorbehandlungen können das Bild verändern. Ein scheinbar steroidempfindlicher Verlauf schließt eine infektiöse Ursache nicht sicher aus, weil Symptome vorübergehend abnehmen können, während der Erregerprozess fortbesteht."
+        ],
+        "diagnostics": [
+          "Die Untersuchung dokumentiert Visus, Pupillen, Augeninnendruck und Vorderkammeraktivität nach einem reproduzierbaren Schema. Art und Verteilung der Keratopräzipitate, Irisbefund und Synechien werden beschrieben. Eine vollständige Mydriasis-Untersuchung ist auch bei vordergründig anteriorer Erkrankung erforderlich, damit Glaskörper-, Makula-, Gefäß- oder Papillenbeteiligung nicht übersehen wird.",
+          "Bei intermediärer Uveitis wird die periphere Netzhaut sorgfältig untersucht. OCT beantwortet die Frage nach Makulaödem, traktiven Veränderungen und epiretinaler Membran. Fluoreszenzangiographie kann periphere Gefäßleckage, Vaskulitis, Ischämie und Papillenleckage zeigen. Bei schlechtem Einblick hilft Ultraschall, insbesondere um grobe strukturelle Pathologie zu beurteilen.",
+          "Die Systemanamnese fragt unter anderem nach Gelenk- und Rückenschmerzen, Haut- und Schleimhautveränderungen, gastrointestinalen Beschwerden, Atemwegssymptomen, neurologischen Auffälligkeiten, Infektionen, Expositionen und Medikamenten. Alter und Epidemiologie beeinflussen die Testauswahl. Weiterführende Diagnostik wird gezielt gewählt und kann eine internistische, rheumatologische, infektiologische oder neurologische Mitbeurteilung erfordern.",
+          "Bei jeder Kontrolle werden Aktivität und Komplikationen getrennt festgehalten. Ein steigender Augeninnendruck kann Ausdruck einer Trabekulitis, eines Winkelproblems oder einer Steroidantwort sein. Ein schlechterer Visus kann durch Zellen, Hornhaut, Katarakt, Makulaödem oder Sehnervenschaden verursacht sein. Nur die Zuordnung der Ursache erlaubt eine sinnvolle Therapieänderung."
+        ],
+        "differentials": [
+          "Bei akuter anteriorer Uveitis gehören idiopathische und HLA-assoziierte Muster, virale anteriore Uveitis, traumatische oder postoperative Entzündung und andere Systemassoziationen in die Abwägung. Granulomatöse Befunde lenken die Aufmerksamkeit unter anderem auf bestimmte infektiöse und systemisch-entzündliche Ursachen, sind aber nicht exklusiv.",
+          "Bei intermediärer Uveitis werden idiopathische Pars planitis, infektiöse Ursachen und Assoziationen mit neurologischen oder granulomatösen Systemerkrankungen bedacht. Eine dichte oder ungewöhnliche Glaskörperinfiltration, ein atypisches Alter und fehlendes nachhaltiges Therapieansprechen verlangen eine erneute Suche nach einer Masquerade.",
+          "Nicht jede rote, schmerzhafte Vorderkammer ist eine primäre Uveitis. Keratitis, Skleritis, akuter Winkelblock und postoperative Infektion können ähnliche Beschwerden verursachen und benötigen ein anderes dringliches Management. Der Hornhautbefund, Augeninnendruck, Pupillenstatus und Operationsanamnese helfen bei der Abgrenzung."
+        ],
+        "therapy": [
+          "Bei nichtinfektiöser anteriorer Uveitis wird die lokale antientzündliche Behandlung nach Aktivität und Verlauf angepasst; zykloplegische Maßnahmen können Schmerzen mindern und Synechien vorbeugen. Die konkrete Wahl, Häufigkeit und Reduktion der Medikamente muss augenärztlich gesteuert werden. Eine vermutete infektiöse Ursache verändert die Strategie grundlegend und kann eine erregerspezifische Behandlung erfordern.",
+          "Bei intermediärer oder beidseitiger chronischer Erkrankung reicht eine rein lokale Strategie nicht immer aus. Makulaödem, persistierende Aktivität, strukturelle Komplikationen und wiederholter hoher Steroidbedarf sind Gründe, lokale Injektionen, systemische Therapie oder eine steroidsparende Behandlung interdisziplinär zu prüfen. Ziel ist dauerhafte Entzündungskontrolle bei möglichst geringer Behandlungstoxizität.",
+          "Komplikationen werden aktiv behandelt, aber operative Eingriffe werden möglichst in einer kontrollierten Entzündungsphase geplant. Druckanstieg verlangt die Unterscheidung zwischen Entzündungs- und Steroidmechanismus. Eine Kataraktoperation, Vitrektomie oder Membranchirurgie kann sinnvoll sein, wenn der erwartete Nutzen und die Entzündungsstabilität gemeinsam bewertet wurden."
+        ],
+        "redFlags": [
+          "Hypopyon, ungewöhnlich starke Schmerzen, rascher Visusverlust oder ein Eingriff in der jüngeren Vorgeschichte erfordern den sofortigen Ausschluss einer Infektion.",
+          "Neue Glaskörpertrübung, Makulaödem, retinale Gefäßveränderungen oder Papillenbefund zeigen, dass die Erkrankung nicht ausschließlich anterior ist.",
+          "Ein hoher oder stark schwankender Augeninnendruck kann das Sehvermögen zusätzlich gefährden und darf nicht als nebensächliche Begleiterscheinung betrachtet werden."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Was unterscheidet Uveitis intermedia von einer rein anterioren Uveitis?",
+          "a": "Der Entzündungsschwerpunkt liegt im Glaskörper und an der peripheren Netzhaut beziehungsweise Pars plana. Floater, Glaskörperzellen und Makulaödem sind daher wichtiger, während Schmerzen und starke Rötung fehlen können."
+        },
+        {
+          "q": "Warum genügt der Vorderkammerzellgrad nicht zur Therapiekontrolle?",
+          "a": "Weil Sehverschlechterung und Prognose zusätzlich von Makulaödem, Glaskörperaktivität, Druckschaden, Katarakt und anderen Komplikationen abhängen. Aktivität und struktureller Schaden müssen getrennt beurteilt werden."
+        },
+        {
+          "q": "Welche Mechanismen können bei Uveitis den Augeninnendruck erhöhen?",
+          "a": "Entzündliche Trabekelmaschenbeteiligung, Synechien oder Winkelveränderungen und eine Steroidantwort sind wichtige Möglichkeiten. Die Ursache beeinflusst die weitere antientzündliche und drucksenkende Strategie."
+        },
+        {
+          "q": "Wann wird eine steroidsparende Behandlung erwogen?",
+          "a": "Bei chronischer oder rezidivierender Aktivität, unzureichender Kontrolle, beidseitigem relevanten Befall, drohenden Komplikationen oder wenn für die Kontrolle wiederholt eine problematisch hohe Steroidexposition erforderlich ist."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Bei einer vorderen Uveitis liegt die Entzündung vor allem im vorderen Augenabschnitt. Das Auge kann rot, schmerzhaft und lichtempfindlich sein. Bei einer intermediären Uveitis befindet sich die Entzündung weiter hinten im Glaskörper; dann stehen oft schwarze Punkte, Schleier oder unscharfes Sehen im Vordergrund.",
+          "Auch wenn die Rötung nachlässt, können Schwellungen an der Netzhaut oder Veränderungen des Augendrucks bestehen bleiben. Deshalb kontrolliert die Praxis nicht nur Beschwerden, sondern auch Sehtest, Augendruck, Spaltlampe und bei Bedarf OCT oder Gefäßaufnahmen."
+        ],
+        "care": [
+          "Verwenden Sie Augentropfen genau in der angegebenen Häufigkeit. Manche Flaschen sehen ähnlich aus; ein schriftlicher Plan hilft, Verwechslungen zu vermeiden. Setzen Sie Kortisonpräparate nicht eigenständig ab oder reduzieren Sie sie nicht schneller als vereinbart.",
+          "Kontrollen dienen auch dazu, Nebenwirkungen und Komplikationen früh zu erkennen. Informieren Sie das Behandlungsteam über neue allgemeine Beschwerden, Infektionen und andere Medikamente."
+        ],
+        "urgent": [
+          "Starke neue Schmerzen, rasche Sehverschlechterung, deutliche Zunahme der Rötung oder ein dunkler Schatten im Gesichtsfeld brauchen eine dringliche Untersuchung.",
+          "Melden Sie sich zeitnah, wenn Sie nach Therapiebeginn neue Lichtblitze, sehr viele schwarze Punkte oder einen ausgeprägten Schleier bemerken."
+        ]
+      },
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/012_Uveitis Intermedia_ Eine Umfassende Analyse.md",
+        "🎓 التهاب العنبة/Studio/014_Leitfaden zur Uveitis anterior_ Beurteilung, Management und Nachsorge.md",
+        "🎓 التهاب العنبة/Studio/018_Behandlungsrichtlinien und der Step-Ladder-Ansatz bei Uveitis.md"
+      ]
+    },
+    {
+      "id": "uveitis-posterior-nichtinfektioes",
+      "titleDe": "Nichtinfektiöse posteriore Uveitis und choroidale Entzündungsmuster",
+      "summaryDe": "Posteriore Uveitis umfasst entzündliche Erkrankungen von Netzhaut, Aderhaut, retinalen Gefäßen und Sehnerv. Der historische Sammelbegriff „White-Dot-Syndrome“ beschreibt ein Erscheinungsbild, aber keine einheitliche Pathophysiologie. Die Berichte empfehlen deshalb eine anatomie- und bildgebungsbasierte Einordnung choroidaler und chorioretinaler Muster. Morbus Behçet, Vogt-Koyanagi-Harada-Syndrom und Sarkoidose verdeutlichen, wie okuläre Befunde und systemischer Kontext zusammengeführt werden. Vor immunsuppressiver Therapie müssen infektiöse Ursachen plausibel ausgeschlossen werden. Multimodale Bildgebung dient nicht nur der Diagnose, sondern zeigt Aktivität, Verteilung und bleibenden Schaden.",
+      "learningObjectives": [
+        "Posteriore Entzündung nach vorwiegend retinaler, choroidaler, gefäßbezogener oder papillenbezogener Beteiligung strukturieren.",
+        "Den deskriptiven Begriff White-Dot-Syndrom kritisch verwenden und pathologiebasierte Muster bevorzugen.",
+        "Befunde bei Behçet, VKH und Sarkoidose in den systemischen Kontext einordnen.",
+        "Multimodale Bildgebung zur Aktivitäts- und Verlaufskontrolle sinnvoll kombinieren.",
+        "Infektiöse Retinitis und Maskeraden vor Therapieeskalation angemessen berücksichtigen."
+      ],
+      "professional": {
+        "overview": [
+          "Eine posteriore Uveitis kann Netzhaut, Aderhaut, retinale Gefäße oder Papille betreffen. Die Sehgefährdung entsteht durch aktive Läsionen an Makula oder Sehnerv, Gefäßverschluss und Ischämie, Makulaödem, Glaskörpertrübung sowie spätere Narbenbildung. Beschwerden wie Floater, Photopsien, Gesichtsfeldausfälle und Visusminderung sind unspezifisch. Daher wird das sichtbare Muster exakt beschrieben, bevor ein Krankheitsname vergeben wird.",
+          "Der Begriff White-Dot-Syndrom fasst Erkrankungen zusammen, die helle Fundusläsionen zeigen können. Die zugrunde liegenden Prozesse sind jedoch heterogen. Die Studio-Berichte betonen eine modernere Einordnung nach Ort des Primärprozesses und dem Verhalten in OCT, Autofluoreszenz, Fluoreszenzangiographie und ICGA. Ein ähnliches Fundusfoto kann je nach betroffener Schicht eine andere Bedeutung besitzen. Der Sammelbegriff ist als Orientierung brauchbar, darf aber die präzisere Differenzialdiagnose nicht ersetzen.",
+          "Morbus Behçet kann eine rezidivierende, okklusive retinale Vaskulitis mit erheblichem Funktionsrisiko verursachen und wird zusammen mit Schleimhaut- und weiteren Systemmanifestationen eingeordnet. Beim VKH-Syndrom steht eine bilaterale choroidale Entzündung mit serösen Netzhautabhebungen und möglichen neurologischen, auditorischen oder kutanen Begleitzeichen im Vordergrund. Sarkoidose kann granulomatöse Vorderabschnittsbefunde, Glaskörperveränderungen, periphere Gefäßentzündung und choroidale Läsionen kombinieren. Keine dieser Konstellationen wird durch ein einzelnes okuläres Zeichen allein bewiesen.",
+          "Die klinische Herausforderung besteht darin, Aktivität, Komplikation und Narbe zu unterscheiden. Eine alte chorioretinale Narbe benötigt nicht dieselbe Behandlung wie ein aktiver Randprozess. Gefäßleckage kann Aktivität anzeigen, während irreversible Ischämie eine andere Prognose hat. Wiederholte Untersuchungen mit vergleichbarer Technik sind daher oft aussagekräftiger als eine einmalige, besonders umfangreiche Bildgebung."
+        ],
+        "diagnostics": [
+          "Die Fundusuntersuchung erfasst Zahl, Größe, Farbe, Begrenzung und Lage von Läsionen sowie Glaskörperaktivität, Gefäßummantelungen, Blutungen, Ischämiezeichen und Papillenbefund. Weitwinkelaufnahmen können periphere Verteilung dokumentieren, ersetzen aber bei relevanter Fragestellung nicht die klinische Untersuchung der äußersten Peripherie.",
+          "OCT lokalisiert Flüssigkeit und strukturelle Veränderungen in Retina und Choroidea. Fundus-Autofluoreszenz macht unterschiedliche Stadien einer Pigmentepithelbelastung sichtbar. Fluoreszenzangiographie beurteilt retinale Gefäße, Leckage und Perfusion; ICGA erweitert die Sicht auf choroidale Entzündungsmuster. Die Interpretation beruht auf der Kombination und dem zeitlichen Verlauf, nicht auf einem isolierten auffälligen Bild.",
+          "Bei Verdacht auf Behçet, VKH oder Sarkoidose werden gezielt systemische Beschwerden, frühere Episoden und relevante Organmanifestationen erhoben. Die weitere Abklärung erfolgt interdisziplinär und orientiert sich an Phänotyp und lokalen Standards. Ein unkritisches Laborpanel kann zufällige positive Werte erzeugen; zugleich darf eine klinisch wahrscheinliche Systemerkrankung nicht wegen eines einzelnen negativen Tests vorschnell verworfen werden.",
+          "Vor stärkerer Immunsuppression müssen infektiöse Ursachen entsprechend dem Muster bedacht werden. Bei atypischen Läsionen, rascher Progression, Immunsuppression oder unklarer Glaskörperinfiltration kann eine okuläre Probengewinnung erforderlich sein. Ein möglicher neoplastischer Prozess wird besonders bei höherem Alter, neurologischen Hinweisen oder fehlendem nachhaltigem Therapieansprechen berücksichtigt."
+        ],
+        "differentials": [
+          "Infektiöse Retinochoroiditis kann eine nichtinfektiöse posteriore Uveitis imitieren. Hinweise sind fokale nekrotisierende Läsionen, rasche Ausbreitung, ausgeprägte Beteiligung bei verändertem Immunstatus oder passende Exposition. Das Fehlen klassischer Zeichen schließt Infektion nicht sicher aus.",
+          "Vaskuläre und degenerative Netzhauterkrankungen, hochmyope Veränderungen, hereditäre Dystrophien und medikamentöse Toxizität können Photopsien, Gesichtsfeldausfälle oder Bildgebungsanomalien verursachen. Entzündungszellen, Leckagemuster, Symmetrie und Verlauf helfen bei der Abgrenzung.",
+          "Primäres vitreoretinales Lymphom und andere Masqueraden können wie chronische posteriore Uveitis erscheinen. Verdächtig sind subretinale Infiltrate, dichte Glaskörperzellen mit untypischem klinischem Gesamtbild, neurologische Beteiligung oder ein wiederholt nur kurzzeitiges Steroidansprechen."
+        ],
+        "therapy": [
+          "Die Behandlung nichtinfektiöser posteriorer Uveitis zielt auf rasche Kontrolle visusbedrohender Aktivität und langfristige Vermeidung von Rezidiven. Lokale oder systemische Kortikosteroide können je nach Ausdehnung eingesetzt werden; bei chronischem Verlauf, Rezidiven oder notwendiger hoher Steroidexposition wird eine steroidsparende Strategie erwogen. Auswahl und Überwachung erfolgen individuell und häufig interdisziplinär.",
+          "Krankheitsspezifische Systemerkrankungen benötigen ein abgestimmtes Vorgehen. Ein rein okulärer Therapieplan kann unzureichend sein, wenn weitere Organe gefährdet sind. Umgekehrt werden okuläre Aktivitätsparameter ausdrücklich dokumentiert, weil systemische Stabilität nicht automatisch eine ruhige Netzhaut oder Aderhaut bedeutet.",
+          "Makulaödem, Neovaskularisation, Gefäßverschluss und andere Komplikationen werden zusätzlich zur Entzündungsursache behandelt. Vor jeder Eskalation wird erneut geprüft, ob die beobachtete Sehverschlechterung noch aktive Entzündung, eine Komplikation oder bereits irreversiblen Schaden widerspiegelt."
+        ],
+        "redFlags": [
+          "Rasch fortschreitende retinale Aufhellung oder Nekrose ist kein typischer Verlauf zum abwartenden Beobachten und verlangt dringliche Infektionsdiagnostik.",
+          "Okklusive Vaskulitis, Makula- oder Papillenbeteiligung und neue Gesichtsfeldausfälle kennzeichnen eine unmittelbar sehbedrohliche Situation.",
+          "Neurologische Beschwerden, atypische Infiltrate oder fehlendes nachhaltiges Ansprechen verlangen eine erneute Prüfung auf ein intraokulares beziehungsweise zerebrales Lymphom."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum ist White-Dot-Syndrom keine ausreichende Enddiagnose?",
+          "a": "Weil ähnlich helle Läsionen aus unterschiedlichen retinalen und choroidalen Prozessen entstehen können. Anatomische Lokalisation, multimodale Bildgebung, Verlauf und Systemkontext ermöglichen eine präzisere Einordnung."
+        },
+        {
+          "q": "Welche Bildgebung ist für retinale Vaskulitis besonders hilfreich?",
+          "a": "Die Fluoreszenzangiographie zeigt Gefäßleckage, Okklusion und Perfusionsstörung. Weitwinkeltechnik kann die Peripherie erfassen; OCT ergänzt die Beurteilung von Makulaödem und strukturellem Schaden."
+        },
+        {
+          "q": "Welche Grundfrage steht vor einer immunsuppressiven Eskalation?",
+          "a": "Ob eine relevante infektiöse Ursache oder eine Masquerade ausreichend berücksichtigt wurde. Eine Immunsuppression kann Infektionen verschlechtern und eine neoplastische Diagnose weiter verzögern."
+        },
+        {
+          "q": "Wie werden Aktivität und Schaden unterschieden?",
+          "a": "Aktivität wird durch neue oder zunehmende Läsionen, Zellen, Leckage und entzündliche Flüssigkeit gestützt. Narben, Atrophie und anhaltende Ischämie können dagegen bleibenden Schaden anzeigen, der nicht automatisch auf mehr Immunsuppression anspricht."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Bei einer hinteren Uveitis sind Netzhaut oder Aderhaut betroffen. Diese Strukturen sind für scharfes Sehen und Gesichtsfeld wichtig. Beschwerden können schwarze Punkte, Lichtblitze, Schleier, verzerrtes Sehen oder Ausfälle im Gesichtsfeld sein; von außen sieht das Auge manchmal normal aus.",
+          "Mehrere Untersuchungen können nötig sein, weil jede Aufnahme etwas anderes zeigt. Das OCT stellt Schichten und Flüssigkeit dar, Gefäßaufnahmen zeigen Durchblutung und Undichtigkeit. Der Vergleich mit früheren Bildern hilft zu erkennen, ob die Entzündung aktiv ist oder eine ältere Narbe vorliegt."
+        ],
+        "care": [
+          "Halten Sie Kontrolltermine genau ein, auch wenn Schmerzen fehlen. Notieren Sie Veränderungen von Gesichtsfeld, Verzerrungen oder neuen Punkten und berichten Sie über allgemeine Beschwerden, weil manche Formen mit Erkrankungen anderer Organe verbunden sind.",
+          "Medikamente, die das Immunsystem beeinflussen, erfordern abgestimmte Kontrollen. Melden Sie Infektzeichen und Nebenwirkungen; ändern Sie die Behandlung nicht eigenständig."
+        ],
+        "urgent": [
+          "Eine schnelle Sehverschlechterung, ein neuer dunkler Bereich, viele neue Punkte oder Lichtblitze müssen dringend augenärztlich abgeklärt werden.",
+          "Zusätzliche neurologische Beschwerden wie neue Verwirrtheit, Schwäche, Sprach- oder Gleichgewichtsstörung brauchen sofortige medizinische Beurteilung."
+        ]
+      },
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/005_Briefing-Dokument_ Klinisch-pathologische Analyse der nicht-infektiösen Chorioiditis und die Dekonstruktion der „White Dot Syndrome“.md",
+        "🎓 التهاب العنبة/Studio/006_White-Dot-Syndrome und der moderne Ansatz zur posterioren Uveitis_ Ein umfassender Leitfaden.md",
+        "🎓 التهاب العنبة/Studio/011_Briefing-Dokument_ Analyse der Posterioren Uveitis – Morbus Behçet, VKH-Syndrom und Sarkoidose.md"
+      ]
+    },
+    {
+      "id": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "titleDe": "Infektiöse Uveitis, retinale Nekrose und Endophthalmitis",
+      "summaryDe": "Infektiöse intraokulare Entzündungen sind zeitkritisch, weil eine verzögerte erregerspezifische Behandlung zu irreversiblem Funktionsverlust führen kann. Toxoplasmose, Tuberkulose, Syphilis und virale Retinitiden besitzen überlappende, aber klinisch nutzbare Muster. Akute retinale Nekrose, progressive äußere retinale Nekrose, CMV-Retinitis und Endophthalmitis verlangen eine besonders schnelle Einordnung von Immunstatus, Operations- oder Injektionsanamnese, Läsionsverteilung und Progression. Diagnostische Proben sind wichtig, dürfen eine notwendige Akuttherapie jedoch nicht unangemessen verzögern. Kortikosteroide oder andere Immunsuppression werden erst im Kontext einer ausreichend behandelten beziehungsweise plausibel ausgeschlossenen Infektion geplant.",
+      "learningObjectives": [
+        "Infektiöse Uveitis anhand von Verlauf, Immunstatus, Exposition und okulärem Muster vermuten.",
+        "Akute retinale Nekrose, opportunistische Retinitis und Endophthalmitis als augenärztliche Notfälle erkennen.",
+        "Toxoplasmose, okuläre Tuberkulose und okuläre Syphilis differenzialdiagnostisch einordnen.",
+        "Den Nutzen und die Grenzen okulärer PCR, Mikrobiologie und systemischer Tests erklären.",
+        "Gefahren einer unkritischen Immunsuppression bei nicht erkannter Infektion benennen."
+      ],
+      "professional": {
+        "overview": [
+          "Infektiöse Uveitis kann jeden Augenabschnitt betreffen und nichtinfektiöse Entzündung imitieren. Entscheidend ist nicht ein einzelner Befund, sondern die Kombination aus Geschwindigkeit, Läsionsmorphologie, Immunstatus, Exposition und vorausgegangenen Eingriffen. Eine zunächst plausible nichtinfektiöse Diagnose muss revidiert werden, wenn Läsionen unter Therapie fortschreiten, neue Nekroseareale entstehen oder der klinische Verlauf ungewöhnlich aggressiv ist.",
+          "Toxoplasmose-Retinochoroiditis zeigt häufig eine fokale nekrotisierende retinale Läsion mit begleitender Glaskörperentzündung; frühere Narben können die Einordnung unterstützen, fehlen aber nicht zwingend. Okuläre Syphilis kann vielfältige Phänotypen annehmen und wird wegen dieser Variabilität gezielt bedacht. Okuläre Tuberkulose beruht oft auf einer klinischen Gesamteinschätzung aus Augenbefund, Exposition, immunologischen Tests und systemischer Diagnostik; kein einzelnes Ergebnis bestätigt in jeder Konstellation die okuläre Ursache.",
+          "Virale Retinitiden unterscheiden sich nach Immunstatus und Muster. Die akute retinale Nekrose kann auch immunkompetente Personen betreffen und mit peripherer Nekrose, Gefäßentzündung und ausgeprägter intraokularer Entzündung einhergehen. Bei schwer immungeschwächten Personen können CMV-Retinitis oder progressive äußere retinale Nekrose weniger Entzündungsreaktion zeigen, obwohl die Netzhautbedrohung erheblich ist. Die geringe Entzündung darf daher nicht als Entwarnung missverstanden werden.",
+          "Endophthalmitis bezeichnet eine potenziell schwere Infektion im Augeninneren, häufig nach Operation, intraokularer Injektion oder penetrierendem Trauma, seltener durch hämatogene Streuung. Schmerz, Visusverlust, Hypopyon und dichter Glaskörperbefund sind wichtige Warnzeichen, können aber unterschiedlich ausgeprägt sein. Zeitpunkt, Eingriffsart und klinische Dynamik bestimmen zusammen mit dem Befund das weitere Notfallmanagement."
+        ],
+        "diagnostics": [
+          "Die Akutanamnese erfasst Beginn und Geschwindigkeit, vorausgegangene Operationen oder Injektionen, Trauma, Kontaktlinsen, aktuelle antiinfektive oder immunsuppressive Medikamente, HIV- beziehungsweise Immunstatus, Reise- und Tierexposition sowie systemische Infektzeichen. Bereits verwendete Kortikosteroide können Befunde verändern und werden mit Dosis und Dauer dokumentiert.",
+          "Untersuchung und Fotodokumentation erfassen Vorderkammer, Hypopyon, Glaskörper, Ausdehnung und Randaktivität retinaler Läsionen, Gefäßbeteiligung, Makula, Papille und Partnerauge. OCT kann Makulabeteiligung und Schichtschäden zeigen. Bei eingeschränktem Einblick hilft Ultraschall, eine Netzhautablösung oder ausgeprägte Glaskörperveränderung zu beurteilen, identifiziert jedoch nicht zuverlässig den Erreger.",
+          "Bei Verdacht auf virale oder atypische infektiöse Retinitis kann PCR aus okulärer Flüssigkeit die Diagnose unterstützen. Bei Endophthalmitis werden Proben für mikrobiologische Untersuchung nach dem klinischen Behandlungspfad gewonnen. Ein negatives Resultat schließt die Verdachtsdiagnose nicht immer aus; Probenvolumen, Zeitpunkt und Vorbehandlung beeinflussen die Sensitivität.",
+          "Systemische Tests werden krankheitsbezogen eingesetzt. Syphilisdiagnostik berücksichtigt geeignete serologische Verfahren und eine mögliche neurologische Mitbeteiligung. Tuberkuloseabklärung kombiniert Risikoprofil, immunologische Tests und gegebenenfalls Bildgebung beziehungsweise fachärztliche Mitbeurteilung. Bei opportunistischer Retinitis ist die Abklärung der zugrunde liegenden Immunsuppression Teil der Versorgung."
+        ],
+        "differentials": [
+          "Nichtinfektiöse posteriore Uveitis und okklusive Vaskulitis können eine infektiöse Retinitis ähneln. Rasche Progression, nekrotisierende Läsionen und passender Immunstatus erhöhen den Infektionsverdacht, doch die endgültige Gewichtung erfordert oft Bildgebung und okuläre Diagnostik.",
+          "Sterile postoperative Entzündung kann klinisch mit Endophthalmitis überlappen. Weil die Folgen einer übersehenen Infektion gravierend sind, erfolgt die Abgrenzung dringlich anhand von Zeitpunkt, Schmerz, Visus, Vorderkammer- und Glaskörperbefund sowie dem Verlauf und nicht allein nach einem Symptom.",
+          "Primäres vitreoretinales Lymphom, toxische Reaktionen und intraokulare Fremdkörper können ein entzündliches Bild erzeugen. Ein untypischer oder therapieresistenter Verlauf verlangt eine erneute diagnostische Öffnung statt wiederholter empirischer Kortikosteroidsteigerung."
+        ],
+        "therapy": [
+          "Die Behandlung richtet sich nach vermutetem oder nachgewiesenem Erreger, betroffener Struktur, Schweregrad und Immunstatus. Bei zeitkritischen Bildern kann eine empirische erregerspezifische Therapie parallel zur Diagnostik erforderlich sein. Konkrete Präparate, Dosierungen und Applikationswege gehören in einen aktuellen spezialisierten Behandlungsplan und werden in diesem Entwurf bewusst nicht festgelegt.",
+          "Entzündungshemmende Begleittherapie wird zeitlich und inhaltlich mit der antiinfektiven Behandlung abgestimmt. Eine alleinige Immunsuppression kann einen infektiösen Prozess verschlechtern. Bei Endophthalmitis hängen intravitreale Therapie, mögliche Vitrektomie und weitere Maßnahmen vom klinischen Bild und geltenden Standards ab; eine Überweisung darf nicht durch abwartende Verlaufskontrolle ersetzt werden.",
+          "Nach der Akutphase werden Netzhautablösung, Makula- und Sehnervenschaden, Gefäßverschlüsse, Druckveränderungen und Rezidivrisiko überwacht. Bei systemischer Infektion oder Immundefizienz ist die Zusammenarbeit mit den zuständigen Disziplinen notwendig, weil okuläre Kontrolle allein die zugrunde liegende Erkrankung nicht behandelt."
+        ],
+        "redFlags": [
+          "Visusabfall und zunehmender Schmerz nach intraokularer Operation oder Injektion gelten als Notfall, besonders bei Hypopyon oder schlechterem Funduseinblick.",
+          "Fortschreitende retinale Nekrose oder Gefäßverschlusszeichen erfordern sofortige spezialisierte Behandlung; ein ruhiger Vorderabschnitt schließt bei Immunsuppression einen schweren Prozess nicht aus.",
+          "Eine Verschlechterung unter Kortikosteroiden muss die Diagnose neu öffnen und den Verdacht auf Infektion oder Masquerade verstärken."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum kann eine geringe Entzündungsreaktion bei Retinitis besonders gefährlich sein?",
+          "a": "Bei schwer immungeschwächten Personen kann die zelluläre Reaktion trotz ausgedehnter opportunistischer Infektion schwach sein. Die Läsionsprogression und der Immunstatus sind dann wichtiger als die Stärke der Vorderkammerreaktion."
+        },
+        {
+          "q": "Welche vier Angaben sind bei Verdacht auf Endophthalmitis sofort wichtig?",
+          "a": "Zeitpunkt und Art eines vorausgegangenen Eingriffs oder Traumas, Geschwindigkeit des Visusverlusts, Schmerzverlauf sowie Vorderkammer- und Glaskörperbefund. Sie bestimmen Dringlichkeit und diagnostisch-therapeutischen Pfad."
+        },
+        {
+          "q": "Was bedeutet ein negatives okuläres PCR-Ergebnis?",
+          "a": "Es senkt je nach Test und Situation die Wahrscheinlichkeit, schließt eine Infektion aber nicht absolut aus. Probenqualität, Zeitpunkt, Vorbehandlung und gewählter Erreger beeinflussen das Resultat."
+        },
+        {
+          "q": "Warum ist eine Steroidmonotherapie bei ungeklärter nekrotisierender Retinitis riskant?",
+          "a": "Sie kann die lokale Entzündungsreaktion dämpfen, während sich ein infektiöser Erreger weiter ausbreitet. Erregerspezifische Diagnostik und Therapie müssen deshalb priorisiert beziehungsweise abgestimmt werden."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Manche Entzündungen im Auge werden durch Viren, Bakterien oder Parasiten verursacht. Sie können ähnlich aussehen wie eine nichtinfektiöse Uveitis, brauchen aber eine andere Behandlung. Deshalb fragt das Team genau nach Operationen, Injektionen, Infekten, Reisen, Tierkontakt und Medikamenten.",
+          "Bei Verdacht auf eine Infektion kann eine kleine Flüssigkeitsprobe aus dem Auge notwendig sein. Das Ergebnis hilft bei der Erregersuche, ist aber nicht in jeder Situation eindeutig. Bei einem dringenden Befund kann die Behandlung bereits beginnen, bevor alle Ergebnisse vorliegen."
+        ],
+        "care": [
+          "Nehmen Sie antiinfektive und entzündungshemmende Medikamente exakt nach dem vereinbarten Plan. Informieren Sie das Team über Allergien, Nieren- oder Lebererkrankungen, Schwangerschaft sowie Medikamente, die das Immunsystem beeinflussen.",
+          "Versäumen Sie keine kurzfristige Kontrolle. Die Ärztin oder der Arzt prüft nicht nur, ob Beschwerden nachlassen, sondern auch, ob sich Netzhautläsionen ausbreiten und ob Komplikationen entstehen."
+        ],
+        "urgent": [
+          "Nach einer Augenoperation oder Spritze sind zunehmende Schmerzen, stärkere Rötung und schlechteres Sehen Gründe für sofortigen augenärztlichen Kontakt.",
+          "Neue Gesichtsfeldausfälle, ein rasch dichter werdender Schleier oder starke Sehverschlechterung dürfen nicht bis zum nächsten Routinetermin warten."
+        ]
+      },
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/002_Studienführer_ Notfälle in der Uveitis – Eine Synthese der Vorlesung von Dr. Hassan Al-Dhibi.md",
+        "🎓 التهاب العنبة/Studio/004_Studienleitfaden_ Infektiöse Uveitis.md",
+        "🎓 التهاب العنبة/Studio/007_Briefing-Dokument_ Posteriore Uveitis – Vaskulitis & Endophthalmitis.md",
+        "👁️ Netzhaut/Studio/003_Kompendium der DOG-Leitlinien_ Uveitis und Endophthalmitis für die Facharztprüfung.md"
+      ]
+    },
+    {
+      "id": "uveitis-paediatrisch-masquerade",
+      "titleDe": "Pädiatrische Uveitis und Masquerade-Syndrome",
+      "summaryDe": "Uveitis im Kindesalter kann lange symptomarm verlaufen und dennoch Katarakt, Glaukom, Bandkeratopathie, Synechien, Makulaödem oder Amblyopie verursachen. Die Untersuchung berücksichtigt Alter, Entwicklungsstand, systemische Erkrankungen und die Zuverlässigkeit funktioneller Angaben. Besonders bedeutsam ist die JIA-assoziierte Uveitis, aber auch granulomatöse Erkrankungen, TINU, Infektionen und seltene Ursachen gehören in die differenzierte Abklärung. Atypische Befunde können eine Entzündung vortäuschen. Leukämische Infiltration und primäres vitreoretinales Lymphom verdeutlichen das Prinzip der Masquerade: Fehlendes dauerhaftes Therapieansprechen, ungewöhnliche Infiltrate und neurologische oder systemische Hinweise müssen zu erneuter Diagnostik führen.",
+      "learningObjectives": [
+        "Erklären, warum pädiatrische Uveitis trotz geringer Beschwerden zu schwerem Sehverlust führen kann.",
+        "Untersuchung und Verlaufsbeurteilung an Alter, Kooperation und Amblyopierisiko anpassen.",
+        "Wichtige systemische Assoziationen und infektiöse Differenzialdiagnosen im Kindesalter strukturieren.",
+        "Therapieziele einschließlich steroidarmer Langzeitkontrolle und Amblyopiebehandlung formulieren.",
+        "Warnzeichen für Leukämie, intraokulares Lymphom und andere Masqueraden erkennen."
+      ],
+      "professional": {
+        "overview": [
+          "Kinder mit Uveitis können deutlich weniger Beschwerden äußern als Erwachsene. Chronische anteriore Entzündung kann ohne Schmerz und ausgeprägte Rötung bestehen, während Synechien, Katarakt, Druckschaden oder Bandkeratopathie entstehen. Regelmäßige Spaltlampenkontrollen in definierten Risikogruppen sind deshalb wichtig. Die Untersuchung muss zugleich kindgerecht sein: wiederholte kurze, reproduzierbare Befunde können aussagekräftiger sein als eine einmalige überfordernde Untersuchung.",
+          "Die juvenile idiopathische Arthritis ist eine zentrale Assoziation, doch der okuläre Verlauf entspricht nicht zwingend der Gelenkaktivität. Augenentzündung kann auftreten, obwohl Gelenkbeschwerden gering sind, und benötigt eine eigenständige Aktivitätsbeurteilung. Weitere in den Berichten diskutierte Muster umfassen granulomatöse Systemerkrankungen, TINU, postinfektiöse Konstellationen, intermediäre Uveitis und parasitäre Ursachen. Die konkrete Teststrategie folgt dem klinischen Bild und nicht einer universellen Liste.",
+          "Bei Kindern beeinflussen Uveitis und Behandlung die Sehentwicklung. Neben anatomischer Entzündungskontrolle gehören Refraktion, Amblyopierisiko, Strabismus und die Funktion beider Augen zur Versorgung. Eine anatomisch erfolgreiche Therapie kann funktionell unzureichend bleiben, wenn eine Amblyopie nicht erkannt wird. Umgekehrt darf eine Sehschwäche nicht vorschnell allein als Amblyopie erklärt werden, solange aktive Entzündung oder strukturelle Komplikationen möglich sind.",
+          "Masquerade-Syndrome sind keine echten Uveitiden, sondern Erkrankungen, die ein entzündliches Bild vortäuschen. Im Kindesalter können maligne oder infiltrative Erkrankungen, retinale Dystrophien und andere seltene Prozesse relevant sein. Beim Erwachsenen ist das primäre vitreoretinale Lymphom ein wichtiger großer Maskierer und kann mit Glaskörperzellen oder subretinalen Infiltraten erscheinen. Steroide können vorübergehend bessern und zugleich die Diagnosesicherung erschweren.",
+          "Die Berichte nutzen Fallvignetten, um diagnostische Denkfehler sichtbar zu machen. Eine bekannte Systemdiagnose darf nicht automatisch jede Augenentzündung erklären. Ebenso darf ein positives Laborergebnis nicht über einen unpassenden okulären Phänotyp gestellt werden. Neue Organbefunde, ungewöhnlicher Verlauf oder Therapieversagen führen zurück zu Anamnese, vollständiger Untersuchung und einer erneuten, breiteren Differenzialdiagnose."
+        ],
+        "diagnostics": [
+          "Dokumentiert werden bestmöglicher altersgerechter Visus, Refraktion, Pupillen, Augeninnendruck, Vorderkammerzellen, Synechien, Linse, Glaskörper und Fundus. OCT kann Makulaödem und strukturelle Schäden objektivieren. Wenn eine ausreichende Untersuchung im Wachzustand nicht möglich ist und wichtige Entscheidungen davon abhängen, wird eine Untersuchung unter geeigneten Bedingungen individuell erwogen.",
+          "Die Anamnese umfasst Gelenk-, Haut-, Fieber-, Nieren-, Atemwegs- und neurologische Beschwerden, Infektionen, Expositionen, Medikamente sowie Familienanamnese. Wachstum, Impfstatus und Immunsuppression beeinflussen die weitere Planung. Pädiatrie, Rheumatologie, Nephrologie, Infektiologie oder Onkologie werden entsprechend dem Verdacht einbezogen.",
+          "Hinweise auf Masquerade sind eine für die angenommene Diagnose untypische Altersgruppe, asymmetrische Infiltrate, Blutungen, ungewöhnliche subretinale Veränderungen, systemische B-Symptome, neurologische Zeichen oder ein fehlendes nachhaltiges Ansprechen. Die diagnostische Eskalation kann Bildgebung des zentralen Nervensystems, Blutdiagnostik oder okuläre beziehungsweise andere Gewebeproben umfassen und gehört in ein spezialisiertes Team.",
+          "Beim möglichen primären vitreoretinalen Lymphom können wiederholte oder spezialisierte Proben erforderlich sein, weil Zellzahl und Vorbehandlung die Ausbeute beeinflussen. Zytologie, molekulare Verfahren und interdisziplinäre Diagnostik ergänzen sich. Ein negatives Einzelergebnis beendet die Abklärung nicht automatisch, wenn klinischer Verdacht und Verlauf weiterhin überzeugend sind."
+        ],
+        "differentials": [
+          "Bei chronischer anteriorer Uveitis im Kindesalter werden JIA-Assoziation, idiopathische Formen, granulomatöse Erkrankungen, TINU und infektiöse Ursachen abhängig vom Muster erwogen. Eine traumatische oder postoperative Entzündung sowie medikamentöse Reaktionen können ebenfalls relevant sein.",
+          "Bei fokaler posteriorer Entzündung gehören Toxocariasis und andere Infektionen neben nichtinfektiösen Ursachen in die Abwägung. Intermediäre Entzündung mit Visusminderung kann durch Makulaödem, Glaskörpertrübung oder Amblyopie funktionell verstärkt werden.",
+          "Leukämische Infiltration, Retinoblastom in geeigneter Alterskonstellation und andere Tumoren dürfen bei atypischen Befunden nicht übersehen werden. Beim Erwachsenen sind vitreoretinales Lymphom, Amyloidose und Infektionen wie Syphilis wichtige Differenzialdiagnosen eines vermeintlich chronischen Entzündungsbildes."
+        ],
+        "therapy": [
+          "Das Ziel ist vollständige und stabile Entzündungskontrolle bei möglichst geringer Langzeittoxizität. Lokale Kortikosteroide können bei anteriorer Aktivität nötig sein; anhaltender hoher Bedarf, beidseitige Erkrankung oder Komplikationen führen zur Prüfung einer systemischen steroidsparenden Behandlung. Entscheidungen werden mit Pädiatrie beziehungsweise Rheumatologie abgestimmt und berücksichtigen Wachstum, Infektionsrisiko und familiäre Umsetzbarkeit.",
+          "Komplikationen werden parallel behandelt. Dazu gehören Augeninnendruckkontrolle, Kataraktplanung, Makulaödem und Amblyopietherapie. Operationen benötigen eine sorgfältige Entzündungskontrolle und Nachsorge. Eine Eskalation allein wegen schlechter Sehschärfe ist nicht sinnvoll, bevor Refraktion, Amblyopie und strukturelle Ursachen geklärt sind.",
+          "Bei Verdacht auf Masquerade steht die Diagnosesicherung vor weiterer unspezifischer Immunsuppression. Die Behandlung richtet sich anschließend nach der zugrunde liegenden onkologischen, infektiösen oder anderen Erkrankung. Ein kurzfristiges Steroidansprechen darf nicht als Beweis einer gutartigen immunvermittelten Uveitis interpretiert werden."
+        ],
+        "redFlags": [
+          "Ein Kind mit Risikokonstellation kann trotz fehlender Beschwerden aktive Uveitis haben; versäumte Screening- und Verlaufstermine gefährden die Sehentwicklung.",
+          "Atypische Infiltrate, Blutungen, systemische Allgemeinsymptome oder neurologische Auffälligkeiten verlangen eine dringliche Prüfung auf Masquerade beziehungsweise Malignität.",
+          "Neue Sehverschlechterung unter scheinbar kontrollierter Entzündung erfordert die Suche nach Makulaödem, Katarakt, Druckschaden, Amblyopie oder falscher Ausgangsdiagnose."
+        ]
+      },
+      "questions": [
+        {
+          "q": "Warum ist symptomorientiertes Screening bei pädiatrischer Uveitis unzureichend?",
+          "a": "Chronische anteriore Entzündung kann schmerzarm und ohne auffällige Rötung verlaufen. Ohne geplante Spaltlampenkontrollen werden Aktivität und Komplikationen möglicherweise erst nach bereits eingetretenem Sehschaden erkannt."
+        },
+        {
+          "q": "Welche zusätzlichen funktionellen Aspekte gehören bei Kindern zur Uveitisversorgung?",
+          "a": "Altersgerechter Visus, Refraktion, Amblyopie und Strabismus müssen berücksichtigt werden. Die Entzündung kann anatomisch kontrolliert sein, während die Sehentwicklung weiterhin gezielte Behandlung benötigt."
+        },
+        {
+          "q": "Welche Befunde sprechen für eine mögliche Masquerade?",
+          "a": "Atypischer Verlauf, ungewöhnliche Infiltrate oder Blutungen, neurologische beziehungsweise systemische Zeichen und fehlendes dauerhaftes Ansprechen auf eine plausible Entzündungstherapie. Ein einzelner Hinweis ist nicht beweisend, die Kombination verlangt aber erneute Diagnostik."
+        },
+        {
+          "q": "Warum beweist ein Steroidansprechen keine nichtinfektiöse Uveitis?",
+          "a": "Steroide können Begleitentzündung und Symptome auch bei Infektion oder Lymphom vorübergehend dämpfen. Der zugrunde liegende Prozess kann dennoch fortschreiten und diagnostische Proben können weniger ergiebig werden."
+        }
+      ],
+      "patient": {
+        "explanation": [
+          "Eine Augenentzündung bei Kindern kann unbemerkt bleiben, weil das Auge nicht immer rot oder schmerzhaft ist. Trotzdem können Linse, Augendruck oder Netzhaut geschädigt werden. Geplante Kontrollen sind deshalb wichtig, auch wenn Ihr Kind gut sieht und nichts berichtet.",
+          "Manche Augenentzündungen hängen mit Erkrankungen anderer Organe zusammen. Das bedeutet nicht, dass jedes Kind eine solche Erkrankung hat. Augenärztliches und kinderärztliches Team wählen Untersuchungen anhand der Befunde und vermeiden unnötige Tests."
+        ],
+        "care": [
+          "Führen Sie Tropfenplan und Termine möglichst schriftlich. Informieren Sie Schule oder Betreuung, wenn dort Medikamente gegeben werden müssen. Bringen Sie zur Kontrolle Brille, Medikamentenliste und Berichte anderer Fachrichtungen mit.",
+          "Achten Sie auch auf Schielen, Zukneifen eines Auges oder Schwierigkeiten beim Lesen und Spielen. Diese Zeichen können auf eine Sehentwicklungsstörung hinweisen, selbst wenn die Entzündung bereits besser ist."
+        ],
+        "urgent": [
+          "Plötzliche Sehverschlechterung, starke Rötung oder Schmerzen, eine auffällige weiße Pupille oder neue neurologische Beschwerden müssen sofort ärztlich abgeklärt werden.",
+          "Kontaktieren Sie das Behandlungsteam rasch bei Fieber oder schwerem Infekt unter immunmodulierender Therapie; Medikamente dürfen dabei nicht ohne Rücksprache verändert werden."
+        ]
+      },
+      "sourceReports": [
+        "🎓 التهاب العنبة/Studio/003_Umfassender Studienleitfaden_ Pädiatrische Uveitis und Uveitis-Maskeraden-Syndrome.md",
+        "⚕️ التهابات العنبة عند الأطفال_ حالات سريرية ومناقشة التشخيص/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis - Klinische Einblicke und Fallstudien.md",
+        "👨‍🏫 الحول و توابعه/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis – Diagnose, Management und multidisziplinäre Ansätze.md",
+        "👨‍🏫 الحول و توابعه/Studio/010_Briefing-Dokument_ Pädiatrische Uveitis – Analyse und Fallstudien.md",
+        "👁️ متفرقات/Studio/001_Briefing-Dokument_ Primäres intraokulares Lymphom – Klinische Einblicke und Fallstudien.md"
+      ]
+    }
+  ]
+}

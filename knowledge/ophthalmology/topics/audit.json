@@ -1,0 +1,1279 @@
+{
+  "version": "1.0",
+  "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
+  "generatedAt": "2026-09-15T05:06:39.922Z",
+  "eligibleReportCount": 211,
+  "auditedReportCount": 211,
+  "publicGroupCount": 117,
+  "pendingRedactionCount": 54,
+  "excludedCount": 1,
+  "reports": [
+    {
+      "path": "⚕️ التهابات العنبة عند الأطفال_ حالات سريرية ومناقشة التشخيص/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis - Klinische Einblicke und Fallstudien.md",
+      "notebook": "⚕️ التهابات العنبة عند الأطفال_ حالات سريرية ومناقشة التشخيص",
+      "groupId": "uveitis-paediatrisch-masquerade",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/002_Studienführer_ Notfälle in der Uveitis – Eine Synthese der Vorlesung von Dr. Hassan Al-Dhibi.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/003_Umfassender Studienleitfaden_ Pädiatrische Uveitis und Uveitis-Maskeraden-Syndrome.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-paediatrisch-masquerade",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/004_Studienleitfaden_ Infektiöse Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "status": "used"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/005_Briefing-Dokument_ Klinisch-pathologische Analyse der nicht-infektiösen Chorioiditis und die Dekonstruktion der „White Dot Syndrome“.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-posterior-nichtinfektioes",
+      "status": "used"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/006_White-Dot-Syndrome und der moderne Ansatz zur posterioren Uveitis_ Ein umfassender Leitfaden.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-posterior-nichtinfektioes",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/007_Briefing-Dokument_ Posteriore Uveitis – Vaskulitis & Endophthalmitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/011_Briefing-Dokument_ Analyse der Posterioren Uveitis – Morbus Behçet, VKH-Syndrom und Sarkoidose.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-posterior-nichtinfektioes",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/012_Uveitis Intermedia_ Eine Umfassende Analyse.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-anterior-intermedia",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/014_Leitfaden zur Uveitis anterior_ Beurteilung, Management und Nachsorge.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-anterior-intermedia",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/015_Leitfaden zur Uveitis_ Diagnose, Bildgebung und Behandlungsstrategien.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/018_Behandlungsrichtlinien und der Step-Ladder-Ansatz bei Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-anterior-intermedia",
+      "status": "used"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/021_Bildgebende Verfahren in der Uveitis_ Ein umfassender Studienleitfaden.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "used"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/023_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/024_Lernleitfaden zur Uveitis_ Eine umfassende Synthese.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/026_Briefing-Dokument_ Evaluierung und Abklärung von Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/027_Briefing-Dokument_ Evaluierung und Untersuchung von Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 التهاب العنبة/Studio/028_Briefing-Dokument_ Eine Einführung in die Uveitis.md",
+      "notebook": "🎓 التهاب العنبة",
+      "groupId": "uveitis-grundlagen-diagnostik-bildgebung",
+      "status": "merged"
+    },
+    {
+      "path": "🎓 تحديث DOG 2025_ حالة الفن/Studio/001_وثيقة إحاطة_ تحديث DOG 2025 حول التنكس البقعي المرتبط بالعمر (AMD).md",
+      "notebook": "🎓 تحديث DOG 2025_ حالة الفن",
+      "groupId": "dog-2025-amd-eb38a91",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/001_Strategisches Glaukom-Management in der Facharztprüfung_ Evidenzbasierte Algorithmen, MIGS und postoperative Komplikationen.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "strategisches-glaukom-management-in-der-facharztprufung-evidenzbasiert-d6c6748",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/002_Umfassender Studienleitfaden_ Risikofaktoren und Screening des Offenwinkelglaukoms (WBO-Prüfungsvorbereitung).md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienleitfaden-risikofaktoren-und-screening-des-offenwin-181a5c2",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/006_Facharzt-Repetitorium_ Sekundäre Offenwinkelglaukome (SOAG) – Klinische Analyse und Prüfungsrelevanz.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "facharzt-repetitorium-sekundare-offenwinkelglaukome-soag-klinische-ana-6c6157a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/007_Facharzt-Repetitorium_ Das Offenwinkelglaukom (primär & sekundär).md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "facharzt-repetitorium-das-offenwinkelglaukom-primar-sekundar-8918db3",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/008_Facharzt-Prüfungsleitfaden_ Konservierungsmittel in der Glaukomtherapie und deren Einfluss auf die Augenoberfläche.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "glaukom-und-augenoberflaeche-16f3285",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/009_Umfassender Studienführer_ Konventionelle Glaukomchirurgie für die Facharztprüfung.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienfuhrer-konventionelle-glaukomchirurgie-fur-die-fach-12b67cf",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/010_Umfassender Leitfaden zur Glaukomchirurgie_ MIGS, MIBS und deutsche klinische Standards.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "zur-glaukomchirurgie-migs-mibs-und-deutsche-klinische-standards-de637aa",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/011_Umfassender Lernleitfaden_ Glaukom – Grundlagen, Klassifikation und Gonioskopie.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-lernleitfaden-glaukom-grundlagen-klassifikation-und-gonios-18732b9",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/012_Leitfaden_ Pädiatrisches Glaukom – Wissenssynthese für die Facharztprüfung.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufun-e4732b7",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/013_Umfassender Studienleitfaden_ Medikamentöse und klinische Strategien beim Glaukom.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienleitfaden-medikamentose-und-klinische-strategien-be-d14129c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/014_Umfassender Studienführer_ Lasermanagement in der Glaukomtherapie.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienfuhrer-lasermanagement-in-der-glaukomtherapie-c2738b9",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/015_Umfassender Prüfungsleitfaden_ Glaukom-Notfälle und klinisches Management.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-prufungsleitfaden-glaukom-notfalle-und-klinisches-manageme-64bd643",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/016_Umfassender Studienführer_ Komplikationen der konventionellen Glaukomchirurgie.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienfuhrer-komplikationen-der-konventionellen-glaukomch-2854a9b",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/017_Studienhandbuch_ Klinische Evaluation des Gesichtsfeldes bei Glaukom.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "studienhandbuch-klinische-evaluation-des-gesichtsfeldes-bei-glaukom-96b3f92",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/018_Umfassender Leitfaden zur klinischen Glaukom-Evaluation_ Papillenmorphologie, OCT und Tonometrie.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "zur-klinischen-glaukom-evaluation-papillenmorphologie-oct-und-tonometr-977d68d",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/019_Umfassender Studienleitfaden_ Primäres und sekundäres Winkelblockglaukom.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "umfassender-studienleitfaden-primares-und-sekundares-winkelblockglauko-0eec48d",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/020_Umfassender Leitfaden_ Konservierungsmittel in der Glaukomtherapie – Pathophysiologie, klinische Auswirkungen und Managementstrategien.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "glaukom-und-augenoberflaeche-16f3285",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Glaukom/Studio/021_دراسة تحليلية شاملة_ تأثير المواد الحافظة في أدوية الجلوكوما على سطح العين والنتائج السريرية.md",
+      "notebook": "👁️ Glaukom",
+      "groupId": "-f472761",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/001_Prüfungsleitfaden_ Risikofaktoren und Früherkennung des Offenwinkelglaukoms (S2e-Leitlinie 2024).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "prufungsleitfaden-risikofaktoren-und-fruherkennung-des-offenwinkelglau-11bab12",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/003_Kompendium der DOG-Leitlinien_ Uveitis und Endophthalmitis für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "uveitis-infektioes-notfaelle-endophthalmitis",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/004_Intensiv-Leitfaden_ OCT-Interpretation in der medizinischen Netzhautdiagnostik – Facharztprüfungsvorbereitung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "oct-interpretation-2f81e72",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/005_Umfassender Lernleitfaden_ Pars-plana-Vitrektomie (PPV) und vitreoretinale Chirurgie für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-lernleitfaden-pars-plana-vitrektomie-ppv-und-vitreoretinal-cb95b47",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/006_Umfassender Leitfaden zur vitreoretinalen Chirurgie und Lasertherapie_ Prüfungsvorbereitung Facharzt (WBO).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-vitreoretinalen-chirurgie-und-lasertherapie-prufungsvorbereitung-f-f0ea142",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/007_Umfassender Lernleitfaden_ Pars-Plana-Vitrektomie (PPV) und Vaskuläre Retinopathien für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-lernleitfaden-pars-plana-vitrektomie-ppv-und-vaskulare-ret-fac4133",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/008_Kompendium der vaskulären Retinopathien_ Fachärztliches Prüfungswissen (Radiatio, Valsalva, Purtscher & Terson).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "kompendium-der-vaskularen-retinopathien-facharztliches-prufungswissen--9ab372e",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/009_Umfassender Leitfaden zur Facharztprüfung_ Sichelzell-Retinopathie und Zystoides Makulaödem (ZMO).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-facharztprufung-sichelzell-retinopathie-und-zystoides-makulaodem-z-9893759",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/010_Fachärztlicher Studienleitfaden_ Die Grubenpapille und assoziierte Makulopathie (Optic Pit Maculopathy).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "optic-pit-makulopathie-2dcc2c9",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/011_Facharzt-Repetitorium_ Hereditäre Netzhauterkrankungen (IRD).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "facharzt-repetitorium-hereditare-netzhauterkrankungen-ird-e888915",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/012_Management der vitreoretinalen Grenzfläche und Netzhautabhebungen_ Klinische Standards und Prüfungswissen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klin-8fee993",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/013_Facharzt-Prüfungsleitfaden_ Systemische Netzhautdegenerationen und syndromale IRDs.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "facharzt-prufungsleitfaden-systemische-netzhautdegenerationen-und-synd-6cf5366",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/014_Umfassender Leitfaden_ Retinale vaskuläre Verschlüsse für die Facharztprüfung Augenheilkunde.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinale-vaskulare-verschlusse-fur-die-facharztprufung-augenheilkunde-6c4612d",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/015_Umfassender Studienleitfaden_ Frühgeborenenretinopathie (ROP) und Familiäre exsudative Vitreoretinopathie (FEVR).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/016_Umfassender Lernleitfaden_ Vitreoretinale Chirurgie und Lasertherapie für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-lernleitfaden-vitreoretinale-chirurgie-und-lasertherapie-f-aae115f",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/017_Fachärztlicher Leitfaden_ Manifestationen von Hinterabschnittstraumata.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "ophthalmologisches-trauma-89c95dd",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/018_Facharztrepetitorium_ Klinische Erkenntnisse zu retinalen und choroidalen Erkrankungen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "klinische-erkenntnisse-zu-retinalen-und-choroidalen-erkrankungen-1dd83a4",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/019_Umfassender Leitfaden zur okulären Onkologie_ Retinoblastom, uveales Melanom und Differentialdiagnosen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-okularen-onkologie-retinoblastom-uveales-melanom-und-differentiald-8425a8f",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/020_Facharzt-Prüfungsleitfaden_ Die Pneumatische Retinopexie (PR) bei Ablatio retinae.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "facharzt-prufungsleitfaden-die-pneumatische-retinopexie-pr-bei-ablatio-8c34636",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/021_Umfassender Leitfaden zur Altersbedingten Makuladegeneration (AMD) für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-altersbedingten-makuladegeneration-amd-fur-die-facharztprufung-a477b2a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/022_Umfassender Leitfaden zur Facharztprüfung_ Erkrankungen des Glaskörpers, der vitreoretinalen Grenzfläche und medikamenteninduzierte Retinoto.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-facharztprufung-erkrankungen-des-glaskorpers-der-vitreoretinalen-g-bf5b07e",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/023_Umfassender Studienleitfaden_ Hereditäre Netzhaut- und Aderhautdystrophien (IRD) für die Facharztprüfung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/024_Kompendium der retinalen Diagnostik_ Grundlagen, klinische Korrelationen und Prüfungswissen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "kompendium-der-retinalen-diagnostik-grundlagen-klinische-korrelationen-5b82e3a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/025_Umfassender Studienleitfaden_ Elektrophysiologie (ERG, EOG) und psychophysikalische Tests in der Augenheilkunde.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/026_Fachspezifischer Leitfaden zur Diabetischen Retinopathie_ Vorbereitung auf die Facharztprüfung Augenheilkunde.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "fachspezifischer-leitfaden-zur-diabetischen-retinopathie-vorbereitung--23261ea",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/027_دليل الدراسة الشامل_ اعتلالات الجسم الزجاجي وانفصال الشبكية.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "-ca3a648",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/028_Umfassender Studienleitfaden_ Glaskörperanomalien und Netzhautablösung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-studienleitfaden-glaskorperanomalien-und-netzhautablosung-69d635a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/029_Umfassender Leitfaden_ Medikamenteninduzierte Retinale Toxizität.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "medikamenteninduzierte-retinale-toxizitat-5b912a1",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/030_Umfassendes Repetitorium_ Das Pachychoroid-Spektrum (PDS).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassendes-repetitorium-das-pachychoroid-spektrum-pds-925d4ed",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/031_Umfassender Lernleitfaden_ Multimodale Bildgebung bei High Myopia (Hoher Myopie).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-lernleitfaden-multimodale-bildgebung-bei-high-myopia-hoher-acc1c2d",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/032_Umfassender Prüfungsleitfaden_ Seltene Vaskuläre Retinopathien (Strahlen-, Valsalva-, Purtscher- & Terson-Syndrom).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-prufungsleitfaden-seltene-vaskulare-retinopathien-strahlen-cfb9253",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/033_Umfassender Lernleitfaden_ Pathologien der Choroidea (CSCR, Hämangiom, UES & BDUMP).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-lernleitfaden-pathologien-der-choroidea-cscr-hamangiom-ues-e957a34",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/034_Umfassender Studienleitfaden_ Morbus Coats, Makuläre Telangiektasien und Phakomatosen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-studienleitfaden-morbus-coats-makulare-telangiektasien-und-cfa2bd3",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/035_Studienleitfaden zur Prüfungsvorbereitung_ Risikofaktoren des Offenwinkelglaukoms (basierend auf der S2e-Leitlinie von DOG & BVA, Update 202.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-prufungsvorbereitung-risikofaktoren-des-offenwinkelglaukoms-basier-0068764",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/036_Studienleitfaden_ Retinale Gefäßerkrankungen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinale-gefa-erkrankungen-77c269c",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/037_Briefing-Dokument_ Retinale Gefäßerkrankungen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinale-gefa-erkrankungen-77c269c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/038_Studienleitfaden zur Retinalen Gefäßerkrankung_ Eine Synthese der Expertenvorlesung.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "zur-retinalen-gefa-erkrankung-eine-synthese-der-expertenvorlesung-ee1376c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/039_Umfassender Studienleitfaden_ Retinale Gefäßerkrankungen.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-studienleitfaden-retinale-gefa-erkrankungen-45a21be",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/040_Umfassender Studienleitfaden_ Diabetische Retinopathie und Diabetisches Makulaödem.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "diabetische-retinopathie-und-dmoe-a0676ce",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/041_Umfassender Studienleitfaden_ Retinopathie bei Frühgeborenen (ROP) und Risikofaktoren des Offenwinkelglaukoms auf Basis der deutschen S2-Lei.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/042_Umfassender Studienleitfaden zur Frühgeborenenretinopathie (ROP).md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/043_Studienleitfaden_ Diabetische Retinopathie und Diabetisches Makulaödem.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "diabetische-retinopathie-und-dmoe-a0676ce",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ Netzhaut/Studio/044_Umfassender Studienleitfaden_ Altersbedingte Makuladegeneration (AMD) – Von den Grundlagen bis zur Künstlichen Intelligenz.md",
+      "notebook": "👁️ Netzhaut",
+      "groupId": "umfassender-studienleitfaden-altersbedingte-makuladegeneration-amd-von-1879f62",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/001_Umfassender Lernleitfaden_ Chirurgie und Management des anophthalmen Orbitas.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-lernleitfaden-chirurgie-und-management-des-anophthalmen-or-d716f70",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/002_Umfassender Lernleitfaden_ Okulofaziale Chirurgie und Lidpathologien.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-lernleitfaden-okulofaziale-chirurgie-und-lidpathologien-1d098c1",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/003_Umfassender Lernleitfaden_ Anatomie, Physiologie und Pathologien des Tränenapparates.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-lernleitfaden-anatomie-physiologie-und-pathologien-des-tra-8886b02",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/004_Umfassender Studienleitfaden_ Rekonstruktive Lidchirurgie und periokuläre Tumore.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-studienleitfaden-rekonstruktive-lidchirurgie-und-periokula-9b75d7a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/006_Umfassender Lernleitfaden_ Erkrankungen und Tumoren der Augenlider.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-lernleitfaden-erkrankungen-und-tumoren-der-augenlider-a3047f0",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/007_Umfassender Studienleitfaden_ Morbus Coats, Maculäre Teleangiektasien und Phakomatosen.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "umfassender-studienleitfaden-morbus-coats-maculare-teleangiektasien-un-99e535b",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/008_Studienleitfaden_ Okulofaziale Anatomie und Lidfehlstellungen – Vorlesungssynthese und Leitlinienintegration.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "okulofaziale-anatomie-und-lidfehlstellungen-vorlesungssynthese-und-lei-ee7ceb7",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/009_Studienleitfaden_ Orbitale Anatomie und Evaluierung orbitaler Erkrankungen.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "orbitale-anatomie-6c7bcd8",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/010_Briefing_ Anatomie, Erkrankungen und Management des Tränenapparats.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "briefing-anatomie-erkrankungen-und-management-des-tranenapparats-30bca4b",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/011_Briefing-Dokument_ Lid-Erkrankungen und Lid-Läsionen.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "lid-erkrankungen-und-lid-lasionen-9a75c2a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/012_Briefing-Dokument_ Einblicke in die okulofaziale Chirurgie.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "einblicke-in-die-okulofaziale-chirurgie-e2d7ccc",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/016_Briefing-Dokument_ Entzündliche Erkrankungen der Orbita.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "entzundliche-erkrankungen-der-orbita-a267808",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/017_Briefing-Dokument_ Orbitale Erkrankungen – Entzündliche und infektiöse Krankheiten.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "orbitale-erkrankungen-entzundliche-und-infektiose-krankheiten-ee75cc7",
+      "status": "used"
+    },
+    {
+      "path": "👁️ Oculoplastik/Studio/018_Briefing-Dokument_ Orbitale Anatomie und Evaluierung orbitaler Erkrankungen.md",
+      "notebook": "👁️ Oculoplastik",
+      "groupId": "orbitale-anatomie-6c7bcd8",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ أورام القسم الأمامي للعين_ التشخيص والمقاربة السريرية الأكاديمية/Studio/001_Umfassender Studienleitfaden_ Pädiatrische intraokulare Tumoren (Retinoblastom & Medulloepitheliom).md",
+      "notebook": "👁️ أورام القسم الأمامي للعين_ التشخيص والمقاربة السريرية الأكاديمية",
+      "groupId": "umfassender-studienleitfaden-padiatrische-intraokulare-tumoren-retinob-dc543d2",
+      "status": "used"
+    },
+    {
+      "path": "👁️ أورام القسم الأمامي للعين_ التشخيص والمقاربة السريرية الأكاديمية/Studio/002_Umfassender Leitfaden_ Tumoren des vorderen Augenabschnitts für die Facharztprüfung.md",
+      "notebook": "👁️ أورام القسم الأمامي للعين_ التشخيص والمقاربة السريرية الأكاديمية",
+      "groupId": "tumoren-des-vorderen-augenabschnitts-fur-die-facharztprufung-2654689",
+      "status": "used"
+    },
+    {
+      "path": "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/001_Optikuspapillengrube-Makulopathie_ Operieren oder Beobachten.md",
+      "notebook": "👁️ اعتلال اللطخة وحفرة العصب البصري",
+      "groupId": "optic-pit-makulopathie-2dcc2c9",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/002_Optic-Pit-Makulopathie_ Ein Briefing-Dokument.md",
+      "notebook": "👁️ اعتلال اللطخة وحفرة العصب البصري",
+      "groupId": "optic-pit-makulopathie-2dcc2c9",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ اعتلال اللطخة وحفرة العصب البصري/Studio/003_موجز إحاطة_ اعتلال اللطخة الناجم عن حفرة العصب البصري.md",
+      "notebook": "👁️ اعتلال اللطخة وحفرة العصب البصري",
+      "groupId": "-97b1b5e",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/001_Briefing-Dokument_ Klinische Erkenntnisse zur Augenlid-Ophthalmologie basierend auf der _Kanski made easy_-Reihe.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "klinische-erkenntnisse-zur-augenlid-ophthalmologie-basierend-auf-der-k-5c99458",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/002_Briefing-Dokument_ Analyse der ophthalmologischen Vorlesung _Kanski made easy - Lid 1_.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "analyse-der-ophthalmologischen-vorlesung-kanski-made-easy-lid-1-aa8cb8d",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/003_Briefing-Dokument_ Analyse von Augenlidläsionen basierend auf der Kanski-Lehrmethode.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "analyse-von-augenlidlasionen-basierend-auf-der-kanski-lehrmethode-38f89ba",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/004_Briefing-Dokument_ Klinische Einblicke in Augenlidtumoren und deren Management.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "klinische-einblicke-in-augenlidtumoren-und-deren-management-2e105ed",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/005_Briefing-Dokument_ Analyse der Augenlid-Pathologien.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "analyse-der-augenlid-pathologien-d170657",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأجفانkanski/Studio/006_Briefing-Dokument_ Klinische Bewertung und Management von Lidfehlstellungen.md",
+      "notebook": "👁️ الأجفانkanski",
+      "groupId": "klinische-bewertung-und-management-von-lidfehlstellungen-0ee1e11",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/003_Briefing on Longer-Acting Medications for Exudative Retinal Diseases.md",
+      "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
+      "groupId": "briefing-on-longer-acting-medications-for-exudative-retinal-diseases-0aa10bc",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/004_Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen_ Eine Synthese aktueller Evidenz und praktischer Implikationen.md",
+      "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
+      "groupId": "langer-wirksame-medikamente-bei-exsudativen-netzhauterkrankungen-eine--5672960",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/005_مذكرة إحاطة_ أدوية طويلة المفعول لأمراض الشبكية النضحية.md",
+      "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
+      "groupId": "-ceefea7",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية/Studio/008_مقارنة بين عوامل Anti-VEGF الشائعة.md",
+      "notebook": "👁️ الأدوية المضادة لـ VEGF طويلة المفعول لأمراض الشبكية النضحية",
+      "groupId": "anti-vegf-8acd43c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/003_التظاهرات العينية للأمراض الجهازية_ موجز محاضرة الدكتور أحمد الدباغ.md",
+      "notebook": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ",
+      "groupId": "-de43e47",
+      "status": "used"
+    },
+    {
+      "path": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ/Studio/004_Ophthalmologische Manifestationen systemischer Erkrankungen_ Ein Briefing.md",
+      "notebook": "👁️ التظاهرات العينية للأمراض الجهازية_ محاضرة الدكتور الدباغ",
+      "groupId": "ophthalmologische-manifestationen-systemischer-erkrankungen-ein-briefi-3c5a49e",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/001_Briefing-Dokument_ Biomarker und Künstliche Intelligenz in der retinalen Bildgebung.md",
+      "notebook": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي",
+      "groupId": "biomarker-und-kunstliche-intelligenz-in-der-retinalen-bildgebung-6def049",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/002_Retinal Revolution_ Biomarkers and Artificial Intelligence in Ophthalmic Imaging.md",
+      "notebook": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي",
+      "groupId": "retinal-revolution-biomarkers-and-artificial-intelligence-in-ophthalmi-bec8452",
+      "status": "used"
+    },
+    {
+      "path": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي/Studio/003_ثورة في طب الشبكية_ المؤشرات الحيوية والتصوير في الوذمة البقعية السكرية وانسداد الوريد الشبكي.md",
+      "notebook": "👁️ الثورة الشبكية_ المؤشرات الحيوية والذكاء الاصطناعي",
+      "groupId": "-00bb231",
+      "status": "used"
+    },
+    {
+      "path": "👁️ العلاج المضاد للالتهاب للعين الجافة/Studio/003_الموجز الطبي_ السيكلوسبورين أ (CsA) كعلاج طويل الأمد لمرض جفاف العين.md",
+      "notebook": "👁️ العلاج المضاد للالتهاب للعين الجافة",
+      "groupId": "csa-0ad33d1",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/001_موجز حول اعتلال الشبكية السكري والوذمة البقعية السكرية_ رؤى جديدة واستراتيجيات علاجية.md",
+      "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
+      "groupId": "-3230d98",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/002_موجز إحاطة_ رؤى متعمقة حول الوذمة البقعية السكرية وعلاجها.md",
+      "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
+      "groupId": "-e6a4479",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/003_Briefing Document_ Pathophysiology and Advanced Management of Diabetic Macular Edema.md",
+      "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
+      "groupId": "briefing-document-pathophysiology-and-advanced-management-of-diabetic--ca4c442",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/004_Diabetes und das Auge_ Ein Briefing zu Pathophysiologie, Therapie und Management des Diabetischen Makulaödems.md",
+      "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
+      "groupId": "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-ma-a15e4d8",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تحديات اعتلال الشبكية السكري ومعالجته/Studio/007_إدارة مخاطر ارتفاع ضغط العين (IOD) بعد العلاج بالكورتيكوستيرويدات داخل الجسم الزجاجي للوذمة البقعية السكرية (DMÖ)_ موجز سريري.md",
+      "notebook": "👁️ تحديات اعتلال الشبكية السكري ومعالجته",
+      "groupId": "iod-2441c59",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/001_النتائج الوظيفية في حالات الجلوكوما لدى الأطفال_ تحليل شامل.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "-60f06b2",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/002_Funktionelles Outcome bei kindlichen Glaukomerkrankungen_ Eine Synthese der Evidenz.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-81d3e63",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/003_موجز إحاطة_ النتائج الوظيفية في حالات الجلوكوما لدى الأطفال.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "-cfa0844",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/006_Briefing-Dokument_ Therapie des kindlichen Glaukoms.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "therapie-des-kindlichen-glaukoms-5efb764",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/007_موجز إحاطة_ رؤى حول علاج الجلوكوما الخلقية لدى الأطفال.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "-5fd79e9",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/009_Briefing-Dokument_ Herausforderungen in der Diagnostik kindlicher Glaukomerkrankungen.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "herausforderungen-in-der-diagnostik-kindlicher-glaukomerkrankungen-f93e140",
+      "status": "used"
+    },
+    {
+      "path": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال/Studio/010_تحديات تشخيص الجلوكوما (المياه الزرقاء) لدى الأطفال.md",
+      "notebook": "👁️ تشخيص وعلاج الجلوكوما عند الأطفال",
+      "groupId": "-4a6b83f",
+      "status": "used"
+    },
+    {
+      "path": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال/Studio/001_Briefing-Dokument_ Einblicke in die pädiatrische Ophthalmochirurgie.md",
+      "notebook": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال",
+      "groupId": "einblicke-in-die-padiatrische-ophthalmochirurgie-808fd82",
+      "status": "used"
+    },
+    {
+      "path": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال/Studio/002_موجز إحاطة_ رؤى حديثة في طب عيون الأطفال.md",
+      "notebook": "👁️ جراحة إعتام القرنية الخلقي وطب الأطفال",
+      "groupId": "-47dc23a",
+      "status": "used"
+    },
+    {
+      "path": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/001_Briefing-Dokument_ Komplexe Katarakte und anspruchsvolle IOL-Implantation.md",
+      "notebook": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+      "groupId": "komplexe-katarakt-und-sekundaer-iol-f1e9972",
+      "status": "merged"
+    },
+    {
+      "path": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة/Studio/002_موجز إحاطة_ زراعة العدسات الثانوية في الحالات المعقدة وغياب المحفظة (Aphakia).md",
+      "notebook": "👁️ زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+      "groupId": "aphakia-70ff02c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/002_ملخص إحاطة_ طوارئ طب العيون العصبي - الجزء الثاني.md",
+      "notebook": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة",
+      "groupId": "-61c3712",
+      "status": "used"
+    },
+    {
+      "path": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة/Studio/003_موجز إحاطة_ حالات طارئة في طب العيون العصبي.md",
+      "notebook": "👁️ طوارئ العينية العصبية_ حالات سريرية وإدارة مبكرة",
+      "groupId": "-9a6a2fa",
+      "status": "used"
+    },
+    {
+      "path": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية/Studio/003_تقرير موجز_ تحديات واستراتيجيات الالتزام العلاجي في علاج المياه الزرقاء مفتوحة الزاوية الأولية.md",
+      "notebook": "👁️ علاج الجلوكوما الأولية مفتوحة الزاوية",
+      "groupId": "-0f2c1f7",
+      "status": "used"
+    },
+    {
+      "path": "👁️ مبادئ تفسير فحص OCT/Studio/002_موجز إحاطة_ مبادئ تفسير فحص التصوير المقطعي بالتماسك البصري (OCT).md",
+      "notebook": "👁️ مبادئ تفسير فحص OCT",
+      "groupId": "oct-9b6220c",
+      "status": "used"
+    },
+    {
+      "path": "👁️ مبادئ تفسير فحص OCT/Studio/003_Briefing-Dokument_ Prinzipien der OCT-Interpretation.md",
+      "notebook": "👁️ مبادئ تفسير فحص OCT",
+      "groupId": "oct-interpretation-2f81e72",
+      "status": "used"
+    },
+    {
+      "path": "👁️ متفرقات/Studio/001_Briefing-Dokument_ Primäres intraokulares Lymphom – Klinische Einblicke und Fallstudien.md",
+      "notebook": "👁️ متفرقات",
+      "groupId": "uveitis-paediatrisch-masquerade",
+      "status": "used"
+    },
+    {
+      "path": "👁️ متفرقات/Studio/003_Briefing-Dokument_ Komplexe Katarakte und anspruchsvolle IOL-Implantation.md",
+      "notebook": "👁️ متفرقات",
+      "groupId": "komplexe-katarakt-und-sekundaer-iol-f1e9972",
+      "status": "used"
+    },
+    {
+      "path": "👁️ متفرقات/Studio/004_Briefing-Dokument_ Optic-Pit-Makulopathie.md",
+      "notebook": "👁️ متفرقات",
+      "groupId": "optic-pit-makulopathie-2dcc2c9",
+      "status": "used"
+    },
+    {
+      "path": "👁️ متفرقات/Studio/005_Briefing-Dokument_ Prinzipien der OCT-Interpretation.md",
+      "notebook": "👁️ متفرقات",
+      "groupId": "oct-interpretation-2f81e72",
+      "status": "merged"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/001_Briefing-Dokument_ Pädiatrische Uveitis – Diagnose, Management und multidisziplinäre Ansätze.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "uveitis-paediatrisch-masquerade",
+      "status": "merged"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/002_Briefing_ Monofixationssyndrom und Mikrotropie – Eine vergleichende Analyse.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "-5cc2c2d",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/004_Briefing-Dokument_ Exodeviation (Außenschielen).md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "exodeviation-au-enschielen-1e7bf42",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/005_Briefing-Dokument_ Pädiatrische Esotropie.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/006_Briefing-Dokument_ Grundlagen des Strabismus.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "grundlagen-des-strabismus-d09d538",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/007_Briefing-Dokument_ Kernkonzepte und Management der Amblyopie.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "kernkonzepte-und-management-der-amblyopie-8080151",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/008_Briefing-Dokument_ Pädiatrische Katarakte.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "padiatrische-katarakte-aa96f04",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/009_Briefing-Dokument_ Angeborene Anomalien des Sehnervs.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "angeborene-anomalien-des-sehnervs-e8f018e",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/010_Briefing-Dokument_ Pädiatrische Uveitis – Analyse und Fallstudien.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "uveitis-paediatrisch-masquerade",
+      "status": "merged"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/012_Briefing-Dokument_ Okuläre Manifestationen systemischer Erkrankungen.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "okulare-manifestationen-systemischer-erkrankungen-836d3b6",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/013_Briefing-Dokument_ Chirurgie der äußeren Augenmuskeln.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "chirurgie-der-au-eren-augenmuskeln-41f823b",
+      "status": "used"
+    },
+    {
+      "path": "👨‍🏫 الحول و توابعه/Studio/014_Briefing-Dokument_ Klinischer Ansatz bei Säuglingen mit Sehschwäche und Nystagmus.md",
+      "notebook": "👨‍🏫 الحول و توابعه",
+      "groupId": "klinischer-ansatz-bei-sauglingen-mit-sehschwache-und-nystagmus-a691394",
+      "status": "used"
+    },
+    {
+      "path": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/001_Briefing_ Therapie und Praxis bei Makulaödem – Ein Update.md",
+      "notebook": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء",
+      "groupId": "briefing-therapie-und-praxis-bei-makulaodem-ein-update-5db5fd5",
+      "status": "used"
+    },
+    {
+      "path": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/002_Treatment Strategies for Macular Edema_ An Update on Theory and Practice.md",
+      "notebook": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء",
+      "groupId": "treatment-strategies-for-macular-edema-an-update-on-theory-and-practic-2be216f",
+      "status": "used"
+    },
+    {
+      "path": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء/Studio/003_وثيقة إحاطة_ رؤى حديثة حول علاج الوذمة البقعية.md",
+      "notebook": "💉 تحديث_ نظرية وممارسة وذمة البقعة الصفراء",
+      "groupId": "-56f051d",
+      "status": "used"
+    },
+    {
+      "path": "📽️ Hornhaut/Studio/001_Akademischer Studienführer_ Konjunktivalschwenklappen (Conjunctival Flaps).md",
+      "notebook": "📽️ Hornhaut",
+      "groupId": "akademischer-studienfuhrer-konjunktivalschwenklappen-conjunctival-flap-4581f24",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/001_Glaukomtherapie 2025_ Eine Synthese aktueller Schlüsselstudien.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien-3e3e0e5",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/002_Translationale Glaukomforschung_ Perspektiven, Herausforderungen und zukünftige Ansätze.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "translationale-glaukomforschung-perspektiven-herausforderungen-und-zuk-ade908a",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/003_مستجدات علاج الجلوكوما 2025_ رؤى من دراسات حديثة.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "2025-cd29723",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/004_رؤى حديثة في أبحاث الجلوكوما الانتقالية_ من المختبر إلى العيادة.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "-f1596f0",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/005_Briefing_ Aktuelle Entwicklungen in der Glaukomdiagnostik – Update 2025.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "briefing-aktuelle-entwicklungen-in-der-glaukomdiagnostik-update-2025-33ea69d",
+      "status": "used"
+    },
+    {
+      "path": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما/Studio/006_تحديثات تشخيص الجلوكوما لعام 2025_ رؤى متعمقة وتحليلات.md",
+      "notebook": "🔬 ترجمة الأبحاث الأساسية إلى ممارسة سريرية في الجلوكوما",
+      "groupId": "2025-fec3519",
+      "status": "used"
+    },
+    {
+      "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/003_ملخص إحاطة_ رضوض القسم الخلفي من العين (Posterior Segment Trauma).md",
+      "notebook": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين",
+      "groupId": "ophthalmologisches-trauma-89c95dd",
+      "status": "merged"
+    },
+    {
+      "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/004_Briefing-Dokument_ Trauma des hinteren Augenabschnitts.md",
+      "notebook": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين",
+      "groupId": "ophthalmologisches-trauma-89c95dd",
+      "status": "merged"
+    },
+    {
+      "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/005_موجز إحاطة_ تدبير رضوض الجزء الأمامي من العين.md",
+      "notebook": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين",
+      "groupId": "-563cad6",
+      "status": "used"
+    },
+    {
+      "path": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين/Studio/006_Briefing-Dokument_ Management von Traumata des vorderen Augenabschnitts.md",
+      "notebook": "🤕 رضوض القسم الأمامي والخلفي وطوارئ العين",
+      "groupId": "ophthalmologisches-trauma-89c95dd",
+      "status": "used"
+    },
+    {
+      "path": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/001_Visual Field Analysis and Electrodiagnostic Testing in Neuro-Ophthalmology.md",
+      "notebook": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية",
+      "groupId": "visual-field-analysis-and-electrodiagnostic-testing-in-neuro-ophthalmo-1697fe6",
+      "status": "used"
+    },
+    {
+      "path": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/002_Briefing-Dokument_ Visuelle Felduntersuchungen und elektrodiagnostische Tests in der Neuroophthalmologie.md",
+      "notebook": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية",
+      "groupId": "visuelle-felduntersuchungen-und-elektrodiagnostische-tests-in-der-neur-b2a80e9",
+      "status": "used"
+    },
+    {
+      "path": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية/Studio/003_تقييم الساحة البصرية والاختبارات الكهربائية التشخيصية في طب العيون العصبي.md",
+      "notebook": "🧐 الساحة البصرية والاختبارات الكهربائية التشخيصية",
+      "groupId": "-33054df",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/001_Briefing-Dokument_ Kopfschmerzen, Augenschmerzen und systemische Erkrankungen.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "kopfschmerzen-augenschmerzen-und-systemische-erkrankungen-1ae611a",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/002_Briefing-Dokument_ Funktionelle Sehstörungen in der Neuro-Ophthalmologie.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "funktionelle-sehstorungen-in-der-neuro-ophthalmologie-e897a92",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/003_Briefing-Dokument_ Analyse des Nystagmus und unwillkürlicher Augenbewegungen.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "analyse-des-nystagmus-und-unwillkurlicher-augenbewegungen-ff9f2cd",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/004_Briefing-Dokument_ Neurologischer Strabismus.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "neurologischer-strabismus-52fd750",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/005_Briefing-Dokument_ Mechanischer Strabismus.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "mechanischer-strabismus-73ce31a",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/006_Analyse des Strabismus bei Erwachsenen_ Neurologische und Mechanische Ursachen.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "analyse-des-strabismus-bei-erwachsenen-neurologische-und-mechanische-u-125f340",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/007_Briefing-Dokument_ Klinische Ansätze bei Optikusneuropathien.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "retinopathie-der-fruehgeborenen-db93534",
+      "status": "merged"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/008_Briefing-Dokument_ Störungen der Höheren Visuellen Funktionen.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "storungen-der-hoheren-visuellen-funktionen-16d24bf",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/010_Ein Briefing-Dokument zum Transienten Visusverlust (TVL).md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "ein-briefing-dokument-zum-transienten-visusverlust-tvl-1c5f9b4",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/013_Briefing-Dokument_ Dysfunktionen des Chiasma opticum und der retrochiasmatischen Sehbahn.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "dysfunktionen-des-chiasma-opticum-und-der-retrochiasmatischen-sehbahn-a1ec3b8",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ أمراض العصبية/Studio/014_Briefing-Dokument_ Erkenntnisse aus der Neuro-Ophthalmologie zu relevanten Netzhauterkrankungen.md",
+      "notebook": "🧑‍⚕️ أمراض العصبية",
+      "groupId": "erkenntnisse-aus-der-neuro-ophthalmologie-zu-relevanten-netzhauterkran-f4fe2a9",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/001_ملخص إحاطة_ تسهيل رعاية المرضى المصابين بالضمور البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md",
+      "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
+      "groupId": "namd-e729247",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/002_Briefing Document_ Enhancing nAMD Patient Care Through Extended Treatment Intervals.md",
+      "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
+      "groupId": "briefing-document-enhancing-namd-patient-care-through-extended-treatme-67ba4e9",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/003_Briefing-Dokument_ Patientenversorgung bei nAMD im klinischen Alltag erleichtern.md",
+      "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
+      "groupId": "patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-ca3cdcc",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/004_تسهيل رعاية مرضى التنكس البقعي الرطب المرتبط بالعمر (nAMD) في الممارسة السريرية اليومية.md",
+      "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
+      "groupId": "namd-2717590",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث/Studio/007_تقرير علمي_ منظور طب النظم في فهم الاستجابات المتباينة لعلاج التنكس البقعي الرطب المرتبط بالعمر (nAMD).md",
+      "notebook": "🧑‍⚕️ تخفيف أعباء علاج الضمور البقعي الوعائي الحديث",
+      "groupId": "-b086f20",
+      "status": "used"
+    },
+    {
+      "path": "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة/Studio/001_ملخص شامل_ منهجية المراجعات المنهجية والتحليلات التلوية.md",
+      "notebook": "🧑‍🔬 المراجعة المنهجية وتحليل البيانات_ استخلاص وتقييم الجودة",
+      "groupId": "-a1bdb35",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/001_Umfassender Studienleitfaden_ Prävention und Management von Komplikationen in der Phakoemulsifikation.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "umfassender-studienleitfaden-pravention-und-management-von-komplikatio-6fe72b3",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/002_Studienleitfaden_ Management komplexer Kataraktchirurgie und Sekundärlinsenimplantation bei fehlendem Kapselsupport.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "management-komplexer-kataraktchirurgie-und-sekundarlinsenimplantation--632ba88",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/003_Umfassender Leitfaden zur torischen Intraokularlinsen-Implantation_ Vorbereitung auf die Facharztprüfung.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "zur-torischen-intraokularlinsen-implantation-vorbereitung-auf-die-fach-830af4f",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/004_Facharzt-Leitfaden_ Management der Hinterkapselruptur und sekundäre IOL-Fixation.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "management-der-hinterkapselruptur-und-sekundare-iol-fixation-f9ba942",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/005_Facharzt-Prüfungsleitfaden_ Katarakt-Chirurgie bei Uveitis-Patienten.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten-ca1ddb2",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/006_Facharzt-Repetitorium_ Kataraktchirurgie bei Diabetes mellitus und nach IVOM.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "facharzt-repetitorium-kataraktchirurgie-bei-diabetes-mellitus-und-nach-c947f1c",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/007_Facharzt-Repetitorium_ Management der Kataraktchirurgie bei komplexen Augenparametern.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "facharzt-repetitorium-management-der-kataraktchirurgie-bei-komplexen-a-e4970d0",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/008_Umfassender Studienleitfaden_ Kataraktchirurgie bei komplexen Hornhauterkrankungen.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "umfassender-studienleitfaden-kataraktchirurgie-bei-komplexen-hornhaute-9344864",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/009_Exhaustive Study Guide_ Kombinierte Katarakt- und MIGS-Chirurgie in der Glaukomtherapie.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "exhaustive-study-guide-kombinierte-katarakt-und-migs-chirurgie-in-der--fa9cf65",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Cataract/Studio/010_Umfassender Leitfaden zur Phakoemulsifikation_ Von den physikalischen Grundlagen zur chirurgischen Meisterschaft.md",
+      "notebook": "🧠 Cataract",
+      "groupId": "zur-phakoemulsifikation-von-den-physikalischen-grundlagen-zur-chirurgi-e836192",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Ocular Emergency/Studio/001_Studienleitfaden_ Klinische Untersuchung des Schultergelenks zur Prüfungsvorbereitung.md",
+      "notebook": "🧠 Ocular Emergency",
+      "groupId": null,
+      "status": "excluded-off-topic",
+      "reason": "Fachfremder Bericht zur Schulteruntersuchung, kein ophthalmologisches Thema."
+    },
+    {
+      "path": "🧠 Ocular Emergency/Studio/002_Neuro-Ophthalmic Anatomy and Imaging_ A Comprehensive Briefing.md",
+      "notebook": "🧠 Ocular Emergency",
+      "groupId": "neuro-ophthalmic-anatomy-and-imaging-a-comprehensive-briefing-c70671f",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Ocular Emergency/Studio/003_موجز إحاطة_ التشريح العصبي العيني وتقنيات التصوير.md",
+      "notebook": "🧠 Ocular Emergency",
+      "groupId": "-8d3ad88",
+      "status": "used"
+    },
+    {
+      "path": "🧠 Ocular Emergency/Studio/004_Briefing-Dokument_ Neuro-ophthalmologische Anatomie und Bildgebung.md",
+      "notebook": "🧠 Ocular Emergency",
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-d2384c4",
+      "status": "merged"
+    },
+    {
+      "path": "🧠 Ocular Emergency/Studio/005_ملخص تشريح وتصوير المسار البصري في طب العيون العصبي.md",
+      "notebook": "🧠 Ocular Emergency",
+      "groupId": "-9b7535a",
+      "status": "used"
+    },
+    {
+      "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/001_Briefing-Dokument_ Neuro-Ophthalmologische Anatomie und Bildgebung.md",
+      "notebook": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية",
+      "groupId": "neuroophthalmologische-anatomie-und-bildgebung-d2384c4",
+      "status": "used"
+    },
+    {
+      "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/006_الدليل الإكلينيكي لتطبيقات التصوير المقطعي التوافقي البصري (OCT) في طب العيون العصبي.md",
+      "notebook": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية",
+      "groupId": "oct-90eebf7",
+      "status": "used"
+    },
+    {
+      "path": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية/Studio/007_ملخص إحاطة_ تشريح وتصوير طب العيون العصبي.md",
+      "notebook": "🧠 أساسيات التشريح والاستقصاءات العينية العصبية",
+      "groupId": "-70e1993",
+      "status": "used"
+    },
+    {
+      "path": "🩺 مراجعات وفحوصات طبية عينية/Studio/003_Briefing-Dokument_ Klinische Kommunikation und Praxismanagement in der Augenheilkunde.md",
+      "notebook": "🩺 مراجعات وفحوصات طبية عينية",
+      "groupId": "klinische-kommunikation-und-praxismanagement-in-der-augenheilkunde-07e0daa",
+      "status": "used"
+    },
+    {
+      "path": "🩺 مراجعات وفحوصات طبية عينية/Studio/004_Leitfaden für die augenärztliche Sprechstunde_ Kommunikation und klinische Praxis.md",
+      "notebook": "🩺 مراجعات وفحوصات طبية عينية",
+      "groupId": "leitfaden-fur-die-augenarztliche-sprechstunde-kommunikation-und-klinis-481f8de",
+      "status": "used"
+    },
+    {
+      "path": "🩺 مراجعات وفحوصات طبية عينية/Studio/005_Briefing-Dokument_ Analyse ophthalmologischer Konsultationen.md",
+      "notebook": "🩺 مراجعات وفحوصات طبية عينية",
+      "groupId": "analyse-ophthalmologischer-konsultationen-4cad893",
+      "status": "used"
+    },
+    {
+      "path": "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/001_Briefing Document_ Assessment of the Visual Loss Patient.md",
+      "notebook": "🚗 تقييم فقدان البصر وطب العيون العصبي",
+      "groupId": "abklaerung-sehverlust-bb74727",
+      "status": "merged"
+    },
+    {
+      "path": "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/002_Briefing-Dokument_ Beurteilung von Patienten mit Sehverlust.md",
+      "notebook": "🚗 تقييم فقدان البصر وطب العيون العصبي",
+      "groupId": "abklaerung-sehverlust-bb74727",
+      "status": "used"
+    },
+    {
+      "path": "🚗 تقييم فقدان البصر وطب العيون العصبي/Studio/003_تقييم مريض فقدان البصر_ رؤى أساسية من محاضرة الدكتورة هيا رزوق.md",
+      "notebook": "🚗 تقييم فقدان البصر وطب العيون العصبي",
+      "groupId": "-3580634",
+      "status": "used"
+    }
+  ]
+}
