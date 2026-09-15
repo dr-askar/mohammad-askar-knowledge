@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "generatedFrom": "Desktop/Notbook_ask/Ophthalmologie/*/Studio/*.md",
-  "generatedAt": "2026-09-15T18:27:29.435Z",
+  "generatedAt": "2026-09-15T18:40:51.145Z",
   "eligibleReportCount": 211,
   "auditedReportCount": 211,
-  "publicGroupCount": 117,
-  "pendingRedactionCount": 54,
+  "publicGroupCount": 118,
+  "pendingRedactionCount": 53,
   "excludedCount": 1,
   "reports": [
     {
@@ -863,7 +863,7 @@
     {
       "path": "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md",
       "notebook": "👨‍🏫 الحول و توابعه",
-      "groupId": "-5cc2c2d",
+      "groupId": "kinderstrabismus-untersuchung-und-therapie",
       "status": "used"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:27:29.435Z",
+  "generatedAt": "2026-09-15T18:40:51.145Z",
   "status": "medical-review",
   "topics": [
     {
@@ -1433,6 +1433,19 @@
         "de"
       ],
       "url": "./kernkonzepte-und-management-der-amblyopie-8080151/"
+    },
+    {
+      "id": "kinderstrabismus-untersuchung-und-therapie",
+      "title": "Kinderstrabismus: Untersuchung, Messung und Therapieplanung",
+      "category": "strabismus-pediatric",
+      "status": "medical-review",
+      "summary": "Eine strukturierte Untersuchung von Kindern mit Schielen verbindet Sehschärfe, Binokularfunktion, Motilität und eine reproduzierbare Winkelmessung. Die Untersuchung muss kindgerecht angepasst werden; Tropfen und belastende Schritte kommen erst am Ende. Die Befunde entscheiden, ob Beobachtung, Brille, Amblyopiebehandlung oder eine Operation erforderlich ist.",
+      "wordCount": 1168,
+      "reportCount": 1,
+      "sourceLanguages": [
+        "de"
+      ],
+      "url": "./kinderstrabismus-untersuchung-und-therapie/"
     },
     {
       "id": "okulare-manifestationen-systemischer-erkrankungen-836d3b6",
@@ -2942,33 +2955,6 @@
       ],
       "sourceReports": [
         "👁️ Netzhaut/Studio/034_Umfassender Studienleitfaden_ Morbus Coats, Makuläre Telangiektasien und Phakomatosen.md"
-      ],
-      "missingFields": [
-        "bodyDe",
-        "summaryDe",
-        "learningObjectives",
-        "questions",
-        "professional.overview",
-        "professional.diagnostics",
-        "professional.differentials",
-        "professional.therapy",
-        "professional.redFlags",
-        "patient.explanation",
-        "patient.care",
-        "patient.urgent"
-      ]
-    },
-    {
-      "id": "-5cc2c2d",
-      "title": "موجز إحاطة: أساسيات فحص وعلاج الحَوَل لدى الأطفال",
-      "category": "strabismus-pediatric",
-      "status": "pending-redaction",
-      "reportCount": 1,
-      "sourceLanguages": [
-        "ar"
-      ],
-      "sourceReports": [
-        "👨‍🏫 الحول و توابعه/Studio/003_موجز إحاطة_ أساسيات فحص وعلاج الحَوَل لدى الأطفال.md"
       ],
       "missingFields": [
         "bodyDe",
