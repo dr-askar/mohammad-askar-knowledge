@@ -3,7 +3,7 @@ const cards=[...document.querySelectorAll('.kb-card')];
 const search=document.querySelector('.kb-search');
 let active='all';
 function filterCards(){const term=(search?.value||'').trim().toLocaleLowerCase('de');let visible=0;cards.forEach(card=>{const matchesCategory=active==='all'||card.dataset.category===active;const matchesText=!term||card.textContent.toLocaleLowerCase('de').includes(term);card.hidden=!(matchesCategory&&matchesText);if(!card.hidden)visible+=1});const empty=document.querySelector('.kb-empty');if(empty)empty.hidden=visible!==0}
-filters.forEach(button=>button.addEventListener('click',()=>{active=button.dataset.filter;filters.forEach(item=>item.setAttribute('aria-pressed',String(item===button)));filterCards()}));
+filters.forEach(button=>button.addEventListener('click',()=>{active=button.dataset.filter;if(search)search.value='';filters.forEach(item=>item.setAttribute('aria-pressed',String(item===button)));filterCards()}));
 search?.addEventListener('input',filterCards);
 const viewButtons=[...document.querySelectorAll('.kb-view-button')];
 const views=[...document.querySelectorAll('.kb-view')];
