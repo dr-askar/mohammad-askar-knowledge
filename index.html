@@ -5,10 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Mohammad Askar — ophthalmologist, retinal and glaucoma specialist, researcher, and multilingual medical knowledge curator." />
   <meta name="theme-color" content="#092f45" />
+  <link rel="canonical" href="https://dr-askar.github.io/knowledge/">
   <title>Mohammad Askar | Ophthalmology & Knowledge</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23092f45'/%3E%3Cpath d='M8 32s9-14 24-14 24 14 24 14-9 14-24 14S8 32 8 32Z' fill='none' stroke='%235ed5c5' stroke-width='5'/%3E%3Ccircle cx='32' cy='32' r='8' fill='%23fff'/%3E%3C/svg%3E" />
   <link rel="stylesheet" href="./assets/style.css" />
 </head>
@@ -48,7 +46,7 @@
         </div>
       </div>
       <aside class="identity-card">
-        <img src="https://avatars.githubusercontent.com/u/49014636?v=4" alt="Mohammad Askar" />
+        <div class="identity-avatar" role="img" aria-label="Mohammad Askar">MA</div>
         <div>
           <strong>Mohammad Askar</strong>
           <span data-i18n="role">Specialist in Ophthalmology</span>
@@ -59,6 +57,18 @@
           <div><dt data-i18n="languages">Languages</dt><dd>AR · DE · EN</dd></div>
         </dl>
       </aside>
+    </section>
+
+    <section class="publication-notice" id="publication-notice" aria-labelledby="publication-notice-title">
+      <div>
+        <p class="eyebrow">Publication notice · Veröffentlichungshinweis · تنبيه النشر</p>
+        <h2 id="publication-notice-title">Learning summaries from multiple lectures</h2>
+      </div>
+      <div class="notice-languages">
+        <p lang="en"><strong>Educational use only:</strong> This library contains editorial summaries of several ophthalmology lectures and supplementary sources for physician education and exam preparation. It is not medical advice and does not provide an individual diagnosis or treatment recommendation. Rights in the underlying lectures, videos, slides and original materials remain with their respective authors and rights holders. Citing a source does not imply endorsement, cooperation or recommendation.</p>
+        <p lang="de"><strong>Nur zu Lernzwecken:</strong> Diese Bibliothek enthält redaktionelle Zusammenfassungen mehrerer augenheilkundlicher Vorlesungen und ergänzender Quellen zur ärztlichen Fortbildung und Prüfungsvorbereitung. Sie ist keine medizinische Beratung und enthält keine individuelle Diagnose- oder Therapieempfehlung. Rechte an den zugrunde liegenden Vorlesungen, Videos, Folien und Originalmaterialien verbleiben bei den jeweiligen Urheberinnen, Urhebern und Rechteinhabern. Die Quellenangabe bedeutet keine Billigung, Zusammenarbeit oder Empfehlung.</p>
+        <p lang="ar"><strong>لأغراض التعلّم فقط:</strong> تحتوي هذه المكتبة على ملخّصات تحريرية لعدة محاضرات في طب العيون ومصادر إضافية بهدف التعليم الطبي والتحضير للامتحانات. لا يُعدّ هذا المحتوى استشارة طبية ولا يقدّم تشخيصاً فردياً أو توصية علاجية شخصية. تبقى حقوق المحاضرات ومقاطع الفيديو والشرائح والمواد الأصلية لدى مؤلفيها وأصحاب الحقوق المعنيين. ولا تعني الإشارة إلى المصدر وجود تأييد أو تعاون أو توصية.</p>
+      </div>
     </section>
 
     <section class="section career-section">
@@ -92,6 +102,12 @@
         <button class="filter" data-filter="evidence" data-i18n="evidence">Evidence reading</button>
       </div>
       <div class="article-grid">
+        <a class="knowledge-card featured" data-topic="evidence" href="./knowledge/ophthalmology/index.html" style="text-decoration:none;color:inherit">
+          <div class="card-meta"><span class="topic retina">Augenheilkunde-Wissen</span><span>DE · lokale Prüffassung</span></div>
+          <h3>Facharztprüfung: geprüfte Lernkapitel</h3>
+          <p>Quellenbezogene Lernkapitel zu Netzhaut und Glaukom. Öffentliche Veröffentlichungen werden erst nach Rechte- und medizinischer Freigabe angezeigt.</p>
+          <footer><span>230 freigegebene Kapitel</span><span>Nur geprüfte Inhalte</span></footer>
+        </a>
         <article class="knowledge-card featured" data-topic="retina">
           <div class="card-meta"><span class="topic retina" data-i18n="retina">Retina</span><span>AR · DE · EN</span></div>
           <h3 data-i18n="card1Title">Reading activity on OCT in neovascular AMD</h3>
@@ -116,12 +132,7 @@
           <p data-i18n="card4Text">What classification performance means clinically—and where spectrum bias can quietly inflate it.</p>
           <footer><span data-i18n="researchNote">Research note</span><span>7 min</span></footer>
         </article>
-        <a class="knowledge-card featured" data-topic="evidence" href="./knowledge/kenntnispruefung-mv/index.html" style="text-decoration:none;color:inherit">
-          <div class="card-meta"><span class="topic evidence">Kenntnisprüfung MV</span><span>DE verfügbar</span></div>
-          <h3>Kenntnisprüfung Mecklenburg-Vorpommern</h3>
-          <p>87 strukturierte deutschsprachige Lernunterlagen mit Prüfungsprotokollen, klinischen Untersuchungen und fachbezogenen Themen.</p>
-          <footer><span>Persönliche Lernsammlung</span><span>87 Dokumente</span></footer>
-        </a>
+        
       </div>
       <p class="empty-state" hidden data-i18n="empty">No notes in this category yet.</p>
     </section>
@@ -142,16 +153,16 @@
 
     <section class="review-note">
       <div>
-        <p class="eyebrow" data-i18n="reviewLabel">Private preview</p>
-        <h2 data-i18n="reviewTitle">This is the first editorial draft.</h2>
+        <p class="eyebrow" data-i18n="reviewLabel">Publication standard</p>
+        <h2 data-i18n="reviewTitle">Every chapter needs documented release approval.</h2>
       </div>
-      <p data-i18n="reviewText">Career wording, publication details, and public contact information will be verified before launch. No certificate scans or private address data are published here.</p>
+      <p data-i18n="reviewText">A chapter is shown publicly only after rights, complete source attribution, medical review by a human reviewer, and the required legal pages have been verified. No certificate scans, private address data, raw source exports or internal audit files are published.</p>
     </section>
   </main>
 
   <footer class="site-footer">
     <div><strong>Mohammad Askar</strong><span data-i18n="footerRole">Ophthalmology · Research · Medical education</span></div>
-    <div class="footer-links"><a href="mailto:dr.m.askar@gmail.com">Email</a><a href="https://github.com/dr-askar" target="_blank" rel="noreferrer">GitHub</a></div>
+    <div class="footer-links"><a href="mailto:dr.m.askar@gmail.com">Email</a><a href="https://github.com/dr-askar" target="_blank" rel="noreferrer">GitHub</a><a href="./legal/impressum.html">Impressum</a><a href="./legal/datenschutz.html">Datenschutz</a></div>
     <p data-i18n="disclaimer">Educational content only. It does not replace individual medical assessment or treatment.</p>
   </footer>
   <script src="./assets/app.js"></script>

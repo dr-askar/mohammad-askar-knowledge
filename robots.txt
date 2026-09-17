@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-askar.github.io/knowledge/sitemap.xml
