@@ -1,0 +1,472 @@
+# Einsatz von Computer-Vision-Technik und Deep-Learning-Algorithmen zur Differenzierung topographischer Bilder normaler, keratokonischer und verdächtiger Hornhäute
+
+## Vollständige deutsche Übertragung des Frontteils (Original S. 1–21)
+
+**Syrische Arabische Republik**  
+**Universität Damaskus**  
+**Fakultät für Humanmedizin**  
+**Abteilung für Augenkrankheiten und Augenchirurgie**
+
+### Einsatz von Computer-Vision-Technik und Deep-Learning-Algorithmen zur Differenzierung topographischer Bilder normaler, keratokonischer und verdächtiger Hornhäute
+
+Eine Dissertation zur Erlangung des Doktorgrades in Augenkrankheiten und Augenchirurgie
+
+**Verfasser:** Dr. Mohammad Zafrallah Askar  
+**Betreuerin:** Prof. Dr. Yosra Haddeh, Abteilung für Augenkrankheiten und Augenchirurgie – Fakultät für Humanmedizin – Universität Damaskus  
+**Mitbetreuer:** Dr.-Ing. Madhat Alsoos, Abteilung für künstliche Intelligenz – Fakultät für Informatik und Informationstechnik – Universität Damaskus  
+**Studienjahr:** 2020–2021
+
+### Genehmigungsseite der Prüfungskommission (Original S. 2)
+
+Die Genehmigungsseite ist im Original leer.
+
+### Widmung (Original S. 3)
+
+Die Widmungsseite ist im Original leer.
+
+### Danksagung (Original S. 4)
+
+Die Danksagungsseite ist im Original leer.
+
+## Unsere veröffentlichten, mit dem Forschungsthema verbundenen Arbeiten (Original S. 5)
+
+Der Verfasser, die Betreuerin und der Mitbetreuer veröffentlichten 2020 drei Arbeiten zum Forschungsthema in der Zeitschrift *Journal of Health Sciences, Damascus University*:
+
+1. **Erkennung des Keratokonus mithilfe eines SVM-Klassifikationsalgorithmus** (Askar, 2020a).
+2. **Prävalenz des Forme-fruste-Keratokonus** (Askar, 2020b).
+3. **Untersuchung der Prävalenz von Keratokonus und keratokonusverdächtiger Hornhaut bei Patientinnen und Patienten der Abteilung für Augenkrankheiten und Augenchirurgie am Universitätskrankenhaus Al-Mouassat** (Askar, 2020c).
+
+Darüber hinaus veröffentlichte der Verfasser gemeinsam mit der Betreuerin eine externe Arbeit in der Zeitschrift *Journal of Ophthalmic and Vision Research (JOVR)* mit dem Titel:
+
+**Accelerated versus standard corneal cross-linking for progressive keratoconus in Syria**
+
+Mitwirkende waren Dr. Abdul Rahman Salman, Prof. Dr. Taim Darwish (Universität Tishreen) und Prof. Dr. Rafia Shaaban (Universität Tartus). Die Arbeit befand sich zum Zeitpunkt der Dissertation in der abschließenden Phase vor der Veröffentlichung.
+
+## Vollständiges Inhaltsverzeichnis (Original S. 6–11)
+
+Die Seitenangaben in Klammern sind die Originalseitenangaben.
+
+- Genehmigungsseite der Prüfungskommission – **APPROVAL PAGE** (S. 2)
+- Widmung (S. 3)
+- Danksagung (S. 4)
+- Unsere veröffentlichten, mit dem Forschungsthema verbundenen Arbeiten – **OUR PUBLISHED PAPERS RELATED TO RESEARCH** (S. 5)
+- Inhaltsverzeichnis (S. 6)
+- Tabellenverzeichnis (S. 12)
+- Abbildungs- und Diagrammverzeichnis (S. 15)
+- Zusammenfassung – **ABSTRACT** (S. 21)
+
+### Kapitel 1: Einleitung (S. 22)
+
+### Kapitel 2: Keratokonus (S. 24)
+
+- 2.1 Einführung in Anatomie, Embryologie und Physiologie der Hornhaut (S. 25)
+  - 2.1.1 Embryologischer Überblick (S. 25)
+  - 2.1.2 Anatomischer und physiologischer Überblick (S. 26)
+- 2.2 Die Sehfunktion der Hornhaut (S. 31)
+- 2.3 Biomechanik der Hornhaut (S. 32)
+- 2.4 Ektatische Hornhauterkrankungen und Keratokonus (S. 34)
+  - 2.4.1 Keratokonus (S. 34)
+  - 2.4.2 Pelluzide marginale Degeneration (S. 34)
+  - 2.4.3 Keratoglobus (S. 35)
+  - 2.4.4 Terrien-marginale Dystrophie (S. 36)
+  - 2.4.5 Ektasie nach refraktiver Chirurgie (S. 37)
+- 2.5 Keratokonus (S. 39)
+  - 2.5.1 Definition (S. 39)
+  - 2.5.2 Klinischer Verlauf (S. 39)
+  - 2.5.3 Klinische Zeichen (Mazen M. Sinjab, 2011b) (S. 39)
+  - 2.5.4 Begleiterkrankungen des Keratokonus (Coster, 2002b; Kanski & Bowling, 2015) (S. 42)
+  - 2.5.5 Vererbung (S. 42)
+  - 2.5.6 Klassifikation (S. 42)
+  - 2.5.7 Forme-fruste-Keratokonus und subklinischer Keratokonus sowie keratokonusverdächtige Hornhaut (**Suspect KC**) (S. 43)
+  - 2.5.8 Pelluzid-ähnlicher Keratokonus (**Pellucid-like KC**) (S. 43)
+- 2.6 Topographen und Tomographen (S. 44)
+  - 2.6.1 Keratoskop und Photokeratoskop (S. 44)
+  - 2.6.2 Computergestützte Videokeratoskopie (S. 45)
+  - 2.6.3 Orbscan-Topograph (S. 45)
+  - 2.6.4 Pentacam (S. 46)
+  - 2.6.5 Sirius (S. 47)
+  - 2.6.6 MS 39 (als Beispiel für AS-OCT) (S. 48)
+- 2.7 Grundlegende Kennwerte und Karten des SIRIUS-Geräts (S. 50)
+  - 2.7.1 Grundlegende Karten (S. 50)
+  - 2.7.2 Grundlegende Kennwerte (S. 57)
+- 2.8 Topographische Merkmale des Keratokonus (S. 60)
+  - 2.8.1 Krümmungskarten (S. 60)
+  - 2.8.2 Höhenkarten (S. 61)
+
+### Kapitel 3: Künstliche Intelligenz (S. 63)
+
+- 3.1 Einführung in die künstliche Intelligenz (S. 64)
+  - 3.1.1 Einleitung (S. 64)
+  - 3.1.2 Begriff (Russell & Norvig, 2002a) (S. 64)
+  - 3.1.3 Historischer Überblick (Mijwel, 2015; Russell & Norvig, 2002a) (S. 65)
+- 3.2 Überblick über die in der künstlichen Intelligenz verwendeten Techniken (S. 67)
+  - 3.2.1 Suchalgorithmen (S. 67)
+  - 3.2.2 Expertensysteme (S. 67)
+  - 3.2.3 Maschinelles Lernen (S. 68)
+  - 3.2.4 Evolutionäre und genetische Algorithmen (S. 69)
+- 3.3 Künstliche neuronale Netze (S. 70)
+  - 3.3.1 Begriff (S. 70)
+  - 3.3.2 Trainingsprozess (S. 71)
+  - 3.3.3 Vorteile und Nachteile künstlicher neuronaler Netze (S. 73)
+- 3.4 Deep Learning und Computer Vision (S. 74)
+  - 3.4.1 Deep Learning (S. 74)
+  - 3.4.2 Computer Vision und faltende neuronale Netze (S. 75)
+- 3.5 Herausforderungen und Lösungen im Trainingsprozess (S. 78)
+  - 3.5.1 Overfitting (S. 78)
+  - 3.5.2 Kleine Stichprobe (**Small Dataset**) (S. 79)
+  - 3.5.3 Klassenungleichgewicht (**Class Imbalance**) (S. 80)
+
+### Kapitel 4: Anwendungen künstlicher Intelligenz in der Medizin (S. 82)
+
+- 4.1 Einleitung (S. 83)
+- 4.2 Beispiele für Anwendungen von KI-Techniken in der klinischen Praxis (S. 84)
+  - 4.2.1 Als Screening-Instrument (S. 84)
+  - 4.2.2 Als Instrument zur Prognoseabschätzung (S. 84)
+  - 4.2.3 Als Unterstützung bei der Behandlung (S. 85)
+  - 4.2.4 Als Ersatz für den Gesundheitsdienstleister (S. 85)
+  - 4.2.5 Als Unterstützung eines Gesundheitsdienstleisters (S. 85)
+- 4.3 Beispiele für Anwendungen von KI-Techniken in der Augenheilkunde (S. 86)
+  - 4.3.1 Diabetische Retinopathie (S. 87)
+  - 4.3.2 Glaukom (S. 88)
+  - 4.3.3 Altersbedingte Makuladegeneration (S. 89)
+  - 4.3.4 Katarakt (S. 89)
+  - 4.3.5 Verschiedene weitere Anwendungen (S. 89)
+- 4.4 Beispiele für KI-Anwendungen zur Erkennung des Keratokonus (S. 91)
+  - 4.4.1 Keratokonusdiagnose mithilfe kornealer Biomechanik und Regressionsalgorithmen (S. 91)
+  - 4.4.2 Keratokonusdiagnose mithilfe einer Support-Vector-Machine (S. 93)
+  - 4.4.3 Keratokonusdiagnose mithilfe faltender neuronaler Netze (S. 93)
+
+### Kapitel 5: Studiendesign und Methoden (S. 97)
+
+- 5.1 Studiendesign (S. 98)
+- 5.2 Studiengruppe (S. 98)
+- 5.3 Stichprobengröße (S. 98)
+- 5.4 Einschluss- und Ausschlusskriterien sowie technische Bildeigenschaften (S. 98)
+  - 5.4.1 Einschlusskriterien (S. 98)
+  - 5.4.2 Ausschlusskriterien (S. 99)
+  - 5.4.3 Technische Bildeigenschaften (S. 99)
+- 5.5 Eigenschaften der Studiengruppen (S. 100)
+  - 5.5.1 Eigenschaften der Trainingsgruppe (S. 100)
+  - 5.5.2 Eigenschaften der Testgruppe (S. 105)
+- 5.6 Studienmethoden (S. 110)
+  - 5.6.1 Erster Teil (S. 110)
+  - 5.6.2 Zweiter Teil (S. 110)
+  - 5.6.3 Trainingsprozess (S. 111)
+  - 5.6.4 Primäre Studienergebnisse (S. 112)
+  - 5.6.5 Statistische Datenanalyse (S. 113)
+
+### Kapitel 6: Ergebnisse (S. 114)
+
+- 6.1 Ergebnisse des neuronalen Netzes für die vordere sagittale Krümmungskarte (S. 115)
+  - 6.1.1 Trainingsgruppe (S. 115)
+  - 6.1.2 Validierungsgruppe (S. 116)
+  - 6.1.3 Testgruppe (S. 117)
+- 6.2 Ergebnisse des neuronalen Netzes für die hintere sagittale Krümmungskarte (S. 118)
+  - 6.2.1 Trainingsgruppe (S. 118)
+  - 6.2.2 Validierungsgruppe (S. 119)
+  - 6.2.3 Testgruppe (S. 119)
+- 6.3 Ergebnisse des neuronalen Netzes für die vordere tangentiale Krümmungskarte (S. 121)
+  - 6.3.1 Trainingsgruppe (S. 121)
+  - 6.3.2 Validierungsgruppe (S. 122)
+  - 6.3.3 Testgruppe (S. 122)
+- 6.4 Ergebnisse des neuronalen Netzes für die hintere tangentiale Krümmungskarte (S. 124)
+  - 6.4.1 Trainingsgruppe (S. 124)
+  - 6.4.2 Validierungsgruppe (S. 125)
+  - 6.4.3 Testgruppe (S. 125)
+- 6.5 Ergebnisse des neuronalen Netzes für die Dickenkarte (S. 127)
+  - 6.5.1 Trainingsgruppe (S. 127)
+  - 6.5.2 Validierungsgruppe (S. 128)
+  - 6.5.3 Testgruppe (S. 128)
+- 6.6 Ergebnisse des neuronalen Netzes für die vordere Höhenkarte (S. 130)
+  - 6.6.1 Trainingsgruppe (S. 130)
+  - 6.6.2 Validierungsgruppe (S. 131)
+  - 6.6.3 Testgruppe (S. 131)
+- 6.7 Ergebnisse des neuronalen Netzes für die hintere Höhenkarte (S. 133)
+  - 6.7.1 Trainingsgruppe (S. 133)
+  - 6.7.2 Validierungsgruppe (S. 134)
+  - 6.7.3 Testgruppe (S. 134)
+- 6.8 Ergebnisse des neuronalen Netzes für die vordere refraktive Stärkekarte (S. 136)
+  - 6.8.1 Trainingsgruppe (S. 136)
+  - 6.8.2 Validierungsgruppe (S. 137)
+  - 6.8.3 Testgruppe (S. 137)
+- 6.9 Ergebnisse des neuronalen Netzes für die hintere refraktive Stärkekarte (S. 139)
+  - 6.9.1 Trainingsgruppe (S. 139)
+  - 6.9.2 Validierungsgruppe (S. 140)
+  - 6.9.3 Testgruppe (S. 140)
+- 6.10 Ergebnisse des neuronalen Netzes für die äquivalente refraktive Stärkekarte (S. 142)
+  - 6.10.1 Trainingsgruppe (S. 142)
+  - 6.10.2 Validierungsgruppe (S. 143)
+  - 6.10.3 Testgruppe (S. 143)
+- 6.11 Ergebnisse der Gesamtgenauigkeit des KI-Systems (S. 145)
+  - 6.11.1 Trainingsgruppe (S. 145)
+  - 6.11.2 Validierungsgruppe (S. 146)
+  - 6.11.3 Testgruppe (S. 147)
+- 6.12 Ergebnisse der dem SIRIUS-Gerät beiliegenden Software (S. 148)
+- 6.13 Ergebnisse der ärztlichen Befundung ohne Unterstützung des KI-Systems (S. 149)
+- 6.14 Ergebnisse der ärztlichen Befundung mit Unterstützung des KI-Systems (S. 150)
+- 6.15 Ergebnisse der ärztlichen Befundung mit Unterstützung des SIRIUS-Geräts (S. 151)
+- 6.16 Anwendung des McNemar-Tests zum Vergleich der vorherigen Modelle (S. 152)
+  - 6.16.1 Vergleich zwischen KI-System und SIRIUS-Gerät (S. 153)
+  - 6.16.2 Vergleich zwischen KI-System und Arzt ohne Unterstützung (S. 153)
+  - 6.16.3 Vergleich zwischen KI-System und Arzt mit Unterstützung des KI-Systems (S. 154)
+  - 6.16.4 Vergleich zwischen KI-System und Arzt mit Unterstützung des SIRIUS-Geräts (S. 154)
+  - 6.16.5 Vergleich zwischen SIRIUS-Ergebnis und Arzt ohne Unterstützung (S. 155)
+  - 6.16.6 Vergleich zwischen SIRIUS-Ergebnis und Arzt mit Unterstützung des KI-Systems (S. 155)
+  - 6.16.7 Vergleich zwischen SIRIUS-Ergebnis und Arzt mit Unterstützung des SIRIUS-Geräts (S. 156)
+  - 6.16.8 Vergleich zwischen Arzt ohne Unterstützung und Arzt mit Unterstützung des KI-Systems (S. 156)
+  - 6.16.9 Vergleich zwischen Arzt ohne Unterstützung und Arzt mit Unterstützung des SIRIUS-Geräts (S. 157)
+  - 6.16.9 (im Original erneut als 6.16.9 nummeriert) Vergleich zwischen Arzt mit Unterstützung des KI-Systems und Arzt mit Unterstützung des SIRIUS-Geräts (S. 157)
+
+### Kapitel 7: Diskussion (S. 158)
+
+- 7.1 Demografische Informationen (S. 159)
+  - 7.1.1 Prävalenz (S. 159)
+  - 7.1.2 Altersverteilung nach Diagnose (S. 159)
+  - 7.1.3 Geschlechtsverteilung nach Diagnose (S. 159)
+- 7.2 Topographische Karten (S. 160)
+  - 7.2.1 Diskussion der Genauigkeitskennwerte der Kartennetze hinsichtlich ihrer Fähigkeit, eindeutige keratokonische Hornhäute einerseits und normale bzw. verdächtige Hornhäute andererseits zu unterscheiden (S. 160)
+  - 7.2.2 Diskussion der Genauigkeitskennwerte der Kartennetze hinsichtlich ihrer Fähigkeit, normale Hornhäute einerseits und keratokonische bzw. verdächtige Hornhäute andererseits zu unterscheiden (S. 162)
+  - 7.2.3 Diskussion der Genauigkeitskennwerte der Kartennetze hinsichtlich ihrer Fähigkeit, verdächtige Hornhäute einerseits und keratokonische bzw. normale Hornhäute andererseits zu unterscheiden (S. 163)
+- 7.3 KI-System und Vergleich mit ähnlichen Studien (S. 165)
+- 7.4 Vergleich mit anderen Modellen (S. 166)
+- 7.5 Diskriminative Merkmals- und Heatmaps (S. 167)
+  - 7.5.1 Vordere sagittale Krümmungskarte (S. 167)
+  - 7.5.2 Hintere sagittale Krümmungskarte (S. 167)
+  - 7.5.3 Vordere tangentiale Krümmungskarte (S. 168)
+  - 7.5.4 Hintere tangentiale Krümmungskarte (S. 168)
+  - 7.5.5 Vordere Höhenkarte (S. 169)
+  - 7.5.6 Hintere Höhenkarte (S. 170)
+  - 7.5.7 Dickenkarte (S. 170)
+  - 7.5.8 Äquivalente refraktive Stärkekarte (S. 171)
+  - 7.5.9 Vordere refraktive Stärkekarte (S. 171)
+  - 7.5.10 Hintere refraktive Stärkekarte (S. 172)
+- 7.6 Untersuchung einiger Fälle (S. 173)
+  - 7.6.1 Fall 1 (S. 173)
+  - 7.6.2 Fall 2 (S. 173)
+  - 7.6.3 Fall 3 (S. 173)
+  - 7.6.4 Fall 4 (S. 177)
+  - 7.6.5 Fall 5 (S. 177)
+  - 7.6.6 Fall 6 (S. 177)
+  - 7.6.7 Fall 7 (S. 181)
+  - 7.6.8 Fall 8 (S. 181)
+  - 7.6.9 Fall 9 (S. 181)
+- 7.7 Stärken und Schwächen unserer Studie (S. 185)
+
+### Kapitel 8: Zusammenfassung und Schlussfolgerungen (S. 186)
+### Kapitel 9: Vorschläge und Empfehlungen (S. 187)
+### Kapitel 10: Abschließendes Wort (S. 188)
+### Literaturverzeichnis (S. 190)
+### Abstract (S. 195)
+
+## Tabellenverzeichnis (Original S. 12–14)
+
+1. Klassifikation des Keratokonus nach Krumeich (Naderan, Jahanrad & Balali, 2017) (S. 43)
+2. Maximale Grenzwerte auf der Höhenkarte mit einer kugelförmigen Referenzfläche (S. 62)
+3. Maximale Grenzwerte auf der Höhenkarte mit einer verdrehten ellipsoidalen Referenzfläche (S. 62)
+4. Vergleich früherer Studien (ausgenommen CNN-Netze) (S. 95)
+5. Vergleich früherer Studien (CNN-Netze) (S. 96)
+6. Verteilung der Trainingsgruppe nach Geschlecht und Diagnose sowie Chi-Quadrat-Test (S. 101)
+7. Altersverteilung der Trainingsgruppe (S. 102)
+8. Prüfung der Normalverteilung des Alters der Trainingsgruppe (S. 102)
+9. Altersverteilung nach Geschlecht in der Trainingsgruppe (S. 102)
+10. Altersverteilung nach Diagnose in der Trainingsgruppe (S. 104)
+11. Verteilung der Testgruppe nach Geschlecht und Diagnose sowie Chi-Quadrat-Test (S. 106)
+12. Altersverteilung der Testgruppe (S. 106)
+13. Prüfung der Normalverteilung des Alters der Testgruppe (S. 107)
+14. Altersverteilung nach Geschlecht in der Testgruppe (S. 107)
+15. Altersverteilung nach Diagnose in der Testgruppe (S. 109)
+16. Genauigkeitskennwerte der Trainingsgruppe (vordere sagittale Krümmungskarte) (S. 116)
+17. Genauigkeitskennwerte der Validierungsgruppe (vordere sagittale Krümmungskarte) (S. 116)
+18. Genauigkeitskennwerte der Testgruppe (vordere sagittale Krümmungskarte) (S. 117)
+19. Genauigkeitskennwerte der Trainingsgruppe (hintere sagittale Krümmungskarte) (S. 118)
+20. Genauigkeitskennwerte der Validierungsgruppe (hintere sagittale Krümmungskarte) (S. 119)
+21. Genauigkeitskennwerte der Testgruppe (hintere sagittale Krümmungskarte) (S. 120)
+22. Genauigkeitskennwerte der Trainingsgruppe (vordere tangentiale Krümmungskarte) (S. 121)
+23. Genauigkeitskennwerte der Validierungsgruppe (vordere tangentiale Krümmungskarte) (S. 122)
+24. Genauigkeitskennwerte der Testgruppe (vordere tangentiale Krümmungskarte) (S. 123)
+25. Genauigkeitskennwerte der Trainingsgruppe (hintere tangentiale Krümmungskarte) (S. 124)
+26. Genauigkeitskennwerte der Validierungsgruppe (hintere tangentiale Krümmungskarte) (S. 125)
+27. Genauigkeitskennwerte der Testgruppe (hintere tangentiale Krümmungskarte) (S. 126)
+28. Genauigkeitskennwerte der Trainingsgruppe (Dickenkarte) (S. 127)
+29. Genauigkeitskennwerte der Validierungsgruppe (Dickenkarte) (S. 128)
+30. Genauigkeitskennwerte der Testgruppe (Dickenkarte) (S. 129)
+31. Genauigkeitskennwerte der Trainingsgruppe (vordere Höhenkarte) (S. 130)
+32. Genauigkeitskennwerte der Validierungsgruppe (vordere Höhenkarte) (S. 131)
+33. Genauigkeitskennwerte der Testgruppe (vordere Höhenkarte) (S. 132)
+34. Genauigkeitskennwerte der Trainingsgruppe (hintere Höhenkarte) (S. 133)
+35. Genauigkeitskennwerte der Validierungsgruppe (hintere Höhenkarte) (S. 134)
+36. Genauigkeitskennwerte der Testgruppe (hintere Höhenkarte) (S. 135)
+37. Genauigkeitskennwerte der Trainingsgruppe (vordere refraktive Stärkekarte) (S. 136)
+38. Genauigkeitskennwerte der Validierungsgruppe (vordere refraktive Stärkekarte) (S. 137)
+39. Genauigkeitskennwerte der Testgruppe (vordere refraktive Stärkekarte) (S. 138)
+40. Genauigkeitskennwerte der Trainingsgruppe (hintere refraktive Stärkekarte) (S. 139)
+41. Genauigkeitskennwerte der Validierungsgruppe (hintere refraktive Stärkekarte) (S. 140)
+42. Genauigkeitskennwerte der Testgruppe (hintere refraktive Stärkekarte) (S. 141)
+43. Genauigkeitskennwerte der Trainingsgruppe (äquivalente refraktive Stärkekarte) (S. 142)
+44. Genauigkeitskennwerte der Validierungsgruppe (äquivalente refraktive Stärkekarte) (S. 143)
+45. Genauigkeitskennwerte der Testgruppe (äquivalente refraktive Stärkekarte) (S. 144)
+46. Genauigkeitskennwerte der Trainingsgruppe (KI-System) (S. 145)
+47. Genauigkeitskennwerte der Validierungsgruppe (KI-System) (S. 146)
+48. Genauigkeitskennwerte der Testgruppe (KI-System) (S. 147)
+49. Genauigkeitskennwerte der Testgruppe (SIRIUS) (S. 148)
+50. Genauigkeitskennwerte der Testgruppe (Arzt ohne Unterstützung des KI-Systems) (S. 149)
+51. Genauigkeitskennwerte der Testgruppe (Arzt mit Unterstützung des KI-Systems) (S. 150)
+52. Genauigkeitskennwerte der Testgruppe (Arzt mit Unterstützung des SIRIUS-Geräts) (S. 151)
+53. Zusammenfassung der McNemar-Tests (S. 152)
+54. Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung keratokonischer Fälle (S. 161)
+55. Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung normaler Hornhäute (S. 163)
+56. Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung verdächtiger Hornhäute (S. 164)
+57. Zusammenfassung der Ergebnisse der neuronalen Netze und des KI-Systems (S. 165)
+58. Zusammenfassung der Ergebnisse aller Modelle (S. 166)
+
+## Abbildungs- und Diagrammverzeichnis (Original S. 15–20)
+
+1. Embryonale Entwicklung der Hornhaut (Graw, 2010) (S. 26)
+2. Snelliussches Gesetz (OCULUS) (S. 32)
+3. Vergleich der Compliance-Kurve einer normalen Hornhaut (oben) und einer keratokonischen Hornhaut (unten) (Mazen M. Sinjab, 2011b) (S. 33)
+4. Pelluzide marginale Degeneration (Mazen M. Sinjab, 2011a) (S. 35)
+5. Keratoglobus (Mazen M. Sinjab, 2011a) (S. 36)
+6. Terrien-marginale Dystrophie (Mazen M. Sinjab, 2011a) (S. 37)
+7. Keratokonus (Mazen M. Sinjab, 2011a) (S. 41)
+8. Placido-Scheibe (S. 44)
+9. Photokeratoskop (S. 45)
+10. Beispiel eines Orbscan-Bildes mit grundlegenden Kennwerten und Karten (S. 46)
+11. Beispiel eines Pentacam-Topographiebildes mit grundlegenden Kennwerten und Karten (OCULUS) (S. 47)
+12. Beispiel eines Sirius-Bildes mit grundlegenden Kennwerten und Karten (CSO, 2018) (S. 48)
+13. Beispiel eines MS-39-Bildes mit grundlegenden Kennwerten und Karten (CSO) (S. 49)
+14. Beispiel einer Dickenkarte einer normalen Hornhaut (S. 50)
+15. Tangentiale Krümmungskarte einer normalen Hornhaut (S. 51)
+16. Berechnung der Krümmungswerte: A tangentiale Karte, B sagittale Karte (S. 51)
+17. Beispiel einer sagittalen Krümmungskarte einer normalen Hornhaut (S. 52)
+18. Beispiel einer Höhenkarte einer normalen Hornhaut (S. 53)
+19. Beispiel einer refraktiven Stärkekarte einer normalen Hornhaut (S. 54)
+20. Beispiel einer Karte der Vorderkammer einer normalen Hornhaut (S. 55)
+21. Zernike-Analyse (S. 56)
+22. Einige Kennwerte, die das SIRIUS-Gerät zur Klassifikation der Hornhaut verwendet (S. 59)
+23. Einige topographische Muster der sagittalen Krümmungskarte beim Keratokonus (S. 61)
+24. Unterschiedliche Muster auf Höhenkarten (S. 62)
+25. Vergleich zwischen biologischer und künstlicher Nervenzelle (Fiorelli, Tomita & Neto, 2015) (S. 70)
+26. Modell eines künstlichen neuronalen Netzes aus drei Schichten (Sarno & Wijaya, 2019) (S. 71)
+27. Darstellung des Trainingsprozesses (Negnevitsky, 2005) (S. 72)
+28. Ablauf des Trainingsprozesses und Veränderung der Genauigkeit zwischen Trainings- und Validierungsgruppe (Zimmermann, 2017) (S. 72)
+29. Schematische Darstellung des Zusammenhangs zwischen künstlicher Intelligenz, maschinellem Lernen und Deep Learning (Oppermann, 2019) (S. 74)
+30. Mehrschichtiges künstliches Netz als Modell eines Deep-Learning-Netzes (Oppermann, 2019) (S. 75)
+31. Unterschied zwischen maschinellem Lernen und Deep Learning (Oppermann, 2019) (S. 75)
+32. Funktionsweise des Filters (Jeong, 2019) (S. 76)
+33. Von einem Filter erzeugte Merkmalskarte (Jeong, 2019) (S. 77)
+34. Funktionsweise der Pooling-Schicht (Jeong, 2019) (S. 77)
+35. Funktionsweise der Flattening-Schicht und ihre Verbindung zu den folgenden Schichten bis zur Ausgabeschicht (Jeong, 2019) (S. 78)
+36. Anzahl der auf PubMed veröffentlichten Studien pro Jahr (S. 83)
+37. Anzahl der auf PubMed veröffentlichten Studien pro Jahr (S. 86)
+38. Anzahl der PubMed-Veröffentlichungen nach Erkrankung (Auswertung für 2007–2018) (S. 87)
+39. ROC-Diagramm im Vergleich zu einer Gruppe von Ärzten (farbige Punkte) (S. 88)
+40. CBI und TBI (Oculus, 2021) (S. 92)
+41. Diskriminative Merkmalskarte in der Mitte und Heatmap auf der rechten Seite des Bildes (S. 94)
+42. Verteilung der Trainingsgruppe nach Diagnose (S. 100)
+43. Mann-Whitney-Test zur Altersverteilung nach Geschlecht in der Trainingsgruppe (S. 103)
+44. Kruskal-Wallis-Test zur Altersverteilung nach Diagnose in der Trainingsgruppe (S. 104)
+45. Verteilung der Testgruppe nach Diagnose (S. 105)
+46. Mann-Whitney-Test zur Altersverteilung nach Geschlecht in der Testgruppe (S. 108)
+47. Kruskal-Wallis-Test zur Altersverteilung nach Diagnose in der Testgruppe (S. 109)
+48. Konfusionsmatrix der Trainingsgruppe (vordere sagittale Krümmungskarte) (S. 115)
+49. Konfusionsmatrix der Validierungsgruppe (vordere sagittale Krümmungskarte) (S. 116)
+50. Konfusionsmatrix der Testgruppe (vordere sagittale Krümmungskarte) (S. 117)
+51. Konfusionsmatrix der Trainingsgruppe (hintere sagittale Krümmungskarte) (S. 118)
+52. Konfusionsmatrix der Validierungsgruppe (hintere sagittale Krümmungskarte) (S. 119)
+53. Konfusionsmatrix der Testgruppe (hintere sagittale Krümmungskarte) (S. 120)
+54. Konfusionsmatrix der Trainingsgruppe (vordere tangentiale Krümmungskarte) (S. 121)
+55. Konfusionsmatrix der Validierungsgruppe (vordere tangentiale Krümmungskarte) (S. 122)
+56. Konfusionsmatrix der Testgruppe (vordere tangentiale Krümmungskarte) (S. 123)
+57. Konfusionsmatrix der Trainingsgruppe (hintere tangentiale Krümmungskarte) (S. 124)
+58. Konfusionsmatrix der Validierungsgruppe (hintere tangentiale Krümmungskarte) (S. 125)
+59. Konfusionsmatrix der Testgruppe (hintere tangentiale Krümmungskarte) (S. 126)
+60. Konfusionsmatrix der Trainingsgruppe (Dickenkarte) (S. 127)
+61. Konfusionsmatrix der Validierungsgruppe (Dickenkarte) (S. 128)
+62. Konfusionsmatrix der Testgruppe (Dickenkarte) (S. 129)
+63. Konfusionsmatrix der Trainingsgruppe (vordere Höhenkarte) (S. 130)
+64. Konfusionsmatrix der Validierungsgruppe (vordere Höhenkarte) (S. 131)
+65. Konfusionsmatrix der Testgruppe (vordere Höhenkarte) (S. 132)
+66. Konfusionsmatrix der Trainingsgruppe (hintere Höhenkarte) (S. 133)
+67. Konfusionsmatrix der Validierungsgruppe (hintere Höhenkarte) (S. 134)
+68. Konfusionsmatrix der Testgruppe (hintere Höhenkarte) (S. 135)
+69. Konfusionsmatrix der Trainingsgruppe (vordere refraktive Stärkekarte) (S. 136)
+70. Konfusionsmatrix der Validierungsgruppe (vordere refraktive Stärkekarte) (S. 137)
+71. Konfusionsmatrix der Testgruppe (vordere refraktive Stärkekarte) (S. 138)
+72. Konfusionsmatrix der Trainingsgruppe (hintere refraktive Stärkekarte) (S. 139)
+73. Konfusionsmatrix der Validierungsgruppe (hintere refraktive Stärkekarte) (S. 140)
+74. Konfusionsmatrix der Testgruppe (hintere refraktive Stärkekarte) (S. 141)
+75. Konfusionsmatrix der Trainingsgruppe (äquivalente refraktive Stärkekarte) (S. 142)
+76. Konfusionsmatrix der Validierungsgruppe (äquivalente refraktive Stärkekarte) (S. 143)
+77. Konfusionsmatrix der Testgruppe (äquivalente refraktive Stärkekarte) (S. 144)
+78. Konfusionsmatrix der Trainingsgruppe (KI-System) (S. 145)
+79. Konfusionsmatrix der Validierungsgruppe (KI-System) (S. 146)
+80. Konfusionsmatrix der Testgruppe (KI-System) (S. 147)
+81. Konfusionsmatrix der Testgruppe (SIRIUS) (S. 148)
+82. Konfusionsmatrix der Testgruppe (Arzt ohne Unterstützung des KI-Systems) (S. 149)
+83. Konfusionsmatrix der Testgruppe (Arzt mit Unterstützung des KI-Systems) (S. 150)
+84. Konfusionsmatrix der Testgruppe (Arzt mit Unterstützung des SIRIUS-Geräts) (S. 151)
+85. Binäre Konfusionsmatrix (KI-System gegenüber SIRIUS-Ergebnis) (S. 153)
+86. Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes ohne Unterstützung) (S. 153)
+87. Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes mit KI-Unterstützung) (S. 154)
+88. Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung) (S. 154)
+89. Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes ohne Unterstützung) (S. 155)
+90. Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes mit KI-Unterstützung) (S. 155)
+91. Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung) (S. 156)
+92. Binäre Konfusionsmatrix (Ergebnis des Arztes ohne Unterstützung gegenüber Ergebnis des Arztes mit KI-Unterstützung) (S. 156)
+93. Binäre Konfusionsmatrix (Ergebnis des Arztes ohne Unterstützung gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung) (S. 157)
+94. Binäre Konfusionsmatrix (Ergebnis des Arztes mit KI-Unterstützung gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung) (S. 157)
+95. Heatmaps des Netzes für die vordere sagittale Krümmungskarte (S. 167)
+96. Heatmaps des Netzes für die hintere sagittale Krümmungskarte (S. 168)
+97. Heatmaps des Netzes für die vordere tangentiale Krümmungskarte (S. 168)
+98. Heatmaps des Netzes für die hintere tangentiale Krümmungskarte (S. 169)
+99. Heatmaps des Netzes für die vordere Höhenkarte (S. 169)
+100. Heatmaps des Netzes für die hintere Höhenkarte (S. 170)
+101. Heatmaps des Netzes für die Dickenkarte (S. 170)
+102. Heatmaps des Netzes für die äquivalente refraktive Stärkekarte (S. 171)
+103. Heatmaps des Netzes für die vordere refraktive Stärkekarte (S. 172)
+104. Heatmaps des Netzes für die hintere refraktive Stärkekarte (S. 172)
+105. Fall 1 (S. 174)
+106. Fall 2 (S. 175)
+107. Fall 3 (S. 176)
+108. Fall 4 (S. 178)
+109. Fall 5 (S. 179)
+110. Fall 6 (S. 180)
+111. Fall 7 (S. 182)
+112. Fall 8 (S. 183)
+113. Fall 9 (S. 184)
+114. Zusammenfassung der Nutzung des Programms (S. 189)
+
+## Arabische Zusammenfassung (Original S. 21)
+
+### Einleitung
+
+Keratokonus ist eine häufige Erkrankung; seine frühe Erkennung ist von großer Bedeutung. Sie erfolgt durch die sorgfältige und genaue Befundung topographischer Bilder, um zwischen keratokonischen, verdächtigen und normalen Hornhäuten zu unterscheiden. Zahlreiche Studien haben versucht, Kriterien und Kennwerte zu finden, die eine frühe Erkennung unterstützen; die Genauigkeitskennwerte fielen unterschiedlich aus. Die meisten früheren Studien stützten sich jedoch nur auf einen kleinen Teil der Informationen aus den topographischen Bildern. Nach dem qualitativen Sprung in den Computerwissenschaften, insbesondere im Bereich der künstlichen Intelligenz und der künstlichen neuronalen Netze, sowie nach dem Aufkommen medizinischer Anwendungen, die medizinische Bilder automatisch lesen und analysieren können, war es notwendig, die Möglichkeit des Einsatzes von KI-Techniken zur Erkennung keratokonischer und verdächtiger Hornhäute zu untersuchen.
+
+### Ziel der Studie
+
+Untersuchung der Leistungsfähigkeit von Computer-Vision-Algorithmen und Deep-Learning-Algorithmen zur Unterscheidung von Topographiekartenbildern normaler, keratokonischer und verdächtiger Hornhäute.
+
+### Material und Methoden
+
+Unsere Studie besteht aus zwei Teilen. Der erste Teil ist eine retrospektive Untersuchung von Patientenakten und Bildern zur Erhebung einer Trainingsstichprobe aus 987 Augen (300 keratokonische, 610 normale und 77 verdächtige Augen). Der zweite Teil ist eine Querschnittsuntersuchung zur Erhebung einer Teststichprobe aus 422 Augen (13 keratokonische, 366 normale und 43 verdächtige Augen). Das von uns vorgeschlagene KI-System besteht aus zehn künstlichen neuronalen Netzen. Jedes Netz ist für die Befundung einer Karte zuständig (vordere und hintere tangentiale Karten, vordere und hintere sagittale Karten, vordere und hintere Höhenkarten, vordere, hintere und äquivalente refraktive Stärkekarten sowie Dickenkarte) und sagt voraus, welcher der drei Klassen die Karte angehört. Die Ausgaben der Netze bilden die Eingaben eines künstlichen neuronalen Netzes, das die endgültige Entscheidung des Systems trifft.
+
+### Ergebnisse
+
+Das von uns vorgeschlagene KI-System erreichte in der Testgruppe eine Genauigkeit und Gesamtwerte des gewichteten F-Scores von 91,2 %–92,2 %. Zwischen ihm, der dem SIRIUS-Gerät beiliegenden Software und dem Arzt bestand kein statistisch signifikanter Unterschied (p > 5 %). Der Arzt erzielte mit Unterstützung des KI-Systems im Vergleich zu allen anderen Modellen das beste Ergebnis (95,9 %–96,2 %); der Unterschied war statistisch signifikant (p < 5 %).
+
+### Schlussfolgerungen
+
+Wir empfehlen, das KI-System als Hilfsinstrument für den Arzt bei der Befundung topographischer Karten einzusetzen.
+
+**Schlüsselwörter:** Keratokonus; künstliche Intelligenz; Deep Learning; künstliche neuronale Netze.
+
+## Eingebundene Übersetzungssegmente
+
+Die weiteren Kapitel werden für den reproduzierbaren PDF-Build direkt aus den folgenden vollständigen Übersetzungssegmenten zusammengesetzt:
+
+- `translation-s22-31.md` und `translation-s32-43.md`
+- `translation-s44-75.md` (deckt inhaltlich S. 44–81 ab)
+- `translation-s82-113.md`
+- `translation-s114-137.md`
+- `translation-s138-164.md`
+- `translation-s165-196.md`

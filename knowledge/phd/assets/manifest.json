@@ -1,0 +1,1612 @@
+{
+  "generatedBy": "tools/build-phd-html.mjs",
+  "rightsPolicy": "Alle Figuren verwenden lokal extrahierte oder aus extrahierten Original-Unterbildern zusammengesetzte Bilddateien aus dem bereitgestellten Dissertation-PDF. Es werden keine vollständigen PDF-Seiten und keine künstlichen Ersatzgrafiken als Figuren verwendet.",
+  "figures": [
+    {
+      "number": 1,
+      "caption": "Embryonale Entwicklung der Hornhaut (Graw, 2010)",
+      "page": "26",
+      "captionAr": "الشكل 1 التطور الجنيني للقرنية(26 ................................................)Graw,",
+      "chapter": 2,
+      "asset": "assets/figures/figure-001.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 2,
+      "caption": "Snelliussches Gesetz (OCULUS)",
+      "page": "32",
+      "captionAr": "الشكل 2 قانون سنيل)32 ............................................................ (OCULUS",
+      "chapter": 2,
+      "asset": "assets/figures/figure-002.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 3,
+      "caption": "Vergleich der Compliance-Kurve einer normalen Hornhaut (oben) und einer keratokonischen Hornhaut (unten) (Mazen M. Sinjab, 2011b)",
+      "page": "33",
+      "captionAr": "الشكل 3 المقارنة بين مخطط المطاوعة بين القرنية الطبيعية في األعلى والقرنية المخروطية في",
+      "chapter": 2,
+      "asset": "assets/figures/figure-003.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 4,
+      "caption": "Pelluzide marginale Degeneration (Mazen M. Sinjab, 2011a)",
+      "page": "35",
+      "captionAr": "الشكل 4 التنكس الهامشي الشفاف)35 ............................. (Mazen M Sinjab, 2011a",
+      "chapter": 2,
+      "asset": "assets/figures/figure-004.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 5,
+      "caption": "Keratoglobus (Mazen M. Sinjab, 2011a)",
+      "page": "36",
+      "captionAr": "الشكل 5 ضخامة القرنية(36 ....................................... )Mazen M Sinjab, 2011a",
+      "chapter": 2,
+      "asset": "assets/figures/figure-005.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 6,
+      "caption": "Terrien-marginale Dystrophie (Mazen M. Sinjab, 2011a)",
+      "page": "37",
+      "captionAr": "الشكل 6 حثل تيرينس الهامشي(37 ................................. )Mazen M Sinjab, 2011a",
+      "chapter": 2,
+      "asset": "assets/figures/figure-006.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 7,
+      "caption": "Keratokonus (Mazen M. Sinjab, 2011a)",
+      "page": "41",
+      "captionAr": "الشكل 7",
+      "chapter": 2,
+      "asset": "assets/figures/figure-007.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 8,
+      "caption": "Placido-Scheibe",
+      "page": "44",
+      "captionAr": "الشكل 8 قرص بالسيدو",
+      "chapter": 2,
+      "asset": "assets/figures/figure-008.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 9,
+      "caption": "Photokeratoskop",
+      "page": "45",
+      "captionAr": "الشكل 9 المنظار الضوئي للتحدب القرني",
+      "chapter": 2,
+      "asset": "assets/figures/figure-009.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 10,
+      "caption": "Beispiel eines Orbscan-Bildes mit grundlegenden Kennwerten und Karten",
+      "page": "46",
+      "captionAr": "الشكل 10 نموذج لصورة مأخوذة باألوربيسكان تظهر المشعرات والخرائط األساسية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-010.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 11,
+      "caption": "Beispiel eines Pentacam-Topographiebildes mit grundlegenden Kennwerten und Karten (OCULUS)",
+      "page": "47",
+      "captionAr": "الشكل 11 نموذج لصورة طبوغرافيا مأخوذة بالبنتاكام تظهر المشعرات والخرائط األساسية()OCULUS",
+      "chapter": 2,
+      "asset": "assets/figures/figure-011.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 12,
+      "caption": "Beispiel eines Sirius-Bildes mit grundlegenden Kennwerten und Karten (CSO, 2018)",
+      "page": "48",
+      "captionAr": "الشكل 12 نموذج لصورة مأخوذة بالسايروس تظهر المشعرات والخرائط األساسية(48 . )CSO,",
+      "chapter": 2,
+      "asset": "assets/figures/figure-012.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 13,
+      "caption": "Beispiel eines MS-39-Bildes mit grundlegenden Kennwerten und Karten (CSO)",
+      "page": "49",
+      "captionAr": "الشكل 13 نموذج لصورة مأخوذة بال MS 39تظهر المشعرات والخرائط األساسية)49 ...... (CSO",
+      "chapter": 2,
+      "asset": "assets/figures/figure-013.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 14,
+      "caption": "Beispiel einer Dickenkarte einer normalen Hornhaut",
+      "page": "50",
+      "captionAr": "الشكل 14 نموذج لخارطة ثخانة في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-014.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 15,
+      "caption": "Tangentiale Krümmungskarte einer normalen Hornhaut",
+      "page": "51",
+      "captionAr": "الشكل 15 خارطة تحدبات تماسيه في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-015.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 16,
+      "caption": "Berechnung der Krümmungswerte: A tangentiale Karte, B sagittale Karte",
+      "page": "51",
+      "captionAr": "الشكل 16 كيفية حساب قيم التحدبات Aخريطة تماسية Bخريطة سهمية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-016.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 17,
+      "caption": "Beispiel einer sagittalen Krümmungskarte einer normalen Hornhaut",
+      "page": "52",
+      "captionAr": "الشكل 17 نموذج لخارطة تحدبات سهمية في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-017.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 18,
+      "caption": "Beispiel einer Höhenkarte einer normalen Hornhaut",
+      "page": "53",
+      "captionAr": "الشكل 18 نموذج لخارطة ارتفاعات في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-018.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 19,
+      "caption": "Beispiel einer refraktiven Stärkekarte einer normalen Hornhaut",
+      "page": "54",
+      "captionAr": "الشكل 19 نموذج لخارطة القوة االنكسارية في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-019.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 20,
+      "caption": "Beispiel einer Karte der Vorderkammer einer normalen Hornhaut",
+      "page": "55",
+      "captionAr": "الشكل 20 نموذج لخارطة الغرفة األمامية في قرنية طبيعية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-020.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 21,
+      "caption": "Zernike-Analyse",
+      "page": "56",
+      "captionAr": "الشكل 21 تحليل زرنيكه",
+      "chapter": 2,
+      "asset": "assets/figures/figure-021.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 22,
+      "caption": "Einige Kennwerte, die das SIRIUS-Gerät zur Klassifikation der Hornhaut verwendet",
+      "page": "59",
+      "captionAr": "الشكل 22 بعض المشعرات التي يعتمد عليها جهاز SIRIUSلتصنيف القرنية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-022.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 23,
+      "caption": "Einige topographische Muster der sagittalen Krümmungskarte beim Keratokonus",
+      "page": "61",
+      "captionAr": "الشكل 23 بعض األشكال الطبوغرافية لخارطة التحدبات السهمية في القرنية المخروطية",
+      "chapter": 2,
+      "asset": "assets/figures/figure-023.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 24,
+      "caption": "Unterschiedliche Muster auf Höhenkarten",
+      "page": "62",
+      "captionAr": "الشكل 24 األشكال المختلفة على خرائط االرتفاعات",
+      "chapter": 2,
+      "asset": "assets/figures/figure-024.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 25,
+      "caption": "Vergleich zwischen biologischer und künstlicher Nervenzelle (Fiorelli, Tomita & Neto, 2015)",
+      "page": "70",
+      "captionAr": "الشكل 25 يظهر مقارنة بين الخلية العصبية الحيوية والصنعية( Fiorelli, Tomita, & Neto,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-025.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 26,
+      "caption": "Modell eines künstlichen neuronalen Netzes aus drei Schichten (Sarno & Wijaya, 2019)",
+      "page": "71",
+      "captionAr": "الشكل 26 يظهر نموذج لشبكة عصبونية صنعية مؤلفة من ثالث طبقات( Sarno & Wijaya,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-026.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 27,
+      "caption": "Darstellung des Trainingsprozesses (Negnevitsky, 2005)",
+      "page": "72",
+      "captionAr": "الشكل 27 شكل يوضح عملية التدريب(72 ................................ )Negnevitsky,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-027.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 28,
+      "caption": "Ablauf des Trainingsprozesses und Veränderung der Genauigkeit zwischen Trainings- und Validierungsgruppe (Zimmermann, 2017)",
+      "page": "72",
+      "captionAr": "الشكل 28 يظهر سير عملية التدريب وكيفية تغير دقة النتائج بين مجموعة التدريب",
+      "chapter": 3,
+      "asset": "assets/figures/figure-028.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 29,
+      "caption": "Schematische Darstellung des Zusammenhangs zwischen künstlicher Intelligenz, maschinellem Lernen und Deep Learning (Oppermann, 2019)",
+      "page": "74",
+      "captionAr": "الشكل 29 شكل ترسيمي للعالقة بين الذكاء الصنعي وتعلم اآللة والتعلم العميق (Oppermann,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-029.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 30,
+      "caption": "Mehrschichtiges künstliches Netz als Modell eines Deep-Learning-Netzes (Oppermann, 2019)",
+      "page": "75",
+      "captionAr": "الشكل 30 شبكة صنعية متعددة الطبقات تمثل نموذجا لشبكات التعلم العميق (Oppermann,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-030.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 31,
+      "caption": "Unterschied zwischen maschinellem Lernen und Deep Learning (Oppermann, 2019)",
+      "page": "75",
+      "captionAr": "الشكل 31 الفرق بين تعلم اآللة والتعلم العميق)75 ......................... (Oppermann,",
+      "chapter": 3,
+      "asset": "assets/figures/figure-031.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 32,
+      "caption": "Funktionsweise des Filters (Jeong, 2019)",
+      "page": "76",
+      "captionAr": "الشكل 32 كيفية عمل الفلتر",
+      "chapter": 3,
+      "asset": "assets/figures/figure-032.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 33,
+      "caption": "Von einem Filter erzeugte Merkmalskarte (Jeong, 2019)",
+      "page": "77",
+      "captionAr": "الشكل 33 خريطة المالمح الناتجة عن أحد الفالتر77 .......................... (Jeong, 2019).",
+      "chapter": 3,
+      "asset": "assets/figures/figure-033.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 34,
+      "caption": "Funktionsweise der Pooling-Schicht (Jeong, 2019)",
+      "page": "77",
+      "captionAr": "الشكل 34 كيفية عمل طبقة التجميع77 ........................................ (Jeong, 2019).",
+      "chapter": 3,
+      "asset": "assets/figures/figure-034.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 35,
+      "caption": "Funktionsweise der Flattening-Schicht und ihre Verbindung zu den folgenden Schichten bis zur Ausgabeschicht (Jeong, 2019)",
+      "page": "78",
+      "captionAr": "الشكل 35 كيفية عمل طبقة التسطيح واتصالها بالطبقات التالية وصوالً لطبقة الخرج(Jeong, .",
+      "chapter": 3,
+      "asset": "assets/figures/figure-035.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 36,
+      "caption": "Anzahl der auf PubMed veröffentlichten Studien pro Jahr",
+      "page": "83",
+      "captionAr": "الشكل 36 عدد الدراسات المنشورة في موقع Pubmedفي كل عام",
+      "chapter": 4,
+      "asset": "assets/figures/figure-036.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 37,
+      "caption": "Anzahl der auf PubMed veröffentlichten Studien pro Jahr",
+      "page": "86",
+      "captionAr": "الشكل 37 عدد الدراسات المنشورة في موقع Pubmedفي كل عام",
+      "chapter": 4,
+      "asset": "assets/figures/figure-037.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 38,
+      "caption": "Anzahl der PubMed-Veröffentlichungen nach Erkrankung (Auswertung für 2007–2018)",
+      "page": "87",
+      "captionAr": "الشكل 38 عدد المنشورات في موقع Pubmedبحسب المرض (إحصائية بين عامي )2018-2007",
+      "chapter": 4,
+      "asset": "assets/figures/figure-038.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 39,
+      "caption": "ROC-Diagramm im Vergleich zu einer Gruppe von Ärzten (farbige Punkte)",
+      "page": "88",
+      "captionAr": "الشكل 39 مخطط ROCمقارة بمجموعة من األطباء(النقط الملونة)",
+      "chapter": 4,
+      "asset": "assets/figures/figure-039.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 40,
+      "caption": "CBI und TBI (Oculus, 2021)",
+      "page": "92",
+      "captionAr": "الشكل 40",
+      "chapter": 4,
+      "asset": "assets/figures/figure-040.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 41,
+      "caption": "Diskriminative Merkmalskarte in der Mitte und Heatmap auf der rechten Seite des Bildes",
+      "page": "94",
+      "captionAr": "الشكل 41 ...................................................... )Mazen M Sinjab, 2011a(7",
+      "chapter": 4,
+      "asset": "assets/figures/figure-041.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 42,
+      "caption": "Verteilung der Trainingsgruppe nach Diagnose",
+      "page": "100",
+      "captionAr": "الشكل 42 توزع مجموعة التدريب حسب التشخيص",
+      "chapter": 5,
+      "asset": "assets/figures/figure-042.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 43,
+      "caption": "Mann-Whitney-Test zur Altersverteilung nach Geschlecht in der Trainingsgruppe",
+      "page": "103",
+      "captionAr": "الشكل 43 اختبار Mann-Whitneyلتوزع متغير العمر حسب الجنس في مجموعة التدريب",
+      "chapter": 5,
+      "asset": "assets/figures/figure-043.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 44,
+      "caption": "Kruskal-Wallis-Test zur Altersverteilung nach Diagnose in der Trainingsgruppe",
+      "page": "104",
+      "captionAr": "الشكل 44 اختبار Kruskal-Wallisلتوزع متغير العمر حسب التشخيص في مجموعة التدريب 104 .",
+      "chapter": 5,
+      "asset": "assets/figures/figure-044.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 45,
+      "caption": "Verteilung der Testgruppe nach Diagnose",
+      "page": "105",
+      "captionAr": "الشكل 45 توزع مجموعة االختبار حسب التشخيص",
+      "chapter": 5,
+      "asset": "assets/figures/figure-045.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 46,
+      "caption": "Mann-Whitney-Test zur Altersverteilung nach Geschlecht in der Testgruppe",
+      "page": "108",
+      "captionAr": "الشكل 46 اختبار Mann-Whitneyلتوزع متغير العمر حسب الجنس في مجموعة االختبار",
+      "chapter": 5,
+      "asset": "assets/figures/figure-046.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 47,
+      "caption": "Kruskal-Wallis-Test zur Altersverteilung nach Diagnose in der Testgruppe",
+      "page": "109",
+      "captionAr": "الشكل 47 اختبار Kruskal-Wallisلتوزع متغير العمر حسب التشخيص في مجموعة االختبار",
+      "chapter": 5,
+      "asset": "assets/figures/figure-047.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 48,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (vordere sagittale Krümmungskarte)",
+      "page": "115",
+      "captionAr": "الشكل 48 مصفوفة االلتباس الخاصة بمجموعة التدريب(خريطة التحدبات السهمية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-048.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 49,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (vordere sagittale Krümmungskarte)",
+      "page": "116",
+      "captionAr": "الشكل 49 مصفوفة االلتباس الخاصة بمجموعة التحقق الخاصة(خريطة التحدبات السهمية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-049.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 50,
+      "caption": "Konfusionsmatrix der Testgruppe (vordere sagittale Krümmungskarte)",
+      "page": "117",
+      "captionAr": "الشكل 50 مصفوفة االلتباس الخاصة بمجموعة االختبار(خريطة التحدبات السهمية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-050.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 51,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (hintere sagittale Krümmungskarte)",
+      "page": "118",
+      "captionAr": "الشكل 51 مصفوفة االلتباس الخاصة بمجموعة التدريب(خريطة التحدبات السهمية الخلفية(",
+      "chapter": 6,
+      "asset": "assets/figures/figure-051.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 52,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (hintere sagittale Krümmungskarte)",
+      "page": "119",
+      "captionAr": "الشكل 52 مصفوفة االلتباس الخاصة بمجموعة التحقق(خريطة التحدبات السهمية الخلفية(",
+      "chapter": 6,
+      "asset": "assets/figures/figure-052.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 53,
+      "caption": "Konfusionsmatrix der Testgruppe (hintere sagittale Krümmungskarte)",
+      "page": "120",
+      "captionAr": "الشكل 53 مصفوفة االلتباس الخاصة بمجموعة االختبار(خريطة التحدبات السهمية الخلفية(",
+      "chapter": 6,
+      "asset": "assets/figures/figure-053.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 54,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "121",
+      "captionAr": "الشكل 54 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة التحدبات المماسية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-054.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 55,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "122",
+      "captionAr": "الشكل 55 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة التحدبات المماسية األمامية)122 .....",
+      "chapter": 6,
+      "asset": "assets/figures/figure-055.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 56,
+      "caption": "Konfusionsmatrix der Testgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "123",
+      "captionAr": "الشكل 56 مصفوفة االلتباس الخاصة بمجموعة االختبار (خارطة التحدبات المماسية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-056.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 57,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "124",
+      "captionAr": "الشكل 57 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة التحدبات المماسية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-057.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 58,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "125",
+      "captionAr": "الشكل 58 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة التحدبات المماسية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-058.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 59,
+      "caption": "Konfusionsmatrix der Testgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "126",
+      "captionAr": "الشكل 59 مصفوفة االلتباس الخاصة بمجموعة االختبار(خارطة التحدبات المماسية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-059.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 60,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (Dickenkarte)",
+      "page": "127",
+      "captionAr": "الشكل 60 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة الثخانة)127 ........................",
+      "chapter": 6,
+      "asset": "assets/figures/figure-060.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 61,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (Dickenkarte)",
+      "page": "128",
+      "captionAr": "الشكل 61 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة الثخانة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-061.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 62,
+      "caption": "Konfusionsmatrix der Testgruppe (Dickenkarte)",
+      "page": "129",
+      "captionAr": "الشكل 62 مصفوفة االلتباس الخاصة بمجموعة االختبار (خارطة الثخانة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-062.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 63,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (vordere Höhenkarte)",
+      "page": "130",
+      "captionAr": "الشكل 63 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة االرتفاعات األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-063.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 64,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (vordere Höhenkarte)",
+      "page": "131",
+      "captionAr": "الشكل 64 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة االرتفاعات األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-064.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 65,
+      "caption": "Konfusionsmatrix der Testgruppe (vordere Höhenkarte)",
+      "page": "132",
+      "captionAr": "الشكل 65 مصفوفة االلتباس الخاصة بمجموعة االختبار التحقق(خارطة االرتفاعات األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-065.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 66,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (hintere Höhenkarte)",
+      "page": "133",
+      "captionAr": "الشكل 66 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة االرتفاعات الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-066.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 67,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (hintere Höhenkarte)",
+      "page": "134",
+      "captionAr": "الشكل 67 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة االرتفاعات الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-067.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 68,
+      "caption": "Konfusionsmatrix der Testgruppe (hintere Höhenkarte)",
+      "page": "135",
+      "captionAr": "الشكل 68 مصفوفة االلتباس الخاصة بمجموعة االختبار(خارطة االرتفاعات الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-068.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 69,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (vordere refraktive Stärkekarte)",
+      "page": "136",
+      "captionAr": "الشكل 69 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة القوة االنكسارية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-069.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 70,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (vordere refraktive Stärkekarte)",
+      "page": "137",
+      "captionAr": "الشكل 70 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة القوة االنكسارية األمامية)137 ........",
+      "chapter": 6,
+      "asset": "assets/figures/figure-070.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 71,
+      "caption": "Konfusionsmatrix der Testgruppe (vordere refraktive Stärkekarte)",
+      "page": "138",
+      "captionAr": "الشكل 71 مصفوفة االلتباس الخاصة بمجموعة االختبار(خارطة القوة االنكسارية األمامية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-071.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 72,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (hintere refraktive Stärkekarte)",
+      "page": "139",
+      "captionAr": "الشكل 72 مصفوفة االلتباس الخاصة بمجموعة التدريب (خارطة القوة االنكسارية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-072.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 73,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (hintere refraktive Stärkekarte)",
+      "page": "140",
+      "captionAr": "الشكل 73 مصفوفة االلتباس الخاصة بمجموعة التحقق (خارطة القوة االنكسارية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-073.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 74,
+      "caption": "Konfusionsmatrix der Testgruppe (hintere refraktive Stärkekarte)",
+      "page": "141",
+      "captionAr": "الشكل 74 مصفوفة االلتباس الخاصة بمجموعة االختبار(خارطة القوة االنكسارية الخلفية)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-074.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 75,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "142",
+      "captionAr": "الشكل 75 مصفوفة االلتباس الخاصة بمجموعة التدريب(خارطة القوة االنكسارية المكافئة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-075.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 76,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "143",
+      "captionAr": "الشكل 76 مصفوفة االلتباس الخاصة بمجموعة التحقق(خارطة القوة االنكسارية المكافئة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-076.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 77,
+      "caption": "Konfusionsmatrix der Testgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "144",
+      "captionAr": "الشكل 77 مصفوفة االلتباس الخاصة بمجموعة االختبار(خارطة القوة االنكسارية المكافئة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-077.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 78,
+      "caption": "Konfusionsmatrix der Trainingsgruppe (KI-System)",
+      "page": "145",
+      "captionAr": "الشكل 78 مصفوفة االلتباس الخاصة بمجموعة التدريب (نظام الذكاء الصنعي)145 .................",
+      "chapter": 6,
+      "asset": "assets/figures/figure-078.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 79,
+      "caption": "Konfusionsmatrix der Validierungsgruppe (KI-System)",
+      "page": "146",
+      "captionAr": "الشكل 79 مصفوفة االلتباس الخاصة بمجموعة التحقق (نظام الذكاء الصنعي)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-079.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 80,
+      "caption": "Konfusionsmatrix der Testgruppe (KI-System)",
+      "page": "147",
+      "captionAr": "الشكل 80 مصفوفة االلتباس الخاصة بمجموعة االختبار(نظام الذكاء الصنعي)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-080.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 81,
+      "caption": "Konfusionsmatrix der Testgruppe (SIRIUS)",
+      "page": "148",
+      "captionAr": "الشكل 81 مصفوفة االلتباس الخاصة بمجموعة االختبار(148 ........................... )SIRIUS",
+      "chapter": 6,
+      "asset": "assets/figures/figure-081.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 82,
+      "caption": "Konfusionsmatrix der Testgruppe (Arzt ohne Unterstützung des KI-Systems)",
+      "page": "149",
+      "captionAr": "الشكل 82 مصفوفة االلتباس الخاصة بمجموعة االختبار(الطبيب دون مساعدة نظام الذكاء الصنعي)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-082.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 83,
+      "caption": "Konfusionsmatrix der Testgruppe (Arzt mit Unterstützung des KI-Systems)",
+      "page": "150",
+      "captionAr": "الشكل 83 مصفوفة االلتباس الخاصة بمجموعة االختبار(الطبيب مع مساعدة نظام الذكاء الصنعي)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-083.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 84,
+      "caption": "Konfusionsmatrix der Testgruppe (Arzt mit Unterstützung des SIRIUS-Geräts)",
+      "page": "151",
+      "captionAr": "الشكل 84 مصفوفة االلتباس الخاصة بمجموعة االختبار(الطبيب مع مساعدة جهاز 151 . )SIRIUS",
+      "chapter": 6,
+      "asset": "assets/figures/figure-084.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 85,
+      "caption": "Binäre Konfusionsmatrix (KI-System gegenüber SIRIUS-Ergebnis)",
+      "page": "153",
+      "captionAr": "الشكل 85 مصفوفة االلتباس الثنائية (نتائج نظام الذكاء الصنعي مقابل نتائج جهاز 153 . )SIRIUS",
+      "chapter": 6,
+      "asset": "assets/figures/figure-085.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 86,
+      "caption": "Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes ohne Unterstützung)",
+      "page": "153",
+      "captionAr": "الشكل 86 مصفوفة االلتباس الثنائية (نتائج نظام الذكاء الصنعي مقابل نتائج الطبيب بدون مساعدة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-086.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 87,
+      "caption": "Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes mit KI-Unterstützung)",
+      "page": "154",
+      "captionAr": "الشكل 87 مصفوفة االلتباس الثنائية (نتائج نظام الذكاء الصنعي مقابل نتائج الطبيب مع مساعدة",
+      "chapter": 6,
+      "asset": "assets/figures/figure-087.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 88,
+      "caption": "Binäre Konfusionsmatrix (KI-System gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung)",
+      "page": "154",
+      "captionAr": "الشكل 88 مصفوفة االلتباس الثنائية (نتائج نظام الذكاء الصنعي مقابل نتائج الطبيب مع مساعدة",
+      "chapter": 6,
+      "asset": "assets/figures/figure-088.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 89,
+      "caption": "Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes ohne Unterstützung)",
+      "page": "155",
+      "captionAr": "الشكل 89 مصفوفة االلتباس الثنائية (نتائج جهاز SIRIUSمقابل نتائج الطبيب بدون مساعدة)",
+      "chapter": 6,
+      "asset": "assets/figures/figure-089.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 90,
+      "caption": "Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes mit KI-Unterstützung)",
+      "page": "155",
+      "captionAr": "الشكل 90 مصفوفة االلتباس الثنائية (نتائج جهاز SIRIUSمقابل نتائج الطبيب مع مساعدة نظام",
+      "chapter": 6,
+      "asset": "assets/figures/figure-090.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 91,
+      "caption": "Binäre Konfusionsmatrix (SIRIUS-Ergebnis gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung)",
+      "page": "156",
+      "captionAr": "الشكل 91 مصفوفة االلتباس الثنائية (نتائج جهاز SIRIUSمقابل نتائج الطبيب مع مساعدة جهاز",
+      "chapter": 6,
+      "asset": "assets/figures/figure-091.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 92,
+      "caption": "Binäre Konfusionsmatrix (Ergebnis des Arztes ohne Unterstützung gegenüber Ergebnis des Arztes mit KI-Unterstützung)",
+      "page": "156",
+      "captionAr": "الشكل 92 .................................................... )Oculus, 2021(CBI & TBI",
+      "chapter": 6,
+      "asset": "assets/figures/figure-092.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 93,
+      "caption": "Binäre Konfusionsmatrix (Ergebnis des Arztes ohne Unterstützung gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung)",
+      "page": "157",
+      "captionAr": "الشكل 93 مصفوفة االلتباس الثنائية (نتائج الطبيب دون مساعدة مقابل نتائج الطبيب مع مساعدة",
+      "chapter": 6,
+      "asset": "assets/figures/figure-093.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 94,
+      "caption": "Binäre Konfusionsmatrix (Ergebnis des Arztes mit KI-Unterstützung gegenüber Ergebnis des Arztes mit SIRIUS-Unterstützung)",
+      "page": "157",
+      "captionAr": "الشكل 94 مصفوفة االلتباس الثنائية (نتائج الطبيب مع مساعدة نظام الذكاء الصنعي مقابل نتائج",
+      "chapter": 6,
+      "asset": "assets/figures/figure-094.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 95,
+      "caption": "Heatmaps des Netzes für die vordere sagittale Krümmungskarte",
+      "page": "167",
+      "captionAr": "الشكل 95 الخرائط الحرارية لشبكة التحدبات السهمية االمامية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-095.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 96,
+      "caption": "Heatmaps des Netzes für die hintere sagittale Krümmungskarte",
+      "page": "168",
+      "captionAr": "الشكل 96 الخرائط الحرارية لشبكة التحدبات السهمية الخلفية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-096.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 97,
+      "caption": "Heatmaps des Netzes für die vordere tangentiale Krümmungskarte",
+      "page": "168",
+      "captionAr": "الشكل 97 الخرائط الحرارية لشبكة التحدبات المماسية االمامية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-097.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 98,
+      "caption": "Heatmaps des Netzes für die hintere tangentiale Krümmungskarte",
+      "page": "169",
+      "captionAr": "الشكل 98 الخرائط الحرارية لشبكة التحدبات المماسية الخلفية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-098.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 99,
+      "caption": "Heatmaps des Netzes für die vordere Höhenkarte",
+      "page": "169",
+      "captionAr": "الشكل 99 الخرائط الحرارية لشبكة االرتفاعات االمامية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-099.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 100,
+      "caption": "Heatmaps des Netzes für die hintere Höhenkarte",
+      "page": "170",
+      "captionAr": "الشكل 100 الخرائط الحرارية لشبكة االرتفاعات الخلفية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-100.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 101,
+      "caption": "Heatmaps des Netzes für die Dickenkarte",
+      "page": "170",
+      "captionAr": "الشكل 101 الخرائط الحرارية لشبكة الثخانة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-101.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 102,
+      "caption": "Heatmaps des Netzes für die äquivalente refraktive Stärkekarte",
+      "page": "171",
+      "captionAr": "الشكل 102 الخرائط الحرارية لشبكة القوة االنكسارية المكافئة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-102.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 103,
+      "caption": "Heatmaps des Netzes für die vordere refraktive Stärkekarte",
+      "page": "172",
+      "captionAr": "الشكل 103 الخرائط الحرارية لشبكة القوة االنكسارية األمامية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-103.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 104,
+      "caption": "Heatmaps des Netzes für die hintere refraktive Stärkekarte",
+      "page": "172",
+      "captionAr": "الشكل 104 الخرائط الحرارية لشبكة القوة االنكسارية الخلفية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-104.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 105,
+      "caption": "Fall 1",
+      "page": "174",
+      "captionAr": "الشكل 105 الحالة األولى",
+      "chapter": 7,
+      "asset": "assets/figures/figure-105.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 106,
+      "caption": "Fall 2",
+      "page": "175",
+      "captionAr": "الشكل 106 الحالة الثانية",
+      "chapter": 7,
+      "asset": "assets/figures/figure-106.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 107,
+      "caption": "Fall 3",
+      "page": "176",
+      "captionAr": "الشكل 107 الحالة الثالثة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-107.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 108,
+      "caption": "Fall 4",
+      "page": "178",
+      "captionAr": "الشكل 108 الحالة الرابعة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-108.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 109,
+      "caption": "Fall 5",
+      "page": "179",
+      "captionAr": "الشكل 109 الحالة الخامسة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-109.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 110,
+      "caption": "Fall 6",
+      "page": "180",
+      "captionAr": "الشكل 110 الحالة السادسة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-110.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 111,
+      "caption": "Fall 7",
+      "page": "182",
+      "captionAr": "الشكل 111 الحالة السابعة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-111.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 112,
+      "caption": "Fall 8",
+      "page": "183",
+      "captionAr": "الشكل 112 الحالة الثامنة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-112.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 113,
+      "caption": "Fall 9",
+      "page": "184",
+      "captionAr": "الشكل 113 الحالة التاسعة",
+      "chapter": 7,
+      "asset": "assets/figures/figure-113.jpg",
+      "representation": "embedded-image",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    },
+    {
+      "number": 114,
+      "caption": "Zusammenfassung der Nutzung des Programms",
+      "page": "189",
+      "captionAr": "الشكل 114 يلخص كيفية استخدام البرنامج",
+      "chapter": 10,
+      "asset": "assets/figures/figure-114.jpg",
+      "representation": "embedded-image-composite",
+      "rightsBasis": "Lokale Extraktion aus dem bereitgestellten Original-PDF; keine externe Grafiklizenz."
+    }
+  ],
+  "tables": [
+    {
+      "number": 1,
+      "caption": "Klassifikation des Keratokonus nach Krumeich (Naderan, Jahanrad & Balali, 2017)",
+      "page": "43",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 2,
+      "caption": "Maximale Grenzwerte auf der Höhenkarte mit einer kugelförmigen Referenzfläche",
+      "page": "62",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 3,
+      "caption": "Maximale Grenzwerte auf der Höhenkarte mit einer verdrehten ellipsoidalen Referenzfläche",
+      "page": "62",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 4,
+      "caption": "Vergleich früherer Studien (ausgenommen CNN-Netze)",
+      "page": "95",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-095.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 5,
+      "caption": "Vergleich früherer Studien (CNN-Netze)",
+      "page": "96",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 6,
+      "caption": "Verteilung der Trainingsgruppe nach Geschlecht und Diagnose sowie Chi-Quadrat-Test",
+      "page": "101",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-101.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 7,
+      "caption": "Altersverteilung der Trainingsgruppe",
+      "page": "102",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-102.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 8,
+      "caption": "Prüfung der Normalverteilung des Alters der Trainingsgruppe",
+      "page": "102",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-102.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 9,
+      "caption": "Altersverteilung nach Geschlecht in der Trainingsgruppe",
+      "page": "102",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-102.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 10,
+      "caption": "Altersverteilung nach Diagnose in der Trainingsgruppe",
+      "page": "104",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-104.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 11,
+      "caption": "Verteilung der Testgruppe nach Geschlecht und Diagnose sowie Chi-Quadrat-Test",
+      "page": "106",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-106.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 12,
+      "caption": "Altersverteilung der Testgruppe",
+      "page": "106",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-106.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 13,
+      "caption": "Prüfung der Normalverteilung des Alters der Testgruppe",
+      "page": "107",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-107.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 14,
+      "caption": "Altersverteilung nach Geschlecht in der Testgruppe",
+      "page": "107",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-107.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 15,
+      "caption": "Altersverteilung nach Diagnose in der Testgruppe",
+      "page": "109",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-109.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 16,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (vordere sagittale Krümmungskarte)",
+      "page": "116",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-116.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 17,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (vordere sagittale Krümmungskarte)",
+      "page": "116",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-116.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 18,
+      "caption": "Genauigkeitskennwerte der Testgruppe (vordere sagittale Krümmungskarte)",
+      "page": "117",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-117.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 19,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (hintere sagittale Krümmungskarte)",
+      "page": "118",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-118.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 20,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (hintere sagittale Krümmungskarte)",
+      "page": "119",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-119.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 21,
+      "caption": "Genauigkeitskennwerte der Testgruppe (hintere sagittale Krümmungskarte)",
+      "page": "120",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-120.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 22,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "121",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-121.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 23,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "122",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-122.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 24,
+      "caption": "Genauigkeitskennwerte der Testgruppe (vordere tangentiale Krümmungskarte)",
+      "page": "123",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-123.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 25,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "124",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-124.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 26,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "125",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-125.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 27,
+      "caption": "Genauigkeitskennwerte der Testgruppe (hintere tangentiale Krümmungskarte)",
+      "page": "126",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-126.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 28,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (Dickenkarte)",
+      "page": "127",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-127.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 29,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (Dickenkarte)",
+      "page": "128",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-128.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 30,
+      "caption": "Genauigkeitskennwerte der Testgruppe (Dickenkarte)",
+      "page": "129",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-129.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 31,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (vordere Höhenkarte)",
+      "page": "130",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-130.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 32,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (vordere Höhenkarte)",
+      "page": "131",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-131.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 33,
+      "caption": "Genauigkeitskennwerte der Testgruppe (vordere Höhenkarte)",
+      "page": "132",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-132.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 34,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (hintere Höhenkarte)",
+      "page": "133",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-133.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 35,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (hintere Höhenkarte)",
+      "page": "134",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-134.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 36,
+      "caption": "Genauigkeitskennwerte der Testgruppe (hintere Höhenkarte)",
+      "page": "135",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-135.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 37,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (vordere refraktive Stärkekarte)",
+      "page": "136",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-136.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 38,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (vordere refraktive Stärkekarte)",
+      "page": "137",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-137.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 39,
+      "caption": "Genauigkeitskennwerte der Testgruppe (vordere refraktive Stärkekarte)",
+      "page": "138",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-138.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 40,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (hintere refraktive Stärkekarte)",
+      "page": "139",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-139.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 41,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (hintere refraktive Stärkekarte)",
+      "page": "140",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-140.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 42,
+      "caption": "Genauigkeitskennwerte der Testgruppe (hintere refraktive Stärkekarte)",
+      "page": "141",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-141.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 43,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "142",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-142.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 44,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "143",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-143.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 45,
+      "caption": "Genauigkeitskennwerte der Testgruppe (äquivalente refraktive Stärkekarte)",
+      "page": "144",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-144.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 46,
+      "caption": "Genauigkeitskennwerte der Trainingsgruppe (KI-System)",
+      "page": "145",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-145.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 47,
+      "caption": "Genauigkeitskennwerte der Validierungsgruppe (KI-System)",
+      "page": "146",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-146.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 48,
+      "caption": "Genauigkeitskennwerte der Testgruppe (KI-System)",
+      "page": "147",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-147.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 49,
+      "caption": "Genauigkeitskennwerte der Testgruppe (SIRIUS)",
+      "page": "148",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-148.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 50,
+      "caption": "Genauigkeitskennwerte der Testgruppe (Arzt ohne Unterstützung des KI-Systems)",
+      "page": "149",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-149.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 51,
+      "caption": "Genauigkeitskennwerte der Testgruppe (Arzt mit Unterstützung des KI-Systems)",
+      "page": "150",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-150.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 52,
+      "caption": "Genauigkeitskennwerte der Testgruppe (Arzt mit Unterstützung des SIRIUS-Geräts)",
+      "page": "151",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-151.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 53,
+      "caption": "Zusammenfassung der McNemar-Tests",
+      "page": "152",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-152.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 54,
+      "caption": "Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung keratokonischer Fälle",
+      "page": "161",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-161.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 55,
+      "caption": "Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung normaler Hornhäute",
+      "page": "163",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-163.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 56,
+      "caption": "Zusammenfassung der Genauigkeitskennwerte der neuronalen Netze zur Erkennung verdächtiger Hornhäute",
+      "page": "164",
+      "representation": "original-page-image-reference",
+      "asset": "assets/source-pages/page-164.jpg",
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 57,
+      "caption": "Zusammenfassung der Ergebnisse der neuronalen Netze und des KI-Systems",
+      "page": "165",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    },
+    {
+      "number": 58,
+      "caption": "Zusammenfassung der Ergebnisse aller Modelle",
+      "page": "166",
+      "representation": "responsive-html-table",
+      "asset": null,
+      "source": "Originaldissertation, unverändertes PDF-Faksimile"
+    }
+  ]
+}

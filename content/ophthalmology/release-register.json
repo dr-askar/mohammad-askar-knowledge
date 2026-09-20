@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "purpose": "Internal release register for the exact 230-record scope approved by Mohammad Askar on 2026-09-16.",
+  "medicalApprovalScope": {
+    "approvedBy": "Mohammad Askar",
+    "approvedAt": "2026-09-16",
+    "contentCount": 230,
+    "statement": "Mohammad Askar confirms that all 230 chapters were fully medically reviewed and approved for publication."
+  },
+  "rightsApprovalScope": {
+    "verifiedBy": "Mohammad Askar",
+    "verifiedAt": "2026-09-16",
+    "contentCount": 230,
+    "basis": "independent-rewrite",
+    "statement": "Mohammad Askar confirms that all 230 chapters are sufficiently independent rewrites. Rights in the underlying original sources remain with their respective authors and rights holders."
+  },
+  "coverage": {
+    "articleSource": "content/ophthalmology/articles.json",
+    "articleIdField": "slug",
+    "topicGroupSource": "content/ophthalmology/topic-groups.json",
+    "topicGroupIdField": "id",
+    "sourceAttributions": "content/ophthalmology/source-attributions.json",
+    "expectedArticles": 20,
+    "expectedTopicGroups": 210,
+    "expectedTotal": 230,
+    "plannedFirstCharge": ["retina", "glaucoma"]
+  },
+  "defaults": {
+    "rightsBasis": "independent-rewrite",
+    "rightsStatus": "verified",
+    "rightsHolders": [
+      "Respective authors and rights holders of the attributed original sources"
+    ],
+    "permissionEvidenceRef": null,
+    "independentRewriteReviewRef": "attestation:mohammad-askar:2026-09-16:all-230-independent-rewrites",
+    "rightsVerifiedBy": "Mohammad Askar",
+    "medicalStatus": "approved",
+    "medicalReviewer": "Mohammad Askar",
+    "medicalReviewedAt": "2026-09-16",
+    "rightsVerifiedAt": "2026-09-16",
+    "publishStatus": "approved",
+    "publishedAt": "2026-09-16",
+    "notes": "Medical review and independent-rewrite status were confirmed by Mohammad Askar for the exact 230-record scope on 2026-09-16. Structured source attribution is maintained separately; deployment remains blocked while mandatory legal contact data is incomplete."
+  },
+  "overrides": {}
+}

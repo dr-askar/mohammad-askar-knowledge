@@ -1,0 +1,472 @@
+# Application of Computer Vision Techniques and Deep Learning Algorithms for Differentiating Topographic Images of Normal, Keratoconic, and Suspect Corneas
+
+## Complete English Translation of the Front Matter (Original pp. 1–21)
+
+**Syrian Arab Republic**  
+**University of Damascus**  
+**Faculty of Medicine**  
+**Department of Ophthalmology and Ophthalmic Surgery**
+
+### Application of Computer Vision Techniques and Deep Learning Algorithms for Differentiating Topographic Images of Normal, Keratoconic, and Suspect Corneas
+
+A dissertation submitted in partial fulfilment of the requirements for the degree of Doctor of Medicine in Ophthalmology and Ophthalmic Surgery
+
+**Author:** Dr. Mohammad Zafrallah Askar  
+**Supervisor:** Prof. Dr. Yosra Haddeh, Department of Ophthalmology and Ophthalmic Surgery – Faculty of Medicine – University of Damascus  
+**Co-Supervisor:** Dr.-Ing. Madhat Alsoos, Department of Artificial Intelligence – Faculty of Computer Science and Information Technology – University of Damascus  
+**Academic Year:** 2020–2021
+
+### Approval Page of the Examination Committee (Original p. 2)
+
+The approval page is blank in the original.
+
+### Dedication (Original p. 3)
+
+The dedication page is blank in the original.
+
+### Acknowledgements (Original p. 4)
+
+The acknowledgements page is blank in the original.
+
+## Our Published Papers Related to the Research Topic (Original p. 5)
+
+The author, supervisor, and co-supervisor published three papers related to the research topic in 2020 in the *Journal of Health Sciences, Damascus University*:
+
+1. **Detection of Keratoconus Using an SVM Classification Algorithm** (Askar, 2020a).
+2. **Prevalence of Forme Fruste Keratoconus** (Askar, 2020b).
+3. **Investigation of the Prevalence of Keratoconus and Keratoconus-Suspect Corneas among Patients at the Department of Ophthalmology and Ophthalmic Surgery, Al-Mouassat University Hospital** (Askar, 2020c).
+
+In addition, the author and supervisor co-authored an external publication in the *Journal of Ophthalmic and Vision Research (JOVR)*:
+
+**Accelerated versus standard corneal cross-linking for progressive keratoconus in Syria**
+
+Co-authors were Dr. Abdul Rahman Salman, Prof. Dr. Taim Darwish (Tishreen University), and Prof. Dr. Rafia Shaaban (Tartus University). This paper was in its final stage prior to publication at the time of the dissertation.
+
+## Complete Table of Contents (Original pp. 6–11)
+
+Page numbers in parentheses refer to the original document pages.
+
+- Approval Page of the Examination Committee – **APPROVAL PAGE** (p. 2)
+- Dedication (p. 3)
+- Acknowledgements (p. 4)
+- Our Published Papers Related to Research – **OUR PUBLISHED PAPERS RELATED TO RESEARCH** (p. 5)
+- Table of Contents (p. 6)
+- List of Tables (p. 12)
+- List of Figures and Diagrams (p. 15)
+- Abstract – **ABSTRACT** (p. 21)
+
+### Chapter 1: Introduction (p. 22)
+
+### Chapter 2: Keratoconus (p. 24)
+
+- 2.1 Introduction to Corneal Anatomy, Embryology, and Physiology (p. 25)
+  - 2.1.1 Embryological Overview (p. 25)
+  - 2.1.2 Anatomical and Physiological Overview (p. 26)
+- 2.2 The Optical Function of the Cornea (p. 31)
+- 2.3 Corneal Biomechanics (p. 32)
+- 2.4 Ectatic Corneal Diseases and Keratoconus (p. 34)
+  - 2.4.1 Keratoconus (p. 34)
+  - 2.4.2 Pellucid Marginal Degeneration (p. 34)
+  - 2.4.3 Keratoglobus (p. 35)
+  - 2.4.4 Terrien Marginal Dystrophy (p. 36)
+  - 2.4.5 Post-Refractive Surgery Ectasia (p. 37)
+- 2.5 Keratoconus (p. 39)
+  - 2.5.1 Definition (p. 39)
+  - 2.5.2 Clinical Course (p. 39)
+  - 2.5.3 Clinical Signs (Mazen M. Sinjab, 2011b) (p. 39)
+  - 2.5.4 Associated Conditions in Keratoconus (Coster, 2002b; Kanski & Bowling, 2015) (p. 42)
+  - 2.5.5 Inheritance (p. 42)
+  - 2.5.6 Classification (p. 42)
+  - 2.5.7 Forme Fruste Keratoconus and Subclinical Keratoconus, and Keratoconus-Suspect Cornea (**Suspect KC**) (p. 43)
+  - 2.5.8 Pellucid-Like Keratoconus (**Pellucid-Like KC**) (p. 43)
+- 2.6 Topographers and Tomographers (p. 44)
+  - 2.6.1 Keratometer and Photokeratometer (p. 44)
+  - 2.6.2 Computer-Assisted Videokeratography (p. 45)
+  - 2.6.3 Orbscan Topographer (p. 45)
+  - 2.6.4 Pentacam (p. 46)
+  - 2.6.5 Sirius (p. 47)
+  - 2.6.6 MS-39 (as an Example of AS-OCT) (p. 48)
+- 2.7 Basic Indices and Maps of the SIRIUS Device (p. 50)
+  - 2.7.1 Basic Maps (p. 50)
+  - 2.7.2 Basic Indices (p. 57)
+- 2.8 Topographic Features of Keratoconus (p. 60)
+  - 2.8.1 Curvature Maps (p. 60)
+  - 2.8.2 Elevation Maps (p. 61)
+
+### Chapter 3: Artificial Intelligence (p. 63)
+
+- 3.1 Introduction to Artificial Intelligence (p. 64)
+  - 3.1.1 Introduction (p. 64)
+  - 3.1.2 Definition (Russell & Norvig, 2002a) (p. 64)
+  - 3.1.3 Historical Overview (Mijwel, 2015; Russell & Norvig, 2002a) (p. 65)
+- 3.2 Overview of Techniques Used in Artificial Intelligence (p. 67)
+  - 3.2.1 Search Algorithms (p. 67)
+  - 3.2.2 Expert Systems (p. 67)
+  - 3.2.3 Machine Learning (p. 68)
+  - 3.2.4 Evolutionary and Genetic Algorithms (p. 69)
+- 3.3 Artificial Neural Networks (p. 70)
+  - 3.3.1 Definition (p. 70)
+  - 3.3.2 Training Process (p. 71)
+  - 3.3.3 Advantages and Disadvantages of Artificial Neural Networks (p. 73)
+- 3.4 Deep Learning and Computer Vision (p. 74)
+  - 3.4.1 Deep Learning (p. 74)
+  - 3.4.2 Computer Vision and Convolutional Neural Networks (p. 75)
+- 3.5 Challenges and Solutions in the Training Process (p. 78)
+  - 3.5.1 Overfitting (p. 78)
+  - 3.5.2 Small Dataset (p. 79)
+  - 3.5.3 Class Imbalance (p. 80)
+
+### Chapter 4: Applications of Artificial Intelligence in Medicine (p. 82)
+
+- 4.1 Introduction (p. 83)
+- 4.2 Examples of AI Applications in Clinical Practice (p. 84)
+  - 4.2.1 As a Screening Tool (p. 84)
+  - 4.2.2 As a Prognostic Tool (p. 84)
+  - 4.2.3 As Treatment Support (p. 85)
+  - 4.2.4 As a Substitute for a Healthcare Provider (p. 85)
+  - 4.2.5 As an Aid to a Healthcare Provider (p. 85)
+- 4.3 Examples of AI Applications in Ophthalmology (p. 86)
+  - 4.3.1 Diabetic Retinopathy (p. 87)
+  - 4.3.2 Glaucoma (p. 88)
+  - 4.3.3 Age-Related Macular Degeneration (p. 89)
+  - 4.3.4 Cataract (p. 89)
+  - 4.3.5 Various Other Applications (p. 89)
+- 4.4 Examples of AI Applications for Keratoconus Detection (p. 91)
+  - 4.4.1 Keratoconus Diagnosis Using Corneal Biomechanics and Regression Algorithms (p. 91)
+  - 4.4.2 Keratoconus Diagnosis Using a Support Vector Machine (p. 93)
+  - 4.4.3 Keratoconus Diagnosis Using Convolutional Neural Networks (p. 93)
+
+### Chapter 5: Study Design and Methods (p. 97)
+
+- 5.1 Study Design (p. 98)
+- 5.2 Study Population (p. 98)
+- 5.3 Sample Size (p. 98)
+- 5.4 Inclusion and Exclusion Criteria and Technical Image Properties (p. 98)
+  - 5.4.1 Inclusion Criteria (p. 98)
+  - 5.4.2 Exclusion Criteria (p. 99)
+  - 5.4.3 Technical Image Properties (p. 99)
+- 5.5 Characteristics of the Study Groups (p. 100)
+  - 5.5.1 Characteristics of the Training Group (p. 100)
+  - 5.5.2 Characteristics of the Test Group (p. 105)
+- 5.6 Study Methods (p. 110)
+  - 5.6.1 First Part (p. 110)
+  - 5.6.2 Second Part (p. 110)
+  - 5.6.3 Training Process (p. 111)
+  - 5.6.4 Primary Study Outcomes (p. 112)
+  - 5.6.5 Statistical Data Analysis (p. 113)
+
+### Chapter 6: Results (p. 114)
+
+- 6.1 Neural Network Results for the Anterior Sagittal Curvature Map (p. 115)
+  - 6.1.1 Training Group (p. 115)
+  - 6.1.2 Validation Group (p. 116)
+  - 6.1.3 Test Group (p. 117)
+- 6.2 Neural Network Results for the Posterior Sagittal Curvature Map (p. 118)
+  - 6.2.1 Training Group (p. 118)
+  - 6.2.2 Validation Group (p. 119)
+  - 6.2.3 Test Group (p. 119)
+- 6.3 Neural Network Results for the Anterior Tangential Curvature Map (p. 121)
+  - 6.3.1 Training Group (p. 121)
+  - 6.3.2 Validation Group (p. 122)
+  - 6.3.3 Test Group (p. 122)
+- 6.4 Neural Network Results for the Posterior Tangential Curvature Map (p. 124)
+  - 6.4.1 Training Group (p. 124)
+  - 6.4.2 Validation Group (p. 125)
+  - 6.4.3 Test Group (p. 125)
+- 6.5 Neural Network Results for the Pachymetry Map (p. 127)
+  - 6.5.1 Training Group (p. 127)
+  - 6.5.2 Validation Group (p. 128)
+  - 6.5.3 Test Group (p. 128)
+- 6.6 Neural Network Results for the Anterior Elevation Map (p. 130)
+  - 6.6.1 Training Group (p. 130)
+  - 6.6.2 Validation Group (p. 131)
+  - 6.6.3 Test Group (p. 131)
+- 6.7 Neural Network Results for the Posterior Elevation Map (p. 133)
+  - 6.7.1 Training Group (p. 133)
+  - 6.7.2 Validation Group (p. 134)
+  - 6.7.3 Test Group (p. 134)
+- 6.8 Neural Network Results for the Anterior Refractive Power Map (p. 136)
+  - 6.8.1 Training Group (p. 136)
+  - 6.8.2 Validation Group (p. 137)
+  - 6.8.3 Test Group (p. 137)
+- 6.9 Neural Network Results for the Posterior Refractive Power Map (p. 139)
+  - 6.9.1 Training Group (p. 139)
+  - 6.9.2 Validation Group (p. 140)
+  - 6.9.3 Test Group (p. 140)
+- 6.10 Neural Network Results for the Equivalent Refractive Power Map (p. 142)
+  - 6.10.1 Training Group (p. 142)
+  - 6.10.2 Validation Group (p. 143)
+  - 6.10.3 Test Group (p. 143)
+- 6.11 Overall Accuracy Results of the AI System (p. 145)
+  - 6.11.1 Training Group (p. 145)
+  - 6.11.2 Validation Group (p. 146)
+  - 6.11.3 Test Group (p. 147)
+- 6.12 Results of the Software Accompanying the SIRIUS Device (p. 148)
+- 6.13 Results of Physician Assessment without AI Support (p. 149)
+- 6.14 Results of Physician Assessment with AI Support (p. 150)
+- 6.15 Results of Physician Assessment with SIRIUS Device Support (p. 151)
+- 6.16 Application of the McNemar Test to Compare the Above Models (p. 152)
+  - 6.16.1 Comparison between AI System and SIRIUS Device (p. 153)
+  - 6.16.2 Comparison between AI System and Physician without Support (p. 153)
+  - 6.16.3 Comparison between AI System and Physician with AI Support (p. 154)
+  - 6.16.4 Comparison between AI System and Physician with SIRIUS Support (p. 154)
+  - 6.16.5 Comparison between SIRIUS Result and Physician without Support (p. 155)
+  - 6.16.6 Comparison between SIRIUS Result and Physician with AI Support (p. 155)
+  - 6.16.7 Comparison between SIRIUS Result and Physician with SIRIUS Support (p. 156)
+  - 6.16.8 Comparison between Physician without Support and Physician with AI Support (p. 156)
+  - 6.16.9 Comparison between Physician without Support and Physician with SIRIUS Support (p. 157)
+  - 6.16.9 (numbered 6.16.9 again in the original) Comparison between Physician with AI Support and Physician with SIRIUS Support (p. 157)
+
+### Chapter 7: Discussion (p. 158)
+
+- 7.1 Demographic Information (p. 159)
+  - 7.1.1 Prevalence (p. 159)
+  - 7.1.2 Age Distribution by Diagnosis (p. 159)
+  - 7.1.3 Gender Distribution by Diagnosis (p. 159)
+- 7.2 Topographic Maps (p. 160)
+  - 7.2.1 Discussion of Neural Network Accuracy Indices in Their Ability to Distinguish Definite Keratoconic Corneas from Normal and Suspect Corneas (p. 160)
+  - 7.2.2 Discussion of Neural Network Accuracy Indices in Their Ability to Distinguish Normal Corneas from Keratoconic and Suspect Corneas (p. 162)
+  - 7.2.3 Discussion of Neural Network Accuracy Indices in Their Ability to Distinguish Suspect Corneas from Keratoconic and Normal Corneas (p. 163)
+- 7.3 The AI System and Comparison with Similar Studies (p. 165)
+- 7.4 Comparison with Other Models (p. 166)
+- 7.5 Discriminative Features and Heatmaps (p. 167)
+  - 7.5.1 Anterior Sagittal Curvature Map (p. 167)
+  - 7.5.2 Posterior Sagittal Curvature Map (p. 167)
+  - 7.5.3 Anterior Tangential Curvature Map (p. 168)
+  - 7.5.4 Posterior Tangential Curvature Map (p. 168)
+  - 7.5.5 Anterior Elevation Map (p. 169)
+  - 7.5.6 Posterior Elevation Map (p. 170)
+  - 7.5.7 Pachymetry Map (p. 170)
+  - 7.5.8 Equivalent Refractive Power Map (p. 171)
+  - 7.5.9 Anterior Refractive Power Map (p. 171)
+  - 7.5.10 Posterior Refractive Power Map (p. 172)
+- 7.6 Examination of Selected Cases (p. 173)
+  - 7.6.1 Case 1 (p. 173)
+  - 7.6.2 Case 2 (p. 173)
+  - 7.6.3 Case 3 (p. 173)
+  - 7.6.4 Case 4 (p. 177)
+  - 7.6.5 Case 5 (p. 177)
+  - 7.6.6 Case 6 (p. 177)
+  - 7.6.7 Case 7 (p. 181)
+  - 7.6.8 Case 8 (p. 181)
+  - 7.6.9 Case 9 (p. 181)
+- 7.7 Strengths and Limitations of Our Study (p. 185)
+
+### Chapter 8: Summary and Conclusions (p. 186)
+### Chapter 9: Recommendations (p. 187)
+### Chapter 10: Concluding Remarks (p. 188)
+### References (p. 190)
+### Abstract (Arabic) (p. 195)
+
+## List of Tables (Original pp. 12–14)
+
+1. Keratoconus Classification According to Krumeich (Naderan, Jahanrad & Balali, 2017) (p. 43)
+2. Maximum Threshold Values on the Elevation Map with a Spherical Reference Surface (p. 62)
+3. Maximum Threshold Values on the Elevation Map with a Rotated Ellipsoidal Reference Surface (p. 62)
+4. Comparison of Previous Studies (Excluding CNN Architectures) (p. 95)
+5. Comparison of Previous Studies (CNN Architectures) (p. 96)
+6. Distribution of the Training Group by Gender and Diagnosis and Chi-Square Test (p. 101)
+7. Age Distribution of the Training Group (p. 102)
+8. Normality Testing of Age in the Training Group (p. 102)
+9. Age Distribution by Gender in the Training Group (p. 102)
+10. Age Distribution by Diagnosis in the Training Group (p. 104)
+11. Distribution of the Test Group by Gender and Diagnosis and Chi-Square Test (p. 106)
+12. Age Distribution of the Test Group (p. 106)
+13. Normality Testing of Age in the Test Group (p. 107)
+14. Age Distribution by Gender in the Test Group (p. 107)
+15. Age Distribution by Diagnosis in the Test Group (p. 109)
+16. Accuracy Indices of the Training Group (Anterior Sagittal Curvature Map) (p. 116)
+17. Accuracy Indices of the Validation Group (Anterior Sagittal Curvature Map) (p. 116)
+18. Accuracy Indices of the Test Group (Anterior Sagittal Curvature Map) (p. 117)
+19. Accuracy Indices of the Training Group (Posterior Sagittal Curvature Map) (p. 118)
+20. Accuracy Indices of the Validation Group (Posterior Sagittal Curvature Map) (p. 119)
+21. Accuracy Indices of the Test Group (Posterior Sagittal Curvature Map) (p. 120)
+22. Accuracy Indices of the Training Group (Anterior Tangential Curvature Map) (p. 121)
+23. Accuracy Indices of the Validation Group (Anterior Tangential Curvature Map) (p. 122)
+24. Accuracy Indices of the Test Group (Anterior Tangential Curvature Map) (p. 123)
+25. Accuracy Indices of the Training Group (Posterior Tangential Curvature Map) (p. 124)
+26. Accuracy Indices of the Validation Group (Posterior Tangential Curvature Map) (p. 125)
+27. Accuracy Indices of the Test Group (Posterior Tangential Curvature Map) (p. 126)
+28. Accuracy Indices of the Training Group (Pachymetry Map) (p. 127)
+29. Accuracy Indices of the Validation Group (Pachymetry Map) (p. 128)
+30. Accuracy Indices of the Test Group (Pachymetry Map) (p. 129)
+31. Accuracy Indices of the Training Group (Anterior Elevation Map) (p. 130)
+32. Accuracy Indices of the Validation Group (Anterior Elevation Map) (p. 131)
+33. Accuracy Indices of the Test Group (Anterior Elevation Map) (p. 132)
+34. Accuracy Indices of the Training Group (Posterior Elevation Map) (p. 133)
+35. Accuracy Indices of the Validation Group (Posterior Elevation Map) (p. 134)
+36. Accuracy Indices of the Test Group (Posterior Elevation Map) (p. 135)
+37. Accuracy Indices of the Training Group (Anterior Refractive Power Map) (p. 136)
+38. Accuracy Indices of the Validation Group (Anterior Refractive Power Map) (p. 137)
+39. Accuracy Indices of the Test Group (Anterior Refractive Power Map) (p. 138)
+40. Accuracy Indices of the Training Group (Posterior Refractive Power Map) (p. 139)
+41. Accuracy Indices of the Validation Group (Posterior Refractive Power Map) (p. 140)
+42. Accuracy Indices of the Test Group (Posterior Refractive Power Map) (p. 141)
+43. Accuracy Indices of the Training Group (Equivalent Refractive Power Map) (p. 142)
+44. Accuracy Indices of the Validation Group (Equivalent Refractive Power Map) (p. 143)
+45. Accuracy Indices of the Test Group (Equivalent Refractive Power Map) (p. 144)
+46. Accuracy Indices of the Training Group (AI System) (p. 145)
+47. Accuracy Indices of the Validation Group (AI System) (p. 146)
+48. Accuracy Indices of the Test Group (AI System) (p. 147)
+49. Accuracy Indices of the Test Group (SIRIUS) (p. 148)
+50. Accuracy Indices of the Test Group (Physician without AI Support) (p. 149)
+51. Accuracy Indices of the Test Group (Physician with AI Support) (p. 150)
+52. Accuracy Indices of the Test Group (Physician with SIRIUS Device Support) (p. 151)
+53. Summary of McNemar Tests (p. 152)
+54. Summary of Neural Network Accuracy Indices for Detecting Keratoconic Cases (p. 161)
+55. Summary of Neural Network Accuracy Indices for Detecting Normal Corneas (p. 163)
+56. Summary of Neural Network Accuracy Indices for Detecting Suspect Corneas (p. 164)
+57. Summary of Neural Network and AI System Results (p. 165)
+58. Summary of Results of All Models (p. 166)
+
+## List of Figures and Diagrams (Original pp. 15–20)
+
+1. Embryonic Development of the Cornea (Graw, 2010) (p. 26)
+2. Snell's Law (OCULUS) (p. 32)
+3. Comparison of the Compliance Curve of a Normal Cornea (top) and a Keratoconic Cornea (bottom) (Mazen M. Sinjab, 2011b) (p. 33)
+4. Pellucid Marginal Degeneration (Mazen M. Sinjab, 2011a) (p. 35)
+5. Keratoglobus (Mazen M. Sinjab, 2011a) (p. 36)
+6. Terrien Marginal Dystrophy (Mazen M. Sinjab, 2011a) (p. 37)
+7. Keratoconus (Mazen M. Sinjab, 2011a) (p. 41)
+8. Placido Disc (p. 44)
+9. Photokeratometer (p. 45)
+10. Example of an Orbscan Image with Basic Indices and Maps (p. 46)
+11. Example of a Pentacam Topography Image with Basic Indices and Maps (OCULUS) (p. 47)
+12. Example of a Sirius Image with Basic Indices and Maps (CSO, 2018) (p. 48)
+13. Example of an MS-39 Image with Basic Indices and Maps (CSO) (p. 49)
+14. Example of a Pachymetry Map of a Normal Cornea (p. 50)
+15. Tangential Curvature Map of a Normal Cornea (p. 51)
+16. Calculation of Curvature Values: A – Tangential Map, B – Sagittal Map (p. 51)
+17. Example of a Sagittal Curvature Map of a Normal Cornea (p. 52)
+18. Example of an Elevation Map of a Normal Cornea (p. 53)
+19. Example of a Refractive Power Map of a Normal Cornea (p. 54)
+20. Example of an Anterior Chamber Map of a Normal Cornea (p. 55)
+21. Zernike Analysis (p. 56)
+22. Some Indices Used by the SIRIUS Device for Corneal Classification (p. 59)
+23. Some Topographic Patterns of the Sagittal Curvature Map in Keratoconus (p. 61)
+24. Different Patterns on Elevation Maps (p. 62)
+25. Comparison between a Biological and an Artificial Neuron (Fiorelli, Tomita & Neto, 2015) (p. 70)
+26. Model of a Three-Layer Artificial Neural Network (Sarno & Wijaya, 2019) (p. 71)
+27. Illustration of the Training Process (Negnevitsky, 2005) (p. 72)
+28. Training Process Flow and Accuracy Change between Training and Validation Groups (Zimmermann, 2017) (p. 72)
+29. Schematic Representation of the Relationship between Artificial Intelligence, Machine Learning, and Deep Learning (Oppermann, 2019) (p. 74)
+30. Multi-Layer Artificial Network as a Model of a Deep Learning Network (Oppermann, 2019) (p. 75)
+31. Difference between Machine Learning and Deep Learning (Oppermann, 2019) (p. 75)
+32. How a Filter Operates (Jeong, 2019) (p. 76)
+33. Feature Map Generated by a Filter (Jeong, 2019) (p. 77)
+34. How the Pooling Layer Operates (Jeong, 2019) (p. 77)
+35. How the Flattening Layer Operates and Its Connection to Subsequent Layers through to the Output Layer (Jeong, 2019) (p. 78)
+36. Number of Studies Published on PubMed per Year (p. 83)
+37. Number of Studies Published on PubMed per Year (p. 86)
+38. Number of PubMed Publications by Disease (Analysis for 2007–2018) (p. 87)
+39. ROC Diagram Compared to a Group of Physicians (coloured points) (p. 88)
+40. CBI and TBI (Oculus, 2021) (p. 92)
+41. Discriminative Feature Map in the Centre and Heatmap on the Right Side of the Image (p. 94)
+42. Distribution of the Training Group by Diagnosis (p. 100)
+43. Mann–Whitney Test for Age Distribution by Gender in the Training Group (p. 103)
+44. Kruskal–Wallis Test for Age Distribution by Diagnosis in the Training Group (p. 104)
+45. Distribution of the Test Group by Diagnosis (p. 105)
+46. Mann–Whitney Test for Age Distribution by Gender in the Test Group (p. 108)
+47. Kruskal–Wallis Test for Age Distribution by Diagnosis in the Test Group (p. 109)
+48. Confusion Matrix of the Training Group (Anterior Sagittal Curvature Map) (p. 115)
+49. Confusion Matrix of the Validation Group (Anterior Sagittal Curvature Map) (p. 116)
+50. Confusion Matrix of the Test Group (Anterior Sagittal Curvature Map) (p. 117)
+51. Confusion Matrix of the Training Group (Posterior Sagittal Curvature Map) (p. 118)
+52. Confusion Matrix of the Validation Group (Posterior Sagittal Curvature Map) (p. 119)
+53. Confusion Matrix of the Test Group (Posterior Sagittal Curvature Map) (p. 120)
+54. Confusion Matrix of the Training Group (Anterior Tangential Curvature Map) (p. 121)
+55. Confusion Matrix of the Validation Group (Anterior Tangential Curvature Map) (p. 122)
+56. Confusion Matrix of the Test Group (Anterior Tangential Curvature Map) (p. 123)
+57. Confusion Matrix of the Training Group (Posterior Tangential Curvature Map) (p. 124)
+58. Confusion Matrix of the Validation Group (Posterior Tangential Curvature Map) (p. 125)
+59. Confusion Matrix of the Test Group (Posterior Tangential Curvature Map) (p. 126)
+60. Confusion Matrix of the Training Group (Pachymetry Map) (p. 127)
+61. Confusion Matrix of the Validation Group (Pachymetry Map) (p. 128)
+62. Confusion Matrix of the Test Group (Pachymetry Map) (p. 129)
+63. Confusion Matrix of the Training Group (Anterior Elevation Map) (p. 130)
+64. Confusion Matrix of the Validation Group (Anterior Elevation Map) (p. 131)
+65. Confusion Matrix of the Test Group (Anterior Elevation Map) (p. 132)
+66. Confusion Matrix of the Training Group (Posterior Elevation Map) (p. 133)
+67. Confusion Matrix of the Validation Group (Posterior Elevation Map) (p. 134)
+68. Confusion Matrix of the Test Group (Posterior Elevation Map) (p. 135)
+69. Confusion Matrix of the Training Group (Anterior Refractive Power Map) (p. 136)
+70. Confusion Matrix of the Validation Group (Anterior Refractive Power Map) (p. 137)
+71. Confusion Matrix of the Test Group (Anterior Refractive Power Map) (p. 138)
+72. Confusion Matrix of the Training Group (Posterior Refractive Power Map) (p. 139)
+73. Confusion Matrix of the Validation Group (Posterior Refractive Power Map) (p. 140)
+74. Confusion Matrix of the Test Group (Posterior Refractive Power Map) (p. 141)
+75. Confusion Matrix of the Training Group (Equivalent Refractive Power Map) (p. 142)
+76. Confusion Matrix of the Validation Group (Equivalent Refractive Power Map) (p. 143)
+77. Confusion Matrix of the Test Group (Equivalent Refractive Power Map) (p. 144)
+78. Confusion Matrix of the Training Group (AI System) (p. 145)
+79. Confusion Matrix of the Validation Group (AI System) (p. 146)
+80. Confusion Matrix of the Test Group (AI System) (p. 147)
+81. Confusion Matrix of the Test Group (SIRIUS) (p. 148)
+82. Confusion Matrix of the Test Group (Physician without AI Support) (p. 149)
+83. Confusion Matrix of the Test Group (Physician with AI Support) (p. 150)
+84. Confusion Matrix of the Test Group (Physician with SIRIUS Device Support) (p. 151)
+85. Binary Confusion Matrix (AI System vs. SIRIUS Result) (p. 153)
+86. Binary Confusion Matrix (AI System vs. Physician Result without Support) (p. 153)
+87. Binary Confusion Matrix (AI System vs. Physician Result with AI Support) (p. 154)
+88. Binary Confusion Matrix (AI System vs. Physician Result with SIRIUS Support) (p. 154)
+89. Binary Confusion Matrix (SIRIUS Result vs. Physician Result without Support) (p. 155)
+90. Binary Confusion Matrix (SIRIUS Result vs. Physician Result with AI Support) (p. 155)
+91. Binary Confusion Matrix (SIRIUS Result vs. Physician Result with SIRIUS Support) (p. 156)
+92. Binary Confusion Matrix (Physician Result without Support vs. Physician Result with AI Support) (p. 156)
+93. Binary Confusion Matrix (Physician Result without Support vs. Physician Result with SIRIUS Support) (p. 157)
+94. Binary Confusion Matrix (Physician Result with AI Support vs. Physician Result with SIRIUS Support) (p. 157)
+95. Heatmaps of the Network for the Anterior Sagittal Curvature Map (p. 167)
+96. Heatmaps of the Network for the Posterior Sagittal Curvature Map (p. 168)
+97. Heatmaps of the Network for the Anterior Tangential Curvature Map (p. 168)
+98. Heatmaps of the Network for the Posterior Tangential Curvature Map (p. 169)
+99. Heatmaps of the Network for the Anterior Elevation Map (p. 169)
+100. Heatmaps of the Network for the Posterior Elevation Map (p. 170)
+101. Heatmaps of the Network for the Pachymetry Map (p. 170)
+102. Heatmaps of the Network for the Equivalent Refractive Power Map (p. 171)
+103. Heatmaps of the Network for the Anterior Refractive Power Map (p. 172)
+104. Heatmaps of the Network for the Posterior Refractive Power Map (p. 172)
+105. Case 1 (p. 174)
+106. Case 2 (p. 175)
+107. Case 3 (p. 176)
+108. Case 4 (p. 178)
+109. Case 5 (p. 179)
+110. Case 6 (p. 180)
+111. Case 7 (p. 182)
+112. Case 8 (p. 183)
+113. Case 9 (p. 184)
+114. Summary of Programme Usage (p. 189)
+
+## Arabic Abstract (Original p. 21)
+
+### Introduction
+
+Keratoconus is a common condition; its early detection is of great importance. This is achieved through careful and accurate interpretation of topographic images to differentiate between keratoconic, suspect, and normal corneas. Numerous studies have attempted to identify criteria and indices that facilitate early detection; accuracy measures have varied. However, most previous studies relied on only a small fraction of the information contained in topographic images. Following the qualitative leap in computer sciences, particularly in the fields of artificial intelligence and artificial neural networks, and with the emergence of medical applications capable of automatically reading and analysing medical images, it became necessary to investigate the potential of using AI techniques for detecting keratoconic and suspect corneas.
+
+### Aim of the Study
+
+To investigate the performance of computer vision algorithms and deep learning algorithms for classifying topographic map images of normal, keratoconic, and suspect corneas.
+
+### Materials and Methods
+
+Our study consists of two parts. The first part is a retrospective review of patient records and images to assemble a training sample of 987 eyes (300 keratoconic, 610 normal, and 77 suspect eyes). The second part is a cross-sectional study to assemble a test sample of 422 eyes (13 keratoconic, 366 normal, and 43 suspect eyes). The proposed AI system comprises ten artificial neural networks. Each network is responsible for interpreting one map (anterior and posterior tangential maps, anterior and posterior sagittal maps, anterior and posterior elevation maps, anterior, posterior, and equivalent refractive power maps, and the pachymetry map) and predicts which of the three classes the map belongs to. The outputs of these networks serve as the inputs to a further artificial neural network that makes the final decision of the system.
+
+### Results
+
+The proposed AI system achieved an overall accuracy and weighted F-score of 91.2 %–92.2 % on the test group. No statistically significant difference was found between it, the software accompanying the SIRIUS device, and the physician (p > 5 %). The physician achieved the best results when assisted by the AI system compared with all other models (95.9 %–96.2 %); this difference was statistically significant (p < 5 %).
+
+### Conclusions
+
+We recommend employing the AI system as a decision-support tool for physicians interpreting topographic maps.
+
+**Keywords:** Keratoconus; artificial intelligence; deep learning; artificial neural networks.
+
+## Embedded Translation Segments
+
+The remaining chapters are assembled for the reproducible PDF build directly from the following complete translation segments:
+
+- `translation-s22-31.md` and `translation-s32-43.md`
+- `translation-s44-75.md` (covering content on original pp. 44–81)
+- `translation-s82-113.md`
+- `translation-s114-137.md`
+- `translation-s138-164.md`
+- `translation-s165-196.md`

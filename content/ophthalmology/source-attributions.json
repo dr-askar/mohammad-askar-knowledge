@@ -1,0 +1,3636 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T20:53:00.188Z",
+  "source": "Local NotebookLM source manifests and knowledge/ophthalmology/topics/original-source-links.json",
+  "note": "Missing lecturer/author names or URLs are stated explicitly; they are not guessed.",
+  "records": {
+    "amd-neovaskulaer": [
+      {
+        "title": "Age Related Macular Degeneration  From A to AI | استحالة اللطخة المتعلقة بالعمر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/C1gNDNHvT64?si=B0VL_K4ly34fvQLb"
+      },
+      {
+        "title": "Age Related Macular Degeneration Services: Recommendations - The Royal College of Ophthalmologists",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "rcophth.ac.uk",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://www.rcophth.ac.uk/wp-content/uploads/2021/08/AMD-Services-Commissioning-Guidance-Recommendtions.pdf"
+      },
+      {
+        "title": "Leitlinie Nr. 21 Altersabhängige Makuladegeneration AMD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "augeninfo.de",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://augeninfo.de/leit/leit21.pdf"
+      }
+    ],
+    "diabetische-retinopathie-stadien": [
+      {
+        "title": "Diabetic Retinopathy - Osama Sabbagh, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Mhf4Z-KVTdo?is=AtCeW-GxqQ7Q3NDY"
+      },
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      },
+      {
+        "title": "Diabetic Retinopathy Guidelines – NG242 - The Royal College of Ophthalmologists",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "rcophth.ac.uk",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://www.rcophth.ac.uk/resources-listing/diabetic-retinopathy-guidelines/"
+      }
+    ],
+    "retinale-venenverschluss": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      },
+      {
+        "title": "Retinal Vascular Diseases (RVO/RAO) - Abdallah Mahrous, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/pezOPLtW4Dk?is=pFyyRJZzF5q90Vn6"
+      },
+      {
+        "title": "Sickle Cell Retinopathy & Cystoid Macular Oedema",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/t-fqtpcCjME?is=CBNWnrnx6N43pOe3"
+      }
+    ],
+    "retinopathie-fruehgeborene": [
+      {
+        "title": "Augenärztliche Screening-Untersuchung bei Frühgeborenen - AWMF Leitlinien",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/024-010l_S2k_Augenaerztliche_Screening-Untersuchung_Fr%C3%BChgeborene_2025-04-abgelaufen.pdf"
+      },
+      {
+        "title": "S1 Risikofaktoren und Prophylaxe der rhegmatogenen Netzhautablösung bei Erwachsenen - AWMF Leitlinien-Register",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/045-025l_S1_Risikofaktoren-Prophylaxe-rhegmatogene-Netzhautabloesung-bei-Erwachsenen_2022-12.pdf"
+      },
+      {
+        "title": "S1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "makula-loch": [
+      {
+        "title": "Vitreous Abnormality & Retinal Detachment",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/ipqGU1d-_lY?is=7DxJUjZnOxvqwgk5"
+      },
+      {
+        "title": "Vitreoretinal Surgeries and Laser - Marwan Abdulaal, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/UbK4xvNp_sw?is=Ih3H92GZDAAVFbyL"
+      },
+      {
+        "title": "Retinal Detachment and Predisposing Lesions - Tarek Alasil, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Ngp9vJo13_I?is=NRzTSk1DFN6LgP8V"
+      }
+    ],
+    "glaukom-open-angle": [
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part1 | الغلوكوما مفتوحة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=lZqIbPhYeKc&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=4&pp=iAQB"
+      },
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part 2 | الغلوكوما مفتوحة الزاوية القسم الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=I_QTA_HIRVM&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=5&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      }
+    ],
+    "glaukom-winkelblock": [
+      {
+        "title": "Angle closure Glaucoma (Primary & Secondary) l الغلوكوما مغلقة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=DB6-PDTywSY&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=6&pp=iAQB"
+      },
+      {
+        "title": "Clinical Evaluation (IOP, ONH and OCT) | الفحص السريري للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=36d-AAQilGU&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=2&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Emergencies | الحالات الطارئة في الغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=aIhQtz7tv4g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=8&pp=iAQB"
+      }
+    ],
+    "glaukom-normaldruck": [
+      {
+        "title": "MIGS & MIBS (indications & complications) | الجراحة الصغرى للغلوكوما الاستطبابات والمضاعفات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=svkPv4iVz3g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=13&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma in Children (Diagnosis & management) | الغلوكوما عند الأطفال: التشخيص والتدبير",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=-aPwbzEoEHA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=7&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Laser Management (PI, LPI, SLT, and CPC) | علاج الغلوكوما بالليزر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=ImFfPaHM3sk&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=10&pp=iAQB"
+      }
+    ],
+    "glaukom-kind": [
+      {
+        "title": "Glaucoma in Children (Diagnosis & management) | الغلوكوما عند الأطفال: التشخيص والتدبير",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=-aPwbzEoEHA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=7&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      },
+      {
+        "title": "Traditional Glaucoma surgery (Trab, DS & Tube)| الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QQJHGQvjuL4&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=11&pp=iAQB"
+      }
+    ],
+    "glaukom-pigment": [
+      {
+        "title": "Glaucoma Laser Management (PI, LPI, SLT, and CPC) | علاج الغلوكوما بالليزر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=ImFfPaHM3sk&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=10&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      },
+      {
+        "title": "Traditional Glaucoma surgery (Trab, DS & Tube)| الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QQJHGQvjuL4&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=11&pp=iAQB"
+      }
+    ],
+    "oct-netzhaut-interpretation": [
+      {
+        "title": "Principles of OCT Interpretation (Part 1 of 3) | مبادئ تفسير فحص OCT",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/zBiDEvNI9mM?si=WJ5h7TVxpQ3VPGia"
+      },
+      {
+        "title": "Fundamentals of Retina and Diagnostic Approaches of Retinal Diseases – Nabeel Refka, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/-JltgwYLeUw?is=burjCDaFlKszlDzt"
+      }
+    ],
+    "diabetisches-makulaoedem": [
+      {
+        "title": "Diabetic Retinopathy Guidelines – NG242 - The Royal College of Ophthalmologists",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "rcophth.ac.uk",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://www.rcophth.ac.uk/resources-listing/diabetic-retinopathy-guidelines/"
+      },
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      },
+      {
+        "title": "Diabetic Retinopathy - Osama Sabbagh, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Mhf4Z-KVTdo?is=AtCeW-GxqQ7Q3NDY"
+      }
+    ],
+    "retinaler-arterienverschluss": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      },
+      {
+        "title": "Retinal Vascular Diseases (RVO/RAO) - Abdallah Mahrous, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/pezOPLtW4Dk?is=pFyyRJZzF5q90Vn6"
+      }
+    ],
+    "rhegmatogene-netzhautabloesung": [
+      {
+        "title": "S1 Risikofaktoren und Prophylaxe der rhegmatogenen Netzhautablösung bei Erwachsenen - AWMF Leitlinien-Register",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/045-025l_S1_Risikofaktoren-Prophylaxe-rhegmatogene-Netzhautabloesung-bei-Erwachsenen_2022-12.pdf"
+      },
+      {
+        "title": "Retinal Detachment and Predisposing Lesions - Tarek Alasil, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Ngp9vJo13_I?is=NRzTSk1DFN6LgP8V"
+      },
+      {
+        "title": "Intro to Pars Plana Vitrectomy & Retina Treatments | مدخل في قطع الزجاجي ومعالجات الشبكية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/jpObY2Iyv5c?si=Gjy3ladaPWrllRLI"
+      }
+    ],
+    "hereditaere-netzhautdystrophien": [
+      {
+        "title": "Hereditary Retina and Choroidal Diseases - Ahmad Al-Moujahed, MD, PhD, MPH",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/H4YPwNsDRkg?is=Kb376VkZ2i6Buz8d"
+      },
+      {
+        "title": "Common Hereditary Retina Conditions | حالات الشبكية الوراثية الشائعة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/2OFq_YPBLT4?is=MvG-L-u_-Q17qn9j"
+      },
+      {
+        "title": "Electroretinography (ERG) and Psychophysical Tests  – Ahmad Al-Moujahed, MD, PhD, MPH",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Uqb5NOqQlDU?is=Zw_6RD3BhelAgHpM"
+      }
+    ],
+    "glaukom-diagnostik": [
+      {
+        "title": "Clinical Evaluation (IOP, ONH and OCT) | الفحص السريري للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=36d-AAQilGU&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=2&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma: Basic Science, Classification & Gonioscopy | الغلوكوما: أساسيات، تصنيف، وتنظير الزاوية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=FGaXuBCVVTs&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=1&pp=iAQB"
+      },
+      {
+        "title": "Clinical evaluation (Visual field) | الفحص السريري للغلوكوما (الساحة البصرية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=bxjrG0Gkm9o&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=3&pp=iAQB"
+      }
+    ],
+    "glaukom-gesichtsfeld": [
+      {
+        "title": "Clinical evaluation (Visual field) | الفحص السريري للغلوكوما (الساحة البصرية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=bxjrG0Gkm9o&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=3&pp=iAQB"
+      },
+      {
+        "title": "Clinical Evaluation (IOP, ONH and OCT) | الفحص السريري للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=36d-AAQilGU&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=2&pp=iAQB"
+      }
+    ],
+    "glaukom-medikamentoese-therapie": [
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      },
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part1 | الغلوكوما مفتوحة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=lZqIbPhYeKc&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=4&pp=iAQB"
+      },
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part 2 | الغلوكوما مفتوحة الزاوية القسم الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=I_QTA_HIRVM&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=5&pp=iAQB"
+      }
+    ],
+    "glaukom-lasertherapie": [
+      {
+        "title": "Glaucoma Laser Management (PI, LPI, SLT, and CPC) | علاج الغلوكوما بالليزر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=ImFfPaHM3sk&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=10&pp=iAQB"
+      },
+      {
+        "title": "Angle closure Glaucoma (Primary & Secondary) l الغلوكوما مغلقة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=DB6-PDTywSY&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=6&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma: Basic Science, Classification & Gonioscopy | الغلوكوما: أساسيات، تصنيف، وتنظير الزاوية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=FGaXuBCVVTs&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=1&pp=iAQB"
+      }
+    ],
+    "glaukom-chirurgie": [
+      {
+        "title": "MIGS & MIBS (indications & complications) | الجراحة الصغرى للغلوكوما الاستطبابات والمضاعفات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=svkPv4iVz3g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=13&pp=iAQB"
+      },
+      {
+        "title": "Traditional Glaucoma surgery (Trab, DS & Tube)| الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QQJHGQvjuL4&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=11&pp=iAQB"
+      },
+      {
+        "title": "Complications of Conventional Glaucoma Surgeries | اختلاطات الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=C1orGnuiNJ0&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=12&pp=iAQB0gcJCdkKAYcqIYzv"
+      }
+    ],
+    "exhaustive-study-guide-kombinierte-katarakt-und-migs-chirurgie-in-der-glaukomtherapie": [
+      {
+        "title": "Cataract Surgery Combined with MIGS | جراحة الساد مع تقنيات MIGS لعلاج الزرق",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=bBimtiqs5Ks&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=4&pp=iAQB"
+      }
+    ],
+    "facharzt-repetitorium-kataraktchirurgie-bei-diabetes-mellitus-und-nach-ivom": [
+      {
+        "title": "Cataract Surgery in Diabetics & Post-Injection Eyes | الساد عند السكريين وما بعد الحقن الزجاجي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=hfCzU-z5OPI&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=7&pp=iAQB"
+      }
+    ],
+    "facharzt-repetitorium-kataraktchirurgie-bei-diabetes-mellitus-und-nach-ivom-2": [
+      {
+        "title": "Complex Cataracts & Challenging IOL Implementation | زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=XzQL-WAOfmk"
+      }
+    ],
+    "facharzt-repetitorium-management-der-kataraktchirurgie-bei-komplexen-augenparametern": [
+      {
+        "title": "Cataract Surgery in Complex Eyes | جراحة الساد في الحالات المعقدة: الصغيرة، الكبيرة، PXF وIFIS",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=BzFl89peYic&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=3&pp=iAQB"
+      }
+    ],
+    "briefing-dokument-komplexe-katarakte-und-anspruchsvolle-iol-implantation": [
+      {
+        "title": "Complex Cataracts & Challenging IOL Implementation | زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=XzQL-WAOfmk"
+      }
+    ],
+    "briefing-dokument-komplexe-katarakte-und-anspruchsvolle-iol-implantation-2": [
+      {
+        "title": "Complex Cataracts & Challenging IOL Implementation | زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=XzQL-WAOfmk"
+      }
+    ],
+    "facharzt-leitfaden-management-der-hinterkapselruptur-und-sekundare-iol-fixation": [
+      {
+        "title": "Cataract Surgery: Anterior Vitrectomy, Sulcus IOL | جراحة الساد وزرع العدسة بالتثبيت على الصلبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=8j5fGWw-a2s&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=2&pp=iAQB"
+      }
+    ],
+    "studienleitfaden-management-komplexer-kataraktchirurgie-und-sekundarlinsenimplantation-bei-fehlendem-kapselsupport": [
+      {
+        "title": "Complex Cataracts & Challenging IOL Implementation | زرع العدسة الثانوي في الحالات الصعبة واللابلورة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/XzQL-WAOfmk?si=5WTpXhYsH6EEgBbX"
+      }
+    ],
+    "briefing-dokument-padiatrische-katarakte": [
+      {
+        "title": "Pediatric Cataract | الساد الطفلي (الساد عند الأطفال)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=rRd-a8hNVv4"
+      }
+    ],
+    "umfassender-studienleitfaden-kataraktchirurgie-bei-komplexen-hornhauterkrankungen": [
+      {
+        "title": "Cataract Surgery in Complex Corneas | الساد في القرنية المخروطية، حثل فوكس، وما بعد الليزك",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=steQiZ5h4_g&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=6&pp=iAQB"
+      }
+    ],
+    "akademischer-studienfuhrer-konjunktivalschwenklappen-conjunctival-flaps": [
+      {
+        "title": "No-video-title-fdown.net (1).mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-management-von-traumata-des-vorderen-augenabschnitts": [
+      {
+        "title": "Ocular Emergency-Anterior Segment Trauma | رضوض القسم الأمامي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=u6Vqzn8Vxjc"
+      },
+      {
+        "title": "Trauma_anterior.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-trauma-des-hinteren-augenabschnitts": [
+      {
+        "title": "Ocular Emergency-Posterior Segment Trauma | رضوض القسم الخلفي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=TWI5ZtKW294"
+      },
+      {
+        "title": "Trauma_posterior.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "facharztlicher-leitfaden-manifestationen-von-hinterabschnittstraumata": [
+      {
+        "title": "Posterior Segment Manifestations of Trauma - Zine Elhousseini, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/g9fM-yqNeLY?is=LKi5muV8M_X3H3As"
+      }
+    ],
+    "briefing-dokument-management-von-traumata-des-vorderen-augenabschnitts-2": [
+      {
+        "title": "Ocular Emergency-Posterior Segment Trauma | رضوض القسم الخلفي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=TWI5ZtKW294"
+      },
+      {
+        "title": "Trauma_posterior.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-management-von-traumata-des-vorderen-augenabschnitts-3": [
+      {
+        "title": "Ocular Emergency-Anterior Segment Trauma | رضوض القسم الأمامي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=u6Vqzn8Vxjc"
+      },
+      {
+        "title": "Trauma_anterior.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-analyse-ophthalmologischer-konsultationen": [
+      {
+        "title": "Text",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Audiodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "audio",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-einblicke-in-die-padiatrische-ophthalmochirurgie": [
+      {
+        "title": "fr4.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "fachspezifischer-leitfaden-zur-diabetischen-retinopathie-vorbereitung-auf-die-facharztprufung-augenheilkunde": [
+      {
+        "title": "Diabetic Retinopathy - Osama Sabbagh, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Mhf4Z-KVTdo?is=AtCeW-GxqQ7Q3NDY"
+      }
+    ],
+    "briefing-dokument-klinische-kommunikation-und-praxismanagement-in-der-augenheilkunde": [
+      {
+        "title": "Text",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Audiodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "audio",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "kompendium-der-vaskularen-retinopathien-facharztliches-prufungswissen-radiatio-valsalva-purtscher-terson": [
+      {
+        "title": "Other Vascular Retinopathy Radiation, Valsalva, Purtcher & Terson | اعتلالات الشبكية الوعائية الأخرى",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/J6R-Ba-wYFY?si=_412RxNoaWblisqL"
+      }
+    ],
+    "leitfaden-fur-die-augenarztliche-sprechstunde-kommunikation-und-klinische-praxis": [
+      {
+        "title": "Text",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Audiodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "audio",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "ophthalmologische-manifestationen-systemischer-erkrankungen-ein-briefing": [
+      {
+        "title": "Ocular Manifestations of Systemic Disease | التظاهرات العينية للأمراض الجهازية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=BqWSj9f7o14"
+      },
+      {
+        "title": "Systematische Erkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "ophthalmologische-manifestationen-systemischer-erkrankungen-ein-briefing-2": [
+      {
+        "title": "Ocular Manifestations of Systemic Disease | التظاهرات العينية للأمراض الجهازية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=BqWSj9f7o14"
+      },
+      {
+        "title": "Systematische Erkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern": [
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung-nAMD.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-document-enhancing-namd-patient-care-through-extended-treatment-intervals": [
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung-nAMD.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-2": [
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung-nAMD.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-3": [
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung-nAMD.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-patientenversorgung-bei-namd-im-klinischen-alltag-erleichtern-4": [
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung bei nAMD im klinischen Alltag erleichtern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Patientenversorgung-nAMD.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-prinzipien-der-oct-interpretation": [
+      {
+        "title": "Principles of OCT Interpretation (Part 1 of 3) | مبادئ تفسير فحص OCT",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=zBiDEvNI9mM"
+      },
+      {
+        "title": "folien_ocr.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-prinzipien-der-oct-interpretation-2": [
+      {
+        "title": "Principles of OCT Interpretation (Part 1 of 3) | مبادئ تفسير فحص OCT",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=zBiDEvNI9mM&list=PLH9mxJ7llmPDspWJKPRIUcI85x0YlgwxB&index=3"
+      }
+    ],
+    "intensiv-leitfaden-oct-interpretation-in-der-medizinischen-netzhautdiagnostik-facharztprufungsvorbereitung": [
+      {
+        "title": "Principles of OCT Interpretation (Part 1 of 3) | مبادئ تفسير فحص OCT",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/zBiDEvNI9mM?si=WJ5h7TVxpQ3VPGia"
+      }
+    ],
+    "briefing-dokument-prinzipien-der-oct-interpretation-3": [
+      {
+        "title": "Principles of OCT Interpretation (Part 1 of 3) | مبادئ تفسير فحص OCT",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=zBiDEvNI9mM"
+      },
+      {
+        "title": "folien_ocr.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-leitfaden-tumoren-des-vorderen-augenabschnitts-fur-die-facharztprufung": [
+      {
+        "title": "Anterior Segment Tumours | أورام القسم الأمامي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/UdcNWtFzhTI?si=bJVqu1bj7pTmZ53b"
+      }
+    ],
+    "umfassender-leitfaden-zur-phakoemulsifikation-von-den-physikalischen-grundlagen-zur-chirurgischen-meisterschaft": [
+      {
+        "title": "Basic Phacoemulsification Technique & Concept | أساسيات ومبادئ تقنية استحلاب البلورة الجراحي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=k96Tx1nbuc0&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=8&pp=iAQB"
+      }
+    ],
+    "umfassender-leitfaden-zur-torischen-intraokularlinsen-implantation-vorbereitung-auf-die-facharztprufung": [
+      {
+        "title": "Choosing Toric Lenses: Who is Suitable? | عدسات التوريك واختيار المريض المناسب",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=FSPnmG7NJZc&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=1&pp=iAQB"
+      }
+    ],
+    "umfassender-lernleitfaden-multimodale-bildgebung-bei-high-myopia-hoher-myopie": [
+      {
+        "title": "Multimodal Imaging in High Myopia | التصوير متعدد الوسائط في قصر النظر الشديد",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/SBOwQY4efKg?si=cJgBHXMl9Ukx-p0O"
+      }
+    ],
+    "umfassender-lernleitfaden-pars-plana-vitrektomie-ppv-und-vaskulare-retinopathien-fur-die-facharztprufung": [
+      {
+        "title": "Other Vascular Retinopathy Radiation, Valsalva, Purtcher & Terson | اعتلالات الشبكية الوعائية الأخرى",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/J6R-Ba-wYFY?si=_412RxNoaWblisqL"
+      },
+      {
+        "title": "Intro to Pars Plana Vitrectomy & Retina Treatments | مدخل في قطع الزجاجي ومعالجات الشبكية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/jpObY2Iyv5c?si=Gjy3ladaPWrllRLI"
+      }
+    ],
+    "umfassender-lernleitfaden-pathologien-der-choroidea-cscr-hamangiom-ues-bdump": [
+      {
+        "title": "Choroidal Disease CSCR, Haemangioma, Uveal effusion syndrome & BDUMP | أمراض المشيمية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=nUJXGWjkRpg"
+      }
+    ],
+    "umfassender-prufungsleitfaden-seltene-vaskulare-retinopathien-strahlen-valsalva-purtscher-terson-syndrom": [
+      {
+        "title": "Other Vascular Retinopathy Radiation, Valsalva, Purtcher & Terson | اعتلالات الشبكية الوعائية الأخرى",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/J6R-Ba-wYFY?si=_412RxNoaWblisqL"
+      }
+    ],
+    "umfassender-studienleitfaden-zur-fruhgeborenenretinopathie-rop": [
+      {
+        "title": "Augenärztliche Screening-Untersuchung bei Frühgeborenen - AWMF Leitlinien",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/024-010l_S2k_Augenaerztliche_Screening-Untersuchung_Fr%C3%BChgeborene_2025-04-abgelaufen.pdf"
+      },
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      },
+      {
+        "title": "Leitlinie Nr. 21 Altersabhängige Makuladegeneration AMD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "augeninfo.de",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://augeninfo.de/leit/leit21.pdf"
+      },
+      {
+        "title": "Leitlinien: Uveitis/Endophthalmitis – DOG.org",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "dog.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://dog.org/kategorie/fuer-aerzte/leitlinien-stellungnahmen-empfehlungen/uveitis-endophthalmitis/leitlinien-uveitis-endophthalmitis"
+      },
+      {
+        "title": "S1 Risikofaktoren und Prophylaxe der rhegmatogenen Netzhautablösung bei Erwachsenen - AWMF Leitlinien-Register",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/045-025l_S1_Risikofaktoren-Prophylaxe-rhegmatogene-Netzhautabloesung-bei-Erwachsenen_2022-12.pdf"
+      },
+      {
+        "title": "S1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S2 und S3.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S4-komprimiert.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Systematische Analyse der ophthalmologischen Leitlinien von BVA und DOG: Klinische Standards, technologische Innovationen und Versorgungsrealitäten in Deutschland (2024–2026)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Generierter Forschungsbericht",
+        "accessedAt": "2026-09-14",
+        "sourceType": "generated_research",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Age Related Macular Degeneration  From A to AI | استحالة اللطخة المتعلقة بالعمر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/C1gNDNHvT64?si=B0VL_K4ly34fvQLb"
+      }
+    ],
+    "umfassender-studienleitfaden-elektrophysiologie-erg-eog-und-psychophysikalische-tests-in-der-augenheilkunde": [
+      {
+        "title": "Electroretinography (ERG) and Psychophysical Tests  – Ahmad Al-Moujahed, MD, PhD, MPH",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Uqb5NOqQlDU?is=Zw_6RD3BhelAgHpM"
+      }
+    ],
+    "umfassender-studienleitfaden-fruhgeborenenretinopathie-rop-und-familiare-exsudative-vitreoretinopathie-fevr": [
+      {
+        "title": "Retinopathy of Prematurity (ROP) & Familial Exudative Vitreoretinopathy (FEVR) - Marwan Abdulaal, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/ONh4TYAqTds?is=bTwrczpjyG9jLaxb"
+      }
+    ],
+    "umfassender-studienleitfaden-pravention-und-management-von-komplikationen-in-der-phakoemulsifikation": [
+      {
+        "title": "Preventing and Managing Phaco Complications | تفادي وتدبير اختلاطات استحلاب البلورة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=YtCWr6wvd2M&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=9&pp=iAQB"
+      }
+    ],
+    "umfassendes-repetitorium-das-pachychoroid-spektrum-pds": [
+      {
+        "title": "All the Colours of the Pachychoroid Spectrum - mivision",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "mivision.com.au",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://mivision.com.au/2023/10/all-the-colours-of-the-pachychoroid-spectrum/?hl=de-DE"
+      }
+    ],
+    "briefing-aktuelle-entwicklungen-in-der-glaukomdiagnostik-update-2025": [
+      {
+        "title": "Glaukom Diagnose 2025.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom Diagnose 2025.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-aktuelle-entwicklungen-in-der-glaukomdiagnostik-update-2025-2": [
+      {
+        "title": "Glaukom Diagnose 2025.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom Diagnose 2025.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "facharzt-repetitorium-das-offenwinkelglaukom-primar-sekundar": [
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part1 | الغلوكوما مفتوحة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=lZqIbPhYeKc&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=4&pp=iAQB"
+      }
+    ],
+    "facharzt-repetitorium-sekundare-offenwinkelglaukome-soag-klinische-analyse-und-prufungsrelevanz": [
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part 2 | الغلوكوما مفتوحة الزاوية القسم الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=I_QTA_HIRVM&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=5&pp=iAQB"
+      }
+    ],
+    "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-der-evidenz": [
+      {
+        "title": "Glaukom im Kindesalter.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-der-evidenz-2": [
+      {
+        "title": "Glaukom im Kindesalter.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "funktionelles-outcome-bei-kindlichen-glaukomerkrankungen-eine-synthese-der-evidenz-3": [
+      {
+        "title": "Glaukom im Kindesalter.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom im Kindesalter.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien": [
+      {
+        "title": "Glaukom Therapie 2025.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom Therapie 2025.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "glaukomtherapie-2025-eine-synthese-aktueller-schlusselstudien-2": [
+      {
+        "title": "Glaukom Therapie 2025.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukom Therapie 2025.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-herausforderungen-in-der-diagnostik-kindlicher-glaukomerkrankungen": [
+      {
+        "title": "Glaukoma Kinder.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukoma Kinder.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-leitfaden-konservierungsmittel-in-der-glaukomtherapie-pathophysiologie-klinische-auswirkungen-und-managementstrategien": [
+      {
+        "title": "Screenrecorder-2026-03-26-19-56-56-244-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "facharzt-prufungsleitfaden-konservierungsmittel-in-der-glaukomtherapie-und-deren-einfluss-auf-die-augenoberflache": [
+      {
+        "title": "Screenrecorder-2026-03-26-19-56-56-244-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufung": [
+      {
+        "title": "Glaucoma in Children (Diagnosis & management) | الغلوكوما عند الأطفال: التشخيص والتدبير",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=-aPwbzEoEHA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=7&pp=iAQB"
+      }
+    ],
+    "leitfaden-padiatrisches-glaukom-wissenssynthese-fur-die-facharztprufung-2": [
+      {
+        "title": "fr4.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "prufungsleitfaden-risikofaktoren-und-fruherkennung-des-offenwinkelglaukoms-s2e-leitlinie-2024": [
+      {
+        "title": "S1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S2 und S3.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S4-komprimiert.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Standards and guidance - The Royal College of Ophthalmologists",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "rcophth.ac.uk",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://www.rcophth.ac.uk/standards-and-guidance/"
+      },
+      {
+        "title": "Systematische Analyse der ophthalmologischen Leitlinien von BVA und DOG: Klinische Standards, technologische Innovationen und Versorgungsrealitäten in Deutschland (2024–2026)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Generierter Forschungsbericht",
+        "accessedAt": "2026-09-14",
+        "sourceType": "generated_research",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "strategisches-glaukom-management-in-der-facharztprufung-evidenzbasierte-algorithmen-migs-und-postoperative-komplikationen": [
+      {
+        "title": "Bonn glaucom .pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "studienhandbuch-klinische-evaluation-des-gesichtsfeldes-bei-glaukom": [
+      {
+        "title": "Clinical evaluation (Visual field) | الفحص السريري للغلوكوما (الساحة البصرية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=bxjrG0Gkm9o&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=3&pp=iAQB"
+      }
+    ],
+    "studienleitfaden-zur-prufungsvorbereitung-risikofaktoren-des-offenwinkelglaukoms-basierend-auf-der-s2e-leitlinie-von-dog-bva-update-2024": [
+      {
+        "title": "S2 und S3.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-therapie-des-kindlichen-glaukoms": [
+      {
+        "title": "Glaukoma Therapie Kinder.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukoma Therapie Kinder.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-therapie-des-kindlichen-glaukoms-2": [
+      {
+        "title": "Glaukoma Therapie Kinder.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukoma Therapie Kinder.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "translationale-glaukomforschung-perspektiven-herausforderungen-und-zukunftige-ansatze": [
+      {
+        "title": "Translate Basic Research into Clinical.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Translate Basic Research into Clinical.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "translationale-glaukomforschung-perspektiven-herausforderungen-und-zukunftige-ansatze-2": [
+      {
+        "title": "Translate Basic Research into Clinical.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Translate Basic Research into Clinical.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-leitfaden-zur-glaukomchirurgie-migs-mibs-und-deutsche-klinische-standards": [
+      {
+        "title": "MIGS & MIBS (indications & complications) | الجراحة الصغرى للغلوكوما الاستطبابات والمضاعفات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=svkPv4iVz3g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=13&pp=iAQB"
+      }
+    ],
+    "umfassender-leitfaden-zur-klinischen-glaukom-evaluation-papillenmorphologie-oct-und-tonometrie": [
+      {
+        "title": "Clinical Evaluation (IOP, ONH and OCT) | الفحص السريري للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=36d-AAQilGU&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=2&pp=iAQB"
+      }
+    ],
+    "umfassender-lernleitfaden-glaukom-grundlagen-klassifikation-und-gonioskopie": [
+      {
+        "title": "Glaucoma: Basic Science, Classification & Gonioscopy | الغلوكوما: أساسيات، تصنيف، وتنظير الزاوية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=FGaXuBCVVTs&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=1&pp=iAQB"
+      }
+    ],
+    "umfassender-prufungsleitfaden-glaukom-notfalle-und-klinisches-management": [
+      {
+        "title": "Glaucoma Emergencies | الحالات الطارئة في الغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=aIhQtz7tv4g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=8&pp=iAQB"
+      }
+    ],
+    "umfassender-studienfuhrer-komplikationen-der-konventionellen-glaukomchirurgie": [
+      {
+        "title": "Complications of Conventional Glaucoma Surgeries | اختلاطات الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=C1orGnuiNJ0&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=12&pp=iAQB0gcJCdkKAYcqIYzv"
+      }
+    ],
+    "umfassender-studienfuhrer-konventionelle-glaukomchirurgie-fur-die-facharztprufung": [
+      {
+        "title": "Traditional Glaucoma surgery (Trab, DS & Tube)| الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QQJHGQvjuL4&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=11&pp=iAQB"
+      }
+    ],
+    "umfassender-studienfuhrer-lasermanagement-in-der-glaukomtherapie": [
+      {
+        "title": "Glaucoma Laser Management (PI, LPI, SLT, and CPC) | علاج الغلوكوما بالليزر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=ImFfPaHM3sk&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=10&pp=iAQB"
+      }
+    ],
+    "umfassender-studienleitfaden-medikamentose-und-klinische-strategien-beim-glaukom": [
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      }
+    ],
+    "umfassender-studienleitfaden-primares-und-sekundares-winkelblockglaukom": [
+      {
+        "title": "Angle closure Glaucoma (Primary & Secondary) l الغلوكوما مغلقة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=DB6-PDTywSY&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=6&pp=iAQB"
+      }
+    ],
+    "umfassender-studienleitfaden-retinopathie-bei-fruhgeborenen-rop-und-risikofaktoren-des-offenwinkelglaukoms-auf-basis-der-deutschen-s2-leitlinien": [
+      {
+        "title": "Age Related Macular Degeneration  From A to AI | استحالة اللطخة المتعلقة بالعمر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/C1gNDNHvT64?si=B0VL_K4ly34fvQLb"
+      },
+      {
+        "title": "Augenärztliche Screening-Untersuchung bei Frühgeborenen - AWMF Leitlinien",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/024-010l_S2k_Augenaerztliche_Screening-Untersuchung_Fr%C3%BChgeborene_2025-04-abgelaufen.pdf"
+      },
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      },
+      {
+        "title": "Leitlinie Nr. 21 Altersabhängige Makuladegeneration AMD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "augeninfo.de",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://augeninfo.de/leit/leit21.pdf"
+      },
+      {
+        "title": "Leitlinien: Uveitis/Endophthalmitis – DOG.org",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "dog.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://dog.org/kategorie/fuer-aerzte/leitlinien-stellungnahmen-empfehlungen/uveitis-endophthalmitis/leitlinien-uveitis-endophthalmitis"
+      },
+      {
+        "title": "S1 Risikofaktoren und Prophylaxe der rhegmatogenen Netzhautablösung bei Erwachsenen - AWMF Leitlinien-Register",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "register.awmf.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "url": "https://register.awmf.org/assets/guidelines/045-025l_S1_Risikofaktoren-Prophylaxe-rhegmatogene-Netzhautabloesung-bei-Erwachsenen_2022-12.pdf"
+      },
+      {
+        "title": "S1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S2 und S3.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S4-komprimiert.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Systematische Analyse der ophthalmologischen Leitlinien von BVA und DOG: Klinische Standards, technologische Innovationen und Versorgungsrealitäten in Deutschland (2024–2026)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Generierter Forschungsbericht",
+        "accessedAt": "2026-09-14",
+        "sourceType": "generated_research",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-studienleitfaden-risikofaktoren-und-screening-des-offenwinkelglaukoms-wbo-prufungsvorbereitung": [
+      {
+        "title": "Angle closure Glaucoma (Primary & Secondary) l الغلوكوما مغلقة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=DB6-PDTywSY&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=6&pp=iAQB"
+      },
+      {
+        "title": "Clinical Evaluation (IOP, ONH and OCT) | الفحص السريري للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=36d-AAQilGU&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=2&pp=iAQB"
+      },
+      {
+        "title": "Clinical evaluation (Visual field) | الفحص السريري للغلوكوما (الساحة البصرية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=bxjrG0Gkm9o&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=3&pp=iAQB"
+      },
+      {
+        "title": "Complications of Conventional Glaucoma Surgeries | اختلاطات الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=C1orGnuiNJ0&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=12&pp=iAQB0gcJCdkKAYcqIYzv"
+      },
+      {
+        "title": "FAP_Kap6_Glaukom_v5_korrigiert.docx",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "unknown_11",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaucoma Emergencies | الحالات الطارئة في الغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=aIhQtz7tv4g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=8&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Laser Management (PI, LPI, SLT, and CPC) | علاج الغلوكوما بالليزر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=ImFfPaHM3sk&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=10&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma Medical Management | التدبير الدوائي للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=RxPgadfyAqA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=9&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma in Children (Diagnosis & management) | الغلوكوما عند الأطفال: التشخيص والتدبير",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=-aPwbzEoEHA&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=7&pp=iAQB"
+      },
+      {
+        "title": "Glaucoma: Basic Science, Classification & Gonioscopy | الغلوكوما: أساسيات، تصنيف، وتنظير الزاوية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=FGaXuBCVVTs&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=1&pp=iAQB"
+      },
+      {
+        "title": "MIGS & MIBS (indications & complications) | الجراحة الصغرى للغلوكوما الاستطبابات والمضاعفات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=svkPv4iVz3g&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=13&pp=iAQB"
+      },
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part 2 | الغلوكوما مفتوحة الزاوية القسم الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=I_QTA_HIRVM&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=5&pp=iAQB"
+      },
+      {
+        "title": "Open Angle Glaucoma (Primary & Secondary) Part1 | الغلوكوما مفتوحة الزاوية (الأولية والثانوية)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=lZqIbPhYeKc&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=4&pp=iAQB"
+      },
+      {
+        "title": "S1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S2 und S3-komprimiert (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "S4-komprimiert.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Screenrecorder-2026-03-26-19-56-56-244-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Traditional Glaucoma surgery (Trab, DS & Tube)| الجراحات التقليدية للغلوكوما",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QQJHGQvjuL4&list=PLH9mxJ7llmPCNaXN2Bo5pqA76cfTqiCna&index=11&pp=iAQB"
+      },
+      {
+        "title": "Bonn glaucom .pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-analyse-des-nystagmus-und-unwillkurlicher-augenbewegungen": [
+      {
+        "title": "الرأرأة والحركات العينية غير الإرادية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Audiodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "audio",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "analyse-des-strabismus-bei-erwachsenen-neurologische-und-mechanische-ursachen": [
+      {
+        "title": "Mechanical Strabismus | الحَوَل الميكانيكي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=3pMZmj_CSIY"
+      },
+      {
+        "title": "Neurological Strabismus | الحَوَل العصبي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=qyDWtwuB2jo"
+      }
+    ],
+    "briefing-dokument-beurteilung-von-patienten-mit-sehverlust": [
+      {
+        "title": "Assessment of Visual Loss Patient | تقييم مريض فقدان البصر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=esF1xt0RhoY"
+      },
+      {
+        "title": "folien_ocr.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-document-assessment-of-the-visual-loss-patient": [
+      {
+        "title": "Assessment of Visual Loss Patient | تقييم مريض فقدان البصر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=esF1xt0RhoY"
+      },
+      {
+        "title": "folien_ocr.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-dysfunktionen-des-chiasma-opticum-und-der-retrochiasmatischen-sehbahn": [
+      {
+        "title": "Chiasmal and Retro Chiasmal Dysfunctions | الاضطرابات الوظيفية في التصالب البصري وما خلفه",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=uNWyVrJKdX8"
+      }
+    ],
+    "ein-briefing-dokument-zum-transienten-visusverlust-tvl": [
+      {
+        "title": "Transient Visual Loss | فقدان البصر العابر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=XoBWXRBbdlE"
+      }
+    ],
+    "briefing-dokument-funktionelle-sehstorungen-in-der-neuro-ophthalmologie": [
+      {
+        "title": "Functional Visual Disorders in Neuro-Ophthalmology | الاضطرابات البصرية الوظيفية في طب العيون العصبي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=G6H_ADWYiM0&list=PLH9mxJ7llmPArmh8AdROIR3ur-FcMj5e-&index=1"
+      }
+    ],
+    "briefing-dokument-klinische-ansatze-bei-optikusneuropathien": [
+      {
+        "title": "Optic Neuropathies | اعتلالات العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=wayvPUmEWQ4"
+      }
+    ],
+    "briefing-dokument-klinischer-ansatz-bei-sauglingen-mit-sehschwache-und-nystagmus": [
+      {
+        "title": "Infants with Poor Vision & Nystagmus | الرأرأة وضعف الرؤية في الطفولة المبكرة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=JPmqCGoaw9U"
+      }
+    ],
+    "briefing-dokument-kopfschmerzen-augenschmerzen-und-systemische-erkrankungen": [
+      {
+        "title": "Headaches, Ocular Pain and Systemic Diseases | الصداع، الألم العيني، والأمراض الجهازية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=g3ZmBytb1n8"
+      }
+    ],
+    "briefing-dokument-mechanischer-strabismus": [
+      {
+        "title": "Mechanical Strabismus | الحَوَل الميكانيكي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=3pMZmj_CSIY"
+      }
+    ],
+    "briefing-dokument-neuro-ophthalmologische-anatomie-und-bildgebung": [
+      {
+        "title": "Neuro Ophthalmic Anatomy & Imaging | العينية العصبية التشريح والاستقصاءات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Gak4t-ijEcs"
+      }
+    ],
+    "briefing-dokument-neuro-ophthalmologische-anatomie-und-bildgebung-2": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 1 | طب العينية العصبية – الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=yz5GsQMsWFU&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=4&pp=iAQB"
+      },
+      {
+        "title": "Neuro-Ophthalmology Emergency 2 | طب العينية العصبية – الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBHoUQO5iFA&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=5&pp=iAQB"
+      }
+    ],
+    "briefing-dokument-neurologischer-strabismus": [
+      {
+        "title": "Neurological Strabismus | الحَوَل العصبي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=qyDWtwuB2jo"
+      }
+    ],
+    "briefing-dokument-storungen-der-hoheren-visuellen-funktionen": [
+      {
+        "title": "Higher Visual Functions Disorders | اضطرابات الوظائف البصرية العلوية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1dKf1Q7IF8A"
+      }
+    ],
+    "briefing-dokument-visuelle-felduntersuchungen-und-elektrodiagnostische-tests-in-der-neuroophthalmologie": [
+      {
+        "title": "Visual Fields & Electrodiagnostic Tests | الساحة البصرية والاختبارات الكهربائية التشخيصية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1C3tdU7rk8A"
+      },
+      {
+        "title": "VF und Elektro.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-analyse-der-augenlid-pathologien": [
+      {
+        "title": "Kanski made easy - Lid 4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QYVTwqvL96k"
+      }
+    ],
+    "briefing-dokument-analyse-der-ophthalmologischen-vorlesung-kanski-made-easy-lid-1": [
+      {
+        "title": "Kanski made easy - Lid 1",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1iGPbJbeR0s"
+      }
+    ],
+    "briefing-dokument-analyse-von-augenlidlasionen-basierend-auf-der-kanski-lehrmethode": [
+      {
+        "title": "Kanski made easy - Lid 2",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=awkI0X_2DH4"
+      }
+    ],
+    "briefing-anatomie-erkrankungen-und-management-des-tranenapparats": [
+      {
+        "title": "Lacrimal Anatomy, Physiology, Disorders & Management.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-einblicke-in-die-okulofaziale-chirurgie": [
+      {
+        "title": "جراحة تجميل وترميم العين والجفون (Oculofacial Surgery)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-entzundliche-erkrankungen-der-orbita": [
+      {
+        "title": "Orbital Inflammatory & Infectious Disorders P2 | اضطرابات الحجاج – الالتهابات والإنتانات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=2cJ-Fjli1bs"
+      }
+    ],
+    "briefing-dokument-klinische-bewertung-und-management-von-lidfehlstellungen": [
+      {
+        "title": "Kanski made easy - Lid 5",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Af9Aq31pVrw"
+      }
+    ],
+    "briefing-dokument-klinische-einblicke-in-augenlidtumoren-und-deren-management": [
+      {
+        "title": "Kanski made easy - Lid 3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Jv6baHTqYSs"
+      }
+    ],
+    "briefing-dokument-klinische-erkenntnisse-zur-augenlid-ophthalmologie-basierend-auf-der-kanski-made-easy-reihe": [
+      {
+        "title": "Kanski made easy - Lid 1",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1iGPbJbeR0s"
+      },
+      {
+        "title": "Kanski made easy - Lid 2",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=awkI0X_2DH4"
+      },
+      {
+        "title": "Kanski made easy - Lid 3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Jv6baHTqYSs"
+      },
+      {
+        "title": "Kanski made easy - Lid 4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=QYVTwqvL96k"
+      },
+      {
+        "title": "Kanski made easy - Lid 5",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Hend Safwat - Ophthalmology",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Af9Aq31pVrw"
+      }
+    ],
+    "briefing-dokument-lid-erkrankungen-und-lid-lasionen": [
+      {
+        "title": "Eyelid Disorders and Eyelid Lesions.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "studienleitfaden-okulofaziale-anatomie-und-lidfehlstellungen-vorlesungssynthese-und-leitlinienintegration": [
+      {
+        "title": "Screenrecorder-2026-02-01-19-04-18-458-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "studienleitfaden-orbitale-anatomie-und-evaluierung-orbitaler-erkrankungen": [
+      {
+        "title": "Orbital Anatomy and Evaluation of Orbital Disorders | تشريح الحجاج وتقييم اضطراباته",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=uBWk3QbKV1w"
+      }
+    ],
+    "briefing-dokument-orbitale-anatomie-und-evaluierung-orbitaler-erkrankungen": [
+      {
+        "title": "Orbital Anatomy and Evaluation of Orbital Disorders | تشريح الحجاج وتقييم اضطراباته",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=uBWk3QbKV1w"
+      }
+    ],
+    "briefing-dokument-orbitale-erkrankungen-entzundliche-und-infektiose-krankheiten": [
+      {
+        "title": "Orbital Disorders: Inflammatory and Infectious Diseases P1 | اضطرابات الحجاج: الالتهابات والإنتانات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=xfkrzintP4w"
+      }
+    ],
+    "umfassender-lernleitfaden-anatomie-physiologie-und-pathologien-des-tranenapparates": [
+      {
+        "title": "Lacrimal Anatomy, Physiology, Disorders & Management.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-lernleitfaden-chirurgie-und-management-des-anophthalmen-orbitas": [
+      {
+        "title": "The Anophthalmic Socket (1)-mc (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-lernleitfaden-erkrankungen-und-tumoren-der-augenlider": [
+      {
+        "title": "Eyelid Disorders and Eyelid Lesions.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-lernleitfaden-okulofaziale-chirurgie-und-lidpathologien": [
+      {
+        "title": "جراحة تجميل وترميم العين والجفون (Oculofacial Surgery)",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-studienleitfaden-rekonstruktive-lidchirurgie-und-periokulare-tumore": [
+      {
+        "title": "Reconstructive Eyelid Surgery-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-biomarker-und-kunstliche-intelligenz-in-der-retinalen-bildgebung": [
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Biomarker-Bildgebung-bei-DMOE-RVV.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-therapie-und-praxis-bei-makulaodem-ein-update": [
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "treatment-strategies-for-macular-edema-an-update-on-theory-and-practice": [
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-therapie-und-praxis-bei-makulaodem-ein-update-2": [
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.mp4",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Theorie und Praxis bei Makulaödem ein Update.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-management-des-diabetischen-makulaodems": [
+      {
+        "title": "RMC-2025-Update-DMÖ (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Diabetes-und-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-document-pathophysiology-and-advanced-management-of-diabetic-macular-edema": [
+      {
+        "title": "RMC-2025-Update-DMÖ (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Diabetes-und-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-management-des-diabetischen-makulaodems-2": [
+      {
+        "title": "RMC-2025-Update-DMÖ (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Diabetes-und-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-management-des-diabetischen-makulaodems-3": [
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Biomarker-Bildgebung-bei-DMOE-RVV.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-management-des-diabetischen-makulaodems-4": [
+      {
+        "title": "RMC-2025-Update-DMÖ (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Diabetes-und-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "diabetes-und-das-auge-ein-briefing-zu-pathophysiologie-therapie-und-management-des-diabetischen-makulaodems-5": [
+      {
+        "title": "Handout_Diabetes-und-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "RMC-2025-Update-DMÖ (1).pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "facharzt-prufungsleitfaden-die-pneumatische-retinopexie-pr-bei-ablatio-retinae": [
+      {
+        "title": "Pneumatic Retinopexy for Retinal Detachment Repair - Shahem Kawji, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/RKzUQi16Bwc?is=pB1EgDNlIZ5SFm2s"
+      }
+    ],
+    "briefing-dokument-erkenntnisse-aus-der-neuro-ophthalmologie-zu-relevanten-netzhauterkrankungen": [
+      {
+        "title": "Retinal Disease Relevant to Neuro Ophthalmology | أمراض الشبكية المتعلقة بالعينية العصبية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Pdj76L9LSBM"
+      }
+    ],
+    "facharzt-repetitorium-hereditare-netzhauterkrankungen-ird": [
+      {
+        "title": "Common Hereditary Retina Conditions | حالات الشبكية الوراثية الشائعة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/2OFq_YPBLT4?is=MvG-L-u_-Q17qn9j"
+      }
+    ],
+    "facharztrepetitorium-klinische-erkenntnisse-zu-retinalen-und-choroidalen-erkrankungen": [
+      {
+        "title": "Retinal & Choroidal disorders: Clinical insights– Degenerative Myopia - Ammar Safar, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Xk1Vk8-hXrA?is=K5WAESeCoSTeceey"
+      }
+    ],
+    "kompendium-der-retinalen-diagnostik-grundlagen-klinische-korrelationen-und-prufungswissen": [
+      {
+        "title": "Fundamentals of Retina and Diagnostic Approaches of Retinal Diseases – Nabeel Refka, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/-JltgwYLeUw?is=burjCDaFlKszlDzt"
+      }
+    ],
+    "langer-wirksame-medikamente-bei-exsudativen-netzhauterkrankungen-eine-synthese-aktueller-evidenz-und-praktischer-implikationen": [
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klinische-standards-und-prufungswissen": [
+      {
+        "title": "Retinal Detachment and Predisposing Lesions - Tarek Alasil, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/Ngp9vJo13_I?is=NRzTSk1DFN6LgP8V"
+      }
+    ],
+    "management-der-vitreoretinalen-grenzflache-und-netzhautabhebungen-klinische-standards-und-prufungswissen-2": [
+      {
+        "title": "Vitreous Abnormality & Retinal Detachment",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/ipqGU1d-_lY?is=7DxJUjZnOxvqwgk5"
+      }
+    ],
+    "umfassender-leitfaden-medikamenteninduzierte-retinale-toxizitat": [
+      {
+        "title": "Drug Induced Retinal Toxicity | انسمام الشبكية الدوائي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/6vTf-BThEMw?si=JgS7BXdpyWgDdVVd"
+      }
+    ],
+    "briefing-dokument-optic-pit-makulopathie": [
+      {
+        "title": "Optic Pit Macuopathy | اعتلال اللطخة الناجم عن حفرة العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=SzxB5SzD6lg&list=PLH9mxJ7llmPDspWJKPRIUcI85x0YlgwxB&index=2"
+      }
+    ],
+    "optikuspapillengrube-makulopathie-operieren-oder-beobachten": [
+      {
+        "title": "Optic Pit Macuopathy | اعتلال اللطخة الناجم عن حفرة العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=SzxB5SzD6lg"
+      },
+      {
+        "title": "ODP_OCR.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "optic-pit-makulopathie-ein-briefing-dokument": [
+      {
+        "title": "Optic Pit Macuopathy | اعتلال اللطخة الناجم عن حفرة العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=SzxB5SzD6lg"
+      }
+    ],
+    "facharztlicher-studienleitfaden-die-grubenpapille-und-assoziierte-makulopathie-optic-pit-maculopathy": [
+      {
+        "title": "Optic Pit Macuopathy | اعتلال اللطخة الناجم عن حفرة العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/SzxB5SzD6lg?si=ITvB_J--VDlTyZUe"
+      }
+    ],
+    "briefing-dokument-optic-pit-makulopathie-2": [
+      {
+        "title": "Optic Pit Macuopathy | اعتلال اللطخة الناجم عن حفرة العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=SzxB5SzD6lg"
+      }
+    ],
+    "briefing-dokument-retinale-gefa-erkrankungen": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      }
+    ],
+    "studienleitfaden-retinale-gefa-erkrankungen": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      }
+    ],
+    "umfassender-leitfaden-retinale-vaskulare-verschlusse-fur-die-facharztprufung-augenheilkunde": [
+      {
+        "title": "Retinal Vascular Diseases (RVO/RAO) - Abdallah Mahrous, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/pezOPLtW4Dk?is=pFyyRJZzF5q90Vn6"
+      }
+    ],
+    "studienleitfaden-zur-retinalen-gefa-erkrankung-eine-synthese-der-expertenvorlesung": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      }
+    ],
+    "facharzt-prufungsleitfaden-systemische-netzhautdegenerationen-und-syndromale-irds": [
+      {
+        "title": "Retinal Degenerations Associated With Systemic Disease - Ahmad Al-Moujahed, MD, PhD, MPH",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/k9k8O42TPfg?is=D4pkozuAjreaK39_"
+      }
+    ],
+    "umfassender-leitfaden-zur-altersbedingten-makuladegeneration-amd-fur-die-facharztprufung": [
+      {
+        "title": "Age-Related Macular Degeneration and Causes of Choroidal Neovascular Membranes - Yousef Aldairy, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/TaHZr3DfRzI?is=8OxaHbvW9-dG1-dE"
+      }
+    ],
+    "umfassender-leitfaden-zur-altersbedingten-makuladegeneration-amd-fur-die-facharztprufung-2": [
+      {
+        "title": "So01_Liakopoulos-DOG Update 2025.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "umfassender-leitfaden-zur-facharztprufung-erkrankungen-des-glaskorpers-der-vitreoretinalen-grenzflache-und-medikamenteninduzierte-retinotoxizitat": [
+      {
+        "title": "Diseases of the Vitreous and Vitreoretinal Interface&Drug Induced Retinal Toxicity Osama Sabbagh, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/JGxgamKJMcs?is=ojIp4WG-AS_fdHzV"
+      }
+    ],
+    "umfassender-leitfaden-zur-facharztprufung-sichelzell-retinopathie-und-zystoides-makulaodem-zmo": [
+      {
+        "title": "Sickle Cell Retinopathy & Cystoid Macular Oedema",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/t-fqtpcCjME?is=CBNWnrnx6N43pOe3"
+      }
+    ],
+    "umfassender-leitfaden-zur-okularen-onkologie-retinoblastom-uveales-melanom-und-differentialdiagnosen": [
+      {
+        "title": "Ocular Oncology  Retinoblastoma, Uveal Melanoma, and Choroidal Nevi - Musa Abdelaziz, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/W-U3Onx2vSQ?is=PUnH0nr5ID6TBPlu"
+      }
+    ],
+    "umfassender-leitfaden-zur-vitreoretinalen-chirurgie-und-lasertherapie-prufungsvorbereitung-facharzt-wbo": [
+      {
+        "title": "Vitreoretinal Surgeries and Laser - Marwan Abdulaal, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/UbK4xvNp_sw?is=Ih3H92GZDAAVFbyL"
+      }
+    ],
+    "umfassender-lernleitfaden-pars-plana-vitrektomie-ppv-und-vitreoretinale-chirurgie-fur-die-facharztprufung": [
+      {
+        "title": "Intro to Pars Plana Vitrectomy & Retina Treatments | مدخل في قطع الزجاجي ومعالجات الشبكية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/jpObY2Iyv5c?si=Gjy3ladaPWrllRLI"
+      }
+    ],
+    "umfassender-lernleitfaden-vitreoretinale-chirurgie-und-lasertherapie-fur-die-facharztprufung": [
+      {
+        "title": "Vitreoretinal Surgeries and Laser - Marwan Abdulaal, MD",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/UbK4xvNp_sw?is=Ih3H92GZDAAVFbyL"
+      }
+    ],
+    "umfassender-studienleitfaden-altersbedingte-makuladegeneration-amd-von-den-grundlagen-bis-zur-kunstlichen-intelligenz": [
+      {
+        "title": "Age Related Macular Degeneration  From A to AI | استحالة اللطخة المتعلقة بالعمر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/C1gNDNHvT64?si=B0VL_K4ly34fvQLb"
+      }
+    ],
+    "umfassender-studienleitfaden-diabetische-retinopathie-und-diabetisches-makulaodem": [
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      }
+    ],
+    "studienleitfaden-diabetische-retinopathie-und-diabetisches-makulaodem": [
+      {
+        "title": "Diabetic Retinopathy | اعتلال الشبكية السكري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/AvVsyCHzw1U?si=K9wJlDWwy6fn7KoK"
+      }
+    ],
+    "umfassender-studienleitfaden-glaskorperanomalien-und-netzhautablosung": [
+      {
+        "title": "Vitreous Abnormality & Retinal Detachment",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/ipqGU1d-_lY?is=7DxJUjZnOxvqwgk5"
+      }
+    ],
+    "umfassender-studienleitfaden-hereditare-netzhaut-und-aderhautdystrophien-ird-fur-die-facharztprufung": [
+      {
+        "title": "Hereditary Retina and Choroidal Diseases - Ahmad Al-Moujahed, MD, PhD, MPH",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "SAMS Education Committee",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/H4YPwNsDRkg?is=Kb376VkZ2i6Buz8d"
+      }
+    ],
+    "umfassender-studienleitfaden-morbus-coats-maculare-teleangiektasien-und-phakomatosen": [
+      {
+        "title": "Coats Disease, Macular Telangiectasia, Phakomatosis | داء كوتس، توسع الشعيرات والفيكوماتوز",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/YkGtX6rDTuI?si=_gpWNYidvrgQ1i2G"
+      }
+    ],
+    "umfassender-studienleitfaden-morbus-coats-makulare-telangiektasien-und-phakomatosen": [
+      {
+        "title": "Coats Disease, Macular Telangiectasia, Phakomatosis | داء كوتس، توسع الشعيرات والفيكوماتوز",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/YkGtX6rDTuI?si=a8ZYXhrGQcZzqux7"
+      }
+    ],
+    "umfassender-studienleitfaden-padiatrische-intraokulare-tumoren-retinoblastom-medulloepitheliom": [
+      {
+        "title": "Pediatric Ocular Tumours |  أورام المقلة عند الأطفال",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/LR1XPyLvaCs?is=SL1sNl5h-Xg4mzge"
+      }
+    ],
+    "umfassender-studienleitfaden-retinale-gefa-erkrankungen": [
+      {
+        "title": "Retinal Vascular Disease RVO, Hypertention & Artery Occlusion | أمراض الشبكية الوعائية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/fQROB1EvcXE?si=-OsWXuOQUbv8xlbT"
+      }
+    ],
+    "briefing-dokument-angeborene-anomalien-des-sehnervs": [
+      {
+        "title": "Optic Nerve Abnormalities | تشوّهات العصب البصري",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=6GhPCpDesEI"
+      }
+    ],
+    "briefing-monofixationssyndrom-und-mikrotropie-eine-vergleichende-analyse": [
+      {
+        "title": "المتلازمة أحادية التثبيت والحَوَل الجزئي: مقارنة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Generierter Forschungsbericht",
+        "accessedAt": "2026-09-14",
+        "sourceType": "generated_research",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-chirurgie-der-au-eren-augenmuskeln": [
+      {
+        "title": "Surgery of the Extraocular Muscles (EOM) | جراحة العضلات خارج المقلة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=YHybE-G0ZTc"
+      }
+    ],
+    "briefing-dokument-exodeviation-au-enschielen": [
+      {
+        "title": "Exodeviation | الحَوَل الوحشي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=cVYDDxj94p4"
+      }
+    ],
+    "briefing-dokument-grundlagen-des-strabismus": [
+      {
+        "title": "Strabismus Basics | أساسيات الحَوَل",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=gOXCePI-GQk"
+      }
+    ],
+    "briefing-dokument-kernkonzepte-und-management-der-amblyopie": [
+      {
+        "title": "Amblyopia | الغَطَش",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=hDPPzINf9Gw"
+      }
+    ],
+    "briefing-dokument-okulare-manifestationen-systemischer-erkrankungen": [
+      {
+        "title": "Ocular Manifestations of Systemic Disease | التظاهرات العينية للأمراض الجهازية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=BqWSj9f7o14"
+      }
+    ],
+    "briefing-dokument-padiatrische-esotropie": [
+      {
+        "title": "Paediatric Esotropia | الحَوَل الأنسي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=aG7fAslBCvo"
+      }
+    ],
+    "neuro-ophthalmic-anatomy-and-imaging-a-comprehensive-briefing": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 1 | طب العينية العصبية – الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=yz5GsQMsWFU&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=4&pp=iAQB"
+      },
+      {
+        "title": "Neuro-Ophthalmology Emergency 2 | طب العينية العصبية – الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBHoUQO5iFA&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=5&pp=iAQB"
+      }
+    ],
+    "neuro-ophthalmologische-anatomie-und-bildgebung": [
+      {
+        "title": "Neuro Ophthalmic Anatomy & Imaging | العينية العصبية التشريح والاستقصاءات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Gak4t-ijEcs"
+      }
+    ],
+    "neuro-ophthalmologische-anatomie-und-bildgebung-2": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 1 | طب العينية العصبية – الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=yz5GsQMsWFU&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=4&pp=iAQB"
+      },
+      {
+        "title": "Neuro-Ophthalmology Emergency 2 | طب العينية العصبية – الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBHoUQO5iFA&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=5&pp=iAQB"
+      }
+    ],
+    "neuro-ophthalmologische-anatomie-und-bildgebung-3": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 1 | طب العينية العصبية – الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=yz5GsQMsWFU&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=4&pp=iAQB"
+      },
+      {
+        "title": "Neuro-Ophthalmology Emergency 2 | طب العينية العصبية – الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBHoUQO5iFA&list=PLH9mxJ7llmPDA-PtA8gMJ5hppvEydqTZz&index=5&pp=iAQB"
+      }
+    ],
+    "visual-field-analysis-and-electrodiagnostic-testing-in-neuro-ophthalmology": [
+      {
+        "title": "Visual Fields & Electrodiagnostic Tests | الساحة البصرية والاختبارات الكهربائية التشخيصية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1C3tdU7rk8A"
+      },
+      {
+        "title": "VF und Elektro.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "neuro-ophthalmologie-gesichtsfeld-und-elektrophysiologische-diagnostik": [
+      {
+        "title": "Visual Fields & Electrodiagnostic Tests | الساحة البصرية والاختبارات الكهربائية التشخيصية",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=1C3tdU7rk8A"
+      },
+      {
+        "title": "VF und Elektro.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "oct-in-der-neuro-ophthalmologie-rnfl-gcipl-und-lasionslokalisation": [
+      {
+        "title": "Neuro Ophthalmic Anatomy & Imaging | العينية العصبية التشريح والاستقصاءات",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=Gak4t-ijEcs"
+      }
+    ],
+    "sehverlust-systematisch-abklaren-anamnese-rapd-und-gesichtsfeld": [
+      {
+        "title": "Assessment of Visual Loss Patient | تقييم مريض فقدان البصر",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=esF1xt0RhoY"
+      },
+      {
+        "title": "folien_ocr.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "sehverlust-systematisch-abklaren-anamnese-rapd-und-gesichtsfeld-2": [
+      {
+        "title": "Systematic Review 2.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "neuro-ophthalmologische-notfalle-papillenodem-optikusneuritis-und-anisokorie": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 2 | طب العينية العصبية – الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBHoUQO5iFA"
+      }
+    ],
+    "neuro-ophthalmologische-notfalle-papillenodem-optikusneuritis-und-anisokorie-2": [
+      {
+        "title": "Neuro-Ophthalmology Emergency 1 | طب العينية العصبية – الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=yz5GsQMsWFU"
+      }
+    ],
+    "retinal-revolution-biomarkers-and-artificial-intelligence-in-ophthalmic-imaging": [
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Retinale Revolution Aktuelle Entwicklungen rund um Biomarker und.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Handout_Biomarker-Bildgebung-bei-DMOE-RVV.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-on-longer-acting-medications-for-exudative-retinal-diseases": [
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "langwirksame-anti-vegf-therapie-bei-exsudativen-netzhauterkrankungen": [
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "langwirksame-anti-vegf-therapie-bei-exsudativen-netzhauterkrankungen-2": [
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen1.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Länger wirksame Medikamente bei exsudativen Netzhauterkrankungen.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "kindliches-glaukom-diagnostische-herausforderungen-und-sichere-abklarung": [
+      {
+        "title": "Glaukoma Kinder.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "Glaukoma Kinder.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "offenwinkelglaukom-adharenz-nebenwirkungen-und-therapievereinfachung": [
+      {
+        "title": "4479_Glaukom_CME_WEB.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "glaukomtherapie-konservierungsmittel-augenoberflache-und-operationsrisiko": [
+      {
+        "title": "Screenrecorder-2026-03-26-19-56-56-244-mc.mp3",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "glaukomtherapie-konservierungsmittel-augenoberflache-und-operationsrisiko-2": [
+      {
+        "title": "Antientzuendliche-Therapie-beim-Trockenen-Auge.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "kinderstrabismus-untersuchung-messung-und-therapieplanung": [
+      {
+        "title": "Strabismus Basics | أساسيات الحَوَل",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=gOXCePI-GQk"
+      }
+    ],
+    "facharzt-prufungsleitfaden-katarakt-chirurgie-bei-uveitis-patienten": [
+      {
+        "title": "Cataract Surgery in Uveitic Eyes | التهاب العنبة: جراحة الساد في العيون المصابة بالتهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=flDfI13963A&list=PLH9mxJ7llmPD5gO1GI8V2pdVPnFD-QIi1&index=5&pp=iAQB"
+      }
+    ],
+    "bildgebende-verfahren-in-der-uveitis-ein-umfassender-studienleitfaden": [
+      {
+        "title": "Imaging In Uveitis | الاستقصاءات المتممة التصويرية في التهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/85uEPVeSsZE?si=TNP15SfbNsq8zH90"
+      }
+    ],
+    "briefing-dokument-eine-einfuhrung-in-die-uveitis": [
+      {
+        "title": "Introduction to Uveitis | مدخل إلى التهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=mpvAwNOrteA"
+      }
+    ],
+    "briefing-dokument-evaluierung-und-abklarung-von-uveitis": [
+      {
+        "title": "Uveitis Evaluation and Work Up | تقييم التهاب العنبة واستقصاءاته",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=b7IIJVM-32E&list=PLH9mxJ7llmPAU7-f6dp2nPboaqzD8J4Ye&index=11&pp=iAQB"
+      }
+    ],
+    "briefing-dokument-evaluierung-und-abklarung-von-uveitis-2": [
+      {
+        "title": "Uveitis Evaluation and Work Up | تقييم التهاب العنبة واستقصاءاته",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=b7IIJVM-32E&list=PLH9mxJ7llmPAU7-f6dp2nPboaqzD8J4Ye&index=11&pp=iAQB"
+      }
+    ],
+    "briefing-dokument-evaluierung-und-untersuchung-von-uveitis": [
+      {
+        "title": "Uveitis Evaluation and Work Up | تقييم التهاب العنبة واستقصاءاته",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=b7IIJVM-32E&list=PLH9mxJ7llmPAU7-f6dp2nPboaqzD8J4Ye&index=11&pp=iAQB"
+      }
+    ],
+    "leitfaden-zur-uveitis-diagnose-bildgebung-und-behandlungsstrategien": [
+      {
+        "title": "Imaging In Uveitis | الاستقصاءات المتممة التصويرية في التهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/85uEPVeSsZE?si=TNP15SfbNsq8zH90"
+      },
+      {
+        "title": "Introduction to Uveitis | مدخل إلى التهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=mpvAwNOrteA"
+      },
+      {
+        "title": "Treatment, Guidelines and Step Ladder Approach | التهاب العنبة، دليل الممارسة، وترتيب خطوات المقاربة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/g21Sqsb9ZzU?si=gbrasObS9vd9CD6j"
+      }
+    ],
+    "lernleitfaden-zur-uveitis-eine-umfassende-synthese": [
+      {
+        "title": "Introduction to Uveitis | مدخل إلى التهاب العنبة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=mpvAwNOrteA"
+      }
+    ],
+    "briefing-dokument-klinisch-pathologische-analyse-der-nicht-infektiosen-chorioiditis-und-die-dekonstruktion-der-white-dot-syndrome": [
+      {
+        "title": "Clinicopathology of non-infectious choroiditis: evolution of its appraisal during the last 2–3 decades from “white dot syndromes” to precise classification - PMC",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "pmc.ncbi.nlm.nih.gov",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8599546/"
+      },
+      {
+        "title": "“White dot syndromes”, an inappropriate and outdated misnomer | International Ophthalmology",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "link.springer.com",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://link.springer.com/article/10.1007/s10792-021-02121-4"
+      },
+      {
+        "title": "Posterior Uveitis (Part 3)  White Dot Syndromes | التهاب العنبة الخلفي الجزء الثالث",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/DkwNDyY5PWA?si=HkUcvjr4n1Ynfaqm"
+      }
+    ],
+    "briefing-dokument-analyse-der-posterioren-uveitis-morbus-behcet-vkh-syndrom-und-sarkoidose": [
+      {
+        "title": "Posterior Uveitis (Part 1)  Behçet's Disease, VKH and Sarcoidosis | التهاب العنبة الخلفي الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=3BhVP-JvNjE"
+      }
+    ],
+    "white-dot-syndrome-und-der-moderne-ansatz-zur-posterioren-uveitis-ein-umfassender-leitfaden": [
+      {
+        "title": "Posterior Uveitis (Part 3)  White Dot Syndromes | التهاب العنبة الخلفي الجزء الثالث",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/DkwNDyY5PWA?si=HkUcvjr4n1Ynfaqm"
+      }
+    ],
+    "studienleitfaden-infektiose-uveitis": [
+      {
+        "title": "Infectious Uveitis | التهاب العنبة الإنتاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/rje3jegRGhM?si=X4eEHkcZH9_Lkyh-"
+      }
+    ],
+    "kompendium-der-dog-leitlinien-uveitis-und-endophthalmitis-fur-die-facharztprufung": [
+      {
+        "title": "Leitlinien: Uveitis/Endophthalmitis – DOG.org",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "dog.org",
+        "accessedAt": "2026-09-14",
+        "sourceType": "website",
+        "url": "https://dog.org/kategorie/fuer-aerzte/leitlinien-stellungnahmen-empfehlungen/uveitis-endophthalmitis/leitlinien-uveitis-endophthalmitis"
+      }
+    ],
+    "briefing-dokument-posteriore-uveitis-vaskulitis-endophthalmitis": [
+      {
+        "title": "Posterior Uveitis (Part 2) Vasculitis, & Endophthalmitis | التهاب العنبة الخلفي الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/8IMjwC9bHbw?si=Zym-ppkpjaVrGZsl"
+      }
+    ],
+    "studienfuhrer-notfalle-in-der-uveitis-eine-synthese-der-vorlesung-von-dr-hassan-al-dhibi": [
+      {
+        "title": "Uveitis Emergency | التهاب العنبة الإسعافي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=-oWcMPp7kmw&list=PLH9mxJ7llmPAU7-f6dp2nPboaqzD8J4Ye&index=1&pp=iAQB"
+      }
+    ],
+    "briefing-dokument-primares-intraokulares-lymphom-klinische-einblicke-und-fallstudien": [
+      {
+        "title": "masqard Syn",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Videodatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "video_file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      },
+      {
+        "title": "masqard Syn Folie",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-padiatrische-uveitis-klinische-einblicke-und-fallstudien": [
+      {
+        "title": "Paediatric Uveitis – Case-Based Discussion Pt1 | التهابات العنبة عند الأطفال الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=78pMkZ_lw1U"
+      },
+      {
+        "title": "uveitis_Kindern.pdf",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Lokale Quelldatei",
+        "accessedAt": "2026-09-14",
+        "sourceType": "file",
+        "missingReason": "Die Original-URL wurde im lokalen Quellenexport nicht erfasst."
+      }
+    ],
+    "briefing-dokument-padiatrische-uveitis-analyse-und-fallstudien": [
+      {
+        "title": "Paediatric Uveitis – Case-Based Discussion Pt1 | التهابات العنبة عند الأطفال الجزء الأول",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=78pMkZ_lw1U"
+      }
+    ],
+    "briefing-dokument-padiatrische-uveitis-diagnose-management-und-multidisziplinare-ansatze": [
+      {
+        "title": "Paediatric Uveitis Part 2 – Case-Based Discussion | التهابات العنبة عند الأطفال الجزء الثاني",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=vXVVj6AiETQ"
+      }
+    ],
+    "umfassender-studienleitfaden-padiatrische-uveitis-und-uveitis-maskeraden-syndrome": [
+      {
+        "title": "Pediatric Uveitis, Uveitis Masquerades | التهاب العنبة عند الأطفال والتهاب العنبة المُقنَّع",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/xRX0ZlMV8r8?si=SjOXJNfmrkaIbw77"
+      }
+    ],
+    "leitfaden-zur-uveitis-anterior-beurteilung-management-und-nachsorge": [
+      {
+        "title": "Anterior Uveitis Assessment, Management and Follow Up | التهاب العنبة الأمامي",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=5Fe6TPQyMIg&list=PLH9mxJ7llmPAU7-f6dp2nPboaqzD8J4Ye&index=8&pp=iAQB"
+      }
+    ],
+    "behandlungsrichtlinien-und-der-step-ladder-ansatz-bei-uveitis": [
+      {
+        "title": "Treatment, Guidelines and Step Ladder Approach | التهاب العنبة، دليل الممارسة، وترتيب خطوات المقاربة",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://youtu.be/g21Sqsb9ZzU?si=gbrasObS9vd9CD6j"
+      }
+    ],
+    "uveitis-intermedia-eine-umfassende-analyse": [
+      {
+        "title": "Intermediate Uveitis | التهابات العنبة المتوسط",
+        "authorOrLecturerMissingReason": "In den vorhandenen Quelldaten nicht ausgewiesen.",
+        "publisherOrChannel": "Syrian Ophthalmologists Initiative",
+        "accessedAt": "2026-09-14",
+        "sourceType": "youtube",
+        "url": "https://www.youtube.com/watch?v=zwCqHwmhSQo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mohammad-askar-knowledge",
+  "version": "1.0.0",
+  "description": "Multilingual professional profile and ophthalmology knowledge base by Mohammad Askar.",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/private/tmp/mohammad-askar-knowledge-plan"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+}

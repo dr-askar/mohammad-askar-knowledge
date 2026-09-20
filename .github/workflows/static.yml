@@ -1,43 +1,33 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+# Build-only workflow for reviewing a release artifact before controlled sync.
+name: Build reviewable release artifact
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  # Building a release artifact is an explicit human action. Publication occurs
+  # only after the artifact is reviewed and synchronized to the public repo.
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Avoid overlapping release builds.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build-release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/checkout@v6
+      - name: Build clean release artifact
+        run: node tools/build-release.mjs --publish
+      - name: Validate release artifact
+        run: node tools/validate-release.mjs
+      - name: Upload reviewable artifact
+        uses: actions/upload-artifact@v4
         with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+          name: knowledge-site
+          path: './_site'
+          if-no-files-found: error
+          retention-days: 14
