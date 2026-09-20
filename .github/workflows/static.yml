@@ -1,13 +1,15 @@
-# Build-only workflow for reviewing a release artifact before controlled sync.
-name: Build reviewable release artifact
+# Publish the static website to GitHub Pages.
+name: Deploy static content to Pages
 
 on:
-  # Building a release artifact is an explicit human action. Publication occurs
-  # only after the artifact is reviewed and synchronized to the public repo.
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 # Avoid overlapping release builds.
 concurrency:
@@ -15,19 +17,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-release:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Build clean release artifact
-        run: node tools/build-release.mjs --publish
-      - name: Validate release artifact
-        run: node tools/validate-release.mjs
-      - name: Upload reviewable artifact
-        uses: actions/upload-artifact@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: knowledge-site
-          path: './_site'
+          path: './'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
           if-no-files-found: error
           retention-days: 14
