@@ -1,5 +1,9 @@
 # AGENTS.md — Project Instructions
 
+## Current owner instruction — 2026-11-06
+
+The owner requested one current website, without differing legacy content. This repository is a historical source archive. Its GitHub Pages workflow must publish only generated redirects to https://mohammad-askar-astro.pages.dev/ , preserving matching topic/language paths. Keep archived source files intact; do not resume medical content editing here. This supersedes the historical architecture/publishing instructions below. Redirect-only maintenance and verification are authorized; future content work belongs to the current website.
+
 ## Project purpose
 
 This repository contains the public multilingual professional website and ophthalmology knowledge base of **Mohammad Askar**. The site should present his clinical background, research, publications, and evidence-based learning notes in a clear, credible, and accessible form.

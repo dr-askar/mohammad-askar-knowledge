@@ -46,3 +46,8 @@ Certificate scans, home address, date of birth, nationality, and other sensitive
 ## Medical disclaimer
 
 Educational content only. It does not replace individual medical assessment or treatment. Source attribution does not imply endorsement, cooperation or recommendation.
+# Current website
+
+The only current website is https://mohammad-askar-astro.pages.dev/ . The owner requested one current version on 2026-11-06. This repository retains its historical source files, but GitHub Pages publishes only generated redirect pages. Existing chapter paths lead to the matching current topic/language; the shortened `/ophthalmology/` path also leads to the current library.
+
+`node tools/test-redirects.mjs` checks path/language/query/fragment mapping and the fixed destination origin. `node tools/build-redirects.mjs _redirect_site` builds a fresh redirect-only artifact from tracked HTML routes. The workflow uploads only that directory; it never uploads archived source content, tools or repository documents. JavaScript preserves query and fragment; immediate HTML refresh and a visible link provide a no-JavaScript fallback. The source archive is not a build input for the current website.
