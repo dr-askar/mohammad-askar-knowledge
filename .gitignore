@@ -2,3 +2,5 @@
 .sites-runtime/
 node_modules/
 _site/
+_redirect_site/
+_redirect_site_final/

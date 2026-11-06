@@ -1,9 +1,10 @@
-# Publish the static website to GitHub Pages.
-name: Deploy static content to Pages
+# Legacy address serves redirects only. Current content lives on Cloudflare.
+name: Deploy redirects to current website
 
 on:
   push:
     branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -17,7 +18,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tools/test-redirects.mjs
+      - run: node tools/build-redirects.mjs _redirect_site
   deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -25,12 +37,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build redirect-only artifact
+        run: node tools/build-redirects.mjs _redirect_site
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
         uses: actions/upload-pages-artifact@v4
         with:
-          path: './'
+          path: '_redirect_site'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
